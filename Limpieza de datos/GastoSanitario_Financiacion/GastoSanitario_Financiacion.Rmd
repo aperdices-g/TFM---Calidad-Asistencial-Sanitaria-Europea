@@ -34,7 +34,40 @@ nrow(gasto_f) #Número de registros
 ncol(gasto_f) #Número de variables
 ```
 
-* Eliminamos la columna de Fal.and.footnotes.
+*Observamos las siguientes variables:
+
+  * **TIME**: variable cuantitativa. Indica el año en el que se ha realizado la medida, en este caso el valor de la variable "Value". Se ha cargado bien como número entero.
+  * **GEO**: variable cualitativa. Indica el país o región en el que se ha realizado la medida.Se ha cargado bien como factor.
+  * **UNIT**: variable cualitativa. Indica la medida de la variable valor.Se ha cargado bien como factor.
+  * **ICHA11_HF**: variable cualitativa. Indica el organismo que financia la sanidad, ya sea gubernamental o por seguros privados etc..
+  * **Value**: Variable cuantitativa. Indica el valor en Millones de Euros de esta financiación.Se ha cargado mal como factor. Haremos la transformación a valor numérico.
+  * **Fal.and.footnotes**. Notas sobre etiquetas. Eliminamos esta columna.
+
+*Años de las mediciones:
+
+```{r}
+unique(gasto_f$TIME)
+```
+
+*Paises:
+
+```{r}
+unique(gasto_f$GEO)
+```
+
+*Unidad de las mediciones:
+
+```{r}
+unique(gasto_f$UNIT)
+```
+
+*Variable que indica cómo se financia el gasto sanitario
+
+```{r}
+unique(gasto_f$ICHA11_HF)
+```
+
+* Eliminamos la columna Fal.and.footnotes.
 
 ```{r}
 gasto_f<-gasto_f[,-6]
