@@ -1,0 +1,1601 @@
+"TIME","GEO","UNIT","WSTATUS","ISCO08","Value","Value_imp"
+2010,"European Union - 27 countries (from 2020)","Number","Practising","Medical doctors",31815,TRUE
+2010,"European Union - 27 countries (from 2020)","Number","Practising","Dentists",7263,TRUE
+2010,"European Union - 27 countries (from 2020)","Number","Practising","Pharmacists",6061,TRUE
+2010,"European Union - 27 countries (from 2020)","Number","Practising","Physiotherapists",12629,TRUE
+2010,"European Union - 28 countries (2013-2020)","Number","Practising","Medical doctors",31815,TRUE
+2010,"European Union - 28 countries (2013-2020)","Number","Practising","Dentists",7263,TRUE
+2010,"European Union - 28 countries (2013-2020)","Number","Practising","Pharmacists",6061,TRUE
+2010,"European Union - 28 countries (2013-2020)","Number","Practising","Physiotherapists",12629,TRUE
+2010,"Belgium","Number","Practising","Medical doctors",31815,FALSE
+2010,"Belgium","Number","Practising","Dentists",7675,FALSE
+2010,"Belgium","Number","Practising","Pharmacists",12629,FALSE
+2010,"Belgium","Number","Practising","Physiotherapists",12629,TRUE
+2010,"Bulgaria","Number","Practising","Medical doctors",27963,FALSE
+2010,"Bulgaria","Number","Practising","Dentists",6389,FALSE
+2010,"Bulgaria","Number","Practising","Pharmacists",12629,TRUE
+2010,"Bulgaria","Number","Practising","Physiotherapists",27963,TRUE
+2010,"Czechia","Number","Practising","Medical doctors",37661,FALSE
+2010,"Czechia","Number","Practising","Dentists",7263,FALSE
+2010,"Czechia","Number","Practising","Pharmacists",6061,FALSE
+2010,"Czechia","Number","Practising","Physiotherapists",7263,TRUE
+2010,"Denmark","Number","Practising","Medical doctors",20670,FALSE
+2010,"Denmark","Number","Practising","Dentists",4544,FALSE
+2010,"Denmark","Number","Practising","Pharmacists",2628,FALSE
+2010,"Denmark","Number","Practising","Physiotherapists",4544,TRUE
+2010,"Germany (until 1990 former territory of the FRG)","Number","Practising","Medical doctors",303645,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","Practising","Dentists",66427,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","Practising","Pharmacists",50604,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","Practising","Physiotherapists",66427,TRUE
+2010,"Estonia","Number","Practising","Medical doctors",4319,FALSE
+2010,"Estonia","Number","Practising","Dentists",1198,FALSE
+2010,"Estonia","Number","Practising","Pharmacists",842,FALSE
+2010,"Estonia","Number","Practising","Physiotherapists",1198,TRUE
+2010,"Ireland","Number","Practising","Medical doctors",12367,TRUE
+2010,"Ireland","Number","Practising","Dentists",7263,TRUE
+2010,"Ireland","Number","Practising","Pharmacists",6061,TRUE
+2010,"Ireland","Number","Practising","Physiotherapists",12367,TRUE
+2010,"Greece","Number","Practising","Medical doctors",31815,TRUE
+2010,"Greece","Number","Practising","Dentists",7263,TRUE
+2010,"Greece","Number","Practising","Pharmacists",6061,TRUE
+2010,"Greece","Number","Practising","Physiotherapists",12629,TRUE
+2010,"Spain","Number","Practising","Medical doctors",175033,FALSE
+2010,"Spain","Number","Practising","Dentists",7263,TRUE
+2010,"Spain","Number","Practising","Pharmacists",43000,FALSE
+2010,"Spain","Number","Practising","Physiotherapists",175033,TRUE
+2010,"France","Number","Practising","Medical doctors",196767,FALSE
+2010,"France","Number","Practising","Dentists",41740,TRUE
+2010,"France","Number","Practising","Pharmacists",69520,TRUE
+2010,"France","Number","Practising","Physiotherapists",196767,TRUE
+2010,"France (metropolitan)","Number","Practising","Medical doctors",31815,TRUE
+2010,"France (metropolitan)","Number","Practising","Dentists",7263,TRUE
+2010,"France (metropolitan)","Number","Practising","Pharmacists",6061,TRUE
+2010,"France (metropolitan)","Number","Practising","Physiotherapists",12629,TRUE
+2010,"Croatia","Number","Practising","Medical doctors",12304,FALSE
+2010,"Croatia","Number","Practising","Dentists",3158,FALSE
+2010,"Croatia","Number","Practising","Pharmacists",2851,FALSE
+2010,"Croatia","Number","Practising","Physiotherapists",3158,TRUE
+2010,"Italy","Number","Practising","Medical doctors",226384,FALSE
+2010,"Italy","Number","Practising","Dentists",47604,TRUE
+2010,"Italy","Number","Practising","Pharmacists",69939,TRUE
+2010,"Italy","Number","Practising","Physiotherapists",230621,TRUE
+2010,"Cyprus","Number","Practising","Medical doctors",2399,FALSE
+2010,"Cyprus","Number","Practising","Dentists",772,FALSE
+2010,"Cyprus","Number","Practising","Pharmacists",181,FALSE
+2010,"Cyprus","Number","Practising","Physiotherapists",772,TRUE
+2010,"Latvia","Number","Practising","Medical doctors",6517,FALSE
+2010,"Latvia","Number","Practising","Dentists",1488,FALSE
+2010,"Latvia","Number","Practising","Pharmacists",1433,FALSE
+2010,"Latvia","Number","Practising","Physiotherapists",1488,TRUE
+2010,"Lithuania","Number","Practising","Medical doctors",12226,FALSE
+2010,"Lithuania","Number","Practising","Dentists",2456,FALSE
+2010,"Lithuania","Number","Practising","Pharmacists",2880,TRUE
+2010,"Lithuania","Number","Practising","Physiotherapists",12226,TRUE
+2010,"Luxembourg","Number","Practising","Medical doctors",1404,FALSE
+2010,"Luxembourg","Number","Practising","Dentists",422,FALSE
+2010,"Luxembourg","Number","Practising","Pharmacists",374,FALSE
+2010,"Luxembourg","Number","Practising","Physiotherapists",422,TRUE
+2010,"Hungary","Number","Practising","Medical doctors",28686,FALSE
+2010,"Hungary","Number","Practising","Dentists",5257,FALSE
+2010,"Hungary","Number","Practising","Pharmacists",5821,FALSE
+2010,"Hungary","Number","Practising","Physiotherapists",5821,TRUE
+2010,"Malta","Number","Practising","Medical doctors",1279,FALSE
+2010,"Malta","Number","Practising","Dentists",184,FALSE
+2010,"Malta","Number","Practising","Pharmacists",301,FALSE
+2010,"Malta","Number","Practising","Physiotherapists",301,TRUE
+2010,"Netherlands","Number","Practising","Medical doctors",59144,TRUE
+2010,"Netherlands","Number","Practising","Dentists",7840,FALSE
+2010,"Netherlands","Number","Practising","Pharmacists",3308,FALSE
+2010,"Netherlands","Number","Practising","Physiotherapists",7840,TRUE
+2010,"Austria","Number","Practising","Medical doctors",40105,FALSE
+2010,"Austria","Number","Practising","Dentists",4685,FALSE
+2010,"Austria","Number","Practising","Pharmacists",5579,FALSE
+2010,"Austria","Number","Practising","Physiotherapists",5579,TRUE
+2010,"Poland","Number","Practising","Medical doctors",83201,FALSE
+2010,"Poland","Number","Practising","Dentists",12549,FALSE
+2010,"Poland","Number","Practising","Pharmacists",25203,FALSE
+2010,"Poland","Number","Practising","Physiotherapists",25203,TRUE
+2010,"Portugal","Number","Practising","Medical doctors",31815,TRUE
+2010,"Portugal","Number","Practising","Dentists",7263,TRUE
+2010,"Portugal","Number","Practising","Pharmacists",7674,FALSE
+2010,"Portugal","Number","Practising","Physiotherapists",7744,TRUE
+2010,"Romania","Number","Practising","Medical doctors",50778,FALSE
+2010,"Romania","Number","Practising","Dentists",12959,FALSE
+2010,"Romania","Number","Practising","Pharmacists",13534,FALSE
+2010,"Romania","Number","Practising","Physiotherapists",13534,TRUE
+2010,"Slovenia","Number","Practising","Medical doctors",4979,FALSE
+2010,"Slovenia","Number","Practising","Dentists",1259,FALSE
+2010,"Slovenia","Number","Practising","Pharmacists",1102,FALSE
+2010,"Slovenia","Number","Practising","Physiotherapists",1259,TRUE
+2010,"Slovakia","Number","Practising","Medical doctors",31815,TRUE
+2010,"Slovakia","Number","Practising","Dentists",7263,TRUE
+2010,"Slovakia","Number","Practising","Pharmacists",6061,TRUE
+2010,"Slovakia","Number","Practising","Physiotherapists",12629,TRUE
+2010,"Finland","Number","Practising","Medical doctors",16030,FALSE
+2010,"Finland","Number","Practising","Dentists",4234,FALSE
+2010,"Finland","Number","Practising","Pharmacists",5944,FALSE
+2010,"Finland","Number","Practising","Physiotherapists",5944,TRUE
+2010,"Sweden","Number","Practising","Medical doctors",35708,FALSE
+2010,"Sweden","Number","Practising","Dentists",7605,FALSE
+2010,"Sweden","Number","Practising","Pharmacists",7139,FALSE
+2010,"Sweden","Number","Practising","Physiotherapists",7605,TRUE
+2010,"Iceland","Number","Practising","Medical doctors",1142,FALSE
+2010,"Iceland","Number","Practising","Dentists",299,FALSE
+2010,"Iceland","Number","Practising","Pharmacists",155,FALSE
+2010,"Iceland","Number","Practising","Physiotherapists",299,TRUE
+2010,"Liechtenstein","Number","Practising","Medical doctors",104,FALSE
+2010,"Liechtenstein","Number","Practising","Dentists",44,FALSE
+2010,"Liechtenstein","Number","Practising","Pharmacists",8,FALSE
+2010,"Liechtenstein","Number","Practising","Physiotherapists",44,TRUE
+2010,"Norway","Number","Practising","Medical doctors",20114,FALSE
+2010,"Norway","Number","Practising","Dentists",4293,FALSE
+2010,"Norway","Number","Practising","Pharmacists",3120,FALSE
+2010,"Norway","Number","Practising","Physiotherapists",4293,TRUE
+2010,"Switzerland","Number","Practising","Medical doctors",29803,FALSE
+2010,"Switzerland","Number","Practising","Dentists",4109,FALSE
+2010,"Switzerland","Number","Practising","Pharmacists",4973,FALSE
+2010,"Switzerland","Number","Practising","Physiotherapists",4973,TRUE
+2010,"United Kingdom","Number","Practising","Medical doctors",166250,FALSE
+2010,"United Kingdom","Number","Practising","Dentists",32298,FALSE
+2010,"United Kingdom","Number","Practising","Pharmacists",40641,FALSE
+2010,"United Kingdom","Number","Practising","Physiotherapists",40641,TRUE
+2010,"Montenegro","Number","Practising","Medical doctors",1260,FALSE
+2010,"Montenegro","Number","Practising","Dentists",7263,TRUE
+2010,"Montenegro","Number","Practising","Pharmacists",6061,TRUE
+2010,"Montenegro","Number","Practising","Physiotherapists",1257,TRUE
+2010,"North Macedonia","Number","Practising","Medical doctors",31815,TRUE
+2010,"North Macedonia","Number","Practising","Dentists",7263,TRUE
+2010,"North Macedonia","Number","Practising","Pharmacists",6061,TRUE
+2010,"North Macedonia","Number","Practising","Physiotherapists",12629,TRUE
+2010,"Albania","Number","Practising","Medical doctors",3640,FALSE
+2010,"Albania","Number","Practising","Dentists",7263,TRUE
+2010,"Albania","Number","Practising","Pharmacists",1324,FALSE
+2010,"Albania","Number","Practising","Physiotherapists",3578,TRUE
+2010,"Serbia","Number","Practising","Medical doctors",20824,TRUE
+2010,"Serbia","Number","Practising","Dentists",1932,TRUE
+2010,"Serbia","Number","Practising","Pharmacists",1965,TRUE
+2010,"Serbia","Number","Practising","Physiotherapists",2135,TRUE
+2010,"Turkey","Number","Practising","Medical doctors",31815,TRUE
+2010,"Turkey","Number","Practising","Dentists",7263,TRUE
+2010,"Turkey","Number","Practising","Pharmacists",6061,TRUE
+2010,"Turkey","Number","Practising","Physiotherapists",12629,TRUE
+2011,"European Union - 27 countries (from 2020)","Number","Practising","Medical doctors",32182,TRUE
+2011,"European Union - 27 countries (from 2020)","Number","Practising","Dentists",7429,TRUE
+2011,"European Union - 27 countries (from 2020)","Number","Practising","Pharmacists",6222,TRUE
+2011,"European Union - 27 countries (from 2020)","Number","Practising","Physiotherapists",12845,TRUE
+2011,"European Union - 28 countries (2013-2020)","Number","Practising","Medical doctors",32182,TRUE
+2011,"European Union - 28 countries (2013-2020)","Number","Practising","Dentists",7429,TRUE
+2011,"European Union - 28 countries (2013-2020)","Number","Practising","Pharmacists",6222,TRUE
+2011,"European Union - 28 countries (2013-2020)","Number","Practising","Physiotherapists",12845,TRUE
+2011,"Belgium","Number","Practising","Medical doctors",32182,FALSE
+2011,"Belgium","Number","Practising","Dentists",7777,FALSE
+2011,"Belgium","Number","Practising","Pharmacists",12845,FALSE
+2011,"Belgium","Number","Practising","Physiotherapists",12845,TRUE
+2011,"Bulgaria","Number","Practising","Medical doctors",28384,FALSE
+2011,"Bulgaria","Number","Practising","Dentists",6682,FALSE
+2011,"Bulgaria","Number","Practising","Pharmacists",12845,TRUE
+2011,"Bulgaria","Number","Practising","Physiotherapists",28384,TRUE
+2011,"Czechia","Number","Practising","Medical doctors",38171,FALSE
+2011,"Czechia","Number","Practising","Dentists",7429,FALSE
+2011,"Czechia","Number","Practising","Pharmacists",6222,FALSE
+2011,"Czechia","Number","Practising","Physiotherapists",7429,TRUE
+2011,"Denmark","Number","Practising","Medical doctors",21108,FALSE
+2011,"Denmark","Number","Practising","Dentists",4468,FALSE
+2011,"Denmark","Number","Practising","Pharmacists",2689,FALSE
+2011,"Denmark","Number","Practising","Physiotherapists",4468,TRUE
+2011,"Germany (until 1990 former territory of the FRG)","Number","Practising","Medical doctors",311223,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","Practising","Dentists",66974,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","Practising","Pharmacists",50656,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","Practising","Physiotherapists",66974,TRUE
+2011,"Estonia","Number","Practising","Medical doctors",4372,FALSE
+2011,"Estonia","Number","Practising","Dentists",1179,FALSE
+2011,"Estonia","Number","Practising","Pharmacists",832,FALSE
+2011,"Estonia","Number","Practising","Physiotherapists",1179,TRUE
+2011,"Ireland","Number","Practising","Medical doctors",12215,FALSE
+2011,"Ireland","Number","Practising","Dentists",7429,TRUE
+2011,"Ireland","Number","Practising","Pharmacists",6222,TRUE
+2011,"Ireland","Number","Practising","Physiotherapists",12367,TRUE
+2011,"Greece","Number","Practising","Medical doctors",32182,TRUE
+2011,"Greece","Number","Practising","Dentists",7429,TRUE
+2011,"Greece","Number","Practising","Pharmacists",6222,TRUE
+2011,"Greece","Number","Practising","Physiotherapists",12845,TRUE
+2011,"Spain","Number","Practising","Medical doctors",179267,FALSE
+2011,"Spain","Number","Practising","Dentists",7429,TRUE
+2011,"Spain","Number","Practising","Pharmacists",43767,FALSE
+2011,"Spain","Number","Practising","Physiotherapists",178833,TRUE
+2011,"France","Number","Practising","Medical doctors",199920,FALSE
+2011,"France","Number","Practising","Dentists",41507,FALSE
+2011,"France","Number","Practising","Pharmacists",68732,FALSE
+2011,"France","Number","Practising","Physiotherapists",68732,TRUE
+2011,"France (metropolitan)","Number","Practising","Medical doctors",32182,TRUE
+2011,"France (metropolitan)","Number","Practising","Dentists",7429,TRUE
+2011,"France (metropolitan)","Number","Practising","Pharmacists",6222,TRUE
+2011,"France (metropolitan)","Number","Practising","Physiotherapists",12845,TRUE
+2011,"Croatia","Number","Practising","Medical doctors",12490,FALSE
+2011,"Croatia","Number","Practising","Dentists",3162,FALSE
+2011,"Croatia","Number","Practising","Pharmacists",2972,FALSE
+2011,"Croatia","Number","Practising","Physiotherapists",3162,TRUE
+2011,"Italy","Number","Practising","Medical doctors",231481,FALSE
+2011,"Italy","Number","Practising","Dentists",47604,TRUE
+2011,"Italy","Number","Practising","Pharmacists",69939,TRUE
+2011,"Italy","Number","Practising","Physiotherapists",230621,TRUE
+2011,"Cyprus","Number","Practising","Medical doctors",2529,FALSE
+2011,"Cyprus","Number","Practising","Dentists",783,FALSE
+2011,"Cyprus","Number","Practising","Pharmacists",190,FALSE
+2011,"Cyprus","Number","Practising","Physiotherapists",783,TRUE
+2011,"Latvia","Number","Practising","Medical doctors",6456,FALSE
+2011,"Latvia","Number","Practising","Dentists",1456,FALSE
+2011,"Latvia","Number","Practising","Pharmacists",1358,FALSE
+2011,"Latvia","Number","Practising","Physiotherapists",1456,TRUE
+2011,"Lithuania","Number","Practising","Medical doctors",12407,FALSE
+2011,"Lithuania","Number","Practising","Dentists",2486,FALSE
+2011,"Lithuania","Number","Practising","Pharmacists",2880,TRUE
+2011,"Lithuania","Number","Practising","Physiotherapists",12407,TRUE
+2011,"Luxembourg","Number","Practising","Medical doctors",1440,FALSE
+2011,"Luxembourg","Number","Practising","Dentists",436,FALSE
+2011,"Luxembourg","Number","Practising","Pharmacists",374,FALSE
+2011,"Luxembourg","Number","Practising","Physiotherapists",436,TRUE
+2011,"Hungary","Number","Practising","Medical doctors",29500,FALSE
+2011,"Hungary","Number","Practising","Dentists",5236,FALSE
+2011,"Hungary","Number","Practising","Pharmacists",5741,FALSE
+2011,"Hungary","Number","Practising","Physiotherapists",5741,TRUE
+2011,"Malta","Number","Practising","Medical doctors",1319,FALSE
+2011,"Malta","Number","Practising","Dentists",186,FALSE
+2011,"Malta","Number","Practising","Pharmacists",335,FALSE
+2011,"Malta","Number","Practising","Physiotherapists",335,TRUE
+2011,"Netherlands","Number","Practising","Medical doctors",59144,TRUE
+2011,"Netherlands","Number","Practising","Dentists",8225,FALSE
+2011,"Netherlands","Number","Practising","Pharmacists",3465,FALSE
+2011,"Netherlands","Number","Practising","Physiotherapists",8225,TRUE
+2011,"Austria","Number","Practising","Medical doctors",40634,FALSE
+2011,"Austria","Number","Practising","Dentists",4743,FALSE
+2011,"Austria","Number","Practising","Pharmacists",5700,FALSE
+2011,"Austria","Number","Practising","Physiotherapists",5700,TRUE
+2011,"Poland","Number","Practising","Medical doctors",84221,FALSE
+2011,"Poland","Number","Practising","Dentists",13033,FALSE
+2011,"Poland","Number","Practising","Pharmacists",26290,FALSE
+2011,"Poland","Number","Practising","Physiotherapists",26290,TRUE
+2011,"Portugal","Number","Practising","Medical doctors",32182,TRUE
+2011,"Portugal","Number","Practising","Dentists",7429,TRUE
+2011,"Portugal","Number","Practising","Pharmacists",7930,FALSE
+2011,"Portugal","Number","Practising","Physiotherapists",7744,TRUE
+2011,"Romania","Number","Practising","Medical doctors",51153,FALSE
+2011,"Romania","Number","Practising","Dentists",13324,FALSE
+2011,"Romania","Number","Practising","Pharmacists",14490,FALSE
+2011,"Romania","Number","Practising","Physiotherapists",14490,TRUE
+2011,"Slovenia","Number","Practising","Medical doctors",5121,FALSE
+2011,"Slovenia","Number","Practising","Dentists",1280,FALSE
+2011,"Slovenia","Number","Practising","Pharmacists",1131,FALSE
+2011,"Slovenia","Number","Practising","Physiotherapists",1280,TRUE
+2011,"Slovakia","Number","Practising","Medical doctors",32182,TRUE
+2011,"Slovakia","Number","Practising","Dentists",7429,TRUE
+2011,"Slovakia","Number","Practising","Pharmacists",6222,TRUE
+2011,"Slovakia","Number","Practising","Physiotherapists",12845,TRUE
+2011,"Finland","Number","Practising","Medical doctors",16090,FALSE
+2011,"Finland","Number","Practising","Dentists",4191,FALSE
+2011,"Finland","Number","Practising","Pharmacists",5997,FALSE
+2011,"Finland","Number","Practising","Physiotherapists",5997,TRUE
+2011,"Sweden","Number","Practising","Medical doctors",36743,FALSE
+2011,"Sweden","Number","Practising","Dentists",7730,FALSE
+2011,"Sweden","Number","Practising","Pharmacists",7280,FALSE
+2011,"Sweden","Number","Practising","Physiotherapists",7730,TRUE
+2011,"Iceland","Number","Practising","Medical doctors",1118,FALSE
+2011,"Iceland","Number","Practising","Dentists",283,FALSE
+2011,"Iceland","Number","Practising","Pharmacists",157,FALSE
+2011,"Iceland","Number","Practising","Physiotherapists",283,TRUE
+2011,"Liechtenstein","Number","Practising","Medical doctors",111,FALSE
+2011,"Liechtenstein","Number","Practising","Dentists",46,FALSE
+2011,"Liechtenstein","Number","Practising","Pharmacists",9,FALSE
+2011,"Liechtenstein","Number","Practising","Physiotherapists",46,TRUE
+2011,"Norway","Number","Practising","Medical doctors",20744,FALSE
+2011,"Norway","Number","Practising","Dentists",4380,FALSE
+2011,"Norway","Number","Practising","Pharmacists",3196,FALSE
+2011,"Norway","Number","Practising","Physiotherapists",4380,TRUE
+2011,"Switzerland","Number","Practising","Medical doctors",30327,FALSE
+2011,"Switzerland","Number","Practising","Dentists",4123,FALSE
+2011,"Switzerland","Number","Practising","Pharmacists",5258,FALSE
+2011,"Switzerland","Number","Practising","Physiotherapists",5258,TRUE
+2011,"United Kingdom","Number","Practising","Medical doctors",169919,FALSE
+2011,"United Kingdom","Number","Practising","Dentists",33218,FALSE
+2011,"United Kingdom","Number","Practising","Pharmacists",48042,FALSE
+2011,"United Kingdom","Number","Practising","Physiotherapists",48042,TRUE
+2011,"Montenegro","Number","Practising","Medical doctors",1241,FALSE
+2011,"Montenegro","Number","Practising","Dentists",7429,TRUE
+2011,"Montenegro","Number","Practising","Pharmacists",6222,TRUE
+2011,"Montenegro","Number","Practising","Physiotherapists",1257,TRUE
+2011,"North Macedonia","Number","Practising","Medical doctors",32182,TRUE
+2011,"North Macedonia","Number","Practising","Dentists",7429,TRUE
+2011,"North Macedonia","Number","Practising","Pharmacists",6222,TRUE
+2011,"North Macedonia","Number","Practising","Physiotherapists",12845,TRUE
+2011,"Albania","Number","Practising","Medical doctors",3578,FALSE
+2011,"Albania","Number","Practising","Dentists",7429,TRUE
+2011,"Albania","Number","Practising","Pharmacists",1388,FALSE
+2011,"Albania","Number","Practising","Physiotherapists",3578,TRUE
+2011,"Serbia","Number","Practising","Medical doctors",20824,TRUE
+2011,"Serbia","Number","Practising","Dentists",1932,TRUE
+2011,"Serbia","Number","Practising","Pharmacists",1965,TRUE
+2011,"Serbia","Number","Practising","Physiotherapists",2135,TRUE
+2011,"Turkey","Number","Practising","Medical doctors",32182,TRUE
+2011,"Turkey","Number","Practising","Dentists",7429,TRUE
+2011,"Turkey","Number","Practising","Pharmacists",6222,TRUE
+2011,"Turkey","Number","Practising","Physiotherapists",12845,TRUE
+2012,"European Union - 27 countries (from 2020)","Number","Practising","Medical doctors",32583,TRUE
+2012,"European Union - 27 countries (from 2020)","Number","Practising","Dentists",7461,TRUE
+2012,"European Union - 27 countries (from 2020)","Number","Practising","Pharmacists",6327,TRUE
+2012,"European Union - 27 countries (from 2020)","Number","Practising","Physiotherapists",13027,TRUE
+2012,"European Union - 28 countries (2013-2020)","Number","Practising","Medical doctors",32583,TRUE
+2012,"European Union - 28 countries (2013-2020)","Number","Practising","Dentists",7461,TRUE
+2012,"European Union - 28 countries (2013-2020)","Number","Practising","Pharmacists",6327,TRUE
+2012,"European Union - 28 countries (2013-2020)","Number","Practising","Physiotherapists",13027,TRUE
+2012,"Belgium","Number","Practising","Medical doctors",32583,FALSE
+2012,"Belgium","Number","Practising","Dentists",7869,FALSE
+2012,"Belgium","Number","Practising","Pharmacists",13027,FALSE
+2012,"Belgium","Number","Practising","Physiotherapists",13027,TRUE
+2012,"Bulgaria","Number","Practising","Medical doctors",28599,FALSE
+2012,"Bulgaria","Number","Practising","Dentists",6750,FALSE
+2012,"Bulgaria","Number","Practising","Pharmacists",13027,TRUE
+2012,"Bulgaria","Number","Practising","Physiotherapists",28384,TRUE
+2012,"Czechia","Number","Practising","Medical doctors",38624,FALSE
+2012,"Czechia","Number","Practising","Dentists",7461,FALSE
+2012,"Czechia","Number","Practising","Pharmacists",6327,FALSE
+2012,"Czechia","Number","Practising","Physiotherapists",7461,TRUE
+2012,"Denmark","Number","Practising","Medical doctors",21458,FALSE
+2012,"Denmark","Number","Practising","Dentists",4454,FALSE
+2012,"Denmark","Number","Practising","Pharmacists",2788,FALSE
+2012,"Denmark","Number","Practising","Physiotherapists",4454,TRUE
+2012,"Germany (until 1990 former territory of the FRG)","Number","Practising","Medical doctors",317390,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","Practising","Dentists",67812,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","Practising","Pharmacists",50456,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","Practising","Physiotherapists",67812,TRUE
+2012,"Estonia","Number","Practising","Medical doctors",4343,FALSE
+2012,"Estonia","Number","Practising","Dentists",1196,FALSE
+2012,"Estonia","Number","Practising","Pharmacists",847,FALSE
+2012,"Estonia","Number","Practising","Physiotherapists",1196,TRUE
+2012,"Ireland","Number","Practising","Medical doctors",12450,FALSE
+2012,"Ireland","Number","Practising","Dentists",7461,TRUE
+2012,"Ireland","Number","Practising","Pharmacists",6327,TRUE
+2012,"Ireland","Number","Practising","Physiotherapists",12367,TRUE
+2012,"Greece","Number","Practising","Medical doctors",32583,TRUE
+2012,"Greece","Number","Practising","Dentists",7461,TRUE
+2012,"Greece","Number","Practising","Pharmacists",6327,TRUE
+2012,"Greece","Number","Practising","Physiotherapists",13027,TRUE
+2012,"Spain","Number","Practising","Medical doctors",178833,FALSE
+2012,"Spain","Number","Practising","Dentists",7461,TRUE
+2012,"Spain","Number","Practising","Pharmacists",49200,FALSE
+2012,"Spain","Number","Practising","Physiotherapists",178833,TRUE
+2012,"France","Number","Practising","Medical doctors",201784,FALSE
+2012,"France","Number","Practising","Dentists",41740,FALSE
+2012,"France","Number","Practising","Pharmacists",69520,FALSE
+2012,"France","Number","Practising","Physiotherapists",69520,TRUE
+2012,"France (metropolitan)","Number","Practising","Medical doctors",32583,TRUE
+2012,"France (metropolitan)","Number","Practising","Dentists",7461,TRUE
+2012,"France (metropolitan)","Number","Practising","Pharmacists",6327,TRUE
+2012,"France (metropolitan)","Number","Practising","Physiotherapists",13027,TRUE
+2012,"Croatia","Number","Practising","Medical doctors",12772,FALSE
+2012,"Croatia","Number","Practising","Dentists",3223,FALSE
+2012,"Croatia","Number","Practising","Pharmacists",3004,FALSE
+2012,"Croatia","Number","Practising","Physiotherapists",3223,TRUE
+2012,"Italy","Number","Practising","Medical doctors",230621,FALSE
+2012,"Italy","Number","Practising","Dentists",47604,TRUE
+2012,"Italy","Number","Practising","Pharmacists",69939,TRUE
+2012,"Italy","Number","Practising","Physiotherapists",231481,TRUE
+2012,"Cyprus","Number","Practising","Medical doctors",2606,FALSE
+2012,"Cyprus","Number","Practising","Dentists",816,FALSE
+2012,"Cyprus","Number","Practising","Pharmacists",195,FALSE
+2012,"Cyprus","Number","Practising","Physiotherapists",816,TRUE
+2012,"Latvia","Number","Practising","Medical doctors",6396,FALSE
+2012,"Latvia","Number","Practising","Dentists",1445,FALSE
+2012,"Latvia","Number","Practising","Pharmacists",1402,FALSE
+2012,"Latvia","Number","Practising","Physiotherapists",1445,TRUE
+2012,"Lithuania","Number","Practising","Medical doctors",12604,FALSE
+2012,"Lithuania","Number","Practising","Dentists",2685,FALSE
+2012,"Lithuania","Number","Practising","Pharmacists",2880,TRUE
+2012,"Lithuania","Number","Practising","Physiotherapists",12407,TRUE
+2012,"Luxembourg","Number","Practising","Medical doctors",1490,FALSE
+2012,"Luxembourg","Number","Practising","Dentists",441,FALSE
+2012,"Luxembourg","Number","Practising","Pharmacists",380,FALSE
+2012,"Luxembourg","Number","Practising","Physiotherapists",441,TRUE
+2012,"Hungary","Number","Practising","Medical doctors",30641,FALSE
+2012,"Hungary","Number","Practising","Dentists",5609,FALSE
+2012,"Hungary","Number","Practising","Pharmacists",5683,FALSE
+2012,"Hungary","Number","Practising","Physiotherapists",5683,TRUE
+2012,"Malta","Number","Practising","Medical doctors",1381,FALSE
+2012,"Malta","Number","Practising","Dentists",190,FALSE
+2012,"Malta","Number","Practising","Pharmacists",454,FALSE
+2012,"Malta","Number","Practising","Physiotherapists",454,TRUE
+2012,"Netherlands","Number","Practising","Medical doctors",59144,TRUE
+2012,"Netherlands","Number","Practising","Dentists",8290,FALSE
+2012,"Netherlands","Number","Practising","Pharmacists",3443,FALSE
+2012,"Netherlands","Number","Practising","Physiotherapists",8225,TRUE
+2012,"Austria","Number","Practising","Medical doctors",41268,FALSE
+2012,"Austria","Number","Practising","Dentists",4797,FALSE
+2012,"Austria","Number","Practising","Pharmacists",5823,FALSE
+2012,"Austria","Number","Practising","Physiotherapists",5823,TRUE
+2012,"Poland","Number","Practising","Medical doctors",85025,FALSE
+2012,"Poland","Number","Practising","Dentists",12491,FALSE
+2012,"Poland","Number","Practising","Pharmacists",26843,FALSE
+2012,"Poland","Number","Practising","Physiotherapists",26843,TRUE
+2012,"Portugal","Number","Practising","Medical doctors",32583,TRUE
+2012,"Portugal","Number","Practising","Dentists",7461,TRUE
+2012,"Portugal","Number","Practising","Pharmacists",7744,FALSE
+2012,"Portugal","Number","Practising","Physiotherapists",7930,TRUE
+2012,"Romania","Number","Practising","Medical doctors",52362,FALSE
+2012,"Romania","Number","Practising","Dentists",13779,FALSE
+2012,"Romania","Number","Practising","Pharmacists",15359,FALSE
+2012,"Romania","Number","Practising","Physiotherapists",15359,TRUE
+2012,"Slovenia","Number","Practising","Medical doctors",5228,FALSE
+2012,"Slovenia","Number","Practising","Dentists",1296,FALSE
+2012,"Slovenia","Number","Practising","Pharmacists",1159,FALSE
+2012,"Slovenia","Number","Practising","Physiotherapists",1296,TRUE
+2012,"Slovakia","Number","Practising","Medical doctors",32583,TRUE
+2012,"Slovakia","Number","Practising","Dentists",7461,TRUE
+2012,"Slovakia","Number","Practising","Pharmacists",6327,TRUE
+2012,"Slovakia","Number","Practising","Physiotherapists",13027,TRUE
+2012,"Finland","Number","Practising","Medical doctors",16614,FALSE
+2012,"Finland","Number","Practising","Dentists",4009,FALSE
+2012,"Finland","Number","Practising","Pharmacists",6259,FALSE
+2012,"Finland","Number","Practising","Physiotherapists",6259,TRUE
+2012,"Sweden","Number","Practising","Medical doctors",37769,FALSE
+2012,"Sweden","Number","Practising","Dentists",7809,FALSE
+2012,"Sweden","Number","Practising","Pharmacists",7320,FALSE
+2012,"Sweden","Number","Practising","Physiotherapists",7809,TRUE
+2012,"Iceland","Number","Practising","Medical doctors",1142,FALSE
+2012,"Iceland","Number","Practising","Dentists",270,FALSE
+2012,"Iceland","Number","Practising","Pharmacists",149,FALSE
+2012,"Iceland","Number","Practising","Physiotherapists",270,TRUE
+2012,"Liechtenstein","Number","Practising","Medical doctors",116,FALSE
+2012,"Liechtenstein","Number","Practising","Dentists",50,FALSE
+2012,"Liechtenstein","Number","Practising","Pharmacists",10,FALSE
+2012,"Liechtenstein","Number","Practising","Physiotherapists",50,TRUE
+2012,"Norway","Number","Practising","Medical doctors",21238,FALSE
+2012,"Norway","Number","Practising","Dentists",4340,FALSE
+2012,"Norway","Number","Practising","Pharmacists",3367,FALSE
+2012,"Norway","Number","Practising","Physiotherapists",4340,TRUE
+2012,"Switzerland","Number","Practising","Medical doctors",31313,FALSE
+2012,"Switzerland","Number","Practising","Dentists",4181,FALSE
+2012,"Switzerland","Number","Practising","Pharmacists",5324,FALSE
+2012,"Switzerland","Number","Practising","Physiotherapists",5324,TRUE
+2012,"United Kingdom","Number","Practising","Medical doctors",171747,FALSE
+2012,"United Kingdom","Number","Practising","Dentists",33268,FALSE
+2012,"United Kingdom","Number","Practising","Pharmacists",49731,FALSE
+2012,"United Kingdom","Number","Practising","Physiotherapists",49731,TRUE
+2012,"Montenegro","Number","Practising","Medical doctors",1257,FALSE
+2012,"Montenegro","Number","Practising","Dentists",7461,TRUE
+2012,"Montenegro","Number","Practising","Pharmacists",6327,TRUE
+2012,"Montenegro","Number","Practising","Physiotherapists",1257,TRUE
+2012,"North Macedonia","Number","Practising","Medical doctors",32583,TRUE
+2012,"North Macedonia","Number","Practising","Dentists",7461,TRUE
+2012,"North Macedonia","Number","Practising","Pharmacists",6327,TRUE
+2012,"North Macedonia","Number","Practising","Physiotherapists",13027,TRUE
+2012,"Albania","Number","Practising","Medical doctors",3696,FALSE
+2012,"Albania","Number","Practising","Dentists",7461,TRUE
+2012,"Albania","Number","Practising","Pharmacists",1388,TRUE
+2012,"Albania","Number","Practising","Physiotherapists",3578,TRUE
+2012,"Serbia","Number","Practising","Medical doctors",20824,TRUE
+2012,"Serbia","Number","Practising","Dentists",1932,TRUE
+2012,"Serbia","Number","Practising","Pharmacists",1965,TRUE
+2012,"Serbia","Number","Practising","Physiotherapists",2135,TRUE
+2012,"Turkey","Number","Practising","Medical doctors",32583,TRUE
+2012,"Turkey","Number","Practising","Dentists",7461,TRUE
+2012,"Turkey","Number","Practising","Pharmacists",6327,TRUE
+2012,"Turkey","Number","Practising","Physiotherapists",13027,TRUE
+2013,"European Union - 27 countries (from 2020)","Number","Practising","Medical doctors",32999,TRUE
+2013,"European Union - 27 countries (from 2020)","Number","Practising","Dentists",7426,TRUE
+2013,"European Union - 27 countries (from 2020)","Number","Practising","Pharmacists",6383,TRUE
+2013,"European Union - 27 countries (from 2020)","Number","Practising","Physiotherapists",13280,TRUE
+2013,"European Union - 28 countries (2013-2020)","Number","Practising","Medical doctors",32999,TRUE
+2013,"European Union - 28 countries (2013-2020)","Number","Practising","Dentists",7426,TRUE
+2013,"European Union - 28 countries (2013-2020)","Number","Practising","Pharmacists",6383,TRUE
+2013,"European Union - 28 countries (2013-2020)","Number","Practising","Physiotherapists",13280,TRUE
+2013,"Belgium","Number","Practising","Medical doctors",32999,FALSE
+2013,"Belgium","Number","Practising","Dentists",7965,FALSE
+2013,"Belgium","Number","Practising","Pharmacists",13280,FALSE
+2013,"Belgium","Number","Practising","Physiotherapists",13280,TRUE
+2013,"Bulgaria","Number","Practising","Medical doctors",28891,FALSE
+2013,"Bulgaria","Number","Practising","Dentists",7293,FALSE
+2013,"Bulgaria","Number","Practising","Pharmacists",13280,TRUE
+2013,"Bulgaria","Number","Practising","Physiotherapists",28599,TRUE
+2013,"Czechia","Number","Practising","Medical doctors",38776,FALSE
+2013,"Czechia","Number","Practising","Dentists",7426,FALSE
+2013,"Czechia","Number","Practising","Pharmacists",6383,FALSE
+2013,"Czechia","Number","Practising","Physiotherapists",7426,TRUE
+2013,"Denmark","Number","Practising","Medical doctors",21614,FALSE
+2013,"Denmark","Number","Practising","Dentists",4393,FALSE
+2013,"Denmark","Number","Practising","Pharmacists",2849,FALSE
+2013,"Denmark","Number","Practising","Physiotherapists",4393,TRUE
+2013,"Germany (until 1990 former territory of the FRG)","Number","Practising","Medical doctors",325407,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","Practising","Dentists",68329,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","Practising","Pharmacists",51431,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","Practising","Physiotherapists",68329,TRUE
+2013,"Estonia","Number","Practising","Medical doctors",4395,FALSE
+2013,"Estonia","Number","Practising","Dentists",1190,FALSE
+2013,"Estonia","Number","Practising","Pharmacists",868,FALSE
+2013,"Estonia","Number","Practising","Physiotherapists",1190,TRUE
+2013,"Ireland","Number","Practising","Medical doctors",12367,FALSE
+2013,"Ireland","Number","Practising","Dentists",7426,TRUE
+2013,"Ireland","Number","Practising","Pharmacists",6383,TRUE
+2013,"Ireland","Number","Practising","Physiotherapists",12450,TRUE
+2013,"Greece","Number","Practising","Medical doctors",32999,TRUE
+2013,"Greece","Number","Practising","Dentists",7426,TRUE
+2013,"Greece","Number","Practising","Pharmacists",6383,TRUE
+2013,"Greece","Number","Practising","Physiotherapists",13280,TRUE
+2013,"Spain","Number","Practising","Medical doctors",177665,FALSE
+2013,"Spain","Number","Practising","Dentists",7426,TRUE
+2013,"Spain","Number","Practising","Pharmacists",52100,FALSE
+2013,"Spain","Number","Practising","Physiotherapists",177665,TRUE
+2013,"France","Number","Practising","Medical doctors",204129,FALSE
+2013,"France","Number","Practising","Dentists",42084,FALSE
+2013,"France","Number","Practising","Pharmacists",69679,FALSE
+2013,"France","Number","Practising","Physiotherapists",69679,TRUE
+2013,"France (metropolitan)","Number","Practising","Medical doctors",32999,TRUE
+2013,"France (metropolitan)","Number","Practising","Dentists",7426,TRUE
+2013,"France (metropolitan)","Number","Practising","Pharmacists",6383,TRUE
+2013,"France (metropolitan)","Number","Practising","Physiotherapists",13280,TRUE
+2013,"Croatia","Number","Practising","Medical doctors",12906,FALSE
+2013,"Croatia","Number","Practising","Dentists",3225,FALSE
+2013,"Croatia","Number","Practising","Pharmacists",2982,FALSE
+2013,"Croatia","Number","Practising","Physiotherapists",3225,TRUE
+2013,"Italy","Number","Practising","Medical doctors",234918,FALSE
+2013,"Italy","Number","Practising","Dentists",47038,FALSE
+2013,"Italy","Number","Practising","Pharmacists",68474,FALSE
+2013,"Italy","Number","Practising","Physiotherapists",68474,TRUE
+2013,"Cyprus","Number","Practising","Medical doctors",2754,FALSE
+2013,"Cyprus","Number","Practising","Dentists",829,FALSE
+2013,"Cyprus","Number","Practising","Pharmacists",187,FALSE
+2013,"Cyprus","Number","Practising","Physiotherapists",829,TRUE
+2013,"Latvia","Number","Practising","Medical doctors",6423,FALSE
+2013,"Latvia","Number","Practising","Dentists",1459,FALSE
+2013,"Latvia","Number","Practising","Pharmacists",1612,FALSE
+2013,"Latvia","Number","Practising","Physiotherapists",1612,TRUE
+2013,"Lithuania","Number","Practising","Medical doctors",12650,FALSE
+2013,"Lithuania","Number","Practising","Dentists",2678,FALSE
+2013,"Lithuania","Number","Practising","Pharmacists",2880,TRUE
+2013,"Lithuania","Number","Practising","Physiotherapists",12604,TRUE
+2013,"Luxembourg","Number","Practising","Medical doctors",1538,FALSE
+2013,"Luxembourg","Number","Practising","Dentists",460,FALSE
+2013,"Luxembourg","Number","Practising","Pharmacists",382,FALSE
+2013,"Luxembourg","Number","Practising","Physiotherapists",460,TRUE
+2013,"Hungary","Number","Practising","Medical doctors",31748,FALSE
+2013,"Hungary","Number","Practising","Dentists",5963,FALSE
+2013,"Hungary","Number","Practising","Pharmacists",7524,FALSE
+2013,"Hungary","Number","Practising","Physiotherapists",7524,TRUE
+2013,"Malta","Number","Practising","Medical doctors",1466,FALSE
+2013,"Malta","Number","Practising","Dentists",197,FALSE
+2013,"Malta","Number","Practising","Pharmacists",469,FALSE
+2013,"Malta","Number","Practising","Physiotherapists",469,TRUE
+2013,"Netherlands","Number","Practising","Medical doctors",59144,TRUE
+2013,"Netherlands","Number","Practising","Dentists",8315,FALSE
+2013,"Netherlands","Number","Practising","Pharmacists",3566,FALSE
+2013,"Netherlands","Number","Practising","Physiotherapists",8290,TRUE
+2013,"Austria","Number","Practising","Medical doctors",42302,FALSE
+2013,"Austria","Number","Practising","Dentists",4853,FALSE
+2013,"Austria","Number","Practising","Pharmacists",5918,FALSE
+2013,"Austria","Number","Practising","Physiotherapists",5918,TRUE
+2013,"Poland","Number","Practising","Medical doctors",85246,FALSE
+2013,"Poland","Number","Practising","Dentists",12322,FALSE
+2013,"Poland","Number","Practising","Pharmacists",27446,FALSE
+2013,"Poland","Number","Practising","Physiotherapists",27446,TRUE
+2013,"Portugal","Number","Practising","Medical doctors",32999,TRUE
+2013,"Portugal","Number","Practising","Dentists",7426,TRUE
+2013,"Portugal","Number","Practising","Pharmacists",8068,FALSE
+2013,"Portugal","Number","Practising","Physiotherapists",8068,TRUE
+2013,"Romania","Number","Practising","Medical doctors",52828,FALSE
+2013,"Romania","Number","Practising","Dentists",14248,FALSE
+2013,"Romania","Number","Practising","Pharmacists",16231,FALSE
+2013,"Romania","Number","Practising","Physiotherapists",16231,TRUE
+2013,"Slovenia","Number","Practising","Medical doctors",5416,FALSE
+2013,"Slovenia","Number","Practising","Dentists",1337,FALSE
+2013,"Slovenia","Number","Practising","Pharmacists",1189,FALSE
+2013,"Slovenia","Number","Practising","Physiotherapists",1337,TRUE
+2013,"Slovakia","Number","Practising","Medical doctors",32999,TRUE
+2013,"Slovakia","Number","Practising","Dentists",7426,TRUE
+2013,"Slovakia","Number","Practising","Pharmacists",6383,TRUE
+2013,"Slovakia","Number","Practising","Physiotherapists",13280,TRUE
+2013,"Finland","Number","Practising","Medical doctors",17116,FALSE
+2013,"Finland","Number","Practising","Dentists",3948,FALSE
+2013,"Finland","Number","Practising","Pharmacists",6020,FALSE
+2013,"Finland","Number","Practising","Physiotherapists",6020,TRUE
+2013,"Sweden","Number","Practising","Medical doctors",38817,FALSE
+2013,"Sweden","Number","Practising","Dentists",7841,FALSE
+2013,"Sweden","Number","Practising","Pharmacists",7268,FALSE
+2013,"Sweden","Number","Practising","Physiotherapists",7841,TRUE
+2013,"Iceland","Number","Practising","Medical doctors",1168,FALSE
+2013,"Iceland","Number","Practising","Dentists",272,FALSE
+2013,"Iceland","Number","Practising","Pharmacists",153,FALSE
+2013,"Iceland","Number","Practising","Physiotherapists",272,TRUE
+2013,"Liechtenstein","Number","Practising","Medical doctors",120,FALSE
+2013,"Liechtenstein","Number","Practising","Dentists",51,FALSE
+2013,"Liechtenstein","Number","Practising","Pharmacists",12,FALSE
+2013,"Liechtenstein","Number","Practising","Physiotherapists",51,TRUE
+2013,"Norway","Number","Practising","Medical doctors",21874,FALSE
+2013,"Norway","Number","Practising","Dentists",4434,FALSE
+2013,"Norway","Number","Practising","Pharmacists",3506,FALSE
+2013,"Norway","Number","Practising","Physiotherapists",4434,TRUE
+2013,"Switzerland","Number","Practising","Medical doctors",32681,FALSE
+2013,"Switzerland","Number","Practising","Dentists",4208,FALSE
+2013,"Switzerland","Number","Practising","Pharmacists",5223,FALSE
+2013,"Switzerland","Number","Practising","Physiotherapists",5223,TRUE
+2013,"United Kingdom","Number","Practising","Medical doctors",173976,FALSE
+2013,"United Kingdom","Number","Practising","Dentists",33676,FALSE
+2013,"United Kingdom","Number","Practising","Pharmacists",51315,FALSE
+2013,"United Kingdom","Number","Practising","Physiotherapists",51315,TRUE
+2013,"Montenegro","Number","Practising","Medical doctors",1326,FALSE
+2013,"Montenegro","Number","Practising","Dentists",7426,TRUE
+2013,"Montenegro","Number","Practising","Pharmacists",6383,TRUE
+2013,"Montenegro","Number","Practising","Physiotherapists",1326,TRUE
+2013,"North Macedonia","Number","Practising","Medical doctors",32999,TRUE
+2013,"North Macedonia","Number","Practising","Dentists",7426,TRUE
+2013,"North Macedonia","Number","Practising","Pharmacists",6383,TRUE
+2013,"North Macedonia","Number","Practising","Physiotherapists",13280,TRUE
+2013,"Albania","Number","Practising","Medical doctors",3709,FALSE
+2013,"Albania","Number","Practising","Dentists",7426,TRUE
+2013,"Albania","Number","Practising","Pharmacists",2441,FALSE
+2013,"Albania","Number","Practising","Physiotherapists",3696,TRUE
+2013,"Serbia","Number","Practising","Medical doctors",20824,TRUE
+2013,"Serbia","Number","Practising","Dentists",1932,TRUE
+2013,"Serbia","Number","Practising","Pharmacists",1965,TRUE
+2013,"Serbia","Number","Practising","Physiotherapists",2135,TRUE
+2013,"Turkey","Number","Practising","Medical doctors",32999,TRUE
+2013,"Turkey","Number","Practising","Dentists",7426,TRUE
+2013,"Turkey","Number","Practising","Pharmacists",6383,TRUE
+2013,"Turkey","Number","Practising","Physiotherapists",13280,TRUE
+2014,"European Union - 27 countries (from 2020)","Number","Practising","Medical doctors",28801,TRUE
+2014,"European Union - 27 countries (from 2020)","Number","Practising","Dentists",7906,TRUE
+2014,"European Union - 27 countries (from 2020)","Number","Practising","Pharmacists",6724,TRUE
+2014,"European Union - 27 countries (from 2020)","Number","Practising","Physiotherapists",13508,TRUE
+2014,"European Union - 28 countries (2013-2020)","Number","Practising","Medical doctors",28801,TRUE
+2014,"European Union - 28 countries (2013-2020)","Number","Practising","Dentists",7906,TRUE
+2014,"European Union - 28 countries (2013-2020)","Number","Practising","Pharmacists",6724,TRUE
+2014,"European Union - 28 countries (2013-2020)","Number","Practising","Physiotherapists",13508,TRUE
+2014,"Belgium","Number","Practising","Medical doctors",33353,FALSE
+2014,"Belgium","Number","Practising","Dentists",8108,FALSE
+2014,"Belgium","Number","Practising","Pharmacists",13508,FALSE
+2014,"Belgium","Number","Practising","Physiotherapists",13508,TRUE
+2014,"Bulgaria","Number","Practising","Medical doctors",28801,FALSE
+2014,"Bulgaria","Number","Practising","Dentists",7054,FALSE
+2014,"Bulgaria","Number","Practising","Pharmacists",13508,TRUE
+2014,"Bulgaria","Number","Practising","Physiotherapists",28801,TRUE
+2014,"Czechia","Number","Practising","Medical doctors",38624,TRUE
+2014,"Czechia","Number","Practising","Dentists",7906,FALSE
+2014,"Czechia","Number","Practising","Pharmacists",6724,FALSE
+2014,"Czechia","Number","Practising","Physiotherapists",7906,TRUE
+2014,"Denmark","Number","Practising","Medical doctors",21882,FALSE
+2014,"Denmark","Number","Practising","Dentists",4342,FALSE
+2014,"Denmark","Number","Practising","Pharmacists",2879,FALSE
+2014,"Denmark","Number","Practising","Physiotherapists",4342,TRUE
+2014,"Germany (until 1990 former territory of the FRG)","Number","Practising","Medical doctors",332695,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","Practising","Dentists",69216,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","Practising","Pharmacists",52004,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","Practising","Physiotherapists",69216,TRUE
+2014,"Estonia","Number","Practising","Medical doctors",4418,FALSE
+2014,"Estonia","Number","Practising","Dentists",1223,FALSE
+2014,"Estonia","Number","Practising","Pharmacists",883,FALSE
+2014,"Estonia","Number","Practising","Physiotherapists",1223,TRUE
+2014,"Ireland","Number","Practising","Medical doctors",14029,FALSE
+2014,"Ireland","Number","Practising","Dentists",7906,TRUE
+2014,"Ireland","Number","Practising","Pharmacists",6724,TRUE
+2014,"Ireland","Number","Practising","Physiotherapists",14029,TRUE
+2014,"Greece","Number","Practising","Medical doctors",28801,TRUE
+2014,"Greece","Number","Practising","Dentists",7906,TRUE
+2014,"Greece","Number","Practising","Pharmacists",6724,TRUE
+2014,"Greece","Number","Practising","Physiotherapists",13508,TRUE
+2014,"Spain","Number","Practising","Medical doctors",176665,FALSE
+2014,"Spain","Number","Practising","Dentists",7906,TRUE
+2014,"Spain","Number","Practising","Pharmacists",54567,FALSE
+2014,"Spain","Number","Practising","Physiotherapists",176665,TRUE
+2014,"France","Number","Practising","Medical doctors",206159,FALSE
+2014,"France","Number","Practising","Dentists",42281,FALSE
+2014,"France","Number","Practising","Pharmacists",70136,FALSE
+2014,"France","Number","Practising","Physiotherapists",70136,TRUE
+2014,"France (metropolitan)","Number","Practising","Medical doctors",28801,TRUE
+2014,"France (metropolitan)","Number","Practising","Dentists",7906,TRUE
+2014,"France (metropolitan)","Number","Practising","Pharmacists",6724,TRUE
+2014,"France (metropolitan)","Number","Practising","Physiotherapists",13508,TRUE
+2014,"Croatia","Number","Practising","Medical doctors",13302,FALSE
+2014,"Croatia","Number","Practising","Dentists",3327,FALSE
+2014,"Croatia","Number","Practising","Pharmacists",3024,FALSE
+2014,"Croatia","Number","Practising","Physiotherapists",3327,TRUE
+2014,"Italy","Number","Practising","Medical doctors",235889,FALSE
+2014,"Italy","Number","Practising","Dentists",47610,FALSE
+2014,"Italy","Number","Practising","Pharmacists",70277,FALSE
+2014,"Italy","Number","Practising","Physiotherapists",70277,TRUE
+2014,"Cyprus","Number","Practising","Medical doctors",2880,FALSE
+2014,"Cyprus","Number","Practising","Dentists",839,FALSE
+2014,"Cyprus","Number","Practising","Pharmacists",188,FALSE
+2014,"Cyprus","Number","Practising","Physiotherapists",839,TRUE
+2014,"Latvia","Number","Practising","Medical doctors",6412,FALSE
+2014,"Latvia","Number","Practising","Dentists",1400,FALSE
+2014,"Latvia","Number","Practising","Pharmacists",1548,FALSE
+2014,"Latvia","Number","Practising","Physiotherapists",1548,TRUE
+2014,"Lithuania","Number","Practising","Medical doctors",12631,FALSE
+2014,"Lithuania","Number","Practising","Dentists",2669,FALSE
+2014,"Lithuania","Number","Practising","Pharmacists",2880,TRUE
+2014,"Lithuania","Number","Practising","Physiotherapists",12631,TRUE
+2014,"Luxembourg","Number","Practising","Medical doctors",1603,FALSE
+2014,"Luxembourg","Number","Practising","Dentists",476,FALSE
+2014,"Luxembourg","Number","Practising","Pharmacists",382,FALSE
+2014,"Luxembourg","Number","Practising","Physiotherapists",476,TRUE
+2014,"Hungary","Number","Practising","Medical doctors",32791,FALSE
+2014,"Hungary","Number","Practising","Dentists",6203,FALSE
+2014,"Hungary","Number","Practising","Pharmacists",7594,FALSE
+2014,"Hungary","Number","Practising","Physiotherapists",7594,TRUE
+2014,"Malta","Number","Practising","Medical doctors",1566,FALSE
+2014,"Malta","Number","Practising","Dentists",201,FALSE
+2014,"Malta","Number","Practising","Pharmacists",493,FALSE
+2014,"Malta","Number","Practising","Physiotherapists",493,TRUE
+2014,"Netherlands","Number","Practising","Medical doctors",57762,FALSE
+2014,"Netherlands","Number","Practising","Dentists",8410,FALSE
+2014,"Netherlands","Number","Practising","Pharmacists",3635,FALSE
+2014,"Netherlands","Number","Practising","Physiotherapists",8410,TRUE
+2014,"Austria","Number","Practising","Medical doctors",43126,FALSE
+2014,"Austria","Number","Practising","Dentists",4893,FALSE
+2014,"Austria","Number","Practising","Pharmacists",5999,FALSE
+2014,"Austria","Number","Practising","Physiotherapists",5999,TRUE
+2014,"Poland","Number","Practising","Medical doctors",87687,FALSE
+2014,"Poland","Number","Practising","Dentists",13088,FALSE
+2014,"Poland","Number","Practising","Pharmacists",27747,FALSE
+2014,"Poland","Number","Practising","Physiotherapists",27747,TRUE
+2014,"Portugal","Number","Practising","Medical doctors",28801,TRUE
+2014,"Portugal","Number","Practising","Dentists",7906,TRUE
+2014,"Portugal","Number","Practising","Pharmacists",8379,FALSE
+2014,"Portugal","Number","Practising","Physiotherapists",8379,TRUE
+2014,"Romania","Number","Practising","Medical doctors",53720,FALSE
+2014,"Romania","Number","Practising","Dentists",14846,FALSE
+2014,"Romania","Number","Practising","Pharmacists",17025,FALSE
+2014,"Romania","Number","Practising","Physiotherapists",17025,TRUE
+2014,"Slovenia","Number","Practising","Medical doctors",5712,FALSE
+2014,"Slovenia","Number","Practising","Dentists",1365,FALSE
+2014,"Slovenia","Number","Practising","Pharmacists",1244,FALSE
+2014,"Slovenia","Number","Practising","Physiotherapists",1365,TRUE
+2014,"Slovakia","Number","Practising","Medical doctors",28801,TRUE
+2014,"Slovakia","Number","Practising","Dentists",7906,TRUE
+2014,"Slovakia","Number","Practising","Pharmacists",6724,TRUE
+2014,"Slovakia","Number","Practising","Physiotherapists",13508,TRUE
+2014,"Finland","Number","Practising","Medical doctors",17511,FALSE
+2014,"Finland","Number","Practising","Dentists",3988,FALSE
+2014,"Finland","Number","Practising","Pharmacists",5941,FALSE
+2014,"Finland","Number","Practising","Physiotherapists",5941,TRUE
+2014,"Sweden","Number","Practising","Medical doctors",39839,FALSE
+2014,"Sweden","Number","Practising","Dentists",7900,FALSE
+2014,"Sweden","Number","Practising","Pharmacists",7372,FALSE
+2014,"Sweden","Number","Practising","Physiotherapists",7900,TRUE
+2014,"Iceland","Number","Practising","Medical doctors",1193,FALSE
+2014,"Iceland","Number","Practising","Dentists",274,FALSE
+2014,"Iceland","Number","Practising","Pharmacists",153,FALSE
+2014,"Iceland","Number","Practising","Physiotherapists",274,TRUE
+2014,"Liechtenstein","Number","Practising","Medical doctors",119,FALSE
+2014,"Liechtenstein","Number","Practising","Dentists",51,FALSE
+2014,"Liechtenstein","Number","Practising","Pharmacists",15,FALSE
+2014,"Liechtenstein","Number","Practising","Physiotherapists",51,TRUE
+2014,"Norway","Number","Practising","Medical doctors",22754,FALSE
+2014,"Norway","Number","Practising","Dentists",4450,FALSE
+2014,"Norway","Number","Practising","Pharmacists",3710,FALSE
+2014,"Norway","Number","Practising","Physiotherapists",4450,TRUE
+2014,"Switzerland","Number","Practising","Medical doctors",33785,FALSE
+2014,"Switzerland","Number","Practising","Dentists",4180,FALSE
+2014,"Switzerland","Number","Practising","Pharmacists",5292,FALSE
+2014,"Switzerland","Number","Practising","Physiotherapists",5292,TRUE
+2014,"United Kingdom","Number","Practising","Medical doctors",177352,FALSE
+2014,"United Kingdom","Number","Practising","Dentists",34348,FALSE
+2014,"United Kingdom","Number","Practising","Pharmacists",53261,FALSE
+2014,"United Kingdom","Number","Practising","Physiotherapists",53261,TRUE
+2014,"Montenegro","Number","Practising","Medical doctors",1350,FALSE
+2014,"Montenegro","Number","Practising","Dentists",7906,TRUE
+2014,"Montenegro","Number","Practising","Pharmacists",6724,TRUE
+2014,"Montenegro","Number","Practising","Physiotherapists",1350,TRUE
+2014,"North Macedonia","Number","Practising","Medical doctors",28801,TRUE
+2014,"North Macedonia","Number","Practising","Dentists",7906,TRUE
+2014,"North Macedonia","Number","Practising","Pharmacists",6724,TRUE
+2014,"North Macedonia","Number","Practising","Physiotherapists",13508,TRUE
+2014,"Albania","Number","Practising","Medical doctors",3696,TRUE
+2014,"Albania","Number","Practising","Dentists",7906,TRUE
+2014,"Albania","Number","Practising","Pharmacists",1388,TRUE
+2014,"Albania","Number","Practising","Physiotherapists",3696,TRUE
+2014,"Serbia","Number","Practising","Medical doctors",20824,TRUE
+2014,"Serbia","Number","Practising","Dentists",1932,TRUE
+2014,"Serbia","Number","Practising","Pharmacists",1965,TRUE
+2014,"Serbia","Number","Practising","Physiotherapists",2135,TRUE
+2014,"Turkey","Number","Practising","Medical doctors",28801,TRUE
+2014,"Turkey","Number","Practising","Dentists",7906,TRUE
+2014,"Turkey","Number","Practising","Pharmacists",6724,TRUE
+2014,"Turkey","Number","Practising","Physiotherapists",13508,TRUE
+2015,"European Union - 27 countries (from 2020)","Number","Practising","Medical doctors",29038,TRUE
+2015,"European Union - 27 countries (from 2020)","Number","Practising","Dentists",7547,TRUE
+2015,"European Union - 27 countries (from 2020)","Number","Practising","Pharmacists",6965,TRUE
+2015,"European Union - 27 countries (from 2020)","Number","Practising","Physiotherapists",13643,TRUE
+2015,"European Union - 28 countries (2013-2020)","Number","Practising","Medical doctors",29038,TRUE
+2015,"European Union - 28 countries (2013-2020)","Number","Practising","Dentists",7547,TRUE
+2015,"European Union - 28 countries (2013-2020)","Number","Practising","Pharmacists",6965,TRUE
+2015,"European Union - 28 countries (2013-2020)","Number","Practising","Physiotherapists",13643,TRUE
+2015,"Belgium","Number","Practising","Medical doctors",34020,FALSE
+2015,"Belgium","Number","Practising","Dentists",8291,FALSE
+2015,"Belgium","Number","Practising","Pharmacists",13643,FALSE
+2015,"Belgium","Number","Practising","Physiotherapists",13643,TRUE
+2015,"Bulgaria","Number","Practising","Medical doctors",29038,FALSE
+2015,"Bulgaria","Number","Practising","Dentists",7547,FALSE
+2015,"Bulgaria","Number","Practising","Pharmacists",13643,TRUE
+2015,"Bulgaria","Number","Practising","Physiotherapists",28801,TRUE
+2015,"Czechia","Number","Practising","Medical doctors",38776,TRUE
+2015,"Czechia","Number","Practising","Dentists",7906,TRUE
+2015,"Czechia","Number","Practising","Pharmacists",6965,FALSE
+2015,"Czechia","Number","Practising","Physiotherapists",6965,TRUE
+2015,"Denmark","Number","Practising","Medical doctors",22332,FALSE
+2015,"Denmark","Number","Practising","Dentists",4321,FALSE
+2015,"Denmark","Number","Practising","Pharmacists",2931,FALSE
+2015,"Denmark","Number","Practising","Physiotherapists",4321,TRUE
+2015,"Germany (until 1990 former territory of the FRG)","Number","Practising","Medical doctors",338129,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","Practising","Dentists",69971,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","Practising","Pharmacists",52568,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","Practising","Physiotherapists",69971,TRUE
+2015,"Estonia","Number","Practising","Medical doctors",4492,FALSE
+2015,"Estonia","Number","Practising","Dentists",1239,FALSE
+2015,"Estonia","Number","Practising","Pharmacists",948,FALSE
+2015,"Estonia","Number","Practising","Physiotherapists",1239,TRUE
+2015,"Ireland","Number","Practising","Medical doctors",14666,FALSE
+2015,"Ireland","Number","Practising","Dentists",7547,TRUE
+2015,"Ireland","Number","Practising","Pharmacists",6965,TRUE
+2015,"Ireland","Number","Practising","Physiotherapists",14666,TRUE
+2015,"Greece","Number","Practising","Medical doctors",29038,TRUE
+2015,"Greece","Number","Practising","Dentists",7547,TRUE
+2015,"Greece","Number","Practising","Pharmacists",6965,TRUE
+2015,"Greece","Number","Practising","Physiotherapists",13643,TRUE
+2015,"Spain","Number","Practising","Medical doctors",178600,FALSE
+2015,"Spain","Number","Practising","Dentists",7547,TRUE
+2015,"Spain","Number","Practising","Pharmacists",55400,FALSE
+2015,"Spain","Number","Practising","Physiotherapists",176665,TRUE
+2015,"France","Number","Practising","Medical doctors",207789,FALSE
+2015,"France","Number","Practising","Dentists",42602,FALSE
+2015,"France","Number","Practising","Pharmacists",70247,FALSE
+2015,"France","Number","Practising","Physiotherapists",70247,TRUE
+2015,"France (metropolitan)","Number","Practising","Medical doctors",29038,TRUE
+2015,"France (metropolitan)","Number","Practising","Dentists",7547,TRUE
+2015,"France (metropolitan)","Number","Practising","Pharmacists",6965,TRUE
+2015,"France (metropolitan)","Number","Practising","Physiotherapists",13643,TRUE
+2015,"Croatia","Number","Practising","Medical doctors",13430,FALSE
+2015,"Croatia","Number","Practising","Dentists",3347,FALSE
+2015,"Croatia","Number","Practising","Pharmacists",3042,FALSE
+2015,"Croatia","Number","Practising","Physiotherapists",3347,TRUE
+2015,"Italy","Number","Practising","Medical doctors",233102,FALSE
+2015,"Italy","Number","Practising","Dentists",47604,FALSE
+2015,"Italy","Number","Practising","Pharmacists",69939,FALSE
+2015,"Italy","Number","Practising","Physiotherapists",69939,TRUE
+2015,"Cyprus","Number","Practising","Medical doctors",3046,FALSE
+2015,"Cyprus","Number","Practising","Dentists",876,FALSE
+2015,"Cyprus","Number","Practising","Pharmacists",750,FALSE
+2015,"Cyprus","Number","Practising","Physiotherapists",876,TRUE
+2015,"Latvia","Number","Practising","Medical doctors",6324,FALSE
+2015,"Latvia","Number","Practising","Dentists",1419,FALSE
+2015,"Latvia","Number","Practising","Pharmacists",1574,FALSE
+2015,"Latvia","Number","Practising","Physiotherapists",1574,TRUE
+2015,"Lithuania","Number","Practising","Medical doctors",12605,FALSE
+2015,"Lithuania","Number","Practising","Dentists",2644,FALSE
+2015,"Lithuania","Number","Practising","Pharmacists",2880,TRUE
+2015,"Lithuania","Number","Practising","Physiotherapists",12605,TRUE
+2015,"Luxembourg","Number","Practising","Medical doctors",1656,FALSE
+2015,"Luxembourg","Number","Practising","Dentists",506,FALSE
+2015,"Luxembourg","Number","Practising","Pharmacists",397,FALSE
+2015,"Luxembourg","Number","Practising","Physiotherapists",506,TRUE
+2015,"Hungary","Number","Practising","Medical doctors",30486,FALSE
+2015,"Hungary","Number","Practising","Dentists",5936,FALSE
+2015,"Hungary","Number","Practising","Pharmacists",7039,FALSE
+2015,"Hungary","Number","Practising","Physiotherapists",7039,TRUE
+2015,"Malta","Number","Practising","Medical doctors",1636,FALSE
+2015,"Malta","Number","Practising","Dentists",206,FALSE
+2015,"Malta","Number","Practising","Pharmacists",558,FALSE
+2015,"Malta","Number","Practising","Physiotherapists",558,TRUE
+2015,"Netherlands","Number","Practising","Medical doctors",59144,FALSE
+2015,"Netherlands","Number","Practising","Dentists",8730,FALSE
+2015,"Netherlands","Number","Practising","Pharmacists",3599,FALSE
+2015,"Netherlands","Number","Practising","Physiotherapists",8730,TRUE
+2015,"Austria","Number","Practising","Medical doctors",44002,FALSE
+2015,"Austria","Number","Practising","Dentists",4906,FALSE
+2015,"Austria","Number","Practising","Pharmacists",6104,FALSE
+2015,"Austria","Number","Practising","Physiotherapists",6104,TRUE
+2015,"Poland","Number","Practising","Medical doctors",88437,FALSE
+2015,"Poland","Number","Practising","Dentists",12603,FALSE
+2015,"Poland","Number","Practising","Pharmacists",28121,FALSE
+2015,"Poland","Number","Practising","Physiotherapists",28121,TRUE
+2015,"Portugal","Number","Practising","Medical doctors",29038,TRUE
+2015,"Portugal","Number","Practising","Dentists",7547,TRUE
+2015,"Portugal","Number","Practising","Pharmacists",8711,FALSE
+2015,"Portugal","Number","Practising","Physiotherapists",8711,TRUE
+2015,"Romania","Number","Practising","Medical doctors",54807,FALSE
+2015,"Romania","Number","Practising","Dentists",15389,FALSE
+2015,"Romania","Number","Practising","Pharmacists",17063,FALSE
+2015,"Romania","Number","Practising","Physiotherapists",17063,TRUE
+2015,"Slovenia","Number","Practising","Medical doctors",5830,FALSE
+2015,"Slovenia","Number","Practising","Dentists",1392,FALSE
+2015,"Slovenia","Number","Practising","Pharmacists",1295,FALSE
+2015,"Slovenia","Number","Practising","Physiotherapists",1392,TRUE
+2015,"Slovakia","Number","Practising","Medical doctors",29038,TRUE
+2015,"Slovakia","Number","Practising","Dentists",7547,TRUE
+2015,"Slovakia","Number","Practising","Pharmacists",6965,TRUE
+2015,"Slovakia","Number","Practising","Physiotherapists",13643,TRUE
+2015,"Finland","Number","Practising","Medical doctors",17116,TRUE
+2015,"Finland","Number","Practising","Dentists",3988,TRUE
+2015,"Finland","Number","Practising","Pharmacists",6020,TRUE
+2015,"Finland","Number","Practising","Physiotherapists",5941,TRUE
+2015,"Sweden","Number","Practising","Medical doctors",40899,FALSE
+2015,"Sweden","Number","Practising","Dentists",8001,FALSE
+2015,"Sweden","Number","Practising","Pharmacists",7506,FALSE
+2015,"Sweden","Number","Practising","Physiotherapists",8001,TRUE
+2015,"Iceland","Number","Practising","Medical doctors",1249,FALSE
+2015,"Iceland","Number","Practising","Dentists",278,FALSE
+2015,"Iceland","Number","Practising","Pharmacists",160,FALSE
+2015,"Iceland","Number","Practising","Physiotherapists",278,TRUE
+2015,"Liechtenstein","Number","Practising","Medical doctors",120,FALSE
+2015,"Liechtenstein","Number","Practising","Dentists",52,FALSE
+2015,"Liechtenstein","Number","Practising","Pharmacists",16,FALSE
+2015,"Liechtenstein","Number","Practising","Physiotherapists",52,TRUE
+2015,"Norway","Number","Practising","Medical doctors",22848,FALSE
+2015,"Norway","Number","Practising","Dentists",4434,FALSE
+2015,"Norway","Number","Practising","Pharmacists",3863,FALSE
+2015,"Norway","Number","Practising","Physiotherapists",4434,TRUE
+2015,"Switzerland","Number","Practising","Medical doctors",34762,FALSE
+2015,"Switzerland","Number","Practising","Dentists",4200,FALSE
+2015,"Switzerland","Number","Practising","Pharmacists",5339,FALSE
+2015,"Switzerland","Number","Practising","Physiotherapists",5339,TRUE
+2015,"United Kingdom","Number","Practising","Medical doctors",180444,FALSE
+2015,"United Kingdom","Number","Practising","Dentists",34621,FALSE
+2015,"United Kingdom","Number","Practising","Pharmacists",54380,FALSE
+2015,"United Kingdom","Number","Practising","Physiotherapists",54380,TRUE
+2015,"Montenegro","Number","Practising","Medical doctors",1466,FALSE
+2015,"Montenegro","Number","Practising","Dentists",7547,TRUE
+2015,"Montenegro","Number","Practising","Pharmacists",6965,TRUE
+2015,"Montenegro","Number","Practising","Physiotherapists",1466,TRUE
+2015,"North Macedonia","Number","Practising","Medical doctors",29038,TRUE
+2015,"North Macedonia","Number","Practising","Dentists",7547,TRUE
+2015,"North Macedonia","Number","Practising","Pharmacists",6965,TRUE
+2015,"North Macedonia","Number","Practising","Physiotherapists",13643,TRUE
+2015,"Albania","Number","Practising","Medical doctors",3696,TRUE
+2015,"Albania","Number","Practising","Dentists",7547,TRUE
+2015,"Albania","Number","Practising","Pharmacists",1388,TRUE
+2015,"Albania","Number","Practising","Physiotherapists",3696,TRUE
+2015,"Serbia","Number","Practising","Medical doctors",20824,TRUE
+2015,"Serbia","Number","Practising","Dentists",1932,TRUE
+2015,"Serbia","Number","Practising","Pharmacists",1965,TRUE
+2015,"Serbia","Number","Practising","Physiotherapists",2135,TRUE
+2015,"Turkey","Number","Practising","Medical doctors",29038,TRUE
+2015,"Turkey","Number","Practising","Dentists",7547,TRUE
+2015,"Turkey","Number","Practising","Pharmacists",6965,TRUE
+2015,"Turkey","Number","Practising","Physiotherapists",13643,TRUE
+2016,"European Union - 27 countries (from 2020)","Number","Practising","Medical doctors",29492,TRUE
+2016,"European Union - 27 countries (from 2020)","Number","Practising","Dentists",8058,TRUE
+2016,"European Union - 27 countries (from 2020)","Number","Practising","Pharmacists",7172,TRUE
+2016,"European Union - 27 countries (from 2020)","Number","Practising","Physiotherapists",13876,TRUE
+2016,"European Union - 28 countries (2013-2020)","Number","Practising","Medical doctors",29492,TRUE
+2016,"European Union - 28 countries (2013-2020)","Number","Practising","Dentists",8058,TRUE
+2016,"European Union - 28 countries (2013-2020)","Number","Practising","Pharmacists",7172,TRUE
+2016,"European Union - 28 countries (2013-2020)","Number","Practising","Physiotherapists",13876,TRUE
+2016,"Belgium","Number","Practising","Medical doctors",34834,FALSE
+2016,"Belgium","Number","Practising","Dentists",8478,FALSE
+2016,"Belgium","Number","Practising","Pharmacists",13876,FALSE
+2016,"Belgium","Number","Practising","Physiotherapists",13876,TRUE
+2016,"Bulgaria","Number","Practising","Medical doctors",29492,FALSE
+2016,"Bulgaria","Number","Practising","Dentists",8058,FALSE
+2016,"Bulgaria","Number","Practising","Pharmacists",13876,TRUE
+2016,"Bulgaria","Number","Practising","Physiotherapists",29038,TRUE
+2016,"Czechia","Number","Practising","Medical doctors",38776,TRUE
+2016,"Czechia","Number","Practising","Dentists",7955,FALSE
+2016,"Czechia","Number","Practising","Pharmacists",7172,FALSE
+2016,"Czechia","Number","Practising","Physiotherapists",7172,TRUE
+2016,"Denmark","Number","Practising","Medical doctors",22902,FALSE
+2016,"Denmark","Number","Practising","Dentists",4247,FALSE
+2016,"Denmark","Number","Practising","Pharmacists",2979,FALSE
+2016,"Denmark","Number","Practising","Physiotherapists",4247,TRUE
+2016,"Germany (until 1990 former territory of the FRG)","Number","Practising","Medical doctors",344755,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","Practising","Dentists",70500,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","Practising","Pharmacists",52430,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","Practising","Physiotherapists",70500,TRUE
+2016,"Estonia","Number","Practising","Medical doctors",4548,FALSE
+2016,"Estonia","Number","Practising","Dentists",1257,FALSE
+2016,"Estonia","Number","Practising","Pharmacists",963,FALSE
+2016,"Estonia","Number","Practising","Physiotherapists",1257,TRUE
+2016,"Ireland","Number","Practising","Medical doctors",15178,FALSE
+2016,"Ireland","Number","Practising","Dentists",8058,TRUE
+2016,"Ireland","Number","Practising","Pharmacists",7172,TRUE
+2016,"Ireland","Number","Practising","Physiotherapists",15178,TRUE
+2016,"Greece","Number","Practising","Medical doctors",29492,TRUE
+2016,"Greece","Number","Practising","Dentists",8058,TRUE
+2016,"Greece","Number","Practising","Pharmacists",7172,TRUE
+2016,"Greece","Number","Practising","Physiotherapists",13876,TRUE
+2016,"Spain","Number","Practising","Medical doctors",177731,FALSE
+2016,"Spain","Number","Practising","Dentists",8058,TRUE
+2016,"Spain","Number","Practising","Pharmacists",56167,FALSE
+2016,"Spain","Number","Practising","Physiotherapists",177731,TRUE
+2016,"France","Number","Practising","Medical doctors",209367,FALSE
+2016,"France","Number","Practising","Dentists",43026,FALSE
+2016,"France","Number","Practising","Pharmacists",70025,FALSE
+2016,"France","Number","Practising","Physiotherapists",70025,TRUE
+2016,"France (metropolitan)","Number","Practising","Medical doctors",29492,TRUE
+2016,"France (metropolitan)","Number","Practising","Dentists",8058,TRUE
+2016,"France (metropolitan)","Number","Practising","Pharmacists",7172,TRUE
+2016,"France (metropolitan)","Number","Practising","Physiotherapists",13876,TRUE
+2016,"Croatia","Number","Practising","Medical doctors",13504,FALSE
+2016,"Croatia","Number","Practising","Dentists",3341,FALSE
+2016,"Croatia","Number","Practising","Pharmacists",3062,FALSE
+2016,"Croatia","Number","Practising","Physiotherapists",3341,TRUE
+2016,"Italy","Number","Practising","Medical doctors",239642,FALSE
+2016,"Italy","Number","Practising","Dentists",48559,FALSE
+2016,"Italy","Number","Practising","Pharmacists",70074,FALSE
+2016,"Italy","Number","Practising","Physiotherapists",70074,TRUE
+2016,"Cyprus","Number","Practising","Medical doctors",3209,FALSE
+2016,"Cyprus","Number","Practising","Dentists",882,FALSE
+2016,"Cyprus","Number","Practising","Pharmacists",761,FALSE
+2016,"Cyprus","Number","Practising","Physiotherapists",882,TRUE
+2016,"Latvia","Number","Practising","Medical doctors",6295,FALSE
+2016,"Latvia","Number","Practising","Dentists",1411,FALSE
+2016,"Latvia","Number","Practising","Pharmacists",1643,FALSE
+2016,"Latvia","Number","Practising","Physiotherapists",1643,TRUE
+2016,"Lithuania","Number","Practising","Medical doctors",12812,FALSE
+2016,"Lithuania","Number","Practising","Dentists",2787,FALSE
+2016,"Lithuania","Number","Practising","Pharmacists",2880,TRUE
+2016,"Lithuania","Number","Practising","Physiotherapists",12605,TRUE
+2016,"Luxembourg","Number","Practising","Medical doctors",1683,FALSE
+2016,"Luxembourg","Number","Practising","Dentists",550,FALSE
+2016,"Luxembourg","Number","Practising","Pharmacists",406,FALSE
+2016,"Luxembourg","Number","Practising","Physiotherapists",550,TRUE
+2016,"Hungary","Number","Practising","Medical doctors",31515,FALSE
+2016,"Hungary","Number","Practising","Dentists",6083,FALSE
+2016,"Hungary","Number","Practising","Pharmacists",7353,FALSE
+2016,"Hungary","Number","Practising","Physiotherapists",7353,TRUE
+2016,"Malta","Number","Practising","Medical doctors",1743,FALSE
+2016,"Malta","Number","Practising","Dentists",214,FALSE
+2016,"Malta","Number","Practising","Pharmacists",605,FALSE
+2016,"Malta","Number","Practising","Physiotherapists",605,TRUE
+2016,"Netherlands","Number","Practising","Medical doctors",60233,FALSE
+2016,"Netherlands","Number","Practising","Dentists",8705,FALSE
+2016,"Netherlands","Number","Practising","Pharmacists",3651,FALSE
+2016,"Netherlands","Number","Practising","Physiotherapists",8705,TRUE
+2016,"Austria","Number","Practising","Medical doctors",44816,FALSE
+2016,"Austria","Number","Practising","Dentists",4954,FALSE
+2016,"Austria","Number","Practising","Pharmacists",6194,FALSE
+2016,"Austria","Number","Practising","Physiotherapists",6194,TRUE
+2016,"Poland","Number","Practising","Medical doctors",91730,FALSE
+2016,"Poland","Number","Practising","Dentists",13308,FALSE
+2016,"Poland","Number","Practising","Pharmacists",29268,FALSE
+2016,"Poland","Number","Practising","Physiotherapists",29268,TRUE
+2016,"Portugal","Number","Practising","Medical doctors",29492,TRUE
+2016,"Portugal","Number","Practising","Dentists",8058,TRUE
+2016,"Portugal","Number","Practising","Pharmacists",8788,FALSE
+2016,"Portugal","Number","Practising","Physiotherapists",8788,TRUE
+2016,"Romania","Number","Practising","Medical doctors",55975,FALSE
+2016,"Romania","Number","Practising","Dentists",16285,FALSE
+2016,"Romania","Number","Practising","Pharmacists",17104,FALSE
+2016,"Romania","Number","Practising","Physiotherapists",17104,TRUE
+2016,"Slovenia","Number","Practising","Medical doctors",6224,FALSE
+2016,"Slovenia","Number","Practising","Dentists",1421,FALSE
+2016,"Slovenia","Number","Practising","Pharmacists",1356,FALSE
+2016,"Slovenia","Number","Practising","Physiotherapists",1421,TRUE
+2016,"Slovakia","Number","Practising","Medical doctors",29492,TRUE
+2016,"Slovakia","Number","Practising","Dentists",8058,TRUE
+2016,"Slovakia","Number","Practising","Pharmacists",7172,TRUE
+2016,"Slovakia","Number","Practising","Physiotherapists",13876,TRUE
+2016,"Finland","Number","Practising","Medical doctors",17116,TRUE
+2016,"Finland","Number","Practising","Dentists",3988,TRUE
+2016,"Finland","Number","Practising","Pharmacists",6020,TRUE
+2016,"Finland","Number","Practising","Physiotherapists",5941,TRUE
+2016,"Sweden","Number","Practising","Medical doctors",41993,FALSE
+2016,"Sweden","Number","Practising","Dentists",8080,FALSE
+2016,"Sweden","Number","Practising","Pharmacists",7612,FALSE
+2016,"Sweden","Number","Practising","Physiotherapists",8080,TRUE
+2016,"Iceland","Number","Practising","Medical doctors",1292,FALSE
+2016,"Iceland","Number","Practising","Dentists",278,FALSE
+2016,"Iceland","Number","Practising","Pharmacists",166,FALSE
+2016,"Iceland","Number","Practising","Physiotherapists",278,TRUE
+2016,"Liechtenstein","Number","Practising","Medical doctors",124,FALSE
+2016,"Liechtenstein","Number","Practising","Dentists",48,FALSE
+2016,"Liechtenstein","Number","Practising","Pharmacists",15,FALSE
+2016,"Liechtenstein","Number","Practising","Physiotherapists",48,TRUE
+2016,"Norway","Number","Practising","Medical doctors",23619,FALSE
+2016,"Norway","Number","Practising","Dentists",4527,FALSE
+2016,"Norway","Number","Practising","Pharmacists",4100,FALSE
+2016,"Norway","Number","Practising","Physiotherapists",4527,TRUE
+2016,"Switzerland","Number","Practising","Medical doctors",35592,FALSE
+2016,"Switzerland","Number","Practising","Dentists",4217,FALSE
+2016,"Switzerland","Number","Practising","Pharmacists",5863,FALSE
+2016,"Switzerland","Number","Practising","Physiotherapists",5863,TRUE
+2016,"United Kingdom","Number","Practising","Medical doctors",182534,FALSE
+2016,"United Kingdom","Number","Practising","Dentists",34867,FALSE
+2016,"United Kingdom","Number","Practising","Pharmacists",56542,FALSE
+2016,"United Kingdom","Number","Practising","Physiotherapists",56542,TRUE
+2016,"Montenegro","Number","Practising","Medical doctors",1589,FALSE
+2016,"Montenegro","Number","Practising","Dentists",8058,TRUE
+2016,"Montenegro","Number","Practising","Pharmacists",7172,TRUE
+2016,"Montenegro","Number","Practising","Physiotherapists",1589,TRUE
+2016,"North Macedonia","Number","Practising","Medical doctors",29492,TRUE
+2016,"North Macedonia","Number","Practising","Dentists",8058,TRUE
+2016,"North Macedonia","Number","Practising","Pharmacists",7172,TRUE
+2016,"North Macedonia","Number","Practising","Physiotherapists",13876,TRUE
+2016,"Albania","Number","Practising","Medical doctors",3696,TRUE
+2016,"Albania","Number","Practising","Dentists",8058,TRUE
+2016,"Albania","Number","Practising","Pharmacists",1388,TRUE
+2016,"Albania","Number","Practising","Physiotherapists",3696,TRUE
+2016,"Serbia","Number","Practising","Medical doctors",20853,FALSE
+2016,"Serbia","Number","Practising","Dentists",1987,FALSE
+2016,"Serbia","Number","Practising","Pharmacists",2135,FALSE
+2016,"Serbia","Number","Practising","Physiotherapists",2135,TRUE
+2016,"Turkey","Number","Practising","Medical doctors",29492,TRUE
+2016,"Turkey","Number","Practising","Dentists",8058,TRUE
+2016,"Turkey","Number","Practising","Pharmacists",7172,TRUE
+2016,"Turkey","Number","Practising","Physiotherapists",13876,TRUE
+2017,"European Union - 27 countries (from 2020)","Number","Practising","Medical doctors",30037,TRUE
+2017,"European Union - 27 countries (from 2020)","Number","Practising","Dentists",8396,TRUE
+2017,"European Union - 27 countries (from 2020)","Number","Practising","Pharmacists",7308,TRUE
+2017,"European Union - 27 countries (from 2020)","Number","Practising","Physiotherapists",14084,TRUE
+2017,"European Union - 28 countries (2013-2020)","Number","Practising","Medical doctors",30037,TRUE
+2017,"European Union - 28 countries (2013-2020)","Number","Practising","Dentists",8396,TRUE
+2017,"European Union - 28 countries (2013-2020)","Number","Practising","Pharmacists",7308,TRUE
+2017,"European Union - 28 countries (2013-2020)","Number","Practising","Physiotherapists",14084,TRUE
+2017,"Belgium","Number","Practising","Medical doctors",35069,FALSE
+2017,"Belgium","Number","Practising","Dentists",8516,FALSE
+2017,"Belgium","Number","Practising","Pharmacists",14084,FALSE
+2017,"Belgium","Number","Practising","Physiotherapists",14084,TRUE
+2017,"Bulgaria","Number","Practising","Medical doctors",30037,FALSE
+2017,"Bulgaria","Number","Practising","Dentists",8396,FALSE
+2017,"Bulgaria","Number","Practising","Pharmacists",14084,TRUE
+2017,"Bulgaria","Number","Practising","Physiotherapists",29492,TRUE
+2017,"Czechia","Number","Practising","Medical doctors",38776,TRUE
+2017,"Czechia","Number","Practising","Dentists",7921,FALSE
+2017,"Czechia","Number","Practising","Pharmacists",7308,FALSE
+2017,"Czechia","Number","Practising","Physiotherapists",7921,TRUE
+2017,"Denmark","Number","Practising","Medical doctors",23688,FALSE
+2017,"Denmark","Number","Practising","Dentists",4141,FALSE
+2017,"Denmark","Number","Practising","Pharmacists",3063,FALSE
+2017,"Denmark","Number","Practising","Physiotherapists",4141,TRUE
+2017,"Germany (until 1990 former territory of the FRG)","Number","Practising","Medical doctors",351195,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","Practising","Dentists",70786,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","Practising","Pharmacists",53480,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","Practising","Physiotherapists",70786,TRUE
+2017,"Estonia","Number","Practising","Medical doctors",4569,FALSE
+2017,"Estonia","Number","Practising","Dentists",1265,FALSE
+2017,"Estonia","Number","Practising","Pharmacists",956,FALSE
+2017,"Estonia","Number","Practising","Physiotherapists",1265,TRUE
+2017,"Ireland","Number","Practising","Medical doctors",15660,FALSE
+2017,"Ireland","Number","Practising","Dentists",8396,TRUE
+2017,"Ireland","Number","Practising","Pharmacists",7308,TRUE
+2017,"Ireland","Number","Practising","Physiotherapists",15660,TRUE
+2017,"Greece","Number","Practising","Medical doctors",30037,TRUE
+2017,"Greece","Number","Practising","Dentists",8396,TRUE
+2017,"Greece","Number","Practising","Pharmacists",7308,TRUE
+2017,"Greece","Number","Practising","Physiotherapists",14084,TRUE
+2017,"Spain","Number","Practising","Medical doctors",180633,FALSE
+2017,"Spain","Number","Practising","Dentists",8396,TRUE
+2017,"Spain","Number","Practising","Pharmacists",53867,FALSE
+2017,"Spain","Number","Practising","Physiotherapists",177731,TRUE
+2017,"France","Number","Practising","Medical doctors",211162,FALSE
+2017,"France","Number","Practising","Dentists",43167,FALSE
+2017,"France","Number","Practising","Pharmacists",69346,FALSE
+2017,"France","Number","Practising","Physiotherapists",69346,TRUE
+2017,"France (metropolitan)","Number","Practising","Medical doctors",30037,TRUE
+2017,"France (metropolitan)","Number","Practising","Dentists",8396,TRUE
+2017,"France (metropolitan)","Number","Practising","Pharmacists",7308,TRUE
+2017,"France (metropolitan)","Number","Practising","Physiotherapists",14084,TRUE
+2017,"Croatia","Number","Practising","Medical doctors",13885,FALSE
+2017,"Croatia","Number","Practising","Dentists",3433,FALSE
+2017,"Croatia","Number","Practising","Pharmacists",3072,FALSE
+2017,"Croatia","Number","Practising","Physiotherapists",3433,TRUE
+2017,"Italy","Number","Practising","Medical doctors",241512,FALSE
+2017,"Italy","Number","Practising","Dentists",49552,FALSE
+2017,"Italy","Number","Practising","Pharmacists",70934,FALSE
+2017,"Italy","Number","Practising","Physiotherapists",70934,TRUE
+2017,"Cyprus","Number","Practising","Medical doctors",3325,FALSE
+2017,"Cyprus","Number","Practising","Dentists",939,FALSE
+2017,"Cyprus","Number","Practising","Pharmacists",785,FALSE
+2017,"Cyprus","Number","Practising","Physiotherapists",939,TRUE
+2017,"Latvia","Number","Practising","Medical doctors",6225,FALSE
+2017,"Latvia","Number","Practising","Dentists",1380,FALSE
+2017,"Latvia","Number","Practising","Pharmacists",1850,FALSE
+2017,"Latvia","Number","Practising","Physiotherapists",1850,TRUE
+2017,"Lithuania","Number","Practising","Medical doctors",12887,FALSE
+2017,"Lithuania","Number","Practising","Dentists",2839,FALSE
+2017,"Lithuania","Number","Practising","Pharmacists",2803,FALSE
+2017,"Lithuania","Number","Practising","Physiotherapists",2839,TRUE
+2017,"Luxembourg","Number","Practising","Medical doctors",1780,FALSE
+2017,"Luxembourg","Number","Practising","Dentists",581,FALSE
+2017,"Luxembourg","Number","Practising","Pharmacists",416,FALSE
+2017,"Luxembourg","Number","Practising","Physiotherapists",581,TRUE
+2017,"Hungary","Number","Practising","Medical doctors",32543,FALSE
+2017,"Hungary","Number","Practising","Dentists",6589,FALSE
+2017,"Hungary","Number","Practising","Pharmacists",7557,FALSE
+2017,"Hungary","Number","Practising","Physiotherapists",7557,TRUE
+2017,"Malta","Number","Practising","Medical doctors",1855,FALSE
+2017,"Malta","Number","Practising","Dentists",223,FALSE
+2017,"Malta","Number","Practising","Pharmacists",605,FALSE
+2017,"Malta","Number","Practising","Physiotherapists",605,TRUE
+2017,"Netherlands","Number","Practising","Medical doctors",61730,FALSE
+2017,"Netherlands","Number","Practising","Dentists",9435,FALSE
+2017,"Netherlands","Number","Practising","Pharmacists",3571,FALSE
+2017,"Netherlands","Number","Practising","Physiotherapists",9435,TRUE
+2017,"Austria","Number","Practising","Medical doctors",45596,FALSE
+2017,"Austria","Number","Practising","Dentists",5009,FALSE
+2017,"Austria","Number","Practising","Pharmacists",6246,FALSE
+2017,"Austria","Number","Practising","Physiotherapists",6246,TRUE
+2017,"Poland","Number","Practising","Medical doctors",90284,FALSE
+2017,"Poland","Number","Practising","Dentists",13331,FALSE
+2017,"Poland","Number","Practising","Pharmacists",29330,FALSE
+2017,"Poland","Number","Practising","Physiotherapists",29330,TRUE
+2017,"Portugal","Number","Practising","Medical doctors",30037,TRUE
+2017,"Portugal","Number","Practising","Dentists",8396,TRUE
+2017,"Portugal","Number","Practising","Pharmacists",9340,FALSE
+2017,"Portugal","Number","Practising","Physiotherapists",9340,TRUE
+2017,"Romania","Number","Practising","Medical doctors",57329,FALSE
+2017,"Romania","Number","Practising","Dentists",15497,FALSE
+2017,"Romania","Number","Practising","Pharmacists",17759,FALSE
+2017,"Romania","Number","Practising","Physiotherapists",17759,TRUE
+2017,"Slovenia","Number","Practising","Medical doctors",6408,FALSE
+2017,"Slovenia","Number","Practising","Dentists",1455,FALSE
+2017,"Slovenia","Number","Practising","Pharmacists",1422,FALSE
+2017,"Slovenia","Number","Practising","Physiotherapists",1455,TRUE
+2017,"Slovakia","Number","Practising","Medical doctors",30037,TRUE
+2017,"Slovakia","Number","Practising","Dentists",8396,TRUE
+2017,"Slovakia","Number","Practising","Pharmacists",7308,TRUE
+2017,"Slovakia","Number","Practising","Physiotherapists",14084,TRUE
+2017,"Finland","Number","Practising","Medical doctors",17116,TRUE
+2017,"Finland","Number","Practising","Dentists",3988,TRUE
+2017,"Finland","Number","Practising","Pharmacists",6020,TRUE
+2017,"Finland","Number","Practising","Physiotherapists",5941,TRUE
+2017,"Sweden","Number","Practising","Medical doctors",42898,FALSE
+2017,"Sweden","Number","Practising","Dentists",8173,FALSE
+2017,"Sweden","Number","Practising","Pharmacists",7689,FALSE
+2017,"Sweden","Number","Practising","Physiotherapists",8173,TRUE
+2017,"Iceland","Number","Practising","Medical doctors",1330,FALSE
+2017,"Iceland","Number","Practising","Dentists",279,FALSE
+2017,"Iceland","Number","Practising","Pharmacists",171,FALSE
+2017,"Iceland","Number","Practising","Physiotherapists",279,TRUE
+2017,"Liechtenstein","Number","Practising","Medical doctors",138,FALSE
+2017,"Liechtenstein","Number","Practising","Dentists",48,FALSE
+2017,"Liechtenstein","Number","Practising","Pharmacists",20,FALSE
+2017,"Liechtenstein","Number","Practising","Physiotherapists",48,TRUE
+2017,"Norway","Number","Practising","Medical doctors",24583,FALSE
+2017,"Norway","Number","Practising","Dentists",4590,FALSE
+2017,"Norway","Number","Practising","Pharmacists",4241,FALSE
+2017,"Norway","Number","Practising","Physiotherapists",4590,TRUE
+2017,"Switzerland","Number","Practising","Medical doctors",36324,FALSE
+2017,"Switzerland","Number","Practising","Dentists",4361,FALSE
+2017,"Switzerland","Number","Practising","Pharmacists",5889,FALSE
+2017,"Switzerland","Number","Practising","Physiotherapists",5889,TRUE
+2017,"United Kingdom","Number","Practising","Medical doctors",185692,FALSE
+2017,"United Kingdom","Number","Practising","Dentists",34760,FALSE
+2017,"United Kingdom","Number","Practising","Pharmacists",58329,FALSE
+2017,"United Kingdom","Number","Practising","Physiotherapists",58329,TRUE
+2017,"Montenegro","Number","Practising","Medical doctors",1650,FALSE
+2017,"Montenegro","Number","Practising","Dentists",8396,TRUE
+2017,"Montenegro","Number","Practising","Pharmacists",7308,TRUE
+2017,"Montenegro","Number","Practising","Physiotherapists",1650,TRUE
+2017,"North Macedonia","Number","Practising","Medical doctors",30037,TRUE
+2017,"North Macedonia","Number","Practising","Dentists",8396,TRUE
+2017,"North Macedonia","Number","Practising","Pharmacists",7308,TRUE
+2017,"North Macedonia","Number","Practising","Physiotherapists",14084,TRUE
+2017,"Albania","Number","Practising","Medical doctors",3696,TRUE
+2017,"Albania","Number","Practising","Dentists",8396,TRUE
+2017,"Albania","Number","Practising","Pharmacists",1388,TRUE
+2017,"Albania","Number","Practising","Physiotherapists",3696,TRUE
+2017,"Serbia","Number","Practising","Medical doctors",20773,FALSE
+2017,"Serbia","Number","Practising","Dentists",1932,FALSE
+2017,"Serbia","Number","Practising","Pharmacists",1965,FALSE
+2017,"Serbia","Number","Practising","Physiotherapists",1965,TRUE
+2017,"Turkey","Number","Practising","Medical doctors",30037,TRUE
+2017,"Turkey","Number","Practising","Dentists",8396,TRUE
+2017,"Turkey","Number","Practising","Pharmacists",7308,TRUE
+2017,"Turkey","Number","Practising","Physiotherapists",14084,TRUE
+2018,"European Union - 27 countries (from 2020)","Number","Practising","Medical doctors",35762,TRUE
+2018,"European Union - 27 countries (from 2020)","Number","Practising","Dentists",7844,TRUE
+2018,"European Union - 27 countries (from 2020)","Number","Practising","Pharmacists",7347,TRUE
+2018,"European Union - 27 countries (from 2020)","Number","Practising","Physiotherapists",14280,TRUE
+2018,"European Union - 28 countries (2013-2020)","Number","Practising","Medical doctors",35762,TRUE
+2018,"European Union - 28 countries (2013-2020)","Number","Practising","Dentists",7844,TRUE
+2018,"European Union - 28 countries (2013-2020)","Number","Practising","Pharmacists",7347,TRUE
+2018,"European Union - 28 countries (2013-2020)","Number","Practising","Physiotherapists",14280,TRUE
+2018,"Belgium","Number","Practising","Medical doctors",35762,FALSE
+2018,"Belgium","Number","Practising","Dentists",8614,FALSE
+2018,"Belgium","Number","Practising","Pharmacists",14280,FALSE
+2018,"Belgium","Number","Practising","Physiotherapists",14280,TRUE
+2018,"Bulgaria","Number","Practising","Medical doctors",29625,FALSE
+2018,"Bulgaria","Number","Practising","Dentists",7282,FALSE
+2018,"Bulgaria","Number","Practising","Pharmacists",14280,TRUE
+2018,"Bulgaria","Number","Practising","Physiotherapists",29625,TRUE
+2018,"Czechia","Number","Practising","Medical doctors",42919,FALSE
+2018,"Czechia","Number","Practising","Dentists",7844,FALSE
+2018,"Czechia","Number","Practising","Pharmacists",7347,FALSE
+2018,"Czechia","Number","Practising","Physiotherapists",7844,TRUE
+2018,"Denmark","Number","Practising","Medical doctors",24301,FALSE
+2018,"Denmark","Number","Practising","Dentists",4162,FALSE
+2018,"Denmark","Number","Practising","Pharmacists",3130,FALSE
+2018,"Denmark","Number","Practising","Physiotherapists",4162,TRUE
+2018,"Germany (until 1990 former territory of the FRG)","Number","Practising","Medical doctors",357401,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","Practising","Dentists",71093,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","Practising","Pharmacists",54493,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","Practising","Physiotherapists",71093,TRUE
+2018,"Estonia","Number","Practising","Medical doctors",4605,FALSE
+2018,"Estonia","Number","Practising","Dentists",1277,FALSE
+2018,"Estonia","Number","Practising","Pharmacists",955,FALSE
+2018,"Estonia","Number","Practising","Physiotherapists",1277,TRUE
+2018,"Ireland","Number","Practising","Medical doctors",15962,FALSE
+2018,"Ireland","Number","Practising","Dentists",7844,TRUE
+2018,"Ireland","Number","Practising","Pharmacists",7347,TRUE
+2018,"Ireland","Number","Practising","Physiotherapists",15962,TRUE
+2018,"Greece","Number","Practising","Medical doctors",35762,TRUE
+2018,"Greece","Number","Practising","Dentists",7844,TRUE
+2018,"Greece","Number","Practising","Pharmacists",7347,TRUE
+2018,"Greece","Number","Practising","Physiotherapists",14280,TRUE
+2018,"Spain","Number","Practising","Medical doctors",188166,FALSE
+2018,"Spain","Number","Practising","Dentists",7844,TRUE
+2018,"Spain","Number","Practising","Pharmacists",55633,FALSE
+2018,"Spain","Number","Practising","Physiotherapists",180633,TRUE
+2018,"France","Number","Practising","Medical doctors",212337,FALSE
+2018,"France","Number","Practising","Dentists",43333,FALSE
+2018,"France","Number","Practising","Pharmacists",69145,FALSE
+2018,"France","Number","Practising","Physiotherapists",69145,TRUE
+2018,"France (metropolitan)","Number","Practising","Medical doctors",35762,TRUE
+2018,"France (metropolitan)","Number","Practising","Dentists",7844,TRUE
+2018,"France (metropolitan)","Number","Practising","Pharmacists",7347,TRUE
+2018,"France (metropolitan)","Number","Practising","Physiotherapists",14280,TRUE
+2018,"Croatia","Number","Practising","Medical doctors",14075,FALSE
+2018,"Croatia","Number","Practising","Dentists",3470,FALSE
+2018,"Croatia","Number","Practising","Pharmacists",3119,FALSE
+2018,"Croatia","Number","Practising","Physiotherapists",3470,TRUE
+2018,"Italy","Number","Practising","Medical doctors",240301,FALSE
+2018,"Italy","Number","Practising","Dentists",50305,FALSE
+2018,"Italy","Number","Practising","Pharmacists",71953,FALSE
+2018,"Italy","Number","Practising","Physiotherapists",71953,TRUE
+2018,"Cyprus","Number","Practising","Medical doctors",3544,FALSE
+2018,"Cyprus","Number","Practising","Dentists",976,FALSE
+2018,"Cyprus","Number","Practising","Pharmacists",798,FALSE
+2018,"Cyprus","Number","Practising","Physiotherapists",976,TRUE
+2018,"Latvia","Number","Practising","Medical doctors",6367,FALSE
+2018,"Latvia","Number","Practising","Dentists",1361,FALSE
+2018,"Latvia","Number","Practising","Pharmacists",1650,FALSE
+2018,"Latvia","Number","Practising","Physiotherapists",1650,TRUE
+2018,"Lithuania","Number","Practising","Medical doctors",12881,FALSE
+2018,"Lithuania","Number","Practising","Dentists",2758,FALSE
+2018,"Lithuania","Number","Practising","Pharmacists",2880,FALSE
+2018,"Lithuania","Number","Practising","Physiotherapists",2880,TRUE
+2018,"Luxembourg","Number","Practising","Medical doctors",1683,TRUE
+2018,"Luxembourg","Number","Practising","Dentists",550,TRUE
+2018,"Luxembourg","Number","Practising","Pharmacists",406,TRUE
+2018,"Luxembourg","Number","Practising","Physiotherapists",581,TRUE
+2018,"Hungary","Number","Practising","Medical doctors",33078,FALSE
+2018,"Hungary","Number","Practising","Dentists",6870,FALSE
+2018,"Hungary","Number","Practising","Pharmacists",7842,FALSE
+2018,"Hungary","Number","Practising","Physiotherapists",7842,TRUE
+2018,"Malta","Number","Practising","Medical doctors",1925,FALSE
+2018,"Malta","Number","Practising","Dentists",232,FALSE
+2018,"Malta","Number","Practising","Pharmacists",624,FALSE
+2018,"Malta","Number","Practising","Physiotherapists",624,TRUE
+2018,"Netherlands","Number","Practising","Medical doctors",63233,FALSE
+2018,"Netherlands","Number","Practising","Dentists",9470,FALSE
+2018,"Netherlands","Number","Practising","Pharmacists",3619,FALSE
+2018,"Netherlands","Number","Practising","Physiotherapists",9470,TRUE
+2018,"Austria","Number","Practising","Medical doctors",46337,FALSE
+2018,"Austria","Number","Practising","Dentists",5027,FALSE
+2018,"Austria","Number","Practising","Pharmacists",6349,FALSE
+2018,"Austria","Number","Practising","Physiotherapists",6349,TRUE
+2018,"Poland","Number","Practising","Medical doctors",90284,TRUE
+2018,"Poland","Number","Practising","Dentists",13308,TRUE
+2018,"Poland","Number","Practising","Pharmacists",29268,TRUE
+2018,"Poland","Number","Practising","Physiotherapists",29330,TRUE
+2018,"Portugal","Number","Practising","Medical doctors",35762,TRUE
+2018,"Portugal","Number","Practising","Dentists",7844,TRUE
+2018,"Portugal","Number","Practising","Pharmacists",9353,FALSE
+2018,"Portugal","Number","Practising","Physiotherapists",9340,TRUE
+2018,"Romania","Number","Practising","Medical doctors",59333,FALSE
+2018,"Romania","Number","Practising","Dentists",16262,FALSE
+2018,"Romania","Number","Practising","Pharmacists",17541,FALSE
+2018,"Romania","Number","Practising","Physiotherapists",17541,TRUE
+2018,"Slovenia","Number","Practising","Medical doctors",6591,FALSE
+2018,"Slovenia","Number","Practising","Dentists",1492,FALSE
+2018,"Slovenia","Number","Practising","Pharmacists",1466,FALSE
+2018,"Slovenia","Number","Practising","Physiotherapists",1492,TRUE
+2018,"Slovakia","Number","Practising","Medical doctors",35762,TRUE
+2018,"Slovakia","Number","Practising","Dentists",7844,TRUE
+2018,"Slovakia","Number","Practising","Pharmacists",7347,TRUE
+2018,"Slovakia","Number","Practising","Physiotherapists",14280,TRUE
+2018,"Finland","Number","Practising","Medical doctors",17116,TRUE
+2018,"Finland","Number","Practising","Dentists",3988,TRUE
+2018,"Finland","Number","Practising","Pharmacists",6020,TRUE
+2018,"Finland","Number","Practising","Physiotherapists",5941,TRUE
+2018,"Sweden","Number","Practising","Medical doctors",41993,TRUE
+2018,"Sweden","Number","Practising","Dentists",8080,TRUE
+2018,"Sweden","Number","Practising","Pharmacists",7612,TRUE
+2018,"Sweden","Number","Practising","Physiotherapists",8173,TRUE
+2018,"Iceland","Number","Practising","Medical doctors",1373,FALSE
+2018,"Iceland","Number","Practising","Dentists",289,FALSE
+2018,"Iceland","Number","Practising","Pharmacists",182,FALSE
+2018,"Iceland","Number","Practising","Physiotherapists",289,TRUE
+2018,"Liechtenstein","Number","Practising","Medical doctors",135,FALSE
+2018,"Liechtenstein","Number","Practising","Dentists",48,FALSE
+2018,"Liechtenstein","Number","Practising","Pharmacists",24,FALSE
+2018,"Liechtenstein","Number","Practising","Physiotherapists",48,TRUE
+2018,"Norway","Number","Practising","Medical doctors",25538,FALSE
+2018,"Norway","Number","Practising","Dentists",4642,FALSE
+2018,"Norway","Number","Practising","Pharmacists",4419,FALSE
+2018,"Norway","Number","Practising","Physiotherapists",4642,TRUE
+2018,"Switzerland","Number","Practising","Medical doctors",36940,FALSE
+2018,"Switzerland","Number","Practising","Dentists",4337,FALSE
+2018,"Switzerland","Number","Practising","Pharmacists",5886,FALSE
+2018,"Switzerland","Number","Practising","Physiotherapists",5886,TRUE
+2018,"United Kingdom","Number","Practising","Medical doctors",188783,FALSE
+2018,"United Kingdom","Number","Practising","Dentists",35000,FALSE
+2018,"United Kingdom","Number","Practising","Pharmacists",59704,FALSE
+2018,"United Kingdom","Number","Practising","Physiotherapists",59704,TRUE
+2018,"Montenegro","Number","Practising","Medical doctors",1720,FALSE
+2018,"Montenegro","Number","Practising","Dentists",7844,TRUE
+2018,"Montenegro","Number","Practising","Pharmacists",7347,TRUE
+2018,"Montenegro","Number","Practising","Physiotherapists",1650,TRUE
+2018,"North Macedonia","Number","Practising","Medical doctors",35762,TRUE
+2018,"North Macedonia","Number","Practising","Dentists",7844,TRUE
+2018,"North Macedonia","Number","Practising","Pharmacists",7347,TRUE
+2018,"North Macedonia","Number","Practising","Physiotherapists",14280,TRUE
+2018,"Albania","Number","Practising","Medical doctors",3696,TRUE
+2018,"Albania","Number","Practising","Dentists",7844,TRUE
+2018,"Albania","Number","Practising","Pharmacists",1388,TRUE
+2018,"Albania","Number","Practising","Physiotherapists",3696,TRUE
+2018,"Serbia","Number","Practising","Medical doctors",20824,FALSE
+2018,"Serbia","Number","Practising","Dentists",1930,FALSE
+2018,"Serbia","Number","Practising","Pharmacists",1850,FALSE
+2018,"Serbia","Number","Practising","Physiotherapists",1930,TRUE
+2018,"Turkey","Number","Practising","Medical doctors",35762,TRUE
+2018,"Turkey","Number","Practising","Dentists",7844,TRUE
+2018,"Turkey","Number","Practising","Pharmacists",7347,TRUE
+2018,"Turkey","Number","Practising","Physiotherapists",14280,TRUE
+2019,"European Union - 27 countries (from 2020)","Number","Practising","Medical doctors",16366,TRUE
+2019,"European Union - 27 countries (from 2020)","Number","Practising","Dentists",285,TRUE
+2019,"European Union - 27 countries (from 2020)","Number","Practising","Pharmacists",5891,TRUE
+2019,"European Union - 27 countries (from 2020)","Number","Practising","Physiotherapists",5891,TRUE
+2019,"European Union - 28 countries (2013-2020)","Number","Practising","Medical doctors",16366,TRUE
+2019,"European Union - 28 countries (2013-2020)","Number","Practising","Dentists",285,TRUE
+2019,"European Union - 28 countries (2013-2020)","Number","Practising","Pharmacists",5891,TRUE
+2019,"European Union - 28 countries (2013-2020)","Number","Practising","Physiotherapists",5891,TRUE
+2019,"Belgium","Number","Practising","Medical doctors",35069,TRUE
+2019,"Belgium","Number","Practising","Dentists",8516,TRUE
+2019,"Belgium","Number","Practising","Pharmacists",14084,TRUE
+2019,"Belgium","Number","Practising","Physiotherapists",14280,TRUE
+2019,"Bulgaria","Number","Practising","Medical doctors",29625,TRUE
+2019,"Bulgaria","Number","Practising","Dentists",8058,TRUE
+2019,"Bulgaria","Number","Practising","Pharmacists",5891,FALSE
+2019,"Bulgaria","Number","Practising","Physiotherapists",7282,TRUE
+2019,"Czechia","Number","Practising","Medical doctors",38776,TRUE
+2019,"Czechia","Number","Practising","Dentists",7921,TRUE
+2019,"Czechia","Number","Practising","Pharmacists",7308,TRUE
+2019,"Czechia","Number","Practising","Physiotherapists",7844,TRUE
+2019,"Denmark","Number","Practising","Medical doctors",23688,TRUE
+2019,"Denmark","Number","Practising","Dentists",4162,TRUE
+2019,"Denmark","Number","Practising","Pharmacists",3063,TRUE
+2019,"Denmark","Number","Practising","Physiotherapists",4162,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","Practising","Medical doctors",351195,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","Practising","Dentists",70786,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","Practising","Pharmacists",53480,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","Practising","Physiotherapists",71093,TRUE
+2019,"Estonia","Number","Practising","Medical doctors",4569,TRUE
+2019,"Estonia","Number","Practising","Dentists",1265,TRUE
+2019,"Estonia","Number","Practising","Pharmacists",956,TRUE
+2019,"Estonia","Number","Practising","Physiotherapists",1277,TRUE
+2019,"Ireland","Number","Practising","Medical doctors",16366,FALSE
+2019,"Ireland","Number","Practising","Dentists",16366,TRUE
+2019,"Ireland","Number","Practising","Pharmacists",5299,FALSE
+2019,"Ireland","Number","Practising","Physiotherapists",15962,TRUE
+2019,"Greece","Number","Practising","Medical doctors",16366,TRUE
+2019,"Greece","Number","Practising","Dentists",285,TRUE
+2019,"Greece","Number","Practising","Pharmacists",5891,TRUE
+2019,"Greece","Number","Practising","Physiotherapists",5891,TRUE
+2019,"Spain","Number","Practising","Medical doctors",180633,TRUE
+2019,"Spain","Number","Practising","Dentists",285,TRUE
+2019,"Spain","Number","Practising","Pharmacists",55633,TRUE
+2019,"Spain","Number","Practising","Physiotherapists",180633,TRUE
+2019,"France","Number","Practising","Medical doctors",211162,TRUE
+2019,"France","Number","Practising","Dentists",43167,TRUE
+2019,"France","Number","Practising","Pharmacists",69346,TRUE
+2019,"France","Number","Practising","Physiotherapists",69145,TRUE
+2019,"France (metropolitan)","Number","Practising","Medical doctors",16366,TRUE
+2019,"France (metropolitan)","Number","Practising","Dentists",285,TRUE
+2019,"France (metropolitan)","Number","Practising","Pharmacists",5891,TRUE
+2019,"France (metropolitan)","Number","Practising","Physiotherapists",5891,TRUE
+2019,"Croatia","Number","Practising","Medical doctors",13885,TRUE
+2019,"Croatia","Number","Practising","Dentists",3433,TRUE
+2019,"Croatia","Number","Practising","Pharmacists",3072,TRUE
+2019,"Croatia","Number","Practising","Physiotherapists",3470,TRUE
+2019,"Italy","Number","Practising","Medical doctors",242595,FALSE
+2019,"Italy","Number","Practising","Dentists",48638,FALSE
+2019,"Italy","Number","Practising","Pharmacists",69269,FALSE
+2019,"Italy","Number","Practising","Physiotherapists",69269,TRUE
+2019,"Cyprus","Number","Practising","Medical doctors",3325,TRUE
+2019,"Cyprus","Number","Practising","Dentists",939,TRUE
+2019,"Cyprus","Number","Practising","Pharmacists",785,TRUE
+2019,"Cyprus","Number","Practising","Physiotherapists",976,TRUE
+2019,"Latvia","Number","Practising","Medical doctors",6295,TRUE
+2019,"Latvia","Number","Practising","Dentists",1380,TRUE
+2019,"Latvia","Number","Practising","Pharmacists",1613,FALSE
+2019,"Latvia","Number","Practising","Physiotherapists",1613,TRUE
+2019,"Lithuania","Number","Practising","Medical doctors",12881,TRUE
+2019,"Lithuania","Number","Practising","Dentists",2787,TRUE
+2019,"Lithuania","Number","Practising","Pharmacists",2880,TRUE
+2019,"Lithuania","Number","Practising","Physiotherapists",2880,TRUE
+2019,"Luxembourg","Number","Practising","Medical doctors",1683,TRUE
+2019,"Luxembourg","Number","Practising","Dentists",550,TRUE
+2019,"Luxembourg","Number","Practising","Pharmacists",406,TRUE
+2019,"Luxembourg","Number","Practising","Physiotherapists",581,TRUE
+2019,"Hungary","Number","Practising","Medical doctors",32543,TRUE
+2019,"Hungary","Number","Practising","Dentists",6589,TRUE
+2019,"Hungary","Number","Practising","Pharmacists",7557,TRUE
+2019,"Hungary","Number","Practising","Physiotherapists",7842,TRUE
+2019,"Malta","Number","Practising","Medical doctors",1855,TRUE
+2019,"Malta","Number","Practising","Dentists",223,TRUE
+2019,"Malta","Number","Practising","Pharmacists",605,TRUE
+2019,"Malta","Number","Practising","Physiotherapists",624,TRUE
+2019,"Netherlands","Number","Practising","Medical doctors",61730,TRUE
+2019,"Netherlands","Number","Practising","Dentists",9435,TRUE
+2019,"Netherlands","Number","Practising","Pharmacists",3619,TRUE
+2019,"Netherlands","Number","Practising","Physiotherapists",9470,TRUE
+2019,"Austria","Number","Practising","Medical doctors",45596,TRUE
+2019,"Austria","Number","Practising","Dentists",5009,TRUE
+2019,"Austria","Number","Practising","Pharmacists",6246,TRUE
+2019,"Austria","Number","Practising","Physiotherapists",6349,TRUE
+2019,"Poland","Number","Practising","Medical doctors",90284,TRUE
+2019,"Poland","Number","Practising","Dentists",13308,TRUE
+2019,"Poland","Number","Practising","Pharmacists",29268,TRUE
+2019,"Poland","Number","Practising","Physiotherapists",29330,TRUE
+2019,"Portugal","Number","Practising","Medical doctors",16366,TRUE
+2019,"Portugal","Number","Practising","Dentists",285,TRUE
+2019,"Portugal","Number","Practising","Pharmacists",9340,TRUE
+2019,"Portugal","Number","Practising","Physiotherapists",9340,TRUE
+2019,"Romania","Number","Practising","Medical doctors",57329,TRUE
+2019,"Romania","Number","Practising","Dentists",16262,TRUE
+2019,"Romania","Number","Practising","Pharmacists",17541,TRUE
+2019,"Romania","Number","Practising","Physiotherapists",17541,TRUE
+2019,"Slovenia","Number","Practising","Medical doctors",6408,TRUE
+2019,"Slovenia","Number","Practising","Dentists",1455,TRUE
+2019,"Slovenia","Number","Practising","Pharmacists",1422,TRUE
+2019,"Slovenia","Number","Practising","Physiotherapists",1492,TRUE
+2019,"Slovakia","Number","Practising","Medical doctors",16366,TRUE
+2019,"Slovakia","Number","Practising","Dentists",285,TRUE
+2019,"Slovakia","Number","Practising","Pharmacists",5891,TRUE
+2019,"Slovakia","Number","Practising","Physiotherapists",5891,TRUE
+2019,"Finland","Number","Practising","Medical doctors",17116,TRUE
+2019,"Finland","Number","Practising","Dentists",3988,TRUE
+2019,"Finland","Number","Practising","Pharmacists",6020,TRUE
+2019,"Finland","Number","Practising","Physiotherapists",5941,TRUE
+2019,"Sweden","Number","Practising","Medical doctors",41993,TRUE
+2019,"Sweden","Number","Practising","Dentists",8080,TRUE
+2019,"Sweden","Number","Practising","Pharmacists",7612,TRUE
+2019,"Sweden","Number","Practising","Physiotherapists",8173,TRUE
+2019,"Iceland","Number","Practising","Medical doctors",1404,FALSE
+2019,"Iceland","Number","Practising","Dentists",285,FALSE
+2019,"Iceland","Number","Practising","Pharmacists",171,TRUE
+2019,"Iceland","Number","Practising","Physiotherapists",1373,TRUE
+2019,"Liechtenstein","Number","Practising","Medical doctors",144,FALSE
+2019,"Liechtenstein","Number","Practising","Dentists",51,FALSE
+2019,"Liechtenstein","Number","Practising","Pharmacists",23,FALSE
+2019,"Liechtenstein","Number","Practising","Physiotherapists",51,TRUE
+2019,"Norway","Number","Practising","Medical doctors",26276,FALSE
+2019,"Norway","Number","Practising","Dentists",4703,FALSE
+2019,"Norway","Number","Practising","Pharmacists",4596,FALSE
+2019,"Norway","Number","Practising","Physiotherapists",4703,TRUE
+2019,"Switzerland","Number","Practising","Medical doctors",36324,TRUE
+2019,"Switzerland","Number","Practising","Dentists",4337,TRUE
+2019,"Switzerland","Number","Practising","Pharmacists",5886,TRUE
+2019,"Switzerland","Number","Practising","Physiotherapists",5886,TRUE
+2019,"United Kingdom","Number","Practising","Medical doctors",196784,FALSE
+2019,"United Kingdom","Number","Practising","Dentists",35568,FALSE
+2019,"United Kingdom","Number","Practising","Pharmacists",58640,FALSE
+2019,"United Kingdom","Number","Practising","Physiotherapists",58640,TRUE
+2019,"Montenegro","Number","Practising","Medical doctors",1650,TRUE
+2019,"Montenegro","Number","Practising","Dentists",285,TRUE
+2019,"Montenegro","Number","Practising","Pharmacists",5891,TRUE
+2019,"Montenegro","Number","Practising","Physiotherapists",1650,TRUE
+2019,"North Macedonia","Number","Practising","Medical doctors",16366,TRUE
+2019,"North Macedonia","Number","Practising","Dentists",285,TRUE
+2019,"North Macedonia","Number","Practising","Pharmacists",5891,TRUE
+2019,"North Macedonia","Number","Practising","Physiotherapists",5891,TRUE
+2019,"Albania","Number","Practising","Medical doctors",3696,TRUE
+2019,"Albania","Number","Practising","Dentists",285,TRUE
+2019,"Albania","Number","Practising","Pharmacists",1388,TRUE
+2019,"Albania","Number","Practising","Physiotherapists",3696,TRUE
+2019,"Serbia","Number","Practising","Medical doctors",20824,TRUE
+2019,"Serbia","Number","Practising","Dentists",1932,TRUE
+2019,"Serbia","Number","Practising","Pharmacists",1965,TRUE
+2019,"Serbia","Number","Practising","Physiotherapists",1930,TRUE
+2019,"Turkey","Number","Practising","Medical doctors",16366,TRUE
+2019,"Turkey","Number","Practising","Dentists",285,TRUE
+2019,"Turkey","Number","Practising","Pharmacists",5891,TRUE
+2019,"Turkey","Number","Practising","Physiotherapists",5891,TRUE

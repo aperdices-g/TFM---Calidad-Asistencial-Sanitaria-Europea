@@ -1,0 +1,153 @@
+---
+title: "Médicos por Especialidad"
+author: "Alicia Perdices Guerra"
+date: '`r format(Sys.Date(),"%e de %B, %Y")`'
+output:
+  html_document:
+    number_sections: no
+    toc: yes
+  pdf_document:
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### **1.PROCESAMIENTO DE LOS DATOS.**
+
+* En primer lugar leemos el fichero:
+
+```{r}
+medicos_e<-read.csv("C:/temp/Medicos_x_especialidad.csv",sep= ",")
+```
+ 
+* Realicemos una breve inspección de los datos
+
+```{r}
+str(medicos_e)
+```
+
+```{r}
+colnames(medicos_e) #Nombre de las variables
+nrow(medicos_e) #Número de registros
+ncol(medicos_e) #Número de variables
+```
+
+*Observamos las siguientes variables:
+
+  * **TIME**: variable cuantitativa. Indica el año en el que se ha realizado la medida, en este caso el valor de la variable "Value". Se ha cargado bien como número entero.
+  * **GEO**: variable cualitativa. Indica el país o región en el que se ha realizado la medida.Se ha cargado bien como factor.
+  * **UNIT**: variable cualitativa. Indica la medida de la variable valor.Se ha cargado bien como factor.
+  * **MED_SPEC**: variable cualitativa. Indica la especialidad médica.
+  * **Value**: Variable cuantitativa. Indica el número de médicos por especialidad médica y por países.
+  * **Fal.and.footnotes**. Notas sobre etiquetas. Eliminamos esta columna.
+
+*Años de las mediciones:
+
+```{r}
+unique(medicos_e$TIME)
+```
+
+*Paises:
+
+```{r}
+unique(medicos_e$GEO)
+```
+
+*Unidad de las mediciones:
+
+```{r}
+unique(medicos_e$UNIT)
+```
+
+*Variable que indica la especialidad médica
+
+```{r}
+unique(medicos_e$MED_SPEC)
+```
+
+* Eliminamos la columna Fal.and.footnotes.
+
+```{r}
+medicos_e<-medicos_e[,-6]
+```
+
+* Tendríamos que convertir la columna Value a numérico porque se ha cargado como factor y es erróneo. El resto de variables tienen el tipo correcto.
+
+```{r}
+medicos_e$Value<-as.character(medicos_e$Value)
+medicos_e$Value<-(gsub(',','.',medicos_e$Value) )
+medicos_e$Value<-(gsub(' ','',medicos_e$Value) )
+medicos_e$Value<-as.numeric(medicos_e$Value)
+```
+
+* Comprobamos que valores tenemos en la columna **Value**:
+
+```{r}
+table(medicos_e$Value, useNA = "ifany")
+```
+
+* Observamos que tenemos **390 valores perdidos**.Guardamos en la variable **idx** los índices de los registros con valores **NA** de la variable **Value**.
+
+```{r}
+idx<-which(is.na(medicos_e$Value))
+length(idx)
+
+```
+
+* Grafiquemos la información que contiene la variable **Value**
+
+```{r}
+library(ggplot2)
+library(scales)
+g = ggplot(medicos_e, aes(TIME, fill=is.na(Value)) ) +
+labs(title = "Valores Nulos")+ylab("") +
+theme(plot.title = element_text(size = rel(2), colour = "blue"))
+
+g+geom_bar(position="dodge") + scale_fill_manual(values = alpha(c("orange", "blue"), 1)) +
+theme(axis.title.x = element_text(face="bold", size=10)) 
+```
+
+* En caso de detectar algún valor anómalo (en nuestro caso los NAS) en las variables tendríamos que realizar una imputación de esos valores o bien sustituyéndolos por la media o usando el algoritmo KNN ( k-Nearest Neighbour) con los 3 vecinos más cercanos usando la distancia que consideremos, en este caso usaremos Gower(Mediana), por ser una medida más robusa frente a extremos.
+
+```{r}
+library(VIM)
+output<-kNN(medicos_e, variable=c("Value"),k=3) 
+medicos_e<-output
+```
+
+* Comprobamos que no tenemos valores nulos después de la imputación
+
+```{r}
+g = ggplot(medicos_e, aes(TIME, fill=is.na(Value)) ) +
+labs(title = "Valores Nulos")+ylab("") +
+theme(plot.title = element_text(size = rel(2), colour = "blue"))
+
+g+geom_bar(position="dodge") + scale_fill_manual(values = alpha(c("orange", "blue"), 1)) +
+theme(axis.title.x = element_text(face="bold", size=10)) 
+```
+
+* Con el siguiente gráfico, observaremos que la variable **Value**  tiene outliers o valores extremos
+
+```{r}
+boxplot(medicos_e$Value, main="Value")
+```
+
+* Por otro lado, revisamos para el resto de columnas si tenemos valores NA.(desconocidos o perdidos)
+
+```{r}
+table(medicos_e$TIME, useNA = "ifany")
+table(medicos_e$GEO, useNA = "ifany")
+table(medicos_e$UNIT, useNA = "ifany")
+table(medicos_e$MED_SPEC, useNA = "ifany")
+```
+
+Observamos que no existen ahora valores perdidos después de la imputación.La suma de las cantidades de cada variable, suman el total.
+
+* Finalmente, creamos un fichero con toda la información corregida.
+
+```{r}
+write.csv(medicos_e, file="Medicos_x_especialidad_clean.csv", row.names = FALSE)
+```
+
