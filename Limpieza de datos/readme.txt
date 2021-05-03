@@ -22,11 +22,13 @@ Archivos con información sobre la limpieza de datos relativos a:
     -Pacientes_Dialisis_Trasplantes
     -RatioAltas_HospitalDia_Diagnostico
 4.- Cuidados Domiciliarios
+    -CuidadosDomiciliarios
 5.- Prevención.
     -Deteccion_Cancer_Mama_Cervix
     -Deteccion_EnfCardio_Diabetes
     -Vacunacion+65
 6.- Estado de Salud por Sexo
+    -EstadoDeSalud_Sex
 7.- Causas de Muerte.
     -Mortalidad_Tratable_Prevenible
     -Muertes_Enf_Infecciosas
