@@ -1,0 +1,170 @@
+---
+title: "Ratio de altas en hospital de día por diagnóstico, sexo y edad "
+author: "Alicia Perdices Guerra"
+date: '`r format(Sys.Date(),"%e de %B, %Y")`'
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    number_sections: no
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### **1.PROCESAMIENTO DE LOS DATOS.**
+
+* En primer lugar leemos el fichero:
+
+```{r}
+ratio_altasHD<-read.csv("C:/temp/RatioAltas_HospitalDia_Diagnostico.csv",sep= ",")
+```
+ 
+* Realicemos una breve inspección de los datos
+
+```{r}
+str(ratio_altasHD)
+```
+
+```{r}
+colnames(ratio_altasHD) #Nombre de las variables
+nrow(ratio_altasHD) #Número de registros
+ncol(ratio_altasHD) #Número de variables
+```
+
+*Observamos las siguientes variables:
+
+  * **TIME**: variable cuantitativa. Indica el año en el que se ha realizado la medida, en este caso el valor de la variable "Value". Se ha cargado bien como número entero.
+  * **GEO**: variable cualitativa. Indica el país o región en el que se ha realizado la medida.Se ha cargado bien como factor.
+  * **UNIT**: variable cualitativa. Indica la medida de la variable valor.Se ha cargado bien como factor.RAtio (por 100.000 hab)
+  * **AGE**: variable cualitativa. Indica la edad del paciente.
+  * **INDIC_HE**: variable cualitativa. Hace referencia al número total de casos en hospital de día.
+  * **ICD10**:variable cualitativa. En relación al tipo de enfermedad diagnosticada.
+  * **Value**: Variable cuantitativa. Indica el ratio de pacientes en hospital de día por diagnóstico.
+  * **Fal.and.footnotes**. Notas sobre etiquetas. Eliminamos esta columna.
+
+*Años de las mediciones:
+
+```{r}
+unique(ratio_altasHD$TIME)
+```
+
+*Paises:
+
+```{r}
+unique(ratio_altasHD$GEO)
+```
+
+*Unidad de las mediciones:
+
+```{r}
+unique(ratio_altasHD$UNIT)
+```
+
+* Edad del paciente.
+
+```{r}
+unique(ratio_altasHD$AGE)
+```
+
+* Número total de casos en hospital de día. 
+
+```{r}
+unique(ratio_altasHD$INDIC_HE)
+```
+
+* En relación al tipo de enfermedad diagnosticada
+
+```{r}
+unique(ratio_altasHD$ICD10)
+```
+
+
+* Eliminamos la columna Fal.and.footnotes.
+
+```{r}
+ratio_altasHD<-ratio_altasHD[,-9]
+```
+
+* Tendríamos que convertir la columna Value a numérico porque se ha cargado como factor y es erróneo. El resto de variables tienen el tipo correcto.
+
+```{r}
+ratio_altasHD$Value<-as.character(ratio_altasHD$Value)
+ratio_altasHD$Value<-(gsub(',','.',ratio_altasHD$Value) )
+ratio_altasHD$Value<-(gsub(' ','',ratio_altasHD$Value) )
+ratio_altasHD$Value<-as.numeric(ratio_altasHD$Value)
+```
+
+* Comprobamos que valores tenemos en la columna **Value**:
+
+```{r}
+tail(table(ratio_altasHD$Value, useNA = "ifany"))
+```
+
+* Observamos que tenemos **9046 valores perdidos**.Guardamos en la variable **idx** los índices de los registros con valores **NA** de la variable **Value**.
+
+```{r}
+idx<-which(is.na(ratio_altasHD$Value))
+length(idx)
+
+```
+
+* Grafiquemos la información que contiene la variable **Value**
+
+```{r}
+library(ggplot2)
+library(scales)
+g = ggplot(ratio_altasHD, aes(TIME, fill=is.na(Value)) ) +
+labs(title = "Valores Nulos")+ylab("") +
+theme(plot.title = element_text(size = rel(2), colour = "blue"))
+
+g+geom_bar(position="dodge") + scale_fill_manual(values = alpha(c("orange", "blue"), 1)) +
+theme(axis.title.x = element_text(face="bold", size=10)) 
+```
+
+* En caso de detectar algún valor anómalo (en nuestro caso los NAS) en las variables tendríamos que realizar una imputación de esos valores o bien sustituyéndolos por la media o usando el algoritmo KNN ( k-Nearest Neighbour) con los 3 vecinos más cercanos usando la distancia que consideremos, en este caso usaremos Gower(Mediana), por ser una medida más robusa frente a extremos.
+
+```{r}
+library(VIM)
+output<-kNN(ratio_altasHD, variable=c("Value"),k=3) 
+ratio_altasHD<-output
+```
+
+* Comprobamos que no tenemos valores nulos después de la imputación
+
+```{r}
+g = ggplot(ratio_altasHD, aes(TIME, fill=is.na(Value)) ) +
+labs(title = "Valores Nulos")+ylab("") +
+theme(plot.title = element_text(size = rel(2), colour = "blue"))
+
+g+geom_bar(position="dodge") + scale_fill_manual(values = alpha(c("orange", "blue"), 1)) +
+theme(axis.title.x = element_text(face="bold", size=10)) 
+```
+
+* Con el siguiente gráfico, observaremos que la variable **Value**  tiene outliers o valores extremos
+
+```{r}
+boxplot(ratio_altasHD$Value, main="Value")
+```
+
+* Por otro lado, revisamos para el resto de columnas si tenemos valores NA.(desconocidos o perdidos)
+
+```{r}
+table(ratio_altasHD$TIME, useNA = "ifany")
+table(ratio_altasHD$GEO, useNA = "ifany")
+table(ratio_altasHD$UNIT, useNA = "ifany")
+table(ratio_altasHD$AGE, useNA = "ifany")
+table(ratio_altasHD$INDIC_HE, useNA = "ifany")
+table(ratio_altasHD$ICD10, useNA = "ifany")
+```
+
+Observamos que no existen ahora valores perdidos después de la imputación.La suma de las cantidades de cada variable, suman el total.
+
+* Finalmente, creamos un fichero con toda la información corregida.
+
+```{r}
+write.csv(ratio_altasHD, file="RatioAltas_HospitalDia_Diagnostico_clean.csv", row.names = FALSE)
+```
+

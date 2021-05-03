@@ -1,0 +1,166 @@
+---
+title: "Pacientes en Diálisis y Trasplantados"
+author: "Alicia Perdices Guerra"
+date: '`r format(Sys.Date(),"%e de %B, %Y")`'
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    number_sections: no
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### **1.PROCESAMIENTO DE LOS DATOS.**
+
+* En primer lugar leemos el fichero:
+
+```{r}
+dt<-read.csv("C:/temp/Pacientes_Dialisis_Trasplantes.csv",sep= ",")
+```
+ 
+* Realicemos una breve inspección de los datos
+
+```{r}
+str(dt)
+```
+
+```{r}
+colnames(dt) #Nombre de las variables
+nrow(dt) #Número de registros
+ncol(dt) #Número de variables
+```
+
+*Observamos las siguientes variables:
+
+  * **TIME**: variable cuantitativa. Indica el año en el que se ha realizado la medida, en este caso el valor de la variable "Value". Se ha cargado bien como número entero.
+  * **GEO**: variable cualitativa. Indica el país o región en el que se ha realizado la medida.Se ha cargado bien como factor.
+  * **UNIT**: variable cualitativa. Indica la medida de la variable valor.Se ha cargado bien como factor. Total y ratio
+  * **ICD9CM**: Variable cualitativa. Hace referencia a si el paciente está recibiendo diálisis o está trasplantado.
+  * **Value**: Variable cuantitativa. Indica el número y ratio de pacientes en diálisis y trasplantados.
+  * **Fal.and.footnotes**. Notas sobre etiquetas. Eliminamos esta columna.
+
+*Años de las mediciones:
+
+```{r}
+unique(dt$TIME)
+```
+
+*Paises:
+
+```{r}
+unique(dt$GEO)
+```
+
+*Unidad de las mediciones:
+
+```{r}
+unique(dt$UNIT)
+```
+
+* En relación a si el paciente está en diálisis o trasplantado.
+
+```{r}
+unique(dt$ICD9CM)
+```
+
+* Eliminamos la columna Fal.and.footnotes ya que no nos aporta información relevante.
+
+```{r}
+dt<-dt[,-6]
+
+
+
+
+```
+
+* Tendríamos que resolver las posibles inconsistencias en relación al formato del valor numérico de la variable **Value** y convertirla a valor numérico.
+
+```{r}
+dt$Value<-as.character(dt$Value)
+dt$Value<- (gsub(',','.',dt$Value) )
+dt$Value<- (gsub(' ','',dt$Value) )
+dt$Value<- as.numeric(dt$Value)
+
+```
+
+* Comprobamos que valores tenemos en la columna **Value**:
+
+```{r}
+tail(table(dt$Value, useNA = "ifany"))
+```
+
+* Observamos que tenemos **759 valores perdidos**.Guardamos en la variable **idx** los índices de los registros con valores **NA** de la variable **Value**.
+
+```{r}
+idx<-which(is.na(dt$Value))
+length(idx)
+
+```
+
+* Grafiquemos la información que contiene la variable **Value**. 
+
+```{r}
+library(ggplot2)
+library(scales)
+g = ggplot(dt, aes(TIME, fill=is.na(Value)) ) +
+labs(title = "Valores Nulos")+ylab("") +
+theme(plot.title = element_text(size = rel(2), colour = "blue"))
+
+g+geom_bar(position="dodge") + scale_fill_manual(values = alpha(c("orange", "blue"), 1)) +
+theme(axis.title.x = element_text(face="bold", size=10)) 
+```
+
+* En caso de detectar algún valor anómalo (en nuestro caso los NAS) en las variables tendríamos que realizar una imputación de esos valores o bien sustituyéndolos por la media o usando el algoritmo KNN ( k-Nearest Neighbour) con los 3 vecinos más cercanos usando la distancia que consideremos, en este caso usaremos Gower(Mediana), por ser una medida más robusa frente a extremos.
+
+```{r}
+library(VIM)
+output<-kNN(dt, variable=c("Value"),k=3) 
+dt<-output
+```
+
+* Comprobamos que no tenemos valores nulos después de la imputación
+
+```{r}
+g = ggplot(dt, aes(TIME, fill=is.na(Value)) ) +
+labs(title = "Valores Nulos")+ylab("") +
+theme(plot.title = element_text(size = rel(2), colour = "blue"))
+
+g+geom_bar(position="dodge") + scale_fill_manual(values = alpha(c("orange", "blue"), 1)) +
+theme(axis.title.x = element_text(face="bold", size=10)) 
+```
+
+* Con el siguiente gráfico, observaremos que la variable **Value** tiene outliers o valores extremos
+
+```{r}
+boxplot(dt$Value, main="Value")
+```
+
+* Por otro lado, revisamos para el resto de columnas si tenemos valores NA.(desconocidos o perdidos)
+
+```{r}
+table(dt$TIME, useNA = "ifany")
+table(dt$GEO, useNA = "ifany")
+table(dt$UNIT, useNA = "ifany")
+table(dt$ICD9CM, useNA = "ifany")
+
+```
+
+Observamos que no existen ahora valores perdidos después de la imputación.La suma de las cantidades de cada variable, suman el total.
+
+La estructura de los datos quedaría:
+
+```{r}
+str(dt)
+```
+
+
+* Finalmente, creamos un fichero con toda la información corregida.
+
+```{r}
+write.csv(dt, file="Pacientes_Dialisis_Trasplantes_clean.csv", row.names = FALSE)
+```
+
