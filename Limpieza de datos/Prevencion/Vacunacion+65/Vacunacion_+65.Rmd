@@ -1,0 +1,156 @@
+---
+title: "Vacunación a la población mayor de 65 años"
+author: "Alicia Perdices Guerra"
+date: '`r format(Sys.Date(),"%e de %B, %Y")`'
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    number_sections: no
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### **1.PROCESAMIENTO DE LOS DATOS.**
+
+* En primer lugar leemos el fichero:
+
+```{r}
+vacuna<-read.csv("C:/temp/Vacunacion_+65.csv",sep= ",")
+```
+ 
+* Realicemos una breve inspección de los datos
+
+```{r}
+str(vacuna)
+```
+
+```{r}
+colnames(vacuna) #Nombre de las variables
+nrow(vacuna) #Número de registros
+ncol(vacuna) #Número de variables
+```
+
+*Observamos las siguientes variables:
+
+  * **TIME**: variable cuantitativa. Indica el año en el que se ha realizado la medida, en este caso el valor de la variable "Value". Se ha cargado bien como número entero.
+  * **GEO**: variable cualitativa. Indica el país o región en el que se ha realizado la medida.Se ha cargado bien como factor.
+  * **UNIT**: variable cualitativa. Indica la medida de la variable valor.Se ha cargado bien como factor.Porcentaje.
+  * **Value**: Variable cuantitativa. Indica el porcentaje de población mayor de 65 años a la que se le ha vacunado.Se ha cargado mal como factor.
+  * **Fal.and.footnotes**. Notas sobre etiquetas. Eliminamos esta columna.
+
+*Años de las mediciones:
+
+```{r}
+unique(vacuna$TIME)
+```
+
+*Paises:
+
+```{r}
+unique(vacuna$GEO)
+```
+
+*Unidad de las mediciones:
+
+```{r}
+unique(vacuna$UNIT)
+```
+
+
+
+* Eliminamos la columna Fal.and.footnotes
+
+```{r}
+vacuna<-vacuna[,-5]
+
+
+```
+
+* Tendríamos que resolver las posibles inconsistencias en relación al formato del valor numérico de la variable **Value** y convertirla a valor numérico.
+
+```{r}
+vacuna$Value<-as.character(vacuna$Value)
+vacuna$Value<-as.numeric (gsub(',','.',vacuna$Value) )
+
+```
+
+* Comprobamos que valores tenemos en la columna **Value**:
+
+```{r}
+tail(table(vacuna$Value, useNA = "ifany"))
+```
+
+* Observamos que tenemos **119 valores perdidos**.Guardamos en la variable **idx** los índices de los registros con valores **NA** de la variable **Value**.
+
+```{r}
+idx<-which(is.na(vacuna$Value))
+length(idx)
+
+```
+
+* Grafiquemos la información que contiene la variable **Value**. 
+
+```{r}
+library(ggplot2)
+library(scales)
+g = ggplot(vacuna, aes(TIME, fill=is.na(Value)) ) +
+labs(title = "Valores Nulos")+ylab("") +
+theme(plot.title = element_text(size = rel(2), colour = "blue"))
+
+g+geom_bar(position="dodge") + scale_fill_manual(values = alpha(c("orange", "blue"), 1)) +
+theme(axis.title.x = element_text(face="bold", size=10)) 
+```
+
+* En caso de detectar algún valor anómalo (en nuestro caso los NAS) en las variables tendríamos que realizar una imputación de esos valores o bien sustituyéndolos por la media o usando el algoritmo KNN ( k-Nearest Neighbour) con los 3 vecinos más cercanos usando la distancia que consideremos, en este caso usaremos Gower(Mediana), por ser una medida más robusa frente a extremos.
+
+```{r}
+library(VIM)
+output<-kNN(vacuna, variable=c("Value"),k=3) 
+vacuna<-output
+```
+
+* Comprobamos que no tenemos valores nulos después de la imputación
+
+```{r}
+g = ggplot(vacuna, aes(TIME, fill=is.na(Value)) ) +
+labs(title = "Valores Nulos")+ylab("") +
+theme(plot.title = element_text(size = rel(2), colour = "blue"))
+
+g+geom_bar(position="dodge") + scale_fill_manual(values = alpha(c("orange", "blue"), 1)) +
+theme(axis.title.x = element_text(face="bold", size=10)) 
+```
+
+* Con el siguiente gráfico, observaremos que la variable **Value** no tiene outliers o valores extremos
+
+```{r}
+boxplot(vacuna$Value, main="Value")
+```
+
+* Por otro lado, revisamos para el resto de columnas si tenemos valores NA.(desconocidos o perdidos)
+
+```{r}
+table(vacuna$TIME, useNA = "ifany")
+table(vacuna$GEO, useNA = "ifany")
+table(vacuna$UNIT, useNA = "ifany")
+
+```
+
+Observamos que no existen ahora valores perdidos después de la imputación.La suma de las cantidades de cada variable, suman el total.
+
+La estructura de los datos quedaría:
+
+```{r}
+str(vacuna)
+```
+
+
+* Finalmente, creamos un fichero con toda la información corregida.
+
+```{r}
+write.csv(vacuna, file="Vacunacion_+65_clean.csv", row.names = FALSE)
+```
+
