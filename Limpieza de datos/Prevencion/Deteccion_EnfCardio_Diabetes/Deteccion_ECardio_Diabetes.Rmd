@@ -1,0 +1,160 @@
+---
+title: "Detección Enfermedades Cardiovasculares y Diabetes"
+author: "Alicia Perdices Guerra"
+date: '`r format(Sys.Date(),"%e de %B, %Y")`'
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    number_sections: no
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### **1.PROCESAMIENTO DE LOS DATOS.**
+
+* En primer lugar leemos el fichero:
+
+```{r}
+cardio_diabetes<-read.csv("C:/temp/Deteccion_enfCardio_Diabetes.csv",sep= ",")
+```
+ 
+* Realicemos una breve inspección de los datos
+
+```{r}
+str(cardio_diabetes)
+```
+
+```{r}
+colnames(cardio_diabetes) #Nombre de las variables
+nrow(cardio_diabetes) #Número de registros
+ncol(cardio_diabetes) #Número de variables
+```
+
+*Observamos las siguientes variables:
+
+  * **TIME**: variable cuantitativa. Indica el año en el que se ha realizado la medida, en este caso el valor de la variable "Value". Se ha cargado bien como número entero.
+  * **GEO**: variable cualitativa. Indica el país o región en el que se ha realizado la medida.Se ha cargado bien como factor.
+  * **UNIT**: variable cualitativa. Indica la medida de la variable valor.Se ha cargado bien como factor.Porcentaje.
+  * **HLTHCARE**: variable cualitativa. Indica el tipo de medida.
+  * **ISCED11**:Variable cualitativa. Estándar en estadísticas de educación en el que se hacen las mediciones.
+  * **DURATION**: variable cualitativa. Indica durante cuánto tiempo se hace la medición.
+  * **SEX**: Variable cualitativa. En cómputo total.No hay distinción entre sexos.
+  * **AGE**: Variable cualitativa. En Cómputo total. No hay distinción en edades.
+  * **Value**: Variable cuantitativa. Indica el porcentaje de población a la que se le ha hecho cada medida en sangre por países.Se ha cargado bien como valor numérico.
+  * **Fal.and.footnotes**. Notas sobre etiquetas. Eliminamos esta columna.
+
+*Años de las mediciones:
+
+```{r}
+unique(cardio_diabetes$TIME)
+```
+
+*Paises:
+
+```{r}
+unique(cardio_diabetes$GEO)
+```
+
+*Unidad de las mediciones:
+
+```{r}
+unique(cardio_diabetes$UNIT)
+```
+
+* Tipo de medida en sangre:
+
+```{r}
+unique(cardio_diabetes$HLTHCARE)
+```
+
+*Estándar de las mediciones.
+
+```{r}
+unique(cardio_diabetes$ISCED11)
+```
+
+* Duración de las mediciones
+
+```{r}
+unique(cardio_diabetes$DURATION)
+```
+
+* Eliminamos la columna Fal.and.footnotes, SEX Y AGE, ya que no nos aporta información relevante.
+
+```{r}
+cardio_diabetes<-cardio_diabetes[,-10]
+cardio_diabetes<-cardio_diabetes[,-8]
+cardio_diabetes<-cardio_diabetes[,-7]
+
+```
+
+* Tendríamos que resolver las posibles inconsistencias en relación al formato del valor numérico de la variable **Value**
+
+```{r}
+cardio_diabetes$Value<-as.character(cardio_diabetes$Value)
+cardio_diabetes$Value<-as.numeric (gsub(',','.',cardio_diabetes$Value) )
+
+```
+
+* Comprobamos que valores tenemos en la columna **Value**:
+
+```{r}
+tail(table(cardio_diabetes$Value, useNA = "ifany"))
+```
+
+* Observamos que no tenemos valores perdidos.Guardamos en la variable **idx** los índices de los registros con valores **NA** de la variable **Value**.Observamos que es cero.
+
+```{r}
+idx<-which(is.na(cardio_diabetes$Value))
+length(idx)
+
+```
+
+* Grafiquemos la información que contiene la variable **Value**. No hay valores perdidos.
+
+```{r}
+library(ggplot2)
+library(scales)
+g = ggplot(cardio_diabetes, aes(TIME, fill=is.na(Value)) ) +
+labs(title = "Valores Nulos")+ylab("") +
+theme(plot.title = element_text(size = rel(2), colour = "blue"))
+
+g+geom_bar(position="dodge") + scale_fill_manual(values = alpha(c("orange", "blue"), 1)) +
+theme(axis.title.x = element_text(face="bold", size=10)) 
+```
+
+* Con el siguiente gráfico, observaremos que la variable **Value** no tiene outliers o valores extremos
+
+```{r}
+boxplot(cardio_diabetes$Value, main="Value")
+```
+
+* Por otro lado, revisamos para el resto de columnas si tenemos valores NA.(desconocidos o perdidos)
+
+```{r}
+table(cardio_diabetes$TIME, useNA = "ifany")
+table(cardio_diabetes$GEO, useNA = "ifany")
+table(cardio_diabetes$UNIT, useNA = "ifany")
+table(cardio_diabetes$HLTHCARE, useNA = "ifany")
+table(cardio_diabetes$ISCED11, useNA = "ifany")
+```
+
+Observamos que no existen ahora valores perdidos después de la imputación.La suma de las cantidades de cada variable, suman el total.
+
+La estructura de los datos quedaría:
+
+```{r}
+str(cardio_diabetes)
+```
+
+
+* Finalmente, creamos un fichero con toda la información corregida.
+
+```{r}
+write.csv(cardio_diabetes, file="Deteccion_enfCardio_Diabetes_clean.csv", row.names = FALSE)
+```
+

@@ -1,0 +1,381 @@
+"TIME","GEO","UNIT","Value","Value_imp"
+2010,"European Union - 27 countries (from 2020)","Percentage",49.04,FALSE
+2010,"European Union - 28 countries (2013-2020)","Percentage",51.81,FALSE
+2010,"Belgium","Percentage",58,TRUE
+2010,"Bulgaria","Percentage",49.04,TRUE
+2010,"Czechia","Percentage",17.43,FALSE
+2010,"Denmark","Percentage",47,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Percentage",56.1,FALSE
+2010,"Estonia","Percentage",1,FALSE
+2010,"Ireland","Percentage",63.8,FALSE
+2010,"Greece","Percentage",49.04,TRUE
+2010,"Spain","Percentage",56.9,FALSE
+2010,"France","Percentage",56.2,FALSE
+2010,"Croatia","Percentage",34,FALSE
+2010,"Italy","Percentage",65.63,FALSE
+2010,"Cyprus","Percentage",49.04,TRUE
+2010,"Latvia","Percentage",1.15,FALSE
+2010,"Lithuania","Percentage",9.1,FALSE
+2010,"Luxembourg","Percentage",45.19,FALSE
+2010,"Hungary","Percentage",29.7,FALSE
+2010,"Malta","Percentage",53.7,TRUE
+2010,"Netherlands","Percentage",72,TRUE
+2010,"Austria","Percentage",49.04,TRUE
+2010,"Poland","Percentage",49.04,TRUE
+2010,"Portugal","Percentage",48.3,FALSE
+2010,"Romania","Percentage",18.7,FALSE
+2010,"Slovenia","Percentage",17.7,FALSE
+2010,"Slovakia","Percentage",23.8,FALSE
+2010,"Finland","Percentage",40.3,FALSE
+2010,"Sweden","Percentage",55.2,FALSE
+2010,"Iceland","Percentage",45,TRUE
+2010,"Liechtenstein","Percentage",27.8,TRUE
+2010,"Norway","Percentage",7.7,FALSE
+2010,"Switzerland","Percentage",46,FALSE
+2010,"United Kingdom","Percentage",72.8,FALSE
+2010,"Montenegro","Percentage",15.17,FALSE
+2010,"North Macedonia","Percentage",5.8,TRUE
+2010,"Serbia","Percentage",9.8,FALSE
+2010,"Turkey","Percentage",12.2,FALSE
+2011,"European Union - 27 countries (from 2020)","Percentage",47.7,FALSE
+2011,"European Union - 28 countries (2013-2020)","Percentage",50.79,FALSE
+2011,"Belgium","Percentage",58,TRUE
+2011,"Bulgaria","Percentage",47.7,TRUE
+2011,"Czechia","Percentage",17.7,FALSE
+2011,"Denmark","Percentage",48,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Percentage",56.1,TRUE
+2011,"Estonia","Percentage",0.9,FALSE
+2011,"Ireland","Percentage",56.3,FALSE
+2011,"Greece","Percentage",48.91,TRUE
+2011,"Spain","Percentage",57.7,FALSE
+2011,"France","Percentage",55.2,FALSE
+2011,"Croatia","Percentage",30,FALSE
+2011,"Italy","Percentage",62.4,FALSE
+2011,"Cyprus","Percentage",47.7,TRUE
+2011,"Latvia","Percentage",2.02,FALSE
+2011,"Lithuania","Percentage",9,FALSE
+2011,"Luxembourg","Percentage",45.38,FALSE
+2011,"Hungary","Percentage",31.3,FALSE
+2011,"Malta","Percentage",53.7,TRUE
+2011,"Netherlands","Percentage",72,TRUE
+2011,"Austria","Percentage",47.7,TRUE
+2011,"Poland","Percentage",47.7,TRUE
+2011,"Portugal","Percentage",43.4,FALSE
+2011,"Romania","Percentage",9.1,FALSE
+2011,"Slovenia","Percentage",15.9,FALSE
+2011,"Slovakia","Percentage",21.9,FALSE
+2011,"Finland","Percentage",38.5,FALSE
+2011,"Sweden","Percentage",46.1,FALSE
+2011,"Iceland","Percentage",45,TRUE
+2011,"Liechtenstein","Percentage",27.8,TRUE
+2011,"Norway","Percentage",14.1,FALSE
+2011,"Switzerland","Percentage",47.7,TRUE
+2011,"United Kingdom","Percentage",74,FALSE
+2011,"Montenegro","Percentage",15.63,FALSE
+2011,"North Macedonia","Percentage",5.8,TRUE
+2011,"Serbia","Percentage",10.8,FALSE
+2011,"Turkey","Percentage",12.2,TRUE
+2012,"European Union - 27 countries (from 2020)","Percentage",47.7,TRUE
+2012,"European Union - 28 countries (2013-2020)","Percentage",50.79,TRUE
+2012,"Belgium","Percentage",58,TRUE
+2012,"Bulgaria","Percentage",17.97,TRUE
+2012,"Czechia","Percentage",17.97,FALSE
+2012,"Denmark","Percentage",45,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Percentage",58.6,FALSE
+2012,"Estonia","Percentage",0.9,FALSE
+2012,"Ireland","Percentage",56.9,FALSE
+2012,"Greece","Percentage",48.91,TRUE
+2012,"Spain","Percentage",57,FALSE
+2012,"France","Percentage",53.1,FALSE
+2012,"Croatia","Percentage",23,FALSE
+2012,"Italy","Percentage",62.72,FALSE
+2012,"Cyprus","Percentage",32.4,TRUE
+2012,"Latvia","Percentage",1.69,FALSE
+2012,"Lithuania","Percentage",9.7,FALSE
+2012,"Luxembourg","Percentage",43.29,FALSE
+2012,"Hungary","Percentage",30.9,FALSE
+2012,"Malta","Percentage",53.7,TRUE
+2012,"Netherlands","Percentage",73.5,FALSE
+2012,"Austria","Percentage",20.3,TRUE
+2012,"Poland","Percentage",17.97,TRUE
+2012,"Portugal","Percentage",44.9,FALSE
+2012,"Romania","Percentage",14.8,FALSE
+2012,"Slovenia","Percentage",14.5,FALSE
+2012,"Slovakia","Percentage",15.4,FALSE
+2012,"Finland","Percentage",36.4,FALSE
+2012,"Sweden","Percentage",44.3,FALSE
+2012,"Iceland","Percentage",45,TRUE
+2012,"Liechtenstein","Percentage",27.8,FALSE
+2012,"Norway","Percentage",11.4,FALSE
+2012,"Switzerland","Percentage",45,TRUE
+2012,"United Kingdom","Percentage",73.46,FALSE
+2012,"Montenegro","Percentage",15.2,FALSE
+2012,"North Macedonia","Percentage",5.8,TRUE
+2012,"Serbia","Percentage",9.4,FALSE
+2012,"Turkey","Percentage",13.2,FALSE
+2013,"European Union - 27 countries (from 2020)","Percentage",41.24,TRUE
+2013,"European Union - 28 countries (2013-2020)","Percentage",45.03,TRUE
+2013,"Belgium","Percentage",58,FALSE
+2013,"Bulgaria","Percentage",19.59,TRUE
+2013,"Czechia","Percentage",19.59,FALSE
+2013,"Denmark","Percentage",47,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Percentage",37.2,FALSE
+2013,"Estonia","Percentage",1.1,FALSE
+2013,"Ireland","Percentage",59.4,FALSE
+2013,"Greece","Percentage",56.18,TRUE
+2013,"Spain","Percentage",56.2,FALSE
+2013,"France","Percentage",51.9,FALSE
+2013,"Croatia","Percentage",21,FALSE
+2013,"Italy","Percentage",54.15,FALSE
+2013,"Cyprus","Percentage",32.4,TRUE
+2013,"Latvia","Percentage",3.07,FALSE
+2013,"Lithuania","Percentage",9.8,FALSE
+2013,"Luxembourg","Percentage",42.08,FALSE
+2013,"Hungary","Percentage",29,FALSE
+2013,"Malta","Percentage",53.7,TRUE
+2013,"Netherlands","Percentage",68.8,FALSE
+2013,"Austria","Percentage",20.3,TRUE
+2013,"Poland","Percentage",19.59,TRUE
+2013,"Portugal","Percentage",49.9,FALSE
+2013,"Romania","Percentage",8.8,FALSE
+2013,"Slovenia","Percentage",12.8,FALSE
+2013,"Slovakia","Percentage",15.6,FALSE
+2013,"Finland","Percentage",41,FALSE
+2013,"Sweden","Percentage",45.8,FALSE
+2013,"Iceland","Percentage",45,TRUE
+2013,"Liechtenstein","Percentage",27.8,FALSE
+2013,"Norway","Percentage",30.9,FALSE
+2013,"Switzerland","Percentage",46,TRUE
+2013,"United Kingdom","Percentage",73.32,FALSE
+2013,"Montenegro","Percentage",14.34,FALSE
+2013,"North Macedonia","Percentage",5.8,TRUE
+2013,"Serbia","Percentage",11,FALSE
+2013,"Turkey","Percentage",12.2,TRUE
+2014,"European Union - 27 countries (from 2020)","Percentage",41.24,FALSE
+2014,"European Union - 28 countries (2013-2020)","Percentage",45.03,FALSE
+2014,"Belgium","Percentage",58,TRUE
+2014,"Bulgaria","Percentage",2.4,FALSE
+2014,"Czechia","Percentage",18.82,FALSE
+2014,"Denmark","Percentage",45,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Percentage",38.1,FALSE
+2014,"Estonia","Percentage",1.4,FALSE
+2014,"Ireland","Percentage",60.2,FALSE
+2014,"Greece","Percentage",48.91,FALSE
+2014,"Spain","Percentage",56.2,FALSE
+2014,"France","Percentage",48.5,FALSE
+2014,"Croatia","Percentage",19,FALSE
+2014,"Italy","Percentage",55.45,FALSE
+2014,"Cyprus","Percentage",32.4,FALSE
+2014,"Latvia","Percentage",2.81,FALSE
+2014,"Lithuania","Percentage",10.3,FALSE
+2014,"Luxembourg","Percentage",40.1,FALSE
+2014,"Hungary","Percentage",27.1,FALSE
+2014,"Malta","Percentage",53.7,FALSE
+2014,"Netherlands","Percentage",72,FALSE
+2014,"Austria","Percentage",20.3,FALSE
+2014,"Poland","Percentage",9.7,FALSE
+2014,"Portugal","Percentage",50.9,FALSE
+2014,"Romania","Percentage",7.3,FALSE
+2014,"Slovenia","Percentage",10.9,FALSE
+2014,"Slovakia","Percentage",14.1,FALSE
+2014,"Finland","Percentage",40,FALSE
+2014,"Sweden","Percentage",49.7,FALSE
+2014,"Iceland","Percentage",45,TRUE
+2014,"Liechtenstein","Percentage",27.8,FALSE
+2014,"Norway","Percentage",26.9,FALSE
+2014,"Switzerland","Percentage",45.03,TRUE
+2014,"United Kingdom","Percentage",72.8,FALSE
+2014,"Montenegro","Percentage",13.65,FALSE
+2014,"North Macedonia","Percentage",5.2,FALSE
+2014,"Serbia","Percentage",10.3,FALSE
+2014,"Turkey","Percentage",9,FALSE
+2015,"European Union - 27 countries (from 2020)","Percentage",40.04,FALSE
+2015,"European Union - 28 countries (2013-2020)","Percentage",43.76,FALSE
+2015,"Belgium","Percentage",58,TRUE
+2015,"Bulgaria","Percentage",40.04,TRUE
+2015,"Czechia","Percentage",19.34,FALSE
+2015,"Denmark","Percentage",44,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Percentage",36.5,FALSE
+2015,"Estonia","Percentage",1.6,FALSE
+2015,"Ireland","Percentage",55.4,FALSE
+2015,"Greece","Percentage",48.91,TRUE
+2015,"Spain","Percentage",56.1,FALSE
+2015,"France","Percentage",50.8,FALSE
+2015,"Croatia","Percentage",21.5,FALSE
+2015,"Italy","Percentage",48.65,FALSE
+2015,"Cyprus","Percentage",40.04,TRUE
+2015,"Latvia","Percentage",2.46,FALSE
+2015,"Lithuania","Percentage",9.6,FALSE
+2015,"Luxembourg","Percentage",39.54,FALSE
+2015,"Hungary","Percentage",26,FALSE
+2015,"Malta","Percentage",53.7,TRUE
+2015,"Netherlands","Percentage",66.8,FALSE
+2015,"Austria","Percentage",40.04,TRUE
+2015,"Poland","Percentage",40.04,TRUE
+2015,"Portugal","Percentage",50.1,FALSE
+2015,"Romania","Percentage",10,FALSE
+2015,"Slovenia","Percentage",10.4,FALSE
+2015,"Slovakia","Percentage",13.8,FALSE
+2015,"Finland","Percentage",43.1,FALSE
+2015,"Sweden","Percentage",49.1,FALSE
+2015,"Iceland","Percentage",43,FALSE
+2015,"Liechtenstein","Percentage",27.8,FALSE
+2015,"Norway","Percentage",27,FALSE
+2015,"Switzerland","Percentage",43.76,TRUE
+2015,"United Kingdom","Percentage",71.13,FALSE
+2015,"Montenegro","Percentage",13.21,FALSE
+2015,"North Macedonia","Percentage",6.2,FALSE
+2015,"Serbia","Percentage",10.8,FALSE
+2015,"Turkey","Percentage",9,TRUE
+2016,"European Union - 27 countries (from 2020)","Percentage",39.88,FALSE
+2016,"European Union - 28 countries (2013-2020)","Percentage",43.55,FALSE
+2016,"Belgium","Percentage",58,TRUE
+2016,"Bulgaria","Percentage",39.88,TRUE
+2016,"Czechia","Percentage",20.24,FALSE
+2016,"Denmark","Percentage",47,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Percentage",35.3,FALSE
+2016,"Estonia","Percentage",2.8,FALSE
+2016,"Ireland","Percentage",54.5,FALSE
+2016,"Greece","Percentage",48.91,TRUE
+2016,"Spain","Percentage",55.5,FALSE
+2016,"France","Percentage",50,FALSE
+2016,"Croatia","Percentage",21,FALSE
+2016,"Italy","Percentage",49.9,FALSE
+2016,"Cyprus","Percentage",39.88,TRUE
+2016,"Latvia","Percentage",4.26,FALSE
+2016,"Lithuania","Percentage",11.3,FALSE
+2016,"Luxembourg","Percentage",37.97,FALSE
+2016,"Hungary","Percentage",24,FALSE
+2016,"Malta","Percentage",53.7,TRUE
+2016,"Netherlands","Percentage",64.6,FALSE
+2016,"Austria","Percentage",39.88,TRUE
+2016,"Poland","Percentage",39.88,TRUE
+2016,"Portugal","Percentage",57.5,FALSE
+2016,"Romania","Percentage",7.8,FALSE
+2016,"Slovenia","Percentage",9.8,FALSE
+2016,"Slovakia","Percentage",13.3,FALSE
+2016,"Finland","Percentage",47.3,FALSE
+2016,"Sweden","Percentage",49.4,FALSE
+2016,"Iceland","Percentage",47,FALSE
+2016,"Liechtenstein","Percentage",27.8,FALSE
+2016,"Norway","Percentage",38,FALSE
+2016,"Switzerland","Percentage",43.55,TRUE
+2016,"United Kingdom","Percentage",70.54,FALSE
+2016,"Montenegro","Percentage",13.16,FALSE
+2016,"North Macedonia","Percentage",5.8,FALSE
+2016,"Serbia","Percentage",10.7,FALSE
+2016,"Turkey","Percentage",7,FALSE
+2017,"European Union - 27 countries (from 2020)","Percentage",40.63,FALSE
+2017,"European Union - 28 countries (2013-2020)","Percentage",44.45,FALSE
+2017,"Belgium","Percentage",58,TRUE
+2017,"Bulgaria","Percentage",40.63,TRUE
+2017,"Czechia","Percentage",20.26,FALSE
+2017,"Denmark","Percentage",50,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Percentage",34.8,FALSE
+2017,"Estonia","Percentage",4.8,FALSE
+2017,"Ireland","Percentage",57.6,FALSE
+2017,"Greece","Percentage",48.91,TRUE
+2017,"Spain","Percentage",55.7,FALSE
+2017,"France","Percentage",49.7,FALSE
+2017,"Croatia","Percentage",23,FALSE
+2017,"Italy","Percentage",52,FALSE
+2017,"Cyprus","Percentage",40.63,TRUE
+2017,"Latvia","Percentage",6.88,FALSE
+2017,"Lithuania","Percentage",13.4,FALSE
+2017,"Luxembourg","Percentage",37.61,FALSE
+2017,"Hungary","Percentage",26.8,FALSE
+2017,"Malta","Percentage",55.5,FALSE
+2017,"Netherlands","Percentage",64,FALSE
+2017,"Austria","Percentage",40.63,TRUE
+2017,"Poland","Percentage",40.63,TRUE
+2017,"Portugal","Percentage",60.8,FALSE
+2017,"Romania","Percentage",16.1,FALSE
+2017,"Slovenia","Percentage",11.8,FALSE
+2017,"Slovakia","Percentage",13,FALSE
+2017,"Finland","Percentage",47.6,FALSE
+2017,"Sweden","Percentage",49.8,FALSE
+2017,"Iceland","Percentage",45,FALSE
+2017,"Liechtenstein","Percentage",20.2,FALSE
+2017,"Norway","Percentage",34.4,FALSE
+2017,"Switzerland","Percentage",44.45,TRUE
+2017,"United Kingdom","Percentage",72.56,FALSE
+2017,"Montenegro","Percentage",12.5,FALSE
+2017,"North Macedonia","Percentage",6.5,FALSE
+2017,"Serbia","Percentage",11.2,FALSE
+2017,"Turkey","Percentage",9,TRUE
+2018,"European Union - 27 countries (from 2020)","Percentage",41.37,FALSE
+2018,"European Union - 28 countries (2013-2020)","Percentage",45.02,FALSE
+2018,"Belgium","Percentage",59.1,FALSE
+2018,"Bulgaria","Percentage",41.37,TRUE
+2018,"Czechia","Percentage",21.45,FALSE
+2018,"Denmark","Percentage",52,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Percentage",35.3,TRUE
+2018,"Estonia","Percentage",10.2,FALSE
+2018,"Ireland","Percentage",68.5,FALSE
+2018,"Greece","Percentage",56.18,FALSE
+2018,"Spain","Percentage",54.3,FALSE
+2018,"France","Percentage",51,FALSE
+2018,"Croatia","Percentage",29,FALSE
+2018,"Italy","Percentage",52.7,FALSE
+2018,"Cyprus","Percentage",41.37,TRUE
+2018,"Latvia","Percentage",7.73,FALSE
+2018,"Lithuania","Percentage",14.8,FALSE
+2018,"Luxembourg","Percentage",39.76,FALSE
+2018,"Hungary","Percentage",24.1,FALSE
+2018,"Malta","Percentage",51.4,FALSE
+2018,"Netherlands","Percentage",62.7,FALSE
+2018,"Austria","Percentage",41.37,TRUE
+2018,"Poland","Percentage",41.37,TRUE
+2018,"Portugal","Percentage",57.5,TRUE
+2018,"Romania","Percentage",20.8,FALSE
+2018,"Slovenia","Percentage",12.9,FALSE
+2018,"Slovakia","Percentage",12.5,FALSE
+2018,"Finland","Percentage",49.5,FALSE
+2018,"Sweden","Percentage",52.2,FALSE
+2018,"Iceland","Percentage",49.4,FALSE
+2018,"Liechtenstein","Percentage",27.8,TRUE
+2018,"Norway","Percentage",38.2,FALSE
+2018,"Switzerland","Percentage",45.02,TRUE
+2018,"United Kingdom","Percentage",71.97,FALSE
+2018,"Montenegro","Percentage",13.59,FALSE
+2018,"North Macedonia","Percentage",6.9,FALSE
+2018,"Serbia","Percentage",11.1,FALSE
+2018,"Turkey","Percentage",9,TRUE
+2019,"European Union - 27 countries (from 2020)","Percentage",40.63,TRUE
+2019,"European Union - 28 countries (2013-2020)","Percentage",44.45,TRUE
+2019,"Belgium","Percentage",58,TRUE
+2019,"Bulgaria","Percentage",34,TRUE
+2019,"Czechia","Percentage",20.26,TRUE
+2019,"Denmark","Percentage",50,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Percentage",35.3,TRUE
+2019,"Estonia","Percentage",4.8,TRUE
+2019,"Ireland","Percentage",57.6,TRUE
+2019,"Greece","Percentage",54.9,TRUE
+2019,"Spain","Percentage",54.9,FALSE
+2019,"France","Percentage",50,TRUE
+2019,"Croatia","Percentage",34,FALSE
+2019,"Italy","Percentage",53.1,FALSE
+2019,"Cyprus","Percentage",34,TRUE
+2019,"Latvia","Percentage",11.65,FALSE
+2019,"Lithuania","Percentage",13.4,TRUE
+2019,"Luxembourg","Percentage",37.97,TRUE
+2019,"Hungary","Percentage",24.1,TRUE
+2019,"Malta","Percentage",53.7,TRUE
+2019,"Netherlands","Percentage",64,TRUE
+2019,"Austria","Percentage",34,TRUE
+2019,"Poland","Percentage",34,TRUE
+2019,"Portugal","Percentage",57.5,TRUE
+2019,"Romania","Percentage",16.1,TRUE
+2019,"Slovenia","Percentage",11.8,TRUE
+2019,"Slovakia","Percentage",13,TRUE
+2019,"Finland","Percentage",47.6,TRUE
+2019,"Sweden","Percentage",49.8,TRUE
+2019,"Iceland","Percentage",47.5,FALSE
+2019,"Liechtenstein","Percentage",27.8,TRUE
+2019,"Norway","Percentage",38,TRUE
+2019,"Switzerland","Percentage",46,TRUE
+2019,"United Kingdom","Percentage",71.97,TRUE
+2019,"Montenegro","Percentage",13.16,TRUE
+2019,"North Macedonia","Percentage",6.5,TRUE
+2019,"Serbia","Percentage",11.1,TRUE
+2019,"Turkey","Percentage",9,TRUE

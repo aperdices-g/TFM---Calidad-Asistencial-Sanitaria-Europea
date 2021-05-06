@@ -1,0 +1,1801 @@
+"TIME","GEO","UNIT","MED_SPEC","Value","Value_imp"
+2010,"Belgium","Number","Generalist medical practitioners",12228,FALSE
+2010,"Belgium","Number","General practitioners",12228,FALSE
+2010,"Belgium","Number","Other generalist medical practitioners",0,FALSE
+2010,"Belgium","Number","Specialist medical practitioners",19153,FALSE
+2010,"Belgium","Number","General paediatricians",1332,FALSE
+2010,"Bulgaria","Number","Generalist medical practitioners",5014,FALSE
+2010,"Bulgaria","Number","General practitioners",4761,FALSE
+2010,"Bulgaria","Number","Other generalist medical practitioners",253,FALSE
+2010,"Bulgaria","Number","Specialist medical practitioners",22949,FALSE
+2010,"Bulgaria","Number","General paediatricians",1425,FALSE
+2010,"Czechia","Number","Generalist medical practitioners",7369,FALSE
+2010,"Czechia","Number","General practitioners",7369,FALSE
+2010,"Czechia","Number","Other generalist medical practitioners",0,FALSE
+2010,"Czechia","Number","Specialist medical practitioners",30292,FALSE
+2010,"Czechia","Number","General paediatricians",1262,FALSE
+2010,"Denmark","Number","Generalist medical practitioners",4393,FALSE
+2010,"Denmark","Number","General practitioners",7369,TRUE
+2010,"Denmark","Number","Other generalist medical practitioners",0,TRUE
+2010,"Denmark","Number","Specialist medical practitioners",8746,FALSE
+2010,"Denmark","Number","General paediatricians",384,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","Generalist medical practitioners",74113,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","General practitioners",56831,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","Other generalist medical practitioners",17282,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","Specialist medical practitioners",229532,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","General paediatricians",12576,FALSE
+2010,"Estonia","Number","Generalist medical practitioners",979,FALSE
+2010,"Estonia","Number","General practitioners",857,FALSE
+2010,"Estonia","Number","Other generalist medical practitioners",122,FALSE
+2010,"Estonia","Number","Specialist medical practitioners",2962,FALSE
+2010,"Estonia","Number","General paediatricians",168,FALSE
+2010,"Ireland","Number","Generalist medical practitioners",12475,FALSE
+2010,"Ireland","Number","General practitioners",2534,FALSE
+2010,"Ireland","Number","Other generalist medical practitioners",9941,FALSE
+2010,"Ireland","Number","Specialist medical practitioners",6346,FALSE
+2010,"Ireland","Number","General paediatricians",262,FALSE
+2010,"Greece","Number","Generalist medical practitioners",3391,FALSE
+2010,"Greece","Number","General practitioners",2076,FALSE
+2010,"Greece","Number","Other generalist medical practitioners",1315,FALSE
+2010,"Greece","Number","Specialist medical practitioners",39552,FALSE
+2010,"Greece","Number","General paediatricians",3279,FALSE
+2010,"Spain","Number","Generalist medical practitioners",34620,FALSE
+2010,"Spain","Number","General practitioners",34620,FALSE
+2010,"Spain","Number","Other generalist medical practitioners",0,FALSE
+2010,"Spain","Number","Specialist medical practitioners",107542,FALSE
+2010,"Spain","Number","General paediatricians",11728,FALSE
+2010,"France","Number","Generalist medical practitioners",103262,FALSE
+2010,"France","Number","General practitioners",103262,FALSE
+2010,"France","Number","Other generalist medical practitioners",29761,TRUE
+2010,"France","Number","Specialist medical practitioners",108870,FALSE
+2010,"France","Number","General paediatricians",7232,FALSE
+2010,"Croatia","Number","Generalist medical practitioners",3350,FALSE
+2010,"Croatia","Number","General practitioners",2228,FALSE
+2010,"Croatia","Number","Other generalist medical practitioners",1122,FALSE
+2010,"Croatia","Number","Specialist medical practitioners",8954,FALSE
+2010,"Croatia","Number","General paediatricians",754,FALSE
+2010,"Italy","Number","Generalist medical practitioners",52944,FALSE
+2010,"Italy","Number","General practitioners",45878,FALSE
+2010,"Italy","Number","Other generalist medical practitioners",7066,FALSE
+2010,"Italy","Number","Specialist medical practitioners",173440,FALSE
+2010,"Italy","Number","General paediatricians",17197,FALSE
+2010,"Cyprus","Number","Generalist medical practitioners",735,TRUE
+2010,"Cyprus","Number","General practitioners",735,TRUE
+2010,"Cyprus","Number","Other generalist medical practitioners",0,TRUE
+2010,"Cyprus","Number","Specialist medical practitioners",2311,TRUE
+2010,"Cyprus","Number","General paediatricians",242,TRUE
+2010,"Latvia","Number","Generalist medical practitioners",1311,FALSE
+2010,"Latvia","Number","General practitioners",1311,FALSE
+2010,"Latvia","Number","Other generalist medical practitioners",0,FALSE
+2010,"Latvia","Number","Specialist medical practitioners",5206,FALSE
+2010,"Latvia","Number","General paediatricians",271,FALSE
+2010,"Lithuania","Number","Generalist medical practitioners",2381,FALSE
+2010,"Lithuania","Number","General practitioners",2291,FALSE
+2010,"Lithuania","Number","Other generalist medical practitioners",90,FALSE
+2010,"Lithuania","Number","Specialist medical practitioners",8285,FALSE
+2010,"Lithuania","Number","General paediatricians",828,FALSE
+2010,"Luxembourg","Number","Generalist medical practitioners",414,FALSE
+2010,"Luxembourg","Number","General practitioners",414,FALSE
+2010,"Luxembourg","Number","Other generalist medical practitioners",0,FALSE
+2010,"Luxembourg","Number","Specialist medical practitioners",992,FALSE
+2010,"Luxembourg","Number","General paediatricians",83,FALSE
+2010,"Hungary","Number","Generalist medical practitioners",7096,TRUE
+2010,"Hungary","Number","General practitioners",4390,TRUE
+2010,"Hungary","Number","Other generalist medical practitioners",2481,TRUE
+2010,"Hungary","Number","Specialist medical practitioners",25615,TRUE
+2010,"Hungary","Number","General paediatricians",2371,TRUE
+2010,"Malta","Number","Generalist medical practitioners",278,FALSE
+2010,"Malta","Number","General practitioners",278,FALSE
+2010,"Malta","Number","Other generalist medical practitioners",0,FALSE
+2010,"Malta","Number","Specialist medical practitioners",614,FALSE
+2010,"Malta","Number","General paediatricians",59,FALSE
+2010,"Netherlands","Number","Generalist medical practitioners",20848,FALSE
+2010,"Netherlands","Number","General practitioners",12133,FALSE
+2010,"Netherlands","Number","Other generalist medical practitioners",8715,FALSE
+2010,"Netherlands","Number","Specialist medical practitioners",28394,FALSE
+2010,"Netherlands","Number","General paediatricians",1484,FALSE
+2010,"Austria","Number","Generalist medical practitioners",13219,FALSE
+2010,"Austria","Number","General practitioners",6507,FALSE
+2010,"Austria","Number","Other generalist medical practitioners",6712,FALSE
+2010,"Austria","Number","Specialist medical practitioners",20103,FALSE
+2010,"Austria","Number","General paediatricians",1183,FALSE
+2010,"Poland","Number","Generalist medical practitioners",17484,FALSE
+2010,"Poland","Number","General practitioners",7918,FALSE
+2010,"Poland","Number","Other generalist medical practitioners",9566,FALSE
+2010,"Poland","Number","Specialist medical practitioners",65717,FALSE
+2010,"Poland","Number","General paediatricians",4721,FALSE
+2010,"Portugal","Number","Generalist medical practitioners",21170,FALSE
+2010,"Portugal","Number","General practitioners",19536,FALSE
+2010,"Portugal","Number","Other generalist medical practitioners",1634,FALSE
+2010,"Portugal","Number","Specialist medical practitioners",20956,FALSE
+2010,"Portugal","Number","General paediatricians",1584,FALSE
+2010,"Romania","Number","Generalist medical practitioners",18210,FALSE
+2010,"Romania","Number","General practitioners",14509,FALSE
+2010,"Romania","Number","Other generalist medical practitioners",3701,FALSE
+2010,"Romania","Number","Specialist medical practitioners",32568,FALSE
+2010,"Romania","Number","General paediatricians",2298,FALSE
+2010,"Slovenia","Number","Generalist medical practitioners",1044,FALSE
+2010,"Slovenia","Number","General practitioners",898,FALSE
+2010,"Slovenia","Number","Other generalist medical practitioners",146,FALSE
+2010,"Slovenia","Number","Specialist medical practitioners",3773,FALSE
+2010,"Slovenia","Number","General paediatricians",490,FALSE
+2010,"Finland","Number","Generalist medical practitioners",6380,FALSE
+2010,"Finland","Number","General practitioners",7369,TRUE
+2010,"Finland","Number","Other generalist medical practitioners",0,TRUE
+2010,"Finland","Number","Specialist medical practitioners",10212,FALSE
+2010,"Finland","Number","General paediatricians",692,FALSE
+2010,"Sweden","Number","Generalist medical practitioners",5907,FALSE
+2010,"Sweden","Number","General practitioners",5907,FALSE
+2010,"Sweden","Number","Other generalist medical practitioners",0,FALSE
+2010,"Sweden","Number","Specialist medical practitioners",19534,FALSE
+2010,"Sweden","Number","General paediatricians",980,FALSE
+2010,"Iceland","Number","Generalist medical practitioners",182,FALSE
+2010,"Iceland","Number","General practitioners",182,FALSE
+2010,"Iceland","Number","Other generalist medical practitioners",0,TRUE
+2010,"Iceland","Number","Specialist medical practitioners",714,FALSE
+2010,"Iceland","Number","General paediatricians",16,FALSE
+2010,"Liechtenstein","Number","Generalist medical practitioners",37,FALSE
+2010,"Liechtenstein","Number","General practitioners",26,FALSE
+2010,"Liechtenstein","Number","Other generalist medical practitioners",11,FALSE
+2010,"Liechtenstein","Number","Specialist medical practitioners",67,FALSE
+2010,"Liechtenstein","Number","General paediatricians",5,FALSE
+2010,"Norway","Number","Generalist medical practitioners",4039,FALSE
+2010,"Norway","Number","General practitioners",3631,FALSE
+2010,"Norway","Number","Other generalist medical practitioners",408,FALSE
+2010,"Norway","Number","Specialist medical practitioners",8151,FALSE
+2010,"Norway","Number","General paediatricians",658,FALSE
+2010,"Switzerland","Number","Generalist medical practitioners",4748,FALSE
+2010,"Switzerland","Number","General practitioners",7369,TRUE
+2010,"Switzerland","Number","Other generalist medical practitioners",0,TRUE
+2010,"Switzerland","Number","Specialist medical practitioners",19198,FALSE
+2010,"Switzerland","Number","General paediatricians",1309,FALSE
+2010,"United Kingdom","Number","Generalist medical practitioners",48641,FALSE
+2010,"United Kingdom","Number","General practitioners",48641,FALSE
+2010,"United Kingdom","Number","Other generalist medical practitioners",0,TRUE
+2010,"United Kingdom","Number","Specialist medical practitioners",118033,FALSE
+2010,"United Kingdom","Number","General paediatricians",9084,FALSE
+2010,"Montenegro","Number","Generalist medical practitioners",195,FALSE
+2010,"Montenegro","Number","General practitioners",195,FALSE
+2010,"Montenegro","Number","Other generalist medical practitioners",0,FALSE
+2010,"Montenegro","Number","Specialist medical practitioners",1081,FALSE
+2010,"Montenegro","Number","General paediatricians",172,FALSE
+2010,"North Macedonia","Number","Generalist medical practitioners",1823,FALSE
+2010,"North Macedonia","Number","General practitioners",7369,TRUE
+2010,"North Macedonia","Number","Other generalist medical practitioners",0,TRUE
+2010,"North Macedonia","Number","Specialist medical practitioners",3718,FALSE
+2010,"North Macedonia","Number","General paediatricians",394,FALSE
+2010,"Albania","Number","Generalist medical practitioners",7369,TRUE
+2010,"Albania","Number","General practitioners",1610,FALSE
+2010,"Albania","Number","Other generalist medical practitioners",0,TRUE
+2010,"Albania","Number","Specialist medical practitioners",2020,FALSE
+2010,"Albania","Number","General paediatricians",1332,TRUE
+2010,"Serbia","Number","Generalist medical practitioners",7031,FALSE
+2010,"Serbia","Number","General practitioners",5423,FALSE
+2010,"Serbia","Number","Other generalist medical practitioners",1608,FALSE
+2010,"Serbia","Number","Specialist medical practitioners",15285,FALSE
+2010,"Serbia","Number","General paediatricians",1967,FALSE
+2010,"Turkey","Number","Generalist medical practitioners",41077,FALSE
+2010,"Turkey","Number","General practitioners",41077,FALSE
+2010,"Turkey","Number","Other generalist medical practitioners",0,TRUE
+2010,"Turkey","Number","Specialist medical practitioners",82370,FALSE
+2010,"Turkey","Number","General paediatricians",6358,FALSE
+2011,"Belgium","Number","Generalist medical practitioners",12290,FALSE
+2011,"Belgium","Number","General practitioners",12290,FALSE
+2011,"Belgium","Number","Other generalist medical practitioners",0,FALSE
+2011,"Belgium","Number","Specialist medical practitioners",19492,FALSE
+2011,"Belgium","Number","General paediatricians",1350,FALSE
+2011,"Bulgaria","Number","Generalist medical practitioners",4925,FALSE
+2011,"Bulgaria","Number","General practitioners",4697,FALSE
+2011,"Bulgaria","Number","Other generalist medical practitioners",228,FALSE
+2011,"Bulgaria","Number","Specialist medical practitioners",23459,FALSE
+2011,"Bulgaria","Number","General paediatricians",1423,FALSE
+2011,"Czechia","Number","Generalist medical practitioners",7369,FALSE
+2011,"Czechia","Number","General practitioners",7369,FALSE
+2011,"Czechia","Number","Other generalist medical practitioners",0,FALSE
+2011,"Czechia","Number","Specialist medical practitioners",30802,FALSE
+2011,"Czechia","Number","General paediatricians",1323,FALSE
+2011,"Denmark","Number","Generalist medical practitioners",4418,FALSE
+2011,"Denmark","Number","General practitioners",7369,TRUE
+2011,"Denmark","Number","Other generalist medical practitioners",0,TRUE
+2011,"Denmark","Number","Specialist medical practitioners",8900,FALSE
+2011,"Denmark","Number","General paediatricians",394,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","Generalist medical practitioners",75252,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","General practitioners",56902,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","Other generalist medical practitioners",18350,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","Specialist medical practitioners",235971,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","General paediatricians",12854,FALSE
+2011,"Estonia","Number","Generalist medical practitioners",1001,FALSE
+2011,"Estonia","Number","General practitioners",869,FALSE
+2011,"Estonia","Number","Other generalist medical practitioners",132,FALSE
+2011,"Estonia","Number","Specialist medical practitioners",3011,FALSE
+2011,"Estonia","Number","General paediatricians",163,FALSE
+2011,"Ireland","Number","Generalist medical practitioners",11366,FALSE
+2011,"Ireland","Number","General practitioners",3309,FALSE
+2011,"Ireland","Number","Other generalist medical practitioners",8057,FALSE
+2011,"Ireland","Number","Specialist medical practitioners",7429,FALSE
+2011,"Ireland","Number","General paediatricians",509,FALSE
+2011,"Greece","Number","Generalist medical practitioners",3369,FALSE
+2011,"Greece","Number","General practitioners",2226,FALSE
+2011,"Greece","Number","Other generalist medical practitioners",1143,FALSE
+2011,"Greece","Number","Specialist medical practitioners",40396,FALSE
+2011,"Greece","Number","General paediatricians",3293,FALSE
+2011,"Spain","Number","Generalist medical practitioners",34722,FALSE
+2011,"Spain","Number","General practitioners",34722,FALSE
+2011,"Spain","Number","Other generalist medical practitioners",0,FALSE
+2011,"Spain","Number","Specialist medical practitioners",108759,FALSE
+2011,"Spain","Number","General paediatricians",12037,FALSE
+2011,"France","Number","Generalist medical practitioners",93140,FALSE
+2011,"France","Number","General practitioners",64583,FALSE
+2011,"France","Number","Other generalist medical practitioners",28557,FALSE
+2011,"France","Number","Specialist medical practitioners",106780,FALSE
+2011,"France","Number","General paediatricians",7287,FALSE
+2011,"Croatia","Number","Generalist medical practitioners",3299,FALSE
+2011,"Croatia","Number","General practitioners",2246,FALSE
+2011,"Croatia","Number","Other generalist medical practitioners",1053,FALSE
+2011,"Croatia","Number","Specialist medical practitioners",9191,FALSE
+2011,"Croatia","Number","General paediatricians",754,FALSE
+2011,"Italy","Number","Generalist medical practitioners",53856,FALSE
+2011,"Italy","Number","General practitioners",46061,FALSE
+2011,"Italy","Number","Other generalist medical practitioners",7795,FALSE
+2011,"Italy","Number","Specialist medical practitioners",177625,FALSE
+2011,"Italy","Number","General paediatricians",17475,FALSE
+2011,"Cyprus","Number","Generalist medical practitioners",735,TRUE
+2011,"Cyprus","Number","General practitioners",735,TRUE
+2011,"Cyprus","Number","Other generalist medical practitioners",0,TRUE
+2011,"Cyprus","Number","Specialist medical practitioners",2311,TRUE
+2011,"Cyprus","Number","General paediatricians",242,TRUE
+2011,"Latvia","Number","Generalist medical practitioners",1328,FALSE
+2011,"Latvia","Number","General practitioners",1328,FALSE
+2011,"Latvia","Number","Other generalist medical practitioners",0,FALSE
+2011,"Latvia","Number","Specialist medical practitioners",5128,FALSE
+2011,"Latvia","Number","General paediatricians",273,FALSE
+2011,"Lithuania","Number","Generalist medical practitioners",2679,FALSE
+2011,"Lithuania","Number","General practitioners",2577,FALSE
+2011,"Lithuania","Number","Other generalist medical practitioners",102,FALSE
+2011,"Lithuania","Number","Specialist medical practitioners",9728,FALSE
+2011,"Lithuania","Number","General paediatricians",855,FALSE
+2011,"Luxembourg","Number","Generalist medical practitioners",424,FALSE
+2011,"Luxembourg","Number","General practitioners",424,FALSE
+2011,"Luxembourg","Number","Other generalist medical practitioners",0,FALSE
+2011,"Luxembourg","Number","Specialist medical practitioners",1010,FALSE
+2011,"Luxembourg","Number","General paediatricians",82,FALSE
+2011,"Hungary","Number","Generalist medical practitioners",7096,TRUE
+2011,"Hungary","Number","General practitioners",4390,TRUE
+2011,"Hungary","Number","Other generalist medical practitioners",2481,TRUE
+2011,"Hungary","Number","Specialist medical practitioners",25615,TRUE
+2011,"Hungary","Number","General paediatricians",2371,TRUE
+2011,"Malta","Number","Generalist medical practitioners",315,FALSE
+2011,"Malta","Number","General practitioners",315,FALSE
+2011,"Malta","Number","Other generalist medical practitioners",0,FALSE
+2011,"Malta","Number","Specialist medical practitioners",620,FALSE
+2011,"Malta","Number","General paediatricians",55,FALSE
+2011,"Netherlands","Number","Generalist medical practitioners",23301,FALSE
+2011,"Netherlands","Number","General practitioners",12222,FALSE
+2011,"Netherlands","Number","Other generalist medical practitioners",11079,FALSE
+2011,"Netherlands","Number","Specialist medical practitioners",28994,FALSE
+2011,"Netherlands","Number","General paediatricians",1500,FALSE
+2011,"Austria","Number","Generalist medical practitioners",13403,FALSE
+2011,"Austria","Number","General practitioners",6534,FALSE
+2011,"Austria","Number","Other generalist medical practitioners",6869,FALSE
+2011,"Austria","Number","Specialist medical practitioners",20532,FALSE
+2011,"Austria","Number","General paediatricians",1213,FALSE
+2011,"Poland","Number","Generalist medical practitioners",14525,FALSE
+2011,"Poland","Number","General practitioners",7773,FALSE
+2011,"Poland","Number","Other generalist medical practitioners",6752,FALSE
+2011,"Poland","Number","Specialist medical practitioners",69696,FALSE
+2011,"Poland","Number","General paediatricians",4812,FALSE
+2011,"Portugal","Number","Generalist medical practitioners",21917,FALSE
+2011,"Portugal","Number","General practitioners",20094,FALSE
+2011,"Portugal","Number","Other generalist medical practitioners",1823,FALSE
+2011,"Portugal","Number","Specialist medical practitioners",21606,FALSE
+2011,"Portugal","Number","General paediatricians",1648,FALSE
+2011,"Romania","Number","Generalist medical practitioners",17718,FALSE
+2011,"Romania","Number","General practitioners",14615,FALSE
+2011,"Romania","Number","Other generalist medical practitioners",3103,FALSE
+2011,"Romania","Number","Specialist medical practitioners",33435,FALSE
+2011,"Romania","Number","General paediatricians",2278,FALSE
+2011,"Slovenia","Number","Generalist medical practitioners",1085,FALSE
+2011,"Slovenia","Number","General practitioners",928,FALSE
+2011,"Slovenia","Number","Other generalist medical practitioners",157,FALSE
+2011,"Slovenia","Number","Specialist medical practitioners",3921,FALSE
+2011,"Slovenia","Number","General paediatricians",496,FALSE
+2011,"Finland","Number","Generalist medical practitioners",6644,FALSE
+2011,"Finland","Number","General practitioners",7369,TRUE
+2011,"Finland","Number","Other generalist medical practitioners",0,TRUE
+2011,"Finland","Number","Specialist medical practitioners",10184,FALSE
+2011,"Finland","Number","General paediatricians",726,FALSE
+2011,"Sweden","Number","Generalist medical practitioners",5973,FALSE
+2011,"Sweden","Number","General practitioners",5973,FALSE
+2011,"Sweden","Number","Other generalist medical practitioners",0,FALSE
+2011,"Sweden","Number","Specialist medical practitioners",20094,FALSE
+2011,"Sweden","Number","General paediatricians",1016,FALSE
+2011,"Iceland","Number","Generalist medical practitioners",185,FALSE
+2011,"Iceland","Number","General practitioners",185,FALSE
+2011,"Iceland","Number","Other generalist medical practitioners",0,TRUE
+2011,"Iceland","Number","Specialist medical practitioners",697,FALSE
+2011,"Iceland","Number","General paediatricians",15,FALSE
+2011,"Liechtenstein","Number","Generalist medical practitioners",37,FALSE
+2011,"Liechtenstein","Number","General practitioners",26,FALSE
+2011,"Liechtenstein","Number","Other generalist medical practitioners",11,FALSE
+2011,"Liechtenstein","Number","Specialist medical practitioners",74,FALSE
+2011,"Liechtenstein","Number","General paediatricians",5,FALSE
+2011,"Norway","Number","Generalist medical practitioners",4140,FALSE
+2011,"Norway","Number","General practitioners",3710,FALSE
+2011,"Norway","Number","Other generalist medical practitioners",430,FALSE
+2011,"Norway","Number","Specialist medical practitioners",8449,FALSE
+2011,"Norway","Number","General paediatricians",673,FALSE
+2011,"Switzerland","Number","Generalist medical practitioners",8356,FALSE
+2011,"Switzerland","Number","General practitioners",7369,TRUE
+2011,"Switzerland","Number","Other generalist medical practitioners",0,TRUE
+2011,"Switzerland","Number","Specialist medical practitioners",17086,FALSE
+2011,"Switzerland","Number","General paediatricians",1391,FALSE
+2011,"United Kingdom","Number","Generalist medical practitioners",49838,FALSE
+2011,"United Kingdom","Number","General practitioners",49838,FALSE
+2011,"United Kingdom","Number","Other generalist medical practitioners",0,TRUE
+2011,"United Kingdom","Number","Specialist medical practitioners",120479,FALSE
+2011,"United Kingdom","Number","General paediatricians",9170,FALSE
+2011,"Montenegro","Number","Generalist medical practitioners",190,FALSE
+2011,"Montenegro","Number","General practitioners",190,FALSE
+2011,"Montenegro","Number","Other generalist medical practitioners",0,FALSE
+2011,"Montenegro","Number","Specialist medical practitioners",1069,FALSE
+2011,"Montenegro","Number","General paediatricians",173,FALSE
+2011,"North Macedonia","Number","Generalist medical practitioners",1933,FALSE
+2011,"North Macedonia","Number","General practitioners",7369,TRUE
+2011,"North Macedonia","Number","Other generalist medical practitioners",0,TRUE
+2011,"North Macedonia","Number","Specialist medical practitioners",3716,FALSE
+2011,"North Macedonia","Number","General paediatricians",398,FALSE
+2011,"Albania","Number","Generalist medical practitioners",7369,TRUE
+2011,"Albania","Number","General practitioners",1542,FALSE
+2011,"Albania","Number","Other generalist medical practitioners",0,TRUE
+2011,"Albania","Number","Specialist medical practitioners",2038,FALSE
+2011,"Albania","Number","General paediatricians",1350,TRUE
+2011,"Serbia","Number","Generalist medical practitioners",6730,FALSE
+2011,"Serbia","Number","General practitioners",5282,FALSE
+2011,"Serbia","Number","Other generalist medical practitioners",1448,FALSE
+2011,"Serbia","Number","Specialist medical practitioners",15682,FALSE
+2011,"Serbia","Number","General paediatricians",2039,FALSE
+2011,"Turkey","Number","Generalist medical practitioners",41840,FALSE
+2011,"Turkey","Number","General practitioners",41840,FALSE
+2011,"Turkey","Number","Other generalist medical practitioners",0,TRUE
+2011,"Turkey","Number","Specialist medical practitioners",84189,FALSE
+2011,"Turkey","Number","General paediatricians",6595,FALSE
+2012,"Belgium","Number","Generalist medical practitioners",12363,FALSE
+2012,"Belgium","Number","General practitioners",12363,FALSE
+2012,"Belgium","Number","Other generalist medical practitioners",0,FALSE
+2012,"Belgium","Number","Specialist medical practitioners",19831,FALSE
+2012,"Belgium","Number","General paediatricians",1378,FALSE
+2012,"Bulgaria","Number","Generalist medical practitioners",5097,FALSE
+2012,"Bulgaria","Number","General practitioners",4900,FALSE
+2012,"Bulgaria","Number","Other generalist medical practitioners",197,FALSE
+2012,"Bulgaria","Number","Specialist medical practitioners",23502,FALSE
+2012,"Bulgaria","Number","General paediatricians",1426,FALSE
+2012,"Czechia","Number","Generalist medical practitioners",7386,FALSE
+2012,"Czechia","Number","General practitioners",7386,FALSE
+2012,"Czechia","Number","Other generalist medical practitioners",0,FALSE
+2012,"Czechia","Number","Specialist medical practitioners",31238,FALSE
+2012,"Czechia","Number","General paediatricians",1285,FALSE
+2012,"Denmark","Number","Generalist medical practitioners",4477,FALSE
+2012,"Denmark","Number","General practitioners",7386,TRUE
+2012,"Denmark","Number","Other generalist medical practitioners",0,TRUE
+2012,"Denmark","Number","Specialist medical practitioners",9110,FALSE
+2012,"Denmark","Number","General paediatricians",400,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","Generalist medical practitioners",75390,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","General practitioners",56739.5,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","Other generalist medical practitioners",18650.5,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","Specialist medical practitioners",242000,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","General paediatricians",13047,FALSE
+2012,"Estonia","Number","Generalist medical practitioners",959,FALSE
+2012,"Estonia","Number","General practitioners",855,FALSE
+2012,"Estonia","Number","Other generalist medical practitioners",104,FALSE
+2012,"Estonia","Number","Specialist medical practitioners",3000,FALSE
+2012,"Estonia","Number","General paediatricians",161,FALSE
+2012,"Ireland","Number","Generalist medical practitioners",11288,FALSE
+2012,"Ireland","Number","General practitioners",3318,FALSE
+2012,"Ireland","Number","Other generalist medical practitioners",7970,FALSE
+2012,"Ireland","Number","Specialist medical practitioners",6835,FALSE
+2012,"Ireland","Number","General paediatricians",455,FALSE
+2012,"Greece","Number","Generalist medical practitioners",3456,FALSE
+2012,"Greece","Number","General practitioners",2383,FALSE
+2012,"Greece","Number","Other generalist medical practitioners",1073,FALSE
+2012,"Greece","Number","Specialist medical practitioners",41116,FALSE
+2012,"Greece","Number","General paediatricians",3326,FALSE
+2012,"Spain","Number","Generalist medical practitioners",35061,FALSE
+2012,"Spain","Number","General practitioners",35061,FALSE
+2012,"Spain","Number","Other generalist medical practitioners",0,FALSE
+2012,"Spain","Number","Specialist medical practitioners",112699,FALSE
+2012,"Spain","Number","General paediatricians",12029,FALSE
+2012,"France","Number","Generalist medical practitioners",93283,FALSE
+2012,"France","Number","General practitioners",63522,FALSE
+2012,"France","Number","Other generalist medical practitioners",29761,FALSE
+2012,"France","Number","Specialist medical practitioners",108501,FALSE
+2012,"France","Number","General paediatricians",7466,FALSE
+2012,"Croatia","Number","Generalist medical practitioners",3371,FALSE
+2012,"Croatia","Number","General practitioners",2266,FALSE
+2012,"Croatia","Number","Other generalist medical practitioners",1105,FALSE
+2012,"Croatia","Number","Specialist medical practitioners",9401,FALSE
+2012,"Croatia","Number","General paediatricians",752,FALSE
+2012,"Italy","Number","Generalist medical practitioners",53994,FALSE
+2012,"Italy","Number","General practitioners",45437,FALSE
+2012,"Italy","Number","Other generalist medical practitioners",8557,FALSE
+2012,"Italy","Number","Specialist medical practitioners",176627,FALSE
+2012,"Italy","Number","General paediatricians",17270,FALSE
+2012,"Cyprus","Number","Generalist medical practitioners",735,TRUE
+2012,"Cyprus","Number","General practitioners",735,TRUE
+2012,"Cyprus","Number","Other generalist medical practitioners",0,TRUE
+2012,"Cyprus","Number","Specialist medical practitioners",2311,TRUE
+2012,"Cyprus","Number","General paediatricians",242,TRUE
+2012,"Latvia","Number","Generalist medical practitioners",1338,FALSE
+2012,"Latvia","Number","General practitioners",1338,FALSE
+2012,"Latvia","Number","Other generalist medical practitioners",0,FALSE
+2012,"Latvia","Number","Specialist medical practitioners",5058,FALSE
+2012,"Latvia","Number","General paediatricians",249,FALSE
+2012,"Lithuania","Number","Generalist medical practitioners",2697,FALSE
+2012,"Lithuania","Number","General practitioners",2552,FALSE
+2012,"Lithuania","Number","Other generalist medical practitioners",145,FALSE
+2012,"Lithuania","Number","Specialist medical practitioners",9907,FALSE
+2012,"Lithuania","Number","General paediatricians",835,FALSE
+2012,"Luxembourg","Number","Generalist medical practitioners",441,FALSE
+2012,"Luxembourg","Number","General practitioners",441,FALSE
+2012,"Luxembourg","Number","Other generalist medical practitioners",0,FALSE
+2012,"Luxembourg","Number","Specialist medical practitioners",1048,FALSE
+2012,"Luxembourg","Number","General paediatricians",83,FALSE
+2012,"Hungary","Number","Generalist medical practitioners",7096,TRUE
+2012,"Hungary","Number","General practitioners",4390,TRUE
+2012,"Hungary","Number","Other generalist medical practitioners",2481,TRUE
+2012,"Hungary","Number","Specialist medical practitioners",25615,TRUE
+2012,"Hungary","Number","General paediatricians",2371,TRUE
+2012,"Malta","Number","Generalist medical practitioners",335,FALSE
+2012,"Malta","Number","General practitioners",335,FALSE
+2012,"Malta","Number","Other generalist medical practitioners",0,FALSE
+2012,"Malta","Number","Specialist medical practitioners",659,FALSE
+2012,"Malta","Number","General paediatricians",63,FALSE
+2012,"Netherlands","Number","Generalist medical practitioners",24135,FALSE
+2012,"Netherlands","Number","General practitioners",12892,FALSE
+2012,"Netherlands","Number","Other generalist medical practitioners",11243,FALSE
+2012,"Netherlands","Number","Specialist medical practitioners",30376,FALSE
+2012,"Netherlands","Number","General paediatricians",1556,FALSE
+2012,"Austria","Number","Generalist medical practitioners",13657,FALSE
+2012,"Austria","Number","General practitioners",6550,FALSE
+2012,"Austria","Number","Other generalist medical practitioners",7107,FALSE
+2012,"Austria","Number","Specialist medical practitioners",21107,FALSE
+2012,"Austria","Number","General paediatricians",1234,FALSE
+2012,"Poland","Number","Generalist medical practitioners",12645,FALSE
+2012,"Poland","Number","General practitioners",8441,FALSE
+2012,"Poland","Number","Other generalist medical practitioners",4204,FALSE
+2012,"Poland","Number","Specialist medical practitioners",72380,FALSE
+2012,"Poland","Number","General paediatricians",4880,FALSE
+2012,"Portugal","Number","Generalist medical practitioners",22125,FALSE
+2012,"Portugal","Number","General practitioners",20269,FALSE
+2012,"Portugal","Number","Other generalist medical practitioners",1856,FALSE
+2012,"Portugal","Number","Specialist medical practitioners",22465,FALSE
+2012,"Portugal","Number","General paediatricians",1773,FALSE
+2012,"Romania","Number","Generalist medical practitioners",16741,FALSE
+2012,"Romania","Number","General practitioners",13766,FALSE
+2012,"Romania","Number","Other generalist medical practitioners",2975,FALSE
+2012,"Romania","Number","Specialist medical practitioners",35621,FALSE
+2012,"Romania","Number","General paediatricians",2402,FALSE
+2012,"Slovenia","Number","Generalist medical practitioners",1127,FALSE
+2012,"Slovenia","Number","General practitioners",959,FALSE
+2012,"Slovenia","Number","Other generalist medical practitioners",168,FALSE
+2012,"Slovenia","Number","Specialist medical practitioners",3948,FALSE
+2012,"Slovenia","Number","General paediatricians",524,FALSE
+2012,"Finland","Number","Generalist medical practitioners",6604,FALSE
+2012,"Finland","Number","General practitioners",7386,TRUE
+2012,"Finland","Number","Other generalist medical practitioners",0,TRUE
+2012,"Finland","Number","Specialist medical practitioners",10454,FALSE
+2012,"Finland","Number","General paediatricians",788,FALSE
+2012,"Sweden","Number","Generalist medical practitioners",6106,FALSE
+2012,"Sweden","Number","General practitioners",6106,FALSE
+2012,"Sweden","Number","Other generalist medical practitioners",0,FALSE
+2012,"Sweden","Number","Specialist medical practitioners",20564,FALSE
+2012,"Sweden","Number","General paediatricians",995,FALSE
+2012,"Iceland","Number","Generalist medical practitioners",184,FALSE
+2012,"Iceland","Number","General practitioners",184,FALSE
+2012,"Iceland","Number","Other generalist medical practitioners",0,TRUE
+2012,"Iceland","Number","Specialist medical practitioners",703,FALSE
+2012,"Iceland","Number","General paediatricians",14,FALSE
+2012,"Liechtenstein","Number","Generalist medical practitioners",37,FALSE
+2012,"Liechtenstein","Number","General practitioners",27,FALSE
+2012,"Liechtenstein","Number","Other generalist medical practitioners",10,FALSE
+2012,"Liechtenstein","Number","Specialist medical practitioners",79,FALSE
+2012,"Liechtenstein","Number","General paediatricians",5,FALSE
+2012,"Norway","Number","Generalist medical practitioners",4317,FALSE
+2012,"Norway","Number","General practitioners",3891,FALSE
+2012,"Norway","Number","Other generalist medical practitioners",426,FALSE
+2012,"Norway","Number","Specialist medical practitioners",8484,FALSE
+2012,"Norway","Number","General paediatricians",673,FALSE
+2012,"Switzerland","Number","Generalist medical practitioners",8618,FALSE
+2012,"Switzerland","Number","General practitioners",7386,TRUE
+2012,"Switzerland","Number","Other generalist medical practitioners",0,TRUE
+2012,"Switzerland","Number","Specialist medical practitioners",17958,FALSE
+2012,"Switzerland","Number","General paediatricians",1473,FALSE
+2012,"United Kingdom","Number","Generalist medical practitioners",50008,FALSE
+2012,"United Kingdom","Number","General practitioners",50008,FALSE
+2012,"United Kingdom","Number","Other generalist medical practitioners",0,TRUE
+2012,"United Kingdom","Number","Specialist medical practitioners",122061,FALSE
+2012,"United Kingdom","Number","General paediatricians",9339,FALSE
+2012,"Montenegro","Number","Generalist medical practitioners",204,FALSE
+2012,"Montenegro","Number","General practitioners",204,FALSE
+2012,"Montenegro","Number","Other generalist medical practitioners",0,FALSE
+2012,"Montenegro","Number","Specialist medical practitioners",1072,FALSE
+2012,"Montenegro","Number","General paediatricians",169,FALSE
+2012,"North Macedonia","Number","Generalist medical practitioners",2063,FALSE
+2012,"North Macedonia","Number","General practitioners",7386,TRUE
+2012,"North Macedonia","Number","Other generalist medical practitioners",0,TRUE
+2012,"North Macedonia","Number","Specialist medical practitioners",3692,FALSE
+2012,"North Macedonia","Number","General paediatricians",394,FALSE
+2012,"Albania","Number","Generalist medical practitioners",7386,TRUE
+2012,"Albania","Number","General practitioners",1603,FALSE
+2012,"Albania","Number","Other generalist medical practitioners",0,TRUE
+2012,"Albania","Number","Specialist medical practitioners",2093,FALSE
+2012,"Albania","Number","General paediatricians",1378,TRUE
+2012,"Serbia","Number","Generalist medical practitioners",6495,FALSE
+2012,"Serbia","Number","General practitioners",5136,FALSE
+2012,"Serbia","Number","Other generalist medical practitioners",1359,FALSE
+2012,"Serbia","Number","Specialist medical practitioners",15820,FALSE
+2012,"Serbia","Number","General paediatricians",2016,FALSE
+2012,"Turkey","Number","Generalist medical practitioners",41401,FALSE
+2012,"Turkey","Number","General practitioners",41401,FALSE
+2012,"Turkey","Number","Other generalist medical practitioners",0,TRUE
+2012,"Turkey","Number","Specialist medical practitioners",88371,FALSE
+2012,"Turkey","Number","General paediatricians",6724,FALSE
+2013,"Belgium","Number","Generalist medical practitioners",12483,FALSE
+2013,"Belgium","Number","General practitioners",12483,FALSE
+2013,"Belgium","Number","Other generalist medical practitioners",0,FALSE
+2013,"Belgium","Number","Specialist medical practitioners",20108,FALSE
+2013,"Belgium","Number","General paediatricians",1414,FALSE
+2013,"Bulgaria","Number","Generalist medical practitioners",4781,FALSE
+2013,"Bulgaria","Number","General practitioners",4572,FALSE
+2013,"Bulgaria","Number","Other generalist medical practitioners",209,FALSE
+2013,"Bulgaria","Number","Specialist medical practitioners",24110,FALSE
+2013,"Bulgaria","Number","General paediatricians",1448,FALSE
+2013,"Czechia","Number","Generalist medical practitioners",7371,FALSE
+2013,"Czechia","Number","General practitioners",7371,FALSE
+2013,"Czechia","Number","Other generalist medical practitioners",0,FALSE
+2013,"Czechia","Number","Specialist medical practitioners",31405,FALSE
+2013,"Czechia","Number","General paediatricians",1296,FALSE
+2013,"Denmark","Number","Generalist medical practitioners",4455,FALSE
+2013,"Denmark","Number","General practitioners",7371,TRUE
+2013,"Denmark","Number","Other generalist medical practitioners",0,TRUE
+2013,"Denmark","Number","Specialist medical practitioners",9358,FALSE
+2013,"Denmark","Number","General paediatricians",408,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","Generalist medical practitioners",78608,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","General practitioners",56961.5,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","Other generalist medical practitioners",21646.5,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","Specialist medical practitioners",246799,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","General paediatricians",13227,FALSE
+2013,"Estonia","Number","Generalist medical practitioners",1052,FALSE
+2013,"Estonia","Number","General practitioners",932,FALSE
+2013,"Estonia","Number","Other generalist medical practitioners",120,FALSE
+2013,"Estonia","Number","Specialist medical practitioners",3343,FALSE
+2013,"Estonia","Number","General paediatricians",179,FALSE
+2013,"Ireland","Number","Generalist medical practitioners",10781,FALSE
+2013,"Ireland","Number","General practitioners",3361,FALSE
+2013,"Ireland","Number","Other generalist medical practitioners",7420,FALSE
+2013,"Ireland","Number","Specialist medical practitioners",7346,FALSE
+2013,"Ireland","Number","General paediatricians",453,FALSE
+2013,"Greece","Number","Generalist medical practitioners",3494,FALSE
+2013,"Greece","Number","General practitioners",2561,FALSE
+2013,"Greece","Number","Other generalist medical practitioners",933,FALSE
+2013,"Greece","Number","Specialist medical practitioners",41783,FALSE
+2013,"Greece","Number","General paediatricians",3326,FALSE
+2013,"Spain","Number","Generalist medical practitioners",35017,FALSE
+2013,"Spain","Number","General practitioners",35017,FALSE
+2013,"Spain","Number","Other generalist medical practitioners",0,FALSE
+2013,"Spain","Number","Specialist medical practitioners",112464,FALSE
+2013,"Spain","Number","General paediatricians",11896,FALSE
+2013,"France","Number","Generalist medical practitioners",93944,FALSE
+2013,"France","Number","General practitioners",62864,FALSE
+2013,"France","Number","Other generalist medical practitioners",31080,FALSE
+2013,"France","Number","Specialist medical practitioners",110185,FALSE
+2013,"France","Number","General paediatricians",7585,FALSE
+2013,"Croatia","Number","Generalist medical practitioners",3335,FALSE
+2013,"Croatia","Number","General practitioners",2286,FALSE
+2013,"Croatia","Number","Other generalist medical practitioners",1049,FALSE
+2013,"Croatia","Number","Specialist medical practitioners",9571,FALSE
+2013,"Croatia","Number","General paediatricians",788,FALSE
+2013,"Italy","Number","Generalist medical practitioners",53525,FALSE
+2013,"Italy","Number","General practitioners",45203,FALSE
+2013,"Italy","Number","Other generalist medical practitioners",8322,FALSE
+2013,"Italy","Number","Specialist medical practitioners",181393,FALSE
+2013,"Italy","Number","General paediatricians",17472,FALSE
+2013,"Cyprus","Number","Generalist medical practitioners",735,TRUE
+2013,"Cyprus","Number","General practitioners",735,TRUE
+2013,"Cyprus","Number","Other generalist medical practitioners",0,TRUE
+2013,"Cyprus","Number","Specialist medical practitioners",2311,TRUE
+2013,"Cyprus","Number","General paediatricians",242,TRUE
+2013,"Latvia","Number","Generalist medical practitioners",1357,FALSE
+2013,"Latvia","Number","General practitioners",1357,FALSE
+2013,"Latvia","Number","Other generalist medical practitioners",0,FALSE
+2013,"Latvia","Number","Specialist medical practitioners",5066,FALSE
+2013,"Latvia","Number","General paediatricians",255,FALSE
+2013,"Lithuania","Number","Generalist medical practitioners",2709,FALSE
+2013,"Lithuania","Number","General practitioners",2552,FALSE
+2013,"Lithuania","Number","Other generalist medical practitioners",157,FALSE
+2013,"Lithuania","Number","Specialist medical practitioners",9941,FALSE
+2013,"Lithuania","Number","General paediatricians",796,FALSE
+2013,"Luxembourg","Number","Generalist medical practitioners",467,FALSE
+2013,"Luxembourg","Number","General practitioners",467,FALSE
+2013,"Luxembourg","Number","Other generalist medical practitioners",0,FALSE
+2013,"Luxembourg","Number","Specialist medical practitioners",1070,FALSE
+2013,"Luxembourg","Number","General paediatricians",81,FALSE
+2013,"Hungary","Number","Generalist medical practitioners",7096,TRUE
+2013,"Hungary","Number","General practitioners",4390,TRUE
+2013,"Hungary","Number","Other generalist medical practitioners",2481,TRUE
+2013,"Hungary","Number","Specialist medical practitioners",25615,TRUE
+2013,"Hungary","Number","General paediatricians",2371,TRUE
+2013,"Malta","Number","Generalist medical practitioners",340,FALSE
+2013,"Malta","Number","General practitioners",340,FALSE
+2013,"Malta","Number","Other generalist medical practitioners",0,FALSE
+2013,"Malta","Number","Specialist medical practitioners",708,FALSE
+2013,"Malta","Number","General paediatricians",59,FALSE
+2013,"Netherlands","Number","Generalist medical practitioners",24498,FALSE
+2013,"Netherlands","Number","General practitioners",13192,FALSE
+2013,"Netherlands","Number","Other generalist medical practitioners",11306,FALSE
+2013,"Netherlands","Number","Specialist medical practitioners",31183,FALSE
+2013,"Netherlands","Number","General paediatricians",1603,FALSE
+2013,"Austria","Number","Generalist medical practitioners",13924,FALSE
+2013,"Austria","Number","General practitioners",6523,FALSE
+2013,"Austria","Number","Other generalist medical practitioners",7401,FALSE
+2013,"Austria","Number","Specialist medical practitioners",22180,FALSE
+2013,"Austria","Number","General paediatricians",1292,FALSE
+2013,"Poland","Number","Generalist medical practitioners",12846,FALSE
+2013,"Poland","Number","General practitioners",8270,FALSE
+2013,"Poland","Number","Other generalist medical practitioners",4576,FALSE
+2013,"Poland","Number","Specialist medical practitioners",72400,FALSE
+2013,"Poland","Number","General paediatricians",5008,FALSE
+2013,"Portugal","Number","Generalist medical practitioners",22744,FALSE
+2013,"Portugal","Number","General practitioners",20901,FALSE
+2013,"Portugal","Number","Other generalist medical practitioners",1843,FALSE
+2013,"Portugal","Number","Specialist medical practitioners",23266,FALSE
+2013,"Portugal","Number","General paediatricians",1861,FALSE
+2013,"Romania","Number","Generalist medical practitioners",15923,FALSE
+2013,"Romania","Number","General practitioners",12735,FALSE
+2013,"Romania","Number","Other generalist medical practitioners",3188,FALSE
+2013,"Romania","Number","Specialist medical practitioners",36905,FALSE
+2013,"Romania","Number","General paediatricians",2452,FALSE
+2013,"Slovenia","Number","Generalist medical practitioners",1204,FALSE
+2013,"Slovenia","Number","General practitioners",1025,FALSE
+2013,"Slovenia","Number","Other generalist medical practitioners",179,FALSE
+2013,"Slovenia","Number","Specialist medical practitioners",4087,FALSE
+2013,"Slovenia","Number","General paediatricians",540,FALSE
+2013,"Finland","Number","Generalist medical practitioners",6849,FALSE
+2013,"Finland","Number","General practitioners",7371,TRUE
+2013,"Finland","Number","Other generalist medical practitioners",0,TRUE
+2013,"Finland","Number","Specialist medical practitioners",10049,FALSE
+2013,"Finland","Number","General paediatricians",703,FALSE
+2013,"Sweden","Number","Generalist medical practitioners",6201,FALSE
+2013,"Sweden","Number","General practitioners",6201,FALSE
+2013,"Sweden","Number","Other generalist medical practitioners",0,FALSE
+2013,"Sweden","Number","Specialist medical practitioners",21174,FALSE
+2013,"Sweden","Number","General paediatricians",1015,FALSE
+2013,"Iceland","Number","Generalist medical practitioners",188,FALSE
+2013,"Iceland","Number","General practitioners",188,FALSE
+2013,"Iceland","Number","Other generalist medical practitioners",0,TRUE
+2013,"Iceland","Number","Specialist medical practitioners",706,FALSE
+2013,"Iceland","Number","General paediatricians",15,FALSE
+2013,"Liechtenstein","Number","Generalist medical practitioners",37,FALSE
+2013,"Liechtenstein","Number","General practitioners",27,FALSE
+2013,"Liechtenstein","Number","Other generalist medical practitioners",10,FALSE
+2013,"Liechtenstein","Number","Specialist medical practitioners",83,FALSE
+2013,"Liechtenstein","Number","General paediatricians",5,FALSE
+2013,"Norway","Number","Generalist medical practitioners",4437,FALSE
+2013,"Norway","Number","General practitioners",3965,FALSE
+2013,"Norway","Number","Other generalist medical practitioners",472,FALSE
+2013,"Norway","Number","Specialist medical practitioners",8765,FALSE
+2013,"Norway","Number","General paediatricians",707,FALSE
+2013,"Switzerland","Number","Generalist medical practitioners",8986,FALSE
+2013,"Switzerland","Number","General practitioners",7371,TRUE
+2013,"Switzerland","Number","Other generalist medical practitioners",0,TRUE
+2013,"Switzerland","Number","Specialist medical practitioners",18945,FALSE
+2013,"Switzerland","Number","General paediatricians",1548,FALSE
+2013,"United Kingdom","Number","Generalist medical practitioners",49875,FALSE
+2013,"United Kingdom","Number","General practitioners",49875,FALSE
+2013,"United Kingdom","Number","Other generalist medical practitioners",0,TRUE
+2013,"United Kingdom","Number","Specialist medical practitioners",124110,FALSE
+2013,"United Kingdom","Number","General paediatricians",9432,FALSE
+2013,"Montenegro","Number","Generalist medical practitioners",241,FALSE
+2013,"Montenegro","Number","General practitioners",241,FALSE
+2013,"Montenegro","Number","Other generalist medical practitioners",0,FALSE
+2013,"Montenegro","Number","Specialist medical practitioners",1107,FALSE
+2013,"Montenegro","Number","General paediatricians",165,FALSE
+2013,"North Macedonia","Number","Generalist medical practitioners",2017,FALSE
+2013,"North Macedonia","Number","General practitioners",7371,TRUE
+2013,"North Macedonia","Number","Other generalist medical practitioners",0,TRUE
+2013,"North Macedonia","Number","Specialist medical practitioners",3787,FALSE
+2013,"North Macedonia","Number","General paediatricians",400,FALSE
+2013,"Albania","Number","Generalist medical practitioners",7371,TRUE
+2013,"Albania","Number","General practitioners",1618,FALSE
+2013,"Albania","Number","Other generalist medical practitioners",0,TRUE
+2013,"Albania","Number","Specialist medical practitioners",2087,FALSE
+2013,"Albania","Number","General paediatricians",147,FALSE
+2013,"Serbia","Number","Generalist medical practitioners",6480,FALSE
+2013,"Serbia","Number","General practitioners",5119,FALSE
+2013,"Serbia","Number","Other generalist medical practitioners",1361,FALSE
+2013,"Serbia","Number","Specialist medical practitioners",15768,FALSE
+2013,"Serbia","Number","General paediatricians",1983,FALSE
+2013,"Turkey","Number","Generalist medical practitioners",41040,FALSE
+2013,"Turkey","Number","General practitioners",41040,FALSE
+2013,"Turkey","Number","Other generalist medical practitioners",0,TRUE
+2013,"Turkey","Number","Specialist medical practitioners",92735,FALSE
+2013,"Turkey","Number","General paediatricians",6792,FALSE
+2014,"Belgium","Number","Generalist medical practitioners",12560,FALSE
+2014,"Belgium","Number","General practitioners",12560,FALSE
+2014,"Belgium","Number","Other generalist medical practitioners",0,FALSE
+2014,"Belgium","Number","Specialist medical practitioners",20389,FALSE
+2014,"Belgium","Number","General paediatricians",1429,FALSE
+2014,"Bulgaria","Number","Generalist medical practitioners",4747,FALSE
+2014,"Bulgaria","Number","General practitioners",4525,FALSE
+2014,"Bulgaria","Number","Other generalist medical practitioners",222,FALSE
+2014,"Bulgaria","Number","Specialist medical practitioners",24054,FALSE
+2014,"Bulgaria","Number","General paediatricians",1459,FALSE
+2014,"Czechia","Number","Generalist medical practitioners",7371,TRUE
+2014,"Czechia","Number","General practitioners",7371,TRUE
+2014,"Czechia","Number","Other generalist medical practitioners",0,TRUE
+2014,"Czechia","Number","Specialist medical practitioners",31238,TRUE
+2014,"Czechia","Number","General paediatricians",1296,TRUE
+2014,"Denmark","Number","Generalist medical practitioners",4495,FALSE
+2014,"Denmark","Number","General practitioners",4525,TRUE
+2014,"Denmark","Number","Other generalist medical practitioners",222,TRUE
+2014,"Denmark","Number","Specialist medical practitioners",9597,FALSE
+2014,"Denmark","Number","General paediatricians",435,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","Generalist medical practitioners",80226,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","General practitioners",57360,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","Other generalist medical practitioners",22866,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","Specialist medical practitioners",252469,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","General paediatricians",13322,FALSE
+2014,"Estonia","Number","Generalist medical practitioners",1057,FALSE
+2014,"Estonia","Number","General practitioners",940,FALSE
+2014,"Estonia","Number","Other generalist medical practitioners",117,FALSE
+2014,"Estonia","Number","Specialist medical practitioners",3361,FALSE
+2014,"Estonia","Number","General paediatricians",167,FALSE
+2014,"Ireland","Number","Generalist medical practitioners",8214,FALSE
+2014,"Ireland","Number","General practitioners",3585,FALSE
+2014,"Ireland","Number","Other generalist medical practitioners",4629,FALSE
+2014,"Ireland","Number","Specialist medical practitioners",5753,FALSE
+2014,"Ireland","Number","General paediatricians",419,FALSE
+2014,"Greece","Number","Generalist medical practitioners",4307,FALSE
+2014,"Greece","Number","General practitioners",3292,FALSE
+2014,"Greece","Number","Other generalist medical practitioners",1015,FALSE
+2014,"Greece","Number","Specialist medical practitioners",51520,FALSE
+2014,"Greece","Number","General paediatricians",3963,FALSE
+2014,"Spain","Number","Generalist medical practitioners",34880,FALSE
+2014,"Spain","Number","General practitioners",34880,FALSE
+2014,"Spain","Number","Other generalist medical practitioners",0,FALSE
+2014,"Spain","Number","Specialist medical practitioners",113206,FALSE
+2014,"Spain","Number","General paediatricians",12070,FALSE
+2014,"France","Number","Generalist medical practitioners",94322,FALSE
+2014,"France","Number","General practitioners",62129,FALSE
+2014,"France","Number","Other generalist medical practitioners",32193,FALSE
+2014,"France","Number","Specialist medical practitioners",111837,FALSE
+2014,"France","Number","General paediatricians",7724,FALSE
+2014,"Croatia","Number","Generalist medical practitioners",3502,FALSE
+2014,"Croatia","Number","General practitioners",2426,FALSE
+2014,"Croatia","Number","Other generalist medical practitioners",1076,FALSE
+2014,"Croatia","Number","Specialist medical practitioners",9800,FALSE
+2014,"Croatia","Number","General paediatricians",798,FALSE
+2014,"Italy","Number","Generalist medical practitioners",53463,FALSE
+2014,"Italy","Number","General practitioners",44937,FALSE
+2014,"Italy","Number","Other generalist medical practitioners",8526,FALSE
+2014,"Italy","Number","Specialist medical practitioners",182426,FALSE
+2014,"Italy","Number","General paediatricians",17495,FALSE
+2014,"Cyprus","Number","Generalist medical practitioners",680,FALSE
+2014,"Cyprus","Number","General practitioners",680,FALSE
+2014,"Cyprus","Number","Other generalist medical practitioners",0,FALSE
+2014,"Cyprus","Number","Specialist medical practitioners",2200,FALSE
+2014,"Cyprus","Number","General paediatricians",238,FALSE
+2014,"Latvia","Number","Generalist medical practitioners",1394,FALSE
+2014,"Latvia","Number","General practitioners",1394,FALSE
+2014,"Latvia","Number","Other generalist medical practitioners",0,FALSE
+2014,"Latvia","Number","Specialist medical practitioners",5018,FALSE
+2014,"Latvia","Number","General paediatricians",256,FALSE
+2014,"Lithuania","Number","Generalist medical practitioners",2769,FALSE
+2014,"Lithuania","Number","General practitioners",2600,FALSE
+2014,"Lithuania","Number","Other generalist medical practitioners",169,FALSE
+2014,"Lithuania","Number","Specialist medical practitioners",9862,FALSE
+2014,"Lithuania","Number","General paediatricians",778,FALSE
+2014,"Luxembourg","Number","Generalist medical practitioners",489,FALSE
+2014,"Luxembourg","Number","General practitioners",489,FALSE
+2014,"Luxembourg","Number","Other generalist medical practitioners",0,FALSE
+2014,"Luxembourg","Number","Specialist medical practitioners",1113,FALSE
+2014,"Luxembourg","Number","General paediatricians",84,FALSE
+2014,"Hungary","Number","Generalist medical practitioners",7096,TRUE
+2014,"Hungary","Number","General practitioners",4390,TRUE
+2014,"Hungary","Number","Other generalist medical practitioners",2481,TRUE
+2014,"Hungary","Number","Specialist medical practitioners",25615,TRUE
+2014,"Hungary","Number","General paediatricians",2371,TRUE
+2014,"Malta","Number","Generalist medical practitioners",346,FALSE
+2014,"Malta","Number","General practitioners",346,FALSE
+2014,"Malta","Number","Other generalist medical practitioners",0,FALSE
+2014,"Malta","Number","Specialist medical practitioners",798,FALSE
+2014,"Malta","Number","General paediatricians",68,FALSE
+2014,"Netherlands","Number","Generalist medical practitioners",25611,FALSE
+2014,"Netherlands","Number","General practitioners",13888,FALSE
+2014,"Netherlands","Number","Other generalist medical practitioners",11723,FALSE
+2014,"Netherlands","Number","Specialist medical practitioners",32151,FALSE
+2014,"Netherlands","Number","General paediatricians",1645,FALSE
+2014,"Austria","Number","Generalist medical practitioners",14130,FALSE
+2014,"Austria","Number","General practitioners",6614,FALSE
+2014,"Austria","Number","Other generalist medical practitioners",7516,FALSE
+2014,"Austria","Number","Specialist medical practitioners",22902,FALSE
+2014,"Austria","Number","General paediatricians",1340,FALSE
+2014,"Poland","Number","Generalist medical practitioners",13744,FALSE
+2014,"Poland","Number","General practitioners",8439,FALSE
+2014,"Poland","Number","Other generalist medical practitioners",5305,FALSE
+2014,"Poland","Number","Specialist medical practitioners",73943,FALSE
+2014,"Poland","Number","General paediatricians",5143,FALSE
+2014,"Portugal","Number","Generalist medical practitioners",23748,FALSE
+2014,"Portugal","Number","General practitioners",21926,FALSE
+2014,"Portugal","Number","Other generalist medical practitioners",1822,FALSE
+2014,"Portugal","Number","Specialist medical practitioners",23725,FALSE
+2014,"Portugal","Number","General paediatricians",1914,FALSE
+2014,"Romania","Number","Generalist medical practitioners",15740,FALSE
+2014,"Romania","Number","General practitioners",12655,FALSE
+2014,"Romania","Number","Other generalist medical practitioners",3085,FALSE
+2014,"Romania","Number","Specialist medical practitioners",37980,FALSE
+2014,"Romania","Number","General paediatricians",2501,FALSE
+2014,"Slovenia","Number","Generalist medical practitioners",1284,FALSE
+2014,"Slovenia","Number","General practitioners",1064,FALSE
+2014,"Slovenia","Number","Other generalist medical practitioners",220,FALSE
+2014,"Slovenia","Number","Specialist medical practitioners",4278,FALSE
+2014,"Slovenia","Number","General paediatricians",574,FALSE
+2014,"Finland","Number","Generalist medical practitioners",7167,FALSE
+2014,"Finland","Number","General practitioners",12560,TRUE
+2014,"Finland","Number","Other generalist medical practitioners",222,TRUE
+2014,"Finland","Number","Specialist medical practitioners",10775,FALSE
+2014,"Finland","Number","General paediatricians",720,FALSE
+2014,"Sweden","Number","Generalist medical practitioners",6270,FALSE
+2014,"Sweden","Number","General practitioners",6270,FALSE
+2014,"Sweden","Number","Other generalist medical practitioners",0,FALSE
+2014,"Sweden","Number","Specialist medical practitioners",21600,FALSE
+2014,"Sweden","Number","General paediatricians",1002,FALSE
+2014,"Iceland","Number","Generalist medical practitioners",188,FALSE
+2014,"Iceland","Number","General practitioners",188,FALSE
+2014,"Iceland","Number","Other generalist medical practitioners",222,TRUE
+2014,"Iceland","Number","Specialist medical practitioners",722,FALSE
+2014,"Iceland","Number","General paediatricians",15,FALSE
+2014,"Liechtenstein","Number","Generalist medical practitioners",34,FALSE
+2014,"Liechtenstein","Number","General practitioners",23,FALSE
+2014,"Liechtenstein","Number","Other generalist medical practitioners",11,FALSE
+2014,"Liechtenstein","Number","Specialist medical practitioners",85,FALSE
+2014,"Liechtenstein","Number","General paediatricians",5,FALSE
+2014,"Norway","Number","Generalist medical practitioners",4595,FALSE
+2014,"Norway","Number","General practitioners",4083,FALSE
+2014,"Norway","Number","Other generalist medical practitioners",512,FALSE
+2014,"Norway","Number","Specialist medical practitioners",9203,FALSE
+2014,"Norway","Number","General paediatricians",744,FALSE
+2014,"Switzerland","Number","Generalist medical practitioners",9225,FALSE
+2014,"Switzerland","Number","General practitioners",12560,TRUE
+2014,"Switzerland","Number","Other generalist medical practitioners",222,TRUE
+2014,"Switzerland","Number","Specialist medical practitioners",19639,FALSE
+2014,"Switzerland","Number","General paediatricians",1635,FALSE
+2014,"United Kingdom","Number","Generalist medical practitioners",50595,FALSE
+2014,"United Kingdom","Number","General practitioners",50595,FALSE
+2014,"United Kingdom","Number","Other generalist medical practitioners",222,TRUE
+2014,"United Kingdom","Number","Specialist medical practitioners",127025,FALSE
+2014,"United Kingdom","Number","General paediatricians",9841,FALSE
+2014,"Montenegro","Number","Generalist medical practitioners",245,FALSE
+2014,"Montenegro","Number","General practitioners",245,FALSE
+2014,"Montenegro","Number","Other generalist medical practitioners",0,FALSE
+2014,"Montenegro","Number","Specialist medical practitioners",1125,FALSE
+2014,"Montenegro","Number","General paediatricians",163,FALSE
+2014,"North Macedonia","Number","Generalist medical practitioners",2112,FALSE
+2014,"North Macedonia","Number","General practitioners",12560,TRUE
+2014,"North Macedonia","Number","Other generalist medical practitioners",222,TRUE
+2014,"North Macedonia","Number","Specialist medical practitioners",3923,FALSE
+2014,"North Macedonia","Number","General paediatricians",396,FALSE
+2014,"Albania","Number","Generalist medical practitioners",4747,TRUE
+2014,"Albania","Number","General practitioners",1603,TRUE
+2014,"Albania","Number","Other generalist medical practitioners",222,TRUE
+2014,"Albania","Number","Specialist medical practitioners",2087,TRUE
+2014,"Albania","Number","General paediatricians",1429,TRUE
+2014,"Serbia","Number","Generalist medical practitioners",6440,FALSE
+2014,"Serbia","Number","General practitioners",5043,FALSE
+2014,"Serbia","Number","Other generalist medical practitioners",1397,FALSE
+2014,"Serbia","Number","Specialist medical practitioners",15460,FALSE
+2014,"Serbia","Number","General paediatricians",1911,FALSE
+2014,"Turkey","Number","Generalist medical practitioners",41542,FALSE
+2014,"Turkey","Number","General practitioners",41542,FALSE
+2014,"Turkey","Number","Other generalist medical practitioners",222,TRUE
+2014,"Turkey","Number","Specialist medical practitioners",94074,FALSE
+2014,"Turkey","Number","General paediatricians",6780,FALSE
+2015,"Belgium","Number","Generalist medical practitioners",12693,FALSE
+2015,"Belgium","Number","General practitioners",12693,FALSE
+2015,"Belgium","Number","Other generalist medical practitioners",0,FALSE
+2015,"Belgium","Number","Specialist medical practitioners",20881,FALSE
+2015,"Belgium","Number","General paediatricians",1482,FALSE
+2015,"Bulgaria","Number","Generalist medical practitioners",4517,FALSE
+2015,"Bulgaria","Number","General practitioners",4433,FALSE
+2015,"Bulgaria","Number","Other generalist medical practitioners",84,FALSE
+2015,"Bulgaria","Number","Specialist medical practitioners",24521,FALSE
+2015,"Bulgaria","Number","General paediatricians",1420,FALSE
+2015,"Czechia","Number","Generalist medical practitioners",7371,TRUE
+2015,"Czechia","Number","General practitioners",7371,TRUE
+2015,"Czechia","Number","Other generalist medical practitioners",0,TRUE
+2015,"Czechia","Number","Specialist medical practitioners",31405,TRUE
+2015,"Czechia","Number","General paediatricians",1296,TRUE
+2015,"Denmark","Number","Generalist medical practitioners",4571,FALSE
+2015,"Denmark","Number","General practitioners",4571,TRUE
+2015,"Denmark","Number","Other generalist medical practitioners",84,TRUE
+2015,"Denmark","Number","Specialist medical practitioners",9857,FALSE
+2015,"Denmark","Number","General paediatricians",436,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","Generalist medical practitioners",78601,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","General practitioners",57652.5,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","Other generalist medical practitioners",20948.5,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","Specialist medical practitioners",259528,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","General paediatricians",13621,FALSE
+2015,"Estonia","Number","Generalist medical practitioners",1052,FALSE
+2015,"Estonia","Number","General practitioners",946,FALSE
+2015,"Estonia","Number","Other generalist medical practitioners",106,FALSE
+2015,"Estonia","Number","Specialist medical practitioners",3440,FALSE
+2015,"Estonia","Number","General paediatricians",172,FALSE
+2015,"Ireland","Number","Generalist medical practitioners",8610,FALSE
+2015,"Ireland","Number","General practitioners",3523,FALSE
+2015,"Ireland","Number","Other generalist medical practitioners",5087,FALSE
+2015,"Ireland","Number","Specialist medical practitioners",6011,FALSE
+2015,"Ireland","Number","General paediatricians",421,FALSE
+2015,"Greece","Number","Generalist medical practitioners",4396,FALSE
+2015,"Greece","Number","General practitioners",3425,FALSE
+2015,"Greece","Number","Other generalist medical practitioners",971,FALSE
+2015,"Greece","Number","Specialist medical practitioners",51596,FALSE
+2015,"Greece","Number","General paediatricians",4035,FALSE
+2015,"Spain","Number","Generalist medical practitioners",34735,FALSE
+2015,"Spain","Number","General practitioners",34735,FALSE
+2015,"Spain","Number","Other generalist medical practitioners",0,FALSE
+2015,"Spain","Number","Specialist medical practitioners",115392,FALSE
+2015,"Spain","Number","General paediatricians",12067,FALSE
+2015,"France","Number","Generalist medical practitioners",94262,FALSE
+2015,"France","Number","General practitioners",61205,FALSE
+2015,"France","Number","Other generalist medical practitioners",33057,FALSE
+2015,"France","Number","Specialist medical practitioners",113527,FALSE
+2015,"France","Number","General paediatricians",7873,FALSE
+2015,"Croatia","Number","Generalist medical practitioners",3248,FALSE
+2015,"Croatia","Number","General practitioners",2329,FALSE
+2015,"Croatia","Number","Other generalist medical practitioners",919,FALSE
+2015,"Croatia","Number","Specialist medical practitioners",10182,FALSE
+2015,"Croatia","Number","General paediatricians",827,FALSE
+2015,"Italy","Number","Generalist medical practitioners",53610,FALSE
+2015,"Italy","Number","General practitioners",44655,FALSE
+2015,"Italy","Number","Other generalist medical practitioners",8955,FALSE
+2015,"Italy","Number","Specialist medical practitioners",179492,FALSE
+2015,"Italy","Number","General paediatricians",17211,FALSE
+2015,"Cyprus","Number","Generalist medical practitioners",735,FALSE
+2015,"Cyprus","Number","General practitioners",735,FALSE
+2015,"Cyprus","Number","Other generalist medical practitioners",0,FALSE
+2015,"Cyprus","Number","Specialist medical practitioners",2311,FALSE
+2015,"Cyprus","Number","General paediatricians",242,FALSE
+2015,"Latvia","Number","Generalist medical practitioners",1379,FALSE
+2015,"Latvia","Number","General practitioners",1379,FALSE
+2015,"Latvia","Number","Other generalist medical practitioners",0,FALSE
+2015,"Latvia","Number","Specialist medical practitioners",4945,FALSE
+2015,"Latvia","Number","General paediatricians",246,FALSE
+2015,"Lithuania","Number","Generalist medical practitioners",2819,FALSE
+2015,"Lithuania","Number","General practitioners",2638,FALSE
+2015,"Lithuania","Number","Other generalist medical practitioners",181,FALSE
+2015,"Lithuania","Number","Specialist medical practitioners",9786,FALSE
+2015,"Lithuania","Number","General paediatricians",760,FALSE
+2015,"Luxembourg","Number","Generalist medical practitioners",498,FALSE
+2015,"Luxembourg","Number","General practitioners",498,FALSE
+2015,"Luxembourg","Number","Other generalist medical practitioners",0,FALSE
+2015,"Luxembourg","Number","Specialist medical practitioners",1158,FALSE
+2015,"Luxembourg","Number","General paediatricians",91,FALSE
+2015,"Hungary","Number","Generalist medical practitioners",7096,TRUE
+2015,"Hungary","Number","General practitioners",4390,TRUE
+2015,"Hungary","Number","Other generalist medical practitioners",2481,TRUE
+2015,"Hungary","Number","Specialist medical practitioners",25615,TRUE
+2015,"Hungary","Number","General paediatricians",2371,TRUE
+2015,"Malta","Number","Generalist medical practitioners",349,FALSE
+2015,"Malta","Number","General practitioners",349,FALSE
+2015,"Malta","Number","Other generalist medical practitioners",0,FALSE
+2015,"Malta","Number","Specialist medical practitioners",891,FALSE
+2015,"Malta","Number","General paediatricians",74,FALSE
+2015,"Netherlands","Number","Generalist medical practitioners",26490,FALSE
+2015,"Netherlands","Number","General practitioners",14210,FALSE
+2015,"Netherlands","Number","Other generalist medical practitioners",12280,FALSE
+2015,"Netherlands","Number","Specialist medical practitioners",32654,FALSE
+2015,"Netherlands","Number","General paediatricians",1681,FALSE
+2015,"Austria","Number","Generalist medical practitioners",14275,FALSE
+2015,"Austria","Number","General practitioners",6609,FALSE
+2015,"Austria","Number","Other generalist medical practitioners",7666,FALSE
+2015,"Austria","Number","Specialist medical practitioners",23702,FALSE
+2015,"Austria","Number","General paediatricians",1383,FALSE
+2015,"Poland","Number","Generalist medical practitioners",14618,FALSE
+2015,"Poland","Number","General practitioners",8272,FALSE
+2015,"Poland","Number","Other generalist medical practitioners",6346,FALSE
+2015,"Poland","Number","Specialist medical practitioners",73819,FALSE
+2015,"Poland","Number","General paediatricians",5210,FALSE
+2015,"Portugal","Number","Generalist medical practitioners",24940,FALSE
+2015,"Portugal","Number","General practitioners",22518,FALSE
+2015,"Portugal","Number","Other generalist medical practitioners",2422,FALSE
+2015,"Portugal","Number","Specialist medical practitioners",24296,FALSE
+2015,"Portugal","Number","General paediatricians",1973,FALSE
+2015,"Romania","Number","Generalist medical practitioners",15270,FALSE
+2015,"Romania","Number","General practitioners",12333,FALSE
+2015,"Romania","Number","Other generalist medical practitioners",2937,FALSE
+2015,"Romania","Number","Specialist medical practitioners",39537,FALSE
+2015,"Romania","Number","General paediatricians",2566,FALSE
+2015,"Slovenia","Number","Generalist medical practitioners",1364,FALSE
+2015,"Slovenia","Number","General practitioners",1132,FALSE
+2015,"Slovenia","Number","Other generalist medical practitioners",232,FALSE
+2015,"Slovenia","Number","Specialist medical practitioners",4272,FALSE
+2015,"Slovenia","Number","General paediatricians",587,FALSE
+2015,"Finland","Number","Generalist medical practitioners",6837,FALSE
+2015,"Finland","Number","General practitioners",12693,TRUE
+2015,"Finland","Number","Other generalist medical practitioners",84,TRUE
+2015,"Finland","Number","Specialist medical practitioners",10648,FALSE
+2015,"Finland","Number","General paediatricians",696,FALSE
+2015,"Sweden","Number","Generalist medical practitioners",6350,FALSE
+2015,"Sweden","Number","General practitioners",6350,FALSE
+2015,"Sweden","Number","Other generalist medical practitioners",0,FALSE
+2015,"Sweden","Number","Specialist medical practitioners",21974,FALSE
+2015,"Sweden","Number","General paediatricians",1043,FALSE
+2015,"Iceland","Number","Generalist medical practitioners",191,FALSE
+2015,"Iceland","Number","General practitioners",191,FALSE
+2015,"Iceland","Number","Other generalist medical practitioners",84,TRUE
+2015,"Iceland","Number","Specialist medical practitioners",725,FALSE
+2015,"Iceland","Number","General paediatricians",14,FALSE
+2015,"Liechtenstein","Number","Generalist medical practitioners",35,FALSE
+2015,"Liechtenstein","Number","General practitioners",23,FALSE
+2015,"Liechtenstein","Number","Other generalist medical practitioners",12,FALSE
+2015,"Liechtenstein","Number","Specialist medical practitioners",85,FALSE
+2015,"Liechtenstein","Number","General paediatricians",6,FALSE
+2015,"Norway","Number","Generalist medical practitioners",4323,FALSE
+2015,"Norway","Number","General practitioners",3950,FALSE
+2015,"Norway","Number","Other generalist medical practitioners",373,FALSE
+2015,"Norway","Number","Specialist medical practitioners",9443,FALSE
+2015,"Norway","Number","General paediatricians",760,FALSE
+2015,"Switzerland","Number","Generalist medical practitioners",9570,FALSE
+2015,"Switzerland","Number","General practitioners",12693,TRUE
+2015,"Switzerland","Number","Other generalist medical practitioners",84,TRUE
+2015,"Switzerland","Number","Specialist medical practitioners",20313,FALSE
+2015,"Switzerland","Number","General paediatricians",1692,FALSE
+2015,"United Kingdom","Number","Generalist medical practitioners",50169,FALSE
+2015,"United Kingdom","Number","General practitioners",50169,FALSE
+2015,"United Kingdom","Number","Other generalist medical practitioners",84,TRUE
+2015,"United Kingdom","Number","Specialist medical practitioners",130719,FALSE
+2015,"United Kingdom","Number","General paediatricians",9910,FALSE
+2015,"Montenegro","Number","Generalist medical practitioners",273,FALSE
+2015,"Montenegro","Number","General practitioners",273,FALSE
+2015,"Montenegro","Number","Other generalist medical practitioners",0,FALSE
+2015,"Montenegro","Number","Specialist medical practitioners",1217,FALSE
+2015,"Montenegro","Number","General paediatricians",166,FALSE
+2015,"North Macedonia","Number","Generalist medical practitioners",1967,FALSE
+2015,"North Macedonia","Number","General practitioners",12693,TRUE
+2015,"North Macedonia","Number","Other generalist medical practitioners",84,TRUE
+2015,"North Macedonia","Number","Specialist medical practitioners",4008,FALSE
+2015,"North Macedonia","Number","General paediatricians",396,FALSE
+2015,"Albania","Number","Generalist medical practitioners",4571,TRUE
+2015,"Albania","Number","General practitioners",1603,TRUE
+2015,"Albania","Number","Other generalist medical practitioners",84,TRUE
+2015,"Albania","Number","Specialist medical practitioners",2087,TRUE
+2015,"Albania","Number","General paediatricians",1420,TRUE
+2015,"Serbia","Number","Generalist medical practitioners",6239,FALSE
+2015,"Serbia","Number","General practitioners",4987,FALSE
+2015,"Serbia","Number","Other generalist medical practitioners",1252,FALSE
+2015,"Serbia","Number","Specialist medical practitioners",15601,FALSE
+2015,"Serbia","Number","General paediatricians",1943,FALSE
+2015,"Turkey","Number","Generalist medical practitioners",44646,FALSE
+2015,"Turkey","Number","General practitioners",44646,FALSE
+2015,"Turkey","Number","Other generalist medical practitioners",84,TRUE
+2015,"Turkey","Number","Specialist medical practitioners",96613,FALSE
+2015,"Turkey","Number","General paediatricians",6888,FALSE
+2016,"Belgium","Number","Generalist medical practitioners",12929,FALSE
+2016,"Belgium","Number","General practitioners",12929,FALSE
+2016,"Belgium","Number","Other generalist medical practitioners",0,FALSE
+2016,"Belgium","Number","Specialist medical practitioners",21424,FALSE
+2016,"Belgium","Number","General paediatricians",1532,FALSE
+2016,"Bulgaria","Number","Generalist medical practitioners",4561,FALSE
+2016,"Bulgaria","Number","General practitioners",4407,FALSE
+2016,"Bulgaria","Number","Other generalist medical practitioners",154,FALSE
+2016,"Bulgaria","Number","Specialist medical practitioners",24931,FALSE
+2016,"Bulgaria","Number","General paediatricians",1467,FALSE
+2016,"Czechia","Number","Generalist medical practitioners",7371,TRUE
+2016,"Czechia","Number","General practitioners",7371,TRUE
+2016,"Czechia","Number","Other generalist medical practitioners",0,TRUE
+2016,"Czechia","Number","Specialist medical practitioners",31405,TRUE
+2016,"Czechia","Number","General paediatricians",1296,TRUE
+2016,"Denmark","Number","Generalist medical practitioners",4582,FALSE
+2016,"Denmark","Number","General practitioners",4582,TRUE
+2016,"Denmark","Number","Other generalist medical practitioners",154,TRUE
+2016,"Denmark","Number","Specialist medical practitioners",10083,FALSE
+2016,"Denmark","Number","General paediatricians",457,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","Generalist medical practitioners",79847,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","General practitioners",57892.5,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","Other generalist medical practitioners",21954.5,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","Specialist medical practitioners",264908,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","General paediatricians",13758,FALSE
+2016,"Estonia","Number","Generalist medical practitioners",1061,FALSE
+2016,"Estonia","Number","General practitioners",960,FALSE
+2016,"Estonia","Number","Other generalist medical practitioners",101,FALSE
+2016,"Estonia","Number","Specialist medical practitioners",3487,FALSE
+2016,"Estonia","Number","General paediatricians",173,FALSE
+2016,"Ireland","Number","Generalist medical practitioners",8514,FALSE
+2016,"Ireland","Number","General practitioners",3605,FALSE
+2016,"Ireland","Number","Other generalist medical practitioners",4909,FALSE
+2016,"Ireland","Number","Specialist medical practitioners",6627,FALSE
+2016,"Ireland","Number","General paediatricians",445,FALSE
+2016,"Greece","Number","Generalist medical practitioners",4521,FALSE
+2016,"Greece","Number","General practitioners",3531,FALSE
+2016,"Greece","Number","Other generalist medical practitioners",990,FALSE
+2016,"Greece","Number","Specialist medical practitioners",52839,FALSE
+2016,"Greece","Number","General paediatricians",4133,FALSE
+2016,"Spain","Number","Generalist medical practitioners",34797,FALSE
+2016,"Spain","Number","General practitioners",34797,FALSE
+2016,"Spain","Number","Other generalist medical practitioners",0,FALSE
+2016,"Spain","Number","Specialist medical practitioners",117141,FALSE
+2016,"Spain","Number","General paediatricians",12189,FALSE
+2016,"France","Number","Generalist medical practitioners",94328,FALSE
+2016,"France","Number","General practitioners",60255,FALSE
+2016,"France","Number","Other generalist medical practitioners",34073,FALSE
+2016,"France","Number","Specialist medical practitioners",115039,FALSE
+2016,"France","Number","General paediatricians",7965,FALSE
+2016,"Croatia","Number","Generalist medical practitioners",3406,FALSE
+2016,"Croatia","Number","General practitioners",2302,FALSE
+2016,"Croatia","Number","Other generalist medical practitioners",1104,FALSE
+2016,"Croatia","Number","Specialist medical practitioners",10098,FALSE
+2016,"Croatia","Number","General paediatricians",842,FALSE
+2016,"Italy","Number","Generalist medical practitioners",54063,FALSE
+2016,"Italy","Number","General practitioners",44279,FALSE
+2016,"Italy","Number","Other generalist medical practitioners",9784,FALSE
+2016,"Italy","Number","Specialist medical practitioners",185579,FALSE
+2016,"Italy","Number","General paediatricians",17651,FALSE
+2016,"Cyprus","Number","Generalist medical practitioners",786,FALSE
+2016,"Cyprus","Number","General practitioners",786,FALSE
+2016,"Cyprus","Number","Other generalist medical practitioners",0,FALSE
+2016,"Cyprus","Number","Specialist medical practitioners",2423,FALSE
+2016,"Cyprus","Number","General paediatricians",246,FALSE
+2016,"Latvia","Number","Generalist medical practitioners",1412,FALSE
+2016,"Latvia","Number","General practitioners",1412,FALSE
+2016,"Latvia","Number","Other generalist medical practitioners",0,FALSE
+2016,"Latvia","Number","Specialist medical practitioners",4883,FALSE
+2016,"Latvia","Number","General paediatricians",246,FALSE
+2016,"Lithuania","Number","Generalist medical practitioners",2873,FALSE
+2016,"Lithuania","Number","General practitioners",2625,FALSE
+2016,"Lithuania","Number","Other generalist medical practitioners",248,FALSE
+2016,"Lithuania","Number","Specialist medical practitioners",9939,FALSE
+2016,"Lithuania","Number","General paediatricians",751,FALSE
+2016,"Luxembourg","Number","Generalist medical practitioners",505,FALSE
+2016,"Luxembourg","Number","General practitioners",505,FALSE
+2016,"Luxembourg","Number","Other generalist medical practitioners",0,FALSE
+2016,"Luxembourg","Number","Specialist medical practitioners",1178,FALSE
+2016,"Luxembourg","Number","General paediatricians",92,FALSE
+2016,"Hungary","Number","Generalist medical practitioners",7096,TRUE
+2016,"Hungary","Number","General practitioners",4390,TRUE
+2016,"Hungary","Number","Other generalist medical practitioners",2481,TRUE
+2016,"Hungary","Number","Specialist medical practitioners",25615,TRUE
+2016,"Hungary","Number","General paediatricians",2371,TRUE
+2016,"Malta","Number","Generalist medical practitioners",360,FALSE
+2016,"Malta","Number","General practitioners",360,FALSE
+2016,"Malta","Number","Other generalist medical practitioners",0,FALSE
+2016,"Malta","Number","Specialist medical practitioners",926,FALSE
+2016,"Malta","Number","General paediatricians",76,FALSE
+2016,"Netherlands","Number","Generalist medical practitioners",27060,FALSE
+2016,"Netherlands","Number","General practitioners",14531,FALSE
+2016,"Netherlands","Number","Other generalist medical practitioners",12529,FALSE
+2016,"Netherlands","Number","Specialist medical practitioners",33173,FALSE
+2016,"Netherlands","Number","General paediatricians",1725,FALSE
+2016,"Austria","Number","Generalist medical practitioners",13834,FALSE
+2016,"Austria","Number","General practitioners",6668,FALSE
+2016,"Austria","Number","Other generalist medical practitioners",7166,FALSE
+2016,"Austria","Number","Specialist medical practitioners",23814,FALSE
+2016,"Austria","Number","General paediatricians",1335,FALSE
+2016,"Poland","Number","Generalist medical practitioners",16052,FALSE
+2016,"Poland","Number","General practitioners",8387,FALSE
+2016,"Poland","Number","Other generalist medical practitioners",7665,FALSE
+2016,"Poland","Number","Specialist medical practitioners",75678,FALSE
+2016,"Poland","Number","General paediatricians",5533,FALSE
+2016,"Portugal","Number","Generalist medical practitioners",26100,FALSE
+2016,"Portugal","Number","General practitioners",23464,FALSE
+2016,"Portugal","Number","Other generalist medical practitioners",2636,FALSE
+2016,"Portugal","Number","Specialist medical practitioners",24905,FALSE
+2016,"Portugal","Number","General paediatricians",2032,FALSE
+2016,"Romania","Number","Generalist medical practitioners",15211,FALSE
+2016,"Romania","Number","General practitioners",12334,FALSE
+2016,"Romania","Number","Other generalist medical practitioners",2877,FALSE
+2016,"Romania","Number","Specialist medical practitioners",40764,FALSE
+2016,"Romania","Number","General paediatricians",2598,FALSE
+2016,"Slovenia","Number","Generalist medical practitioners",1405,FALSE
+2016,"Slovenia","Number","General practitioners",1185,FALSE
+2016,"Slovenia","Number","Other generalist medical practitioners",220,FALSE
+2016,"Slovenia","Number","Specialist medical practitioners",4514,FALSE
+2016,"Slovenia","Number","General paediatricians",605,FALSE
+2016,"Finland","Number","Generalist medical practitioners",6849,TRUE
+2016,"Finland","Number","General practitioners",12929,TRUE
+2016,"Finland","Number","Other generalist medical practitioners",154,TRUE
+2016,"Finland","Number","Specialist medical practitioners",10648,TRUE
+2016,"Finland","Number","General paediatricians",703,TRUE
+2016,"Sweden","Number","Generalist medical practitioners",6388,FALSE
+2016,"Sweden","Number","General practitioners",6388,FALSE
+2016,"Sweden","Number","Other generalist medical practitioners",0,FALSE
+2016,"Sweden","Number","Specialist medical practitioners",22300,FALSE
+2016,"Sweden","Number","General paediatricians",1026,FALSE
+2016,"Iceland","Number","Generalist medical practitioners",213,FALSE
+2016,"Iceland","Number","General practitioners",213,FALSE
+2016,"Iceland","Number","Other generalist medical practitioners",154,TRUE
+2016,"Iceland","Number","Specialist medical practitioners",818,FALSE
+2016,"Iceland","Number","General paediatricians",20,FALSE
+2016,"Liechtenstein","Number","Generalist medical practitioners",37,FALSE
+2016,"Liechtenstein","Number","General practitioners",24,FALSE
+2016,"Liechtenstein","Number","Other generalist medical practitioners",13,FALSE
+2016,"Liechtenstein","Number","Specialist medical practitioners",87,FALSE
+2016,"Liechtenstein","Number","General paediatricians",5,FALSE
+2016,"Norway","Number","Generalist medical practitioners",4409,FALSE
+2016,"Norway","Number","General practitioners",4012,FALSE
+2016,"Norway","Number","Other generalist medical practitioners",397,FALSE
+2016,"Norway","Number","Specialist medical practitioners",9760,FALSE
+2016,"Norway","Number","General paediatricians",804,FALSE
+2016,"Switzerland","Number","Generalist medical practitioners",9601,FALSE
+2016,"Switzerland","Number","General practitioners",12929,TRUE
+2016,"Switzerland","Number","Other generalist medical practitioners",154,TRUE
+2016,"Switzerland","Number","Specialist medical practitioners",20993,FALSE
+2016,"Switzerland","Number","General paediatricians",1770,FALSE
+2016,"United Kingdom","Number","Generalist medical practitioners",50080,FALSE
+2016,"United Kingdom","Number","General practitioners",50080,FALSE
+2016,"United Kingdom","Number","Other generalist medical practitioners",154,TRUE
+2016,"United Kingdom","Number","Specialist medical practitioners",132657,FALSE
+2016,"United Kingdom","Number","General paediatricians",10135,FALSE
+2016,"Montenegro","Number","Generalist medical practitioners",284,FALSE
+2016,"Montenegro","Number","General practitioners",284,FALSE
+2016,"Montenegro","Number","Other generalist medical practitioners",0,FALSE
+2016,"Montenegro","Number","Specialist medical practitioners",1332,FALSE
+2016,"Montenegro","Number","General paediatricians",182,FALSE
+2016,"North Macedonia","Number","Generalist medical practitioners",2070,FALSE
+2016,"North Macedonia","Number","General practitioners",12929,TRUE
+2016,"North Macedonia","Number","Other generalist medical practitioners",154,TRUE
+2016,"North Macedonia","Number","Specialist medical practitioners",4140,FALSE
+2016,"North Macedonia","Number","General paediatricians",415,FALSE
+2016,"Albania","Number","Generalist medical practitioners",4582,TRUE
+2016,"Albania","Number","General practitioners",1603,TRUE
+2016,"Albania","Number","Other generalist medical practitioners",154,TRUE
+2016,"Albania","Number","Specialist medical practitioners",2087,TRUE
+2016,"Albania","Number","General paediatricians",1467,TRUE
+2016,"Serbia","Number","Generalist medical practitioners",6061,FALSE
+2016,"Serbia","Number","General practitioners",4910,FALSE
+2016,"Serbia","Number","Other generalist medical practitioners",1151,FALSE
+2016,"Serbia","Number","Specialist medical practitioners",14792,FALSE
+2016,"Serbia","Number","General paediatricians",1934,FALSE
+2016,"Turkey","Number","Generalist medical practitioners",46107,FALSE
+2016,"Turkey","Number","General practitioners",46107,FALSE
+2016,"Turkey","Number","Other generalist medical practitioners",154,TRUE
+2016,"Turkey","Number","Specialist medical practitioners",98720,FALSE
+2016,"Turkey","Number","General paediatricians",7125,FALSE
+2017,"Belgium","Number","Generalist medical practitioners",12992,FALSE
+2017,"Belgium","Number","General practitioners",12992,FALSE
+2017,"Belgium","Number","Other generalist medical practitioners",0,FALSE
+2017,"Belgium","Number","Specialist medical practitioners",21630,FALSE
+2017,"Belgium","Number","General paediatricians",1563,FALSE
+2017,"Bulgaria","Number","Generalist medical practitioners",4650,FALSE
+2017,"Bulgaria","Number","General practitioners",4531,FALSE
+2017,"Bulgaria","Number","Other generalist medical practitioners",119,FALSE
+2017,"Bulgaria","Number","Specialist medical practitioners",25387,FALSE
+2017,"Bulgaria","Number","General paediatricians",1475,FALSE
+2017,"Czechia","Number","Generalist medical practitioners",7371,TRUE
+2017,"Czechia","Number","General practitioners",7371,TRUE
+2017,"Czechia","Number","Other generalist medical practitioners",0,TRUE
+2017,"Czechia","Number","Specialist medical practitioners",31405,TRUE
+2017,"Czechia","Number","General paediatricians",1296,TRUE
+2017,"Denmark","Number","Generalist medical practitioners",4616,FALSE
+2017,"Denmark","Number","General practitioners",4616,TRUE
+2017,"Denmark","Number","Other generalist medical practitioners",119,TRUE
+2017,"Denmark","Number","Specialist medical practitioners",10355,FALSE
+2017,"Denmark","Number","General paediatricians",469,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","Generalist medical practitioners",81411,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","General practitioners",58474.5,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","Other generalist medical practitioners",22936.5,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","Specialist medical practitioners",269784,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","General paediatricians",14023,FALSE
+2017,"Estonia","Number","Generalist medical practitioners",1059,FALSE
+2017,"Estonia","Number","General practitioners",937,FALSE
+2017,"Estonia","Number","Other generalist medical practitioners",122,FALSE
+2017,"Estonia","Number","Specialist medical practitioners",3510,FALSE
+2017,"Estonia","Number","General paediatricians",172,FALSE
+2017,"Ireland","Number","Generalist medical practitioners",8763,FALSE
+2017,"Ireland","Number","General practitioners",3942,FALSE
+2017,"Ireland","Number","Other generalist medical practitioners",4821,FALSE
+2017,"Ireland","Number","Specialist medical practitioners",6861,FALSE
+2017,"Ireland","Number","General paediatricians",451,FALSE
+2017,"Greece","Number","Generalist medical practitioners",4651,FALSE
+2017,"Greece","Number","General practitioners",3647,FALSE
+2017,"Greece","Number","Other generalist medical practitioners",1004,FALSE
+2017,"Greece","Number","Specialist medical practitioners",53258,FALSE
+2017,"Greece","Number","General paediatricians",4258,FALSE
+2017,"Spain","Number","Generalist medical practitioners",35378,FALSE
+2017,"Spain","Number","General practitioners",35378,FALSE
+2017,"Spain","Number","Other generalist medical practitioners",0,FALSE
+2017,"Spain","Number","Specialist medical practitioners",118356,FALSE
+2017,"Spain","Number","General paediatricians",12389,FALSE
+2017,"France","Number","Generalist medical practitioners",94889,FALSE
+2017,"France","Number","General practitioners",60214,FALSE
+2017,"France","Number","Other generalist medical practitioners",34675,FALSE
+2017,"France","Number","Specialist medical practitioners",116273,FALSE
+2017,"France","Number","General paediatricians",8075,FALSE
+2017,"Croatia","Number","Generalist medical practitioners",3321,FALSE
+2017,"Croatia","Number","General practitioners",2305,FALSE
+2017,"Croatia","Number","Other generalist medical practitioners",1016,FALSE
+2017,"Croatia","Number","Specialist medical practitioners",10564,FALSE
+2017,"Croatia","Number","General paediatricians",864,FALSE
+2017,"Italy","Number","Generalist medical practitioners",53691,FALSE
+2017,"Italy","Number","General practitioners",43731,FALSE
+2017,"Italy","Number","Other generalist medical practitioners",9960,FALSE
+2017,"Italy","Number","Specialist medical practitioners",187821,FALSE
+2017,"Italy","Number","General paediatricians",17354,FALSE
+2017,"Cyprus","Number","Generalist medical practitioners",833,FALSE
+2017,"Cyprus","Number","General practitioners",833,FALSE
+2017,"Cyprus","Number","Other generalist medical practitioners",0,FALSE
+2017,"Cyprus","Number","Specialist medical practitioners",2492,FALSE
+2017,"Cyprus","Number","General paediatricians",248,FALSE
+2017,"Latvia","Number","Generalist medical practitioners",1414,FALSE
+2017,"Latvia","Number","General practitioners",1414,FALSE
+2017,"Latvia","Number","Other generalist medical practitioners",0,FALSE
+2017,"Latvia","Number","Specialist medical practitioners",4811,FALSE
+2017,"Latvia","Number","General paediatricians",248,FALSE
+2017,"Lithuania","Number","Generalist medical practitioners",2971,FALSE
+2017,"Lithuania","Number","General practitioners",2668,FALSE
+2017,"Lithuania","Number","Other generalist medical practitioners",303,FALSE
+2017,"Lithuania","Number","Specialist medical practitioners",9916,FALSE
+2017,"Lithuania","Number","General paediatricians",716,FALSE
+2017,"Luxembourg","Number","Generalist medical practitioners",534,FALSE
+2017,"Luxembourg","Number","General practitioners",534,FALSE
+2017,"Luxembourg","Number","Other generalist medical practitioners",0,FALSE
+2017,"Luxembourg","Number","Specialist medical practitioners",1246,FALSE
+2017,"Luxembourg","Number","General paediatricians",98,FALSE
+2017,"Hungary","Number","Generalist medical practitioners",6855,FALSE
+2017,"Hungary","Number","General practitioners",4374,FALSE
+2017,"Hungary","Number","Other generalist medical practitioners",2481,FALSE
+2017,"Hungary","Number","Specialist medical practitioners",25615,FALSE
+2017,"Hungary","Number","General paediatricians",2371,FALSE
+2017,"Malta","Number","Generalist medical practitioners",379,FALSE
+2017,"Malta","Number","General practitioners",379,FALSE
+2017,"Malta","Number","Other generalist medical practitioners",0,FALSE
+2017,"Malta","Number","Specialist medical practitioners",984,FALSE
+2017,"Malta","Number","General paediatricians",81,FALSE
+2017,"Netherlands","Number","Generalist medical practitioners",27730,FALSE
+2017,"Netherlands","Number","General practitioners",14893,FALSE
+2017,"Netherlands","Number","Other generalist medical practitioners",12837,FALSE
+2017,"Netherlands","Number","Specialist medical practitioners",34000,FALSE
+2017,"Netherlands","Number","General paediatricians",1770,FALSE
+2017,"Austria","Number","Generalist medical practitioners",13745,FALSE
+2017,"Austria","Number","General practitioners",6637,FALSE
+2017,"Austria","Number","Other generalist medical practitioners",7108,FALSE
+2017,"Austria","Number","Specialist medical practitioners",24218,FALSE
+2017,"Austria","Number","General paediatricians",1359,FALSE
+2017,"Poland","Number","Generalist medical practitioners",15908,FALSE
+2017,"Poland","Number","General practitioners",8418,FALSE
+2017,"Poland","Number","Other generalist medical practitioners",7490,FALSE
+2017,"Poland","Number","Specialist medical practitioners",74376,FALSE
+2017,"Poland","Number","General paediatricians",5497,FALSE
+2017,"Portugal","Number","Generalist medical practitioners",27076,FALSE
+2017,"Portugal","Number","General practitioners",24248,FALSE
+2017,"Portugal","Number","Other generalist medical practitioners",2828,FALSE
+2017,"Portugal","Number","Specialist medical practitioners",25642,FALSE
+2017,"Portugal","Number","General paediatricians",2085,FALSE
+2017,"Romania","Number","Generalist medical practitioners",15020,FALSE
+2017,"Romania","Number","General practitioners",12184,FALSE
+2017,"Romania","Number","Other generalist medical practitioners",2836,FALSE
+2017,"Romania","Number","Specialist medical practitioners",42309,FALSE
+2017,"Romania","Number","General paediatricians",2655,FALSE
+2017,"Slovenia","Number","Generalist medical practitioners",1400,FALSE
+2017,"Slovenia","Number","General practitioners",1237,FALSE
+2017,"Slovenia","Number","Other generalist medical practitioners",163,FALSE
+2017,"Slovenia","Number","Specialist medical practitioners",4758,FALSE
+2017,"Slovenia","Number","General paediatricians",648,FALSE
+2017,"Finland","Number","Generalist medical practitioners",6849,TRUE
+2017,"Finland","Number","General practitioners",12992,TRUE
+2017,"Finland","Number","Other generalist medical practitioners",119,TRUE
+2017,"Finland","Number","Specialist medical practitioners",10648,TRUE
+2017,"Finland","Number","General paediatricians",703,TRUE
+2017,"Sweden","Number","Generalist medical practitioners",6411,FALSE
+2017,"Sweden","Number","General practitioners",6411,FALSE
+2017,"Sweden","Number","Other generalist medical practitioners",0,FALSE
+2017,"Sweden","Number","Specialist medical practitioners",22669,FALSE
+2017,"Sweden","Number","General paediatricians",1083,FALSE
+2017,"Iceland","Number","Generalist medical practitioners",209,FALSE
+2017,"Iceland","Number","General practitioners",209,FALSE
+2017,"Iceland","Number","Other generalist medical practitioners",119,TRUE
+2017,"Iceland","Number","Specialist medical practitioners",796,FALSE
+2017,"Iceland","Number","General paediatricians",18,FALSE
+2017,"Liechtenstein","Number","Generalist medical practitioners",46,FALSE
+2017,"Liechtenstein","Number","General practitioners",25,FALSE
+2017,"Liechtenstein","Number","Other generalist medical practitioners",21,FALSE
+2017,"Liechtenstein","Number","Specialist medical practitioners",92,FALSE
+2017,"Liechtenstein","Number","General paediatricians",5,FALSE
+2017,"Norway","Number","Generalist medical practitioners",4566,FALSE
+2017,"Norway","Number","General practitioners",4135,FALSE
+2017,"Norway","Number","Other generalist medical practitioners",431,FALSE
+2017,"Norway","Number","Specialist medical practitioners",10445,FALSE
+2017,"Norway","Number","General paediatricians",875,FALSE
+2017,"Switzerland","Number","Generalist medical practitioners",9628,FALSE
+2017,"Switzerland","Number","General practitioners",12992,TRUE
+2017,"Switzerland","Number","Other generalist medical practitioners",119,TRUE
+2017,"Switzerland","Number","Specialist medical practitioners",21658,FALSE
+2017,"Switzerland","Number","General paediatricians",1817,FALSE
+2017,"United Kingdom","Number","Generalist medical practitioners",49824,FALSE
+2017,"United Kingdom","Number","General practitioners",49824,FALSE
+2017,"United Kingdom","Number","Other generalist medical practitioners",119,TRUE
+2017,"United Kingdom","Number","Specialist medical practitioners",136097,FALSE
+2017,"United Kingdom","Number","General paediatricians",10464,FALSE
+2017,"Montenegro","Number","Generalist medical practitioners",303,FALSE
+2017,"Montenegro","Number","General practitioners",303,FALSE
+2017,"Montenegro","Number","Other generalist medical practitioners",0,FALSE
+2017,"Montenegro","Number","Specialist medical practitioners",1356,FALSE
+2017,"Montenegro","Number","General paediatricians",189,FALSE
+2017,"North Macedonia","Number","Generalist medical practitioners",2032,FALSE
+2017,"North Macedonia","Number","General practitioners",12992,TRUE
+2017,"North Macedonia","Number","Other generalist medical practitioners",119,TRUE
+2017,"North Macedonia","Number","Specialist medical practitioners",4187,FALSE
+2017,"North Macedonia","Number","General paediatricians",428,FALSE
+2017,"Albania","Number","Generalist medical practitioners",4650,TRUE
+2017,"Albania","Number","General practitioners",1603,TRUE
+2017,"Albania","Number","Other generalist medical practitioners",119,TRUE
+2017,"Albania","Number","Specialist medical practitioners",2087,TRUE
+2017,"Albania","Number","General paediatricians",1475,TRUE
+2017,"Serbia","Number","Generalist medical practitioners",6084,FALSE
+2017,"Serbia","Number","General practitioners",4851,FALSE
+2017,"Serbia","Number","Other generalist medical practitioners",1233,FALSE
+2017,"Serbia","Number","Specialist medical practitioners",14689,FALSE
+2017,"Serbia","Number","General paediatricians",1919,FALSE
+2017,"Turkey","Number","Generalist medical practitioners",47999,FALSE
+2017,"Turkey","Number","General practitioners",47999,FALSE
+2017,"Turkey","Number","Other generalist medical practitioners",119,TRUE
+2017,"Turkey","Number","Specialist medical practitioners",101998,FALSE
+2017,"Turkey","Number","General paediatricians",7362,FALSE
+2018,"Belgium","Number","Generalist medical practitioners",13178,FALSE
+2018,"Belgium","Number","General practitioners",13178,FALSE
+2018,"Belgium","Number","Other generalist medical practitioners",0,FALSE
+2018,"Belgium","Number","Specialist medical practitioners",22062,FALSE
+2018,"Belgium","Number","General paediatricians",1586,FALSE
+2018,"Bulgaria","Number","Generalist medical practitioners",4322,FALSE
+2018,"Bulgaria","Number","General practitioners",4199,FALSE
+2018,"Bulgaria","Number","Other generalist medical practitioners",123,FALSE
+2018,"Bulgaria","Number","Specialist medical practitioners",25303,FALSE
+2018,"Bulgaria","Number","General paediatricians",1735,FALSE
+2018,"Czechia","Number","Generalist medical practitioners",6981,FALSE
+2018,"Czechia","Number","General practitioners",6981,FALSE
+2018,"Czechia","Number","Other generalist medical practitioners",0,FALSE
+2018,"Czechia","Number","Specialist medical practitioners",34441,FALSE
+2018,"Czechia","Number","General paediatricians",1424,FALSE
+2018,"Denmark","Number","Generalist medical practitioners",4649,FALSE
+2018,"Denmark","Number","General practitioners",6981,TRUE
+2018,"Denmark","Number","Other generalist medical practitioners",0,TRUE
+2018,"Denmark","Number","Specialist medical practitioners",10498,FALSE
+2018,"Denmark","Number","General paediatricians",485,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","Generalist medical practitioners",82757,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","General practitioners",58939.5,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","Other generalist medical practitioners",23817.5,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","Specialist medical practitioners",274644,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","General paediatricians",14093,FALSE
+2018,"Estonia","Number","Generalist medical practitioners",1097,FALSE
+2018,"Estonia","Number","General practitioners",964,FALSE
+2018,"Estonia","Number","Other generalist medical practitioners",133,FALSE
+2018,"Estonia","Number","Specialist medical practitioners",3508,FALSE
+2018,"Estonia","Number","General paediatricians",163,FALSE
+2018,"Ireland","Number","Generalist medical practitioners",8965,FALSE
+2018,"Ireland","Number","General practitioners",4081,FALSE
+2018,"Ireland","Number","Other generalist medical practitioners",4884,FALSE
+2018,"Ireland","Number","Specialist medical practitioners",6977,FALSE
+2018,"Ireland","Number","General paediatricians",492,FALSE
+2018,"Greece","Number","Generalist medical practitioners",4390,FALSE
+2018,"Greece","Number","General practitioners",3642,FALSE
+2018,"Greece","Number","Other generalist medical practitioners",748,FALSE
+2018,"Greece","Number","Specialist medical practitioners",55161,FALSE
+2018,"Greece","Number","General paediatricians",4278,FALSE
+2018,"Spain","Number","Generalist medical practitioners",35798,FALSE
+2018,"Spain","Number","General practitioners",35798,FALSE
+2018,"Spain","Number","Other generalist medical practitioners",0,FALSE
+2018,"Spain","Number","Specialist medical practitioners",121561,FALSE
+2018,"Spain","Number","General paediatricians",12610,FALSE
+2018,"France","Number","Generalist medical practitioners",94923,FALSE
+2018,"France","Number","General practitioners",59399,FALSE
+2018,"France","Number","Other generalist medical practitioners",35524,FALSE
+2018,"France","Number","Specialist medical practitioners",117414,FALSE
+2018,"France","Number","General paediatricians",8134,FALSE
+2018,"Croatia","Number","Generalist medical practitioners",3507,FALSE
+2018,"Croatia","Number","General practitioners",2478,FALSE
+2018,"Croatia","Number","Other generalist medical practitioners",1029,FALSE
+2018,"Croatia","Number","Specialist medical practitioners",10568,FALSE
+2018,"Croatia","Number","General paediatricians",898,FALSE
+2018,"Italy","Number","Generalist medical practitioners",52998,FALSE
+2018,"Italy","Number","General practitioners",42987,FALSE
+2018,"Italy","Number","Other generalist medical practitioners",10011,FALSE
+2018,"Italy","Number","Specialist medical practitioners",187303,FALSE
+2018,"Italy","Number","General paediatricians",16968,FALSE
+2018,"Cyprus","Number","Generalist medical practitioners",912,FALSE
+2018,"Cyprus","Number","General practitioners",912,FALSE
+2018,"Cyprus","Number","Other generalist medical practitioners",0,FALSE
+2018,"Cyprus","Number","Specialist medical practitioners",2632,FALSE
+2018,"Cyprus","Number","General paediatricians",253,FALSE
+2018,"Latvia","Number","Generalist medical practitioners",1411,FALSE
+2018,"Latvia","Number","General practitioners",1411,FALSE
+2018,"Latvia","Number","Other generalist medical practitioners",0,FALSE
+2018,"Latvia","Number","Specialist medical practitioners",4956,FALSE
+2018,"Latvia","Number","General paediatricians",249,FALSE
+2018,"Lithuania","Number","Generalist medical practitioners",2884,FALSE
+2018,"Lithuania","Number","General practitioners",2560,FALSE
+2018,"Lithuania","Number","Other generalist medical practitioners",324,FALSE
+2018,"Lithuania","Number","Specialist medical practitioners",9997,FALSE
+2018,"Lithuania","Number","General paediatricians",710,FALSE
+2018,"Luxembourg","Number","Generalist medical practitioners",505,TRUE
+2018,"Luxembourg","Number","General practitioners",505,TRUE
+2018,"Luxembourg","Number","Other generalist medical practitioners",0,TRUE
+2018,"Luxembourg","Number","Specialist medical practitioners",1178,TRUE
+2018,"Luxembourg","Number","General paediatricians",92,TRUE
+2018,"Hungary","Number","Generalist medical practitioners",7096,FALSE
+2018,"Hungary","Number","General practitioners",4390,FALSE
+2018,"Hungary","Number","Other generalist medical practitioners",2706,FALSE
+2018,"Hungary","Number","Specialist medical practitioners",25903,FALSE
+2018,"Hungary","Number","General paediatricians",2383,FALSE
+2018,"Malta","Number","Generalist medical practitioners",396,FALSE
+2018,"Malta","Number","General practitioners",396,FALSE
+2018,"Malta","Number","Other generalist medical practitioners",0,FALSE
+2018,"Malta","Number","Specialist medical practitioners",1058,FALSE
+2018,"Malta","Number","General paediatricians",87,FALSE
+2018,"Netherlands","Number","Generalist medical practitioners",28708,FALSE
+2018,"Netherlands","Number","General practitioners",15091,FALSE
+2018,"Netherlands","Number","Other generalist medical practitioners",13617,FALSE
+2018,"Netherlands","Number","Specialist medical practitioners",34525,FALSE
+2018,"Netherlands","Number","General paediatricians",1818,FALSE
+2018,"Austria","Number","Generalist medical practitioners",15006,FALSE
+2018,"Austria","Number","General practitioners",7163,FALSE
+2018,"Austria","Number","Other generalist medical practitioners",7843,FALSE
+2018,"Austria","Number","Specialist medical practitioners",23246,FALSE
+2018,"Austria","Number","General paediatricians",1313,FALSE
+2018,"Poland","Number","Generalist medical practitioners",15908,TRUE
+2018,"Poland","Number","General practitioners",8387,TRUE
+2018,"Poland","Number","Other generalist medical practitioners",7490,TRUE
+2018,"Poland","Number","Specialist medical practitioners",74376,TRUE
+2018,"Poland","Number","General paediatricians",5497,TRUE
+2018,"Portugal","Number","Generalist medical practitioners",27664,FALSE
+2018,"Portugal","Number","General practitioners",25123,FALSE
+2018,"Portugal","Number","Other generalist medical practitioners",2541,FALSE
+2018,"Portugal","Number","Specialist medical practitioners",26814,FALSE
+2018,"Portugal","Number","General paediatricians",2135,FALSE
+2018,"Romania","Number","Generalist medical practitioners",14891,FALSE
+2018,"Romania","Number","General practitioners",12026,FALSE
+2018,"Romania","Number","Other generalist medical practitioners",2865,FALSE
+2018,"Romania","Number","Specialist medical practitioners",44442,FALSE
+2018,"Romania","Number","General paediatricians",2710,FALSE
+2018,"Slovenia","Number","Generalist medical practitioners",1405,FALSE
+2018,"Slovenia","Number","General practitioners",1275,FALSE
+2018,"Slovenia","Number","Other generalist medical practitioners",130,FALSE
+2018,"Slovenia","Number","Specialist medical practitioners",5012,FALSE
+2018,"Slovenia","Number","General paediatricians",660,FALSE
+2018,"Finland","Number","Generalist medical practitioners",6849,TRUE
+2018,"Finland","Number","General practitioners",6981,TRUE
+2018,"Finland","Number","Other generalist medical practitioners",0,TRUE
+2018,"Finland","Number","Specialist medical practitioners",10648,TRUE
+2018,"Finland","Number","General paediatricians",703,TRUE
+2018,"Sweden","Number","Generalist medical practitioners",6388,TRUE
+2018,"Sweden","Number","General practitioners",6388,TRUE
+2018,"Sweden","Number","Other generalist medical practitioners",0,TRUE
+2018,"Sweden","Number","Specialist medical practitioners",22300,TRUE
+2018,"Sweden","Number","General paediatricians",1043,TRUE
+2018,"Iceland","Number","Generalist medical practitioners",218,FALSE
+2018,"Iceland","Number","General practitioners",218,FALSE
+2018,"Iceland","Number","Other generalist medical practitioners",0,TRUE
+2018,"Iceland","Number","Specialist medical practitioners",802,FALSE
+2018,"Iceland","Number","General paediatricians",15,FALSE
+2018,"Liechtenstein","Number","Generalist medical practitioners",44,FALSE
+2018,"Liechtenstein","Number","General practitioners",25,FALSE
+2018,"Liechtenstein","Number","Other generalist medical practitioners",19,FALSE
+2018,"Liechtenstein","Number","Specialist medical practitioners",91,FALSE
+2018,"Liechtenstein","Number","General paediatricians",5,FALSE
+2018,"Norway","Number","Generalist medical practitioners",4691,FALSE
+2018,"Norway","Number","General practitioners",4218,FALSE
+2018,"Norway","Number","Other generalist medical practitioners",473,FALSE
+2018,"Norway","Number","Specialist medical practitioners",10877,FALSE
+2018,"Norway","Number","General paediatricians",925,FALSE
+2018,"Switzerland","Number","Generalist medical practitioners",9683,FALSE
+2018,"Switzerland","Number","General practitioners",6981,TRUE
+2018,"Switzerland","Number","Other generalist medical practitioners",0,TRUE
+2018,"Switzerland","Number","Specialist medical practitioners",22196,FALSE
+2018,"Switzerland","Number","General paediatricians",1869,FALSE
+2018,"United Kingdom","Number","Generalist medical practitioners",49569,FALSE
+2018,"United Kingdom","Number","General practitioners",49569,FALSE
+2018,"United Kingdom","Number","Other generalist medical practitioners",0,TRUE
+2018,"United Kingdom","Number","Specialist medical practitioners",138726,FALSE
+2018,"United Kingdom","Number","General paediatricians",10693,FALSE
+2018,"Montenegro","Number","Generalist medical practitioners",336,FALSE
+2018,"Montenegro","Number","General practitioners",336,FALSE
+2018,"Montenegro","Number","Other generalist medical practitioners",0,FALSE
+2018,"Montenegro","Number","Specialist medical practitioners",1394,FALSE
+2018,"Montenegro","Number","General paediatricians",183,FALSE
+2018,"North Macedonia","Number","Generalist medical practitioners",2032,TRUE
+2018,"North Macedonia","Number","General practitioners",6981,TRUE
+2018,"North Macedonia","Number","Other generalist medical practitioners",0,TRUE
+2018,"North Macedonia","Number","Specialist medical practitioners",4140,TRUE
+2018,"North Macedonia","Number","General paediatricians",415,TRUE
+2018,"Albania","Number","Generalist medical practitioners",6981,TRUE
+2018,"Albania","Number","General practitioners",1603,TRUE
+2018,"Albania","Number","Other generalist medical practitioners",0,TRUE
+2018,"Albania","Number","Specialist medical practitioners",2087,TRUE
+2018,"Albania","Number","General paediatricians",1586,TRUE
+2018,"Serbia","Number","Generalist medical practitioners",6191,FALSE
+2018,"Serbia","Number","General practitioners",4839,FALSE
+2018,"Serbia","Number","Other generalist medical practitioners",1352,FALSE
+2018,"Serbia","Number","Specialist medical practitioners",14633,FALSE
+2018,"Serbia","Number","General paediatricians",1890,FALSE
+2018,"Turkey","Number","Generalist medical practitioners",48688,FALSE
+2018,"Turkey","Number","General practitioners",48688,FALSE
+2018,"Turkey","Number","Other generalist medical practitioners",0,TRUE
+2018,"Turkey","Number","Specialist medical practitioners",104440,FALSE
+2018,"Turkey","Number","General paediatricians",8312,FALSE
+2019,"Belgium","Number","Generalist medical practitioners",12992,TRUE
+2019,"Belgium","Number","General practitioners",12992,TRUE
+2019,"Belgium","Number","Other generalist medical practitioners",0,TRUE
+2019,"Belgium","Number","Specialist medical practitioners",21630,TRUE
+2019,"Belgium","Number","General paediatricians",1563,TRUE
+2019,"Bulgaria","Number","Generalist medical practitioners",4561,TRUE
+2019,"Bulgaria","Number","General practitioners",4407,TRUE
+2019,"Bulgaria","Number","Other generalist medical practitioners",123,TRUE
+2019,"Bulgaria","Number","Specialist medical practitioners",25303,TRUE
+2019,"Bulgaria","Number","General paediatricians",1475,TRUE
+2019,"Czechia","Number","Generalist medical practitioners",7371,TRUE
+2019,"Czechia","Number","General practitioners",7371,TRUE
+2019,"Czechia","Number","Other generalist medical practitioners",0,TRUE
+2019,"Czechia","Number","Specialist medical practitioners",31405,TRUE
+2019,"Czechia","Number","General paediatricians",1296,TRUE
+2019,"Denmark","Number","Generalist medical practitioners",4616,TRUE
+2019,"Denmark","Number","General practitioners",4058,TRUE
+2019,"Denmark","Number","Other generalist medical practitioners",4981,TRUE
+2019,"Denmark","Number","Specialist medical practitioners",10355,TRUE
+2019,"Denmark","Number","General paediatricians",469,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","Generalist medical practitioners",81411,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","General practitioners",58474.5,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","Other generalist medical practitioners",22936.5,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","Specialist medical practitioners",269784,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","General paediatricians",14023,TRUE
+2019,"Estonia","Number","Generalist medical practitioners",1061,TRUE
+2019,"Estonia","Number","General practitioners",960,TRUE
+2019,"Estonia","Number","Other generalist medical practitioners",122,TRUE
+2019,"Estonia","Number","Specialist medical practitioners",3508,TRUE
+2019,"Estonia","Number","General paediatricians",172,TRUE
+2019,"Ireland","Number","Generalist medical practitioners",9039,FALSE
+2019,"Ireland","Number","General practitioners",4058,FALSE
+2019,"Ireland","Number","Other generalist medical practitioners",4981,FALSE
+2019,"Ireland","Number","Specialist medical practitioners",7298,FALSE
+2019,"Ireland","Number","General paediatricians",463,FALSE
+2019,"Greece","Number","Generalist medical practitioners",4521,TRUE
+2019,"Greece","Number","General practitioners",3642,TRUE
+2019,"Greece","Number","Other generalist medical practitioners",990,TRUE
+2019,"Greece","Number","Specialist medical practitioners",53258,TRUE
+2019,"Greece","Number","General paediatricians",4258,TRUE
+2019,"Spain","Number","Generalist medical practitioners",35378,TRUE
+2019,"Spain","Number","General practitioners",35378,TRUE
+2019,"Spain","Number","Other generalist medical practitioners",0,TRUE
+2019,"Spain","Number","Specialist medical practitioners",118356,TRUE
+2019,"Spain","Number","General paediatricians",12389,TRUE
+2019,"France","Number","Generalist medical practitioners",94889,TRUE
+2019,"France","Number","General practitioners",60214,TRUE
+2019,"France","Number","Other generalist medical practitioners",34675,TRUE
+2019,"France","Number","Specialist medical practitioners",116273,TRUE
+2019,"France","Number","General paediatricians",8075,TRUE
+2019,"Croatia","Number","Generalist medical practitioners",3406,TRUE
+2019,"Croatia","Number","General practitioners",2305,TRUE
+2019,"Croatia","Number","Other generalist medical practitioners",1029,TRUE
+2019,"Croatia","Number","Specialist medical practitioners",10564,TRUE
+2019,"Croatia","Number","General paediatricians",864,TRUE
+2019,"Italy","Number","Generalist medical practitioners",53114,FALSE
+2019,"Italy","Number","General practitioners",42987,FALSE
+2019,"Italy","Number","Other generalist medical practitioners",10127,FALSE
+2019,"Italy","Number","Specialist medical practitioners",189481,FALSE
+2019,"Italy","Number","General paediatricians",17114,FALSE
+2019,"Cyprus","Number","Generalist medical practitioners",833,TRUE
+2019,"Cyprus","Number","General practitioners",833,TRUE
+2019,"Cyprus","Number","Other generalist medical practitioners",0,TRUE
+2019,"Cyprus","Number","Specialist medical practitioners",2492,TRUE
+2019,"Cyprus","Number","General paediatricians",248,TRUE
+2019,"Latvia","Number","Generalist medical practitioners",1412,TRUE
+2019,"Latvia","Number","General practitioners",1412,TRUE
+2019,"Latvia","Number","Other generalist medical practitioners",0,TRUE
+2019,"Latvia","Number","Specialist medical practitioners",4883,TRUE
+2019,"Latvia","Number","General paediatricians",248,TRUE
+2019,"Lithuania","Number","Generalist medical practitioners",2884,TRUE
+2019,"Lithuania","Number","General practitioners",2625,TRUE
+2019,"Lithuania","Number","Other generalist medical practitioners",303,TRUE
+2019,"Lithuania","Number","Specialist medical practitioners",9939,TRUE
+2019,"Lithuania","Number","General paediatricians",716,TRUE
+2019,"Luxembourg","Number","Generalist medical practitioners",505,TRUE
+2019,"Luxembourg","Number","General practitioners",505,TRUE
+2019,"Luxembourg","Number","Other generalist medical practitioners",0,TRUE
+2019,"Luxembourg","Number","Specialist medical practitioners",1178,TRUE
+2019,"Luxembourg","Number","General paediatricians",92,TRUE
+2019,"Hungary","Number","Generalist medical practitioners",7096,TRUE
+2019,"Hungary","Number","General practitioners",4374,TRUE
+2019,"Hungary","Number","Other generalist medical practitioners",2706,TRUE
+2019,"Hungary","Number","Specialist medical practitioners",25615,TRUE
+2019,"Hungary","Number","General paediatricians",2371,TRUE
+2019,"Malta","Number","Generalist medical practitioners",379,TRUE
+2019,"Malta","Number","General practitioners",379,TRUE
+2019,"Malta","Number","Other generalist medical practitioners",0,TRUE
+2019,"Malta","Number","Specialist medical practitioners",984,TRUE
+2019,"Malta","Number","General paediatricians",81,TRUE
+2019,"Netherlands","Number","Generalist medical practitioners",27730,TRUE
+2019,"Netherlands","Number","General practitioners",14893,TRUE
+2019,"Netherlands","Number","Other generalist medical practitioners",12837,TRUE
+2019,"Netherlands","Number","Specialist medical practitioners",34000,TRUE
+2019,"Netherlands","Number","General paediatricians",1770,TRUE
+2019,"Austria","Number","Generalist medical practitioners",13834,TRUE
+2019,"Austria","Number","General practitioners",6668,TRUE
+2019,"Austria","Number","Other generalist medical practitioners",7166,TRUE
+2019,"Austria","Number","Specialist medical practitioners",23814,TRUE
+2019,"Austria","Number","General paediatricians",1335,TRUE
+2019,"Poland","Number","Generalist medical practitioners",15908,TRUE
+2019,"Poland","Number","General practitioners",8387,TRUE
+2019,"Poland","Number","Other generalist medical practitioners",7490,TRUE
+2019,"Poland","Number","Specialist medical practitioners",74376,TRUE
+2019,"Poland","Number","General paediatricians",5497,TRUE
+2019,"Portugal","Number","Generalist medical practitioners",27076,TRUE
+2019,"Portugal","Number","General practitioners",24248,TRUE
+2019,"Portugal","Number","Other generalist medical practitioners",2636,TRUE
+2019,"Portugal","Number","Specialist medical practitioners",25642,TRUE
+2019,"Portugal","Number","General paediatricians",2085,TRUE
+2019,"Romania","Number","Generalist medical practitioners",15020,TRUE
+2019,"Romania","Number","General practitioners",12184,TRUE
+2019,"Romania","Number","Other generalist medical practitioners",2865,TRUE
+2019,"Romania","Number","Specialist medical practitioners",42309,TRUE
+2019,"Romania","Number","General paediatricians",2655,TRUE
+2019,"Slovenia","Number","Generalist medical practitioners",1405,TRUE
+2019,"Slovenia","Number","General practitioners",1237,TRUE
+2019,"Slovenia","Number","Other generalist medical practitioners",163,TRUE
+2019,"Slovenia","Number","Specialist medical practitioners",4758,TRUE
+2019,"Slovenia","Number","General paediatricians",648,TRUE
+2019,"Finland","Number","Generalist medical practitioners",6849,TRUE
+2019,"Finland","Number","General practitioners",4058,TRUE
+2019,"Finland","Number","Other generalist medical practitioners",4981,TRUE
+2019,"Finland","Number","Specialist medical practitioners",10648,TRUE
+2019,"Finland","Number","General paediatricians",703,TRUE
+2019,"Sweden","Number","Generalist medical practitioners",6388,TRUE
+2019,"Sweden","Number","General practitioners",6388,TRUE
+2019,"Sweden","Number","Other generalist medical practitioners",0,TRUE
+2019,"Sweden","Number","Specialist medical practitioners",22300,TRUE
+2019,"Sweden","Number","General paediatricians",1043,TRUE
+2019,"Iceland","Number","Generalist medical practitioners",215,FALSE
+2019,"Iceland","Number","General practitioners",215,FALSE
+2019,"Iceland","Number","Other generalist medical practitioners",4981,TRUE
+2019,"Iceland","Number","Specialist medical practitioners",817,FALSE
+2019,"Iceland","Number","General paediatricians",15,FALSE
+2019,"Liechtenstein","Number","Generalist medical practitioners",48,FALSE
+2019,"Liechtenstein","Number","General practitioners",24,FALSE
+2019,"Liechtenstein","Number","Other generalist medical practitioners",24,FALSE
+2019,"Liechtenstein","Number","Specialist medical practitioners",96,FALSE
+2019,"Liechtenstein","Number","General paediatricians",5,FALSE
+2019,"Norway","Number","Generalist medical practitioners",4714,FALSE
+2019,"Norway","Number","General practitioners",4220,FALSE
+2019,"Norway","Number","Other generalist medical practitioners",494,FALSE
+2019,"Norway","Number","Specialist medical practitioners",11200,FALSE
+2019,"Norway","Number","General paediatricians",950,FALSE
+2019,"Switzerland","Number","Generalist medical practitioners",9628,TRUE
+2019,"Switzerland","Number","General practitioners",4058,TRUE
+2019,"Switzerland","Number","Other generalist medical practitioners",4981,TRUE
+2019,"Switzerland","Number","Specialist medical practitioners",21658,TRUE
+2019,"Switzerland","Number","General paediatricians",1817,TRUE
+2019,"United Kingdom","Number","Generalist medical practitioners",51096,FALSE
+2019,"United Kingdom","Number","General practitioners",51096,FALSE
+2019,"United Kingdom","Number","Other generalist medical practitioners",4981,TRUE
+2019,"United Kingdom","Number","Specialist medical practitioners",145367,FALSE
+2019,"United Kingdom","Number","General paediatricians",11274,FALSE
+2019,"Montenegro","Number","Generalist medical practitioners",303,TRUE
+2019,"Montenegro","Number","General practitioners",303,TRUE
+2019,"Montenegro","Number","Other generalist medical practitioners",0,TRUE
+2019,"Montenegro","Number","Specialist medical practitioners",1356,TRUE
+2019,"Montenegro","Number","General paediatricians",183,TRUE
+2019,"North Macedonia","Number","Generalist medical practitioners",2032,TRUE
+2019,"North Macedonia","Number","General practitioners",4058,TRUE
+2019,"North Macedonia","Number","Other generalist medical practitioners",4981,TRUE
+2019,"North Macedonia","Number","Specialist medical practitioners",4140,TRUE
+2019,"North Macedonia","Number","General paediatricians",415,TRUE
+2019,"Albania","Number","Generalist medical practitioners",9039,TRUE
+2019,"Albania","Number","General practitioners",1603,TRUE
+2019,"Albania","Number","Other generalist medical practitioners",4981,TRUE
+2019,"Albania","Number","Specialist medical practitioners",2087,TRUE
+2019,"Albania","Number","General paediatricians",463,TRUE
+2019,"Serbia","Number","Generalist medical practitioners",6084,TRUE
+2019,"Serbia","Number","General practitioners",4851,TRUE
+2019,"Serbia","Number","Other generalist medical practitioners",1233,TRUE
+2019,"Serbia","Number","Specialist medical practitioners",14689,TRUE
+2019,"Serbia","Number","General paediatricians",1919,TRUE
+2019,"Turkey","Number","Generalist medical practitioners",47999,TRUE
+2019,"Turkey","Number","General practitioners",47999,TRUE
+2019,"Turkey","Number","Other generalist medical practitioners",4981,TRUE
+2019,"Turkey","Number","Specialist medical practitioners",101998,TRUE
+2019,"Turkey","Number","General paediatricians",7362,TRUE

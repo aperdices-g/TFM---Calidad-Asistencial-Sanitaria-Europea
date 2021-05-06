@@ -1,0 +1,176 @@
+---
+title: "Mortalidad Tratable y Prevenible por Paises y Sexos"
+author: "Alicia Perdices Guerra"
+date: '`r format(Sys.Date(),"%e de %B, %Y")`'
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    number_sections: no
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### **1.PROCESAMIENTO DE LOS DATOS.**
+
+* En primer lugar leemos el fichero:
+
+```{r}
+mortalidad<-read.csv("C:/temp/Mortalidad_Tratable_Prevenible.csv",sep= ",")
+```
+ 
+* Realicemos una breve inspección de los datos
+
+```{r}
+str(mortalidad)
+```
+
+```{r}
+colnames(mortalidad) #Nombre de las variables
+nrow(mortalidad) #Número de registros
+ncol(mortalidad) #Número de variables
+```
+
+*Observamos las siguientes variables:
+
+  * **TIME**: variable cuantitativa. Indica el año en el que se ha realizado la medida, en este caso el valor de la variable "Value". Se ha cargado bien como número entero.
+  * **GEO**: variable cualitativa. Indica el país o región en el que se ha realizado la medida.Se ha cargado bien como factor.
+  * **UNIT**: variable cualitativa. Indica la medida de la variable valor.Se ha cargado bien como factor.Número y Ratio
+  * **MORTALIT**: variable cualitativa. Indica el tipo de mortalidad, Tratable , Prevenible o Total.
+  * **SEX**: Variable cualitativa. Indica el sexo de la población estudiada.
+  * **ICD10**: Variable cualitativa. En la clasificación de enfermedades, en este apartado indica el Total de ellas.
+  * **Value**: Variable cuantitativa. Indica número o ratio de causas de muerte tratable o prevenible.
+  * **Fal.and.footnotes**. Notas sobre etiquetas. Eliminamos esta columna.
+
+* Años de las mediciones:
+
+```{r}
+unique(mortalidad$TIME)
+```
+
+* Paises:
+
+```{r}
+unique(mortalidad$GEO)
+```
+
+* Unidad de las mediciones:
+
+```{r}
+unique(mortalidad$UNIT)
+```
+
+* Tipo de mortalidad:
+
+```{r}
+unique(mortalidad$MORTALIT)
+```
+
+* Sexo de la población estudiada.
+
+```{r}
+unique(mortalidad$SEX)
+```
+
+* En la clasificación de enfermedades, en este apartado indica el Total de ellas
+
+```{r}
+unique(mortalidad$ICD10)
+```
+
+* Eliminamos la columna Fal.and.footnotes.
+
+```{r}
+mortalidad<-mortalidad[,-8]
+```
+
+* Tendríamos que convertir la columna Value a numérico porque se ha cargado como factor y es erróneo. El resto de variables tienen el tipo correcto.
+
+```{r}
+mortalidad$Value<-as.character(mortalidad$Value)
+mortalidad$Value<-(gsub(',','.',mortalidad$Value) )
+mortalidad$Value<-(gsub(' ','',mortalidad$Value) )
+mortalidad$Value<-as.numeric(mortalidad$Value)
+```
+
+* Comprobamos que valores tenemos en la columna **Value**:
+
+```{r}
+tail(table(mortalidad$Value, useNA = "ifany"))
+```
+
+* Observamos que tenemos **54 valores perdidos**.Guardamos en la variable **idx** los índices de los registros con valores **NA** de la variable **Value**.
+
+```{r}
+idx<-which(is.na(mortalidad$Value))
+length(idx)
+
+```
+
+* Grafiquemos la información que contiene la variable **Value**
+
+```{r}
+library(ggplot2)
+library(scales)
+g = ggplot(mortalidad, aes(TIME, fill=is.na(Value)) ) +
+labs(title = "Valores Nulos")+ylab("") +
+theme(plot.title = element_text(size = rel(2), colour = "blue"))
+
+g+geom_bar(position="dodge") + scale_fill_manual(values = alpha(c("orange", "blue"), 1)) +
+theme(axis.title.x = element_text(face="bold", size=10)) 
+```
+
+* En caso de detectar algún valor anómalo (en nuestro caso los NAS) en las variables tendríamos que realizar una imputación de esos valores o bien sustituyéndolos por la media o usando el algoritmo KNN ( k-Nearest Neighbour) con los 3 vecinos más cercanos usando la distancia que consideremos, en este caso usaremos Gower(Mediana), por ser una medida más robusa frente a extremos.
+
+```{r}
+library(VIM)
+output<-kNN(mortalidad, variable=c("Value"),k=3) 
+mortalidad<-output
+```
+
+* Comprobamos que no tenemos valores nulos después de la imputación
+
+```{r}
+g = ggplot(mortalidad, aes(TIME, fill=is.na(Value)) ) +
+labs(title = "Valores Nulos")+ylab("") +
+theme(plot.title = element_text(size = rel(2), colour = "blue"))
+
+g+geom_bar(position="dodge") + scale_fill_manual(values = alpha(c("orange", "blue"), 1)) +
+theme(axis.title.x = element_text(face="bold", size=10)) 
+```
+
+* Con el siguiente gráfico, observaremos que la variable **Value**  tiene outliers o valores extremos
+
+```{r}
+boxplot(mortalidad$Value, main="Value")
+```
+
+* Por otro lado, revisamos para el resto de columnas si tenemos valores NA.(desconocidos o perdidos)
+
+```{r}
+table(mortalidad$TIME, useNA = "ifany")
+table(mortalidad$GEO, useNA = "ifany")
+table(mortalidad$UNIT, useNA = "ifany")
+table(mortalidad$MORTALIT, useNA = "ifany")
+table(mortalidad$SEX, useNA = "ifany")
+table(mortalidad$ICD10, useNA = "ifany")
+```
+
+Observamos que no existen ahora valores perdidos después de la imputación.La suma de las cantidades de cada variable, suman el total.
+
+La estructura de los datos quedaría del siguiente modo:
+
+```{r}
+str(mortalidad)
+```
+
+
+* Finalmente, creamos un fichero con toda la información corregida.
+
+```{r}
+write.csv(mortalidad, file="Mortalidad_Tratable_Prevenible_clean.csv", row.names = FALSE)
+```
+

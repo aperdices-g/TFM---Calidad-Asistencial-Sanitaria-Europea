@@ -1,0 +1,1801 @@
+"TIME","GEO","ISCO08","UNIT","Value","Flag.and.Footnotes","Value_imp"
+2010,"Belgium","Medical doctors","Full-time equivalent (FTE)",6142.5,"e",FALSE
+2010,"Belgium","Nursing professionals and midwives","Full-time equivalent (FTE)",58481.59,"e",FALSE
+2010,"Belgium","Nursing associate professionals","Full-time equivalent (FTE)",1217.85,"e",FALSE
+2010,"Belgium","Health care assistants","Full-time equivalent (FTE)",9229.93,"e",FALSE
+2010,"Belgium","Hospital employment","Full-time equivalent (FTE)",140507.19,"e",FALSE
+2010,"Bulgaria","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Bulgaria","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Bulgaria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Bulgaria","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Bulgaria","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Czechia","Medical doctors","Full-time equivalent (FTE)",19596.72,"",FALSE
+2010,"Czechia","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",FALSE
+2010,"Czechia","Nursing associate professionals","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Czechia","Health care assistants","Full-time equivalent (FTE)",2859.09,"",FALSE
+2010,"Czechia","Hospital employment","Full-time equivalent (FTE)",135056.52,"",FALSE
+2010,"Denmark","Medical doctors","Full-time equivalent (FTE)",14335,"",FALSE
+2010,"Denmark","Nursing professionals and midwives","Full-time equivalent (FTE)",35652,"",FALSE
+2010,"Denmark","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2010,"Denmark","Health care assistants","Full-time equivalent (FTE)",11994,"",FALSE
+2010,"Denmark","Hospital employment","Full-time equivalent (FTE)",103805,"",FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Medical doctors","Full-time equivalent (FTE)",143000,"",FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Nursing professionals and midwives","Full-time equivalent (FTE)",312000,"",FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Nursing associate professionals","Full-time equivalent (FTE)",29000,"",FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Health care assistants","Full-time equivalent (FTE)",11994,"",TRUE
+2010,"Germany (until 1990 former territory of the FRG)","Hospital employment","Full-time equivalent (FTE)",926000,"",FALSE
+2010,"Estonia","Medical doctors","Full-time equivalent (FTE)",2663.2,"",FALSE
+2010,"Estonia","Nursing professionals and midwives","Full-time equivalent (FTE)",5969.7,"",FALSE
+2010,"Estonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2010,"Estonia","Health care assistants","Full-time equivalent (FTE)",2790.7,"",FALSE
+2010,"Estonia","Hospital employment","Full-time equivalent (FTE)",17435.9,"",FALSE
+2010,"Ireland","Medical doctors","Full-time equivalent (FTE)",5943,"",FALSE
+2010,"Ireland","Nursing professionals and midwives","Full-time equivalent (FTE)",19820,"",FALSE
+2010,"Ireland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2010,"Ireland","Health care assistants","Full-time equivalent (FTE)",3318,"",FALSE
+2010,"Ireland","Hospital employment","Full-time equivalent (FTE)",49764,"",FALSE
+2010,"Greece","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Greece","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Greece","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Greece","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Greece","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Spain","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Spain","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Spain","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Spain","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Spain","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"France","Medical doctors","Full-time equivalent (FTE)",110956.52,"",FALSE
+2010,"France","Nursing professionals and midwives","Full-time equivalent (FTE)",349585.59,"",FALSE
+2010,"France","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2010,"France","Health care assistants","Full-time equivalent (FTE)",261687.47,"",FALSE
+2010,"France","Hospital employment","Full-time equivalent (FTE)",1216111.85,"",FALSE
+2010,"Croatia","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Croatia","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Croatia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Croatia","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Croatia","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Italy","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Italy","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Italy","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Italy","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Italy","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Cyprus","Medical doctors","Full-time equivalent (FTE)",634,"",FALSE
+2010,"Cyprus","Nursing professionals and midwives","Full-time equivalent (FTE)",3448,"",FALSE
+2010,"Cyprus","Nursing associate professionals","Full-time equivalent (FTE)",196,"",FALSE
+2010,"Cyprus","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Cyprus","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Latvia","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Latvia","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Latvia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Latvia","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Latvia","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Lithuania","Medical doctors","Full-time equivalent (FTE)",9558,"",FALSE
+2010,"Lithuania","Nursing professionals and midwives","Full-time equivalent (FTE)",15971,"",FALSE
+2010,"Lithuania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2010,"Lithuania","Health care assistants","Full-time equivalent (FTE)",5348,"",FALSE
+2010,"Lithuania","Hospital employment","Full-time equivalent (FTE)",46090,"",FALSE
+2010,"Luxembourg","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Luxembourg","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Luxembourg","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Luxembourg","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Luxembourg","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Hungary","Medical doctors","Full-time equivalent (FTE)",15346.41,"",FALSE
+2010,"Hungary","Nursing professionals and midwives","Full-time equivalent (FTE)",25992.19,"",FALSE
+2010,"Hungary","Nursing associate professionals","Full-time equivalent (FTE)",8270.81,"",FALSE
+2010,"Hungary","Health care assistants","Full-time equivalent (FTE)",12747.72,"",FALSE
+2010,"Hungary","Hospital employment","Full-time equivalent (FTE)",94827.99,"",FALSE
+2010,"Malta","Medical doctors","Full-time equivalent (FTE)",630.68,"",FALSE
+2010,"Malta","Nursing professionals and midwives","Full-time equivalent (FTE)",2096,"",FALSE
+2010,"Malta","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2010,"Malta","Health care assistants","Full-time equivalent (FTE)",1122,"",FALSE
+2010,"Malta","Hospital employment","Full-time equivalent (FTE)",6321.21,"",FALSE
+2010,"Netherlands","Medical doctors","Full-time equivalent (FTE)",19562,"e",FALSE
+2010,"Netherlands","Nursing professionals and midwives","Full-time equivalent (FTE)",58010,"e",FALSE
+2010,"Netherlands","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Netherlands","Health care assistants","Full-time equivalent (FTE)",6661,"e",FALSE
+2010,"Netherlands","Hospital employment","Full-time equivalent (FTE)",201280,"",FALSE
+2010,"Austria","Medical doctors","Full-time equivalent (FTE)",20846.07,"",FALSE
+2010,"Austria","Nursing professionals and midwives","Full-time equivalent (FTE)",48247.66,"",FALSE
+2010,"Austria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2010,"Austria","Health care assistants","Full-time equivalent (FTE)",8621.02,"",FALSE
+2010,"Austria","Hospital employment","Full-time equivalent (FTE)",132737.08,"",FALSE
+2010,"Poland","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Poland","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Poland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Poland","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Poland","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Portugal","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Portugal","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Portugal","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Portugal","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Portugal","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Romania","Medical doctors","Full-time equivalent (FTE)",25327,"",FALSE
+2010,"Romania","Nursing professionals and midwives","Full-time equivalent (FTE)",4228,"",FALSE
+2010,"Romania","Nursing associate professionals","Full-time equivalent (FTE)",54868,"b",FALSE
+2010,"Romania","Health care assistants","Full-time equivalent (FTE)",39957,"",FALSE
+2010,"Romania","Hospital employment","Full-time equivalent (FTE)",156818,"",FALSE
+2010,"Slovenia","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Slovenia","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Slovenia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Slovenia","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Slovenia","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Slovakia","Medical doctors","Full-time equivalent (FTE)",8420.45,"",FALSE
+2010,"Slovakia","Nursing professionals and midwives","Full-time equivalent (FTE)",22449.57,"",FALSE
+2010,"Slovakia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2010,"Slovakia","Health care assistants","Full-time equivalent (FTE)",5759.22,"",FALSE
+2010,"Slovakia","Hospital employment","Full-time equivalent (FTE)",41479.97,"",FALSE
+2010,"Finland","Medical doctors","Full-time equivalent (FTE)",8169.54,"be",FALSE
+2010,"Finland","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Finland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Finland","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Finland","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Iceland","Medical doctors","Full-time equivalent (FTE)",540.82,"",FALSE
+2010,"Iceland","Nursing professionals and midwives","Full-time equivalent (FTE)",1378.08,"",FALSE
+2010,"Iceland","Nursing associate professionals","Full-time equivalent (FTE)",581.43,"",FALSE
+2010,"Iceland","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Iceland","Hospital employment","Full-time equivalent (FTE)",4720.56,"",FALSE
+2010,"Liechtenstein","Medical doctors","Full-time equivalent (FTE)",11.7,"",FALSE
+2010,"Liechtenstein","Nursing professionals and midwives","Full-time equivalent (FTE)",39.6,"",FALSE
+2010,"Liechtenstein","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2010,"Liechtenstein","Health care assistants","Full-time equivalent (FTE)",30.01,"",FALSE
+2010,"Liechtenstein","Hospital employment","Full-time equivalent (FTE)",144.31,"",FALSE
+2010,"Norway","Medical doctors","Full-time equivalent (FTE)",11473,"",FALSE
+2010,"Norway","Nursing professionals and midwives","Full-time equivalent (FTE)",36792,"",FALSE
+2010,"Norway","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2010,"Norway","Health care assistants","Full-time equivalent (FTE)",8883,"",FALSE
+2010,"Norway","Hospital employment","Full-time equivalent (FTE)",95973,"",FALSE
+2010,"Switzerland","Medical doctors","Full-time equivalent (FTE)",17364.05,"b",FALSE
+2010,"Switzerland","Nursing professionals and midwives","Full-time equivalent (FTE)",42900.62,"b",FALSE
+2010,"Switzerland","Nursing associate professionals","Full-time equivalent (FTE)",4811.35,"b",FALSE
+2010,"Switzerland","Health care assistants","Full-time equivalent (FTE)",11293.28,"b",FALSE
+2010,"Switzerland","Hospital employment","Full-time equivalent (FTE)",139251.93,"b",FALSE
+2010,"United Kingdom","Medical doctors","Full-time equivalent (FTE)",114770.7,"e",FALSE
+2010,"United Kingdom","Nursing professionals and midwives","Full-time equivalent (FTE)",365055.56,"e",FALSE
+2010,"United Kingdom","Nursing associate professionals","Full-time equivalent (FTE)",82398.34,"e",FALSE
+2010,"United Kingdom","Health care assistants","Full-time equivalent (FTE)",53645.08,"e",FALSE
+2010,"United Kingdom","Hospital employment","Full-time equivalent (FTE)",1253394.85,"e",FALSE
+2010,"Montenegro","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Montenegro","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Montenegro","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Montenegro","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Montenegro","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"North Macedonia","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"North Macedonia","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"North Macedonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"North Macedonia","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"North Macedonia","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Albania","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Albania","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Albania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Albania","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Albania","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2010,"Serbia","Medical doctors","Full-time equivalent (FTE)",10980,"",FALSE
+2010,"Serbia","Nursing professionals and midwives","Full-time equivalent (FTE)",5070,"",FALSE
+2010,"Serbia","Nursing associate professionals","Full-time equivalent (FTE)",23029,"",FALSE
+2010,"Serbia","Health care assistants","Full-time equivalent (FTE)",0,"",FALSE
+2010,"Serbia","Hospital employment","Full-time equivalent (FTE)",63269,"",FALSE
+2010,"Turkey","Medical doctors","Full-time equivalent (FTE)",19596.72,"",TRUE
+2010,"Turkey","Nursing professionals and midwives","Full-time equivalent (FTE)",54123.78,"",TRUE
+2010,"Turkey","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2010,"Turkey","Health care assistants","Full-time equivalent (FTE)",2859.09,"",TRUE
+2010,"Turkey","Hospital employment","Full-time equivalent (FTE)",135056.52,"",TRUE
+2011,"Belgium","Medical doctors","Full-time equivalent (FTE)",6381.84,"e",FALSE
+2011,"Belgium","Nursing professionals and midwives","Full-time equivalent (FTE)",59479.45,"e",FALSE
+2011,"Belgium","Nursing associate professionals","Full-time equivalent (FTE)",1102.78,"e",FALSE
+2011,"Belgium","Health care assistants","Full-time equivalent (FTE)",9369.48,"e",FALSE
+2011,"Belgium","Hospital employment","Full-time equivalent (FTE)",143458.63,"e",FALSE
+2011,"Bulgaria","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Bulgaria","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Bulgaria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Bulgaria","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Bulgaria","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Czechia","Medical doctors","Full-time equivalent (FTE)",20057.43,"",FALSE
+2011,"Czechia","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",FALSE
+2011,"Czechia","Nursing associate professionals","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Czechia","Health care assistants","Full-time equivalent (FTE)",2908.31,"",FALSE
+2011,"Czechia","Hospital employment","Full-time equivalent (FTE)",134386.54,"",FALSE
+2011,"Denmark","Medical doctors","Full-time equivalent (FTE)",14490,"",FALSE
+2011,"Denmark","Nursing professionals and midwives","Full-time equivalent (FTE)",35523,"",FALSE
+2011,"Denmark","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2011,"Denmark","Health care assistants","Full-time equivalent (FTE)",11010,"",FALSE
+2011,"Denmark","Hospital employment","Full-time equivalent (FTE)",102578,"",FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Medical doctors","Full-time equivalent (FTE)",147000,"",FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Nursing professionals and midwives","Full-time equivalent (FTE)",319000,"",FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Nursing associate professionals","Full-time equivalent (FTE)",30000,"",FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Health care assistants","Full-time equivalent (FTE)",11010,"",TRUE
+2011,"Germany (until 1990 former territory of the FRG)","Hospital employment","Full-time equivalent (FTE)",934000,"",FALSE
+2011,"Estonia","Medical doctors","Full-time equivalent (FTE)",2660.9,"",FALSE
+2011,"Estonia","Nursing professionals and midwives","Full-time equivalent (FTE)",5930.1,"",FALSE
+2011,"Estonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2011,"Estonia","Health care assistants","Full-time equivalent (FTE)",3055.3,"",FALSE
+2011,"Estonia","Hospital employment","Full-time equivalent (FTE)",17582.3,"",FALSE
+2011,"Ireland","Medical doctors","Full-time equivalent (FTE)",6274,"",FALSE
+2011,"Ireland","Nursing professionals and midwives","Full-time equivalent (FTE)",19824,"",FALSE
+2011,"Ireland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2011,"Ireland","Health care assistants","Full-time equivalent (FTE)",3363,"",FALSE
+2011,"Ireland","Hospital employment","Full-time equivalent (FTE)",49194,"",FALSE
+2011,"Greece","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Greece","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Greece","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Greece","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Greece","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Spain","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Spain","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Spain","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Spain","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Spain","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"France","Medical doctors","Full-time equivalent (FTE)",111848.94,"",FALSE
+2011,"France","Nursing professionals and midwives","Full-time equivalent (FTE)",336299.53,"b",FALSE
+2011,"France","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2011,"France","Health care assistants","Full-time equivalent (FTE)",225408.54,"b",FALSE
+2011,"France","Hospital employment","Full-time equivalent (FTE)",1130915.69,"b",FALSE
+2011,"Croatia","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Croatia","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Croatia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Croatia","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Croatia","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Italy","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Italy","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Italy","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Italy","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Italy","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Cyprus","Medical doctors","Full-time equivalent (FTE)",762,"b",FALSE
+2011,"Cyprus","Nursing professionals and midwives","Full-time equivalent (FTE)",3663,"b",FALSE
+2011,"Cyprus","Nursing associate professionals","Full-time equivalent (FTE)",170,"",FALSE
+2011,"Cyprus","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Cyprus","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Latvia","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Latvia","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Latvia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Latvia","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Latvia","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Lithuania","Medical doctors","Full-time equivalent (FTE)",9772,"",FALSE
+2011,"Lithuania","Nursing professionals and midwives","Full-time equivalent (FTE)",16091,"",FALSE
+2011,"Lithuania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2011,"Lithuania","Health care assistants","Full-time equivalent (FTE)",5433,"",FALSE
+2011,"Lithuania","Hospital employment","Full-time equivalent (FTE)",46963,"",FALSE
+2011,"Luxembourg","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Luxembourg","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Luxembourg","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Luxembourg","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Luxembourg","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Hungary","Medical doctors","Full-time equivalent (FTE)",16588.5,"",FALSE
+2011,"Hungary","Nursing professionals and midwives","Full-time equivalent (FTE)",27803.23,"",FALSE
+2011,"Hungary","Nursing associate professionals","Full-time equivalent (FTE)",7448.83,"",FALSE
+2011,"Hungary","Health care assistants","Full-time equivalent (FTE)",13988.31,"",FALSE
+2011,"Hungary","Hospital employment","Full-time equivalent (FTE)",99930.78,"",FALSE
+2011,"Malta","Medical doctors","Full-time equivalent (FTE)",741.28,"",FALSE
+2011,"Malta","Nursing professionals and midwives","Full-time equivalent (FTE)",2234.14,"",FALSE
+2011,"Malta","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2011,"Malta","Health care assistants","Full-time equivalent (FTE)",1250.36,"",FALSE
+2011,"Malta","Hospital employment","Full-time equivalent (FTE)",6743.55,"",FALSE
+2011,"Netherlands","Medical doctors","Full-time equivalent (FTE)",19650,"e",FALSE
+2011,"Netherlands","Nursing professionals and midwives","Full-time equivalent (FTE)",59112,"e",FALSE
+2011,"Netherlands","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Netherlands","Health care assistants","Full-time equivalent (FTE)",5801,"e",FALSE
+2011,"Netherlands","Hospital employment","Full-time equivalent (FTE)",204480,"",FALSE
+2011,"Austria","Medical doctors","Full-time equivalent (FTE)",21154,"",FALSE
+2011,"Austria","Nursing professionals and midwives","Full-time equivalent (FTE)",48908,"",FALSE
+2011,"Austria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2011,"Austria","Health care assistants","Full-time equivalent (FTE)",8527.49,"",FALSE
+2011,"Austria","Hospital employment","Full-time equivalent (FTE)",134130,"",FALSE
+2011,"Poland","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Poland","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Poland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Poland","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Poland","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Portugal","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Portugal","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Portugal","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Portugal","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Portugal","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Romania","Medical doctors","Full-time equivalent (FTE)",25536,"",FALSE
+2011,"Romania","Nursing professionals and midwives","Full-time equivalent (FTE)",5038,"",FALSE
+2011,"Romania","Nursing associate professionals","Full-time equivalent (FTE)",52598,"",FALSE
+2011,"Romania","Health care assistants","Full-time equivalent (FTE)",37894,"",FALSE
+2011,"Romania","Hospital employment","Full-time equivalent (FTE)",150695,"",FALSE
+2011,"Slovenia","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Slovenia","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Slovenia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Slovenia","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Slovenia","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Slovakia","Medical doctors","Full-time equivalent (FTE)",8278.26,"",FALSE
+2011,"Slovakia","Nursing professionals and midwives","Full-time equivalent (FTE)",21761.62,"",FALSE
+2011,"Slovakia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2011,"Slovakia","Health care assistants","Full-time equivalent (FTE)",5530.59,"",FALSE
+2011,"Slovakia","Hospital employment","Full-time equivalent (FTE)",40181.17,"",FALSE
+2011,"Finland","Medical doctors","Full-time equivalent (FTE)",7485.26,"e",FALSE
+2011,"Finland","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Finland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Finland","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Finland","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Iceland","Medical doctors","Full-time equivalent (FTE)",555.83,"",FALSE
+2011,"Iceland","Nursing professionals and midwives","Full-time equivalent (FTE)",1408.25,"",FALSE
+2011,"Iceland","Nursing associate professionals","Full-time equivalent (FTE)",554.9,"",FALSE
+2011,"Iceland","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Iceland","Hospital employment","Full-time equivalent (FTE)",4673.12,"",FALSE
+2011,"Liechtenstein","Medical doctors","Full-time equivalent (FTE)",10.46,"",FALSE
+2011,"Liechtenstein","Nursing professionals and midwives","Full-time equivalent (FTE)",38.89,"",FALSE
+2011,"Liechtenstein","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2011,"Liechtenstein","Health care assistants","Full-time equivalent (FTE)",28.79,"",FALSE
+2011,"Liechtenstein","Hospital employment","Full-time equivalent (FTE)",141.47,"",FALSE
+2011,"Norway","Medical doctors","Full-time equivalent (FTE)",11794,"",FALSE
+2011,"Norway","Nursing professionals and midwives","Full-time equivalent (FTE)",37711,"",FALSE
+2011,"Norway","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2011,"Norway","Health care assistants","Full-time equivalent (FTE)",8647,"",FALSE
+2011,"Norway","Hospital employment","Full-time equivalent (FTE)",96331,"",FALSE
+2011,"Switzerland","Medical doctors","Full-time equivalent (FTE)",18059.48,"",FALSE
+2011,"Switzerland","Nursing professionals and midwives","Full-time equivalent (FTE)",43005.48,"",FALSE
+2011,"Switzerland","Nursing associate professionals","Full-time equivalent (FTE)",5476.86,"",FALSE
+2011,"Switzerland","Health care assistants","Full-time equivalent (FTE)",10921.61,"",FALSE
+2011,"Switzerland","Hospital employment","Full-time equivalent (FTE)",141311.37,"",FALSE
+2011,"United Kingdom","Medical doctors","Full-time equivalent (FTE)",115989.96,"e",FALSE
+2011,"United Kingdom","Nursing professionals and midwives","Full-time equivalent (FTE)",360464.18,"e",FALSE
+2011,"United Kingdom","Nursing associate professionals","Full-time equivalent (FTE)",76567.22,"e",FALSE
+2011,"United Kingdom","Health care assistants","Full-time equivalent (FTE)",55103.74,"e",FALSE
+2011,"United Kingdom","Hospital employment","Full-time equivalent (FTE)",1223996.34,"e",FALSE
+2011,"Montenegro","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Montenegro","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Montenegro","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Montenegro","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Montenegro","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"North Macedonia","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"North Macedonia","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"North Macedonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"North Macedonia","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"North Macedonia","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Albania","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Albania","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Albania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Albania","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Albania","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2011,"Serbia","Medical doctors","Full-time equivalent (FTE)",11048,"",FALSE
+2011,"Serbia","Nursing professionals and midwives","Full-time equivalent (FTE)",5212,"",FALSE
+2011,"Serbia","Nursing associate professionals","Full-time equivalent (FTE)",23148,"",FALSE
+2011,"Serbia","Health care assistants","Full-time equivalent (FTE)",0,"",FALSE
+2011,"Serbia","Hospital employment","Full-time equivalent (FTE)",63656,"",FALSE
+2011,"Turkey","Medical doctors","Full-time equivalent (FTE)",20057.43,"",TRUE
+2011,"Turkey","Nursing professionals and midwives","Full-time equivalent (FTE)",53562.02,"",TRUE
+2011,"Turkey","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2011,"Turkey","Health care assistants","Full-time equivalent (FTE)",3055.3,"",TRUE
+2011,"Turkey","Hospital employment","Full-time equivalent (FTE)",134386.54,"",TRUE
+2012,"Belgium","Medical doctors","Full-time equivalent (FTE)",6627.94,"e",FALSE
+2012,"Belgium","Nursing professionals and midwives","Full-time equivalent (FTE)",60708.79,"e",FALSE
+2012,"Belgium","Nursing associate professionals","Full-time equivalent (FTE)",1049.01,"e",FALSE
+2012,"Belgium","Health care assistants","Full-time equivalent (FTE)",9282.42,"e",FALSE
+2012,"Belgium","Hospital employment","Full-time equivalent (FTE)",146171.23,"e",FALSE
+2012,"Bulgaria","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Bulgaria","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Bulgaria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Bulgaria","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Bulgaria","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Czechia","Medical doctors","Full-time equivalent (FTE)",20386.79,"",FALSE
+2012,"Czechia","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",FALSE
+2012,"Czechia","Nursing associate professionals","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Czechia","Health care assistants","Full-time equivalent (FTE)",2791.48,"",FALSE
+2012,"Czechia","Hospital employment","Full-time equivalent (FTE)",134949.51,"",FALSE
+2012,"Denmark","Medical doctors","Full-time equivalent (FTE)",14796,"",FALSE
+2012,"Denmark","Nursing professionals and midwives","Full-time equivalent (FTE)",35996,"",FALSE
+2012,"Denmark","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2012,"Denmark","Health care assistants","Full-time equivalent (FTE)",10196,"",FALSE
+2012,"Denmark","Hospital employment","Full-time equivalent (FTE)",103270,"",FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Medical doctors","Full-time equivalent (FTE)",151000,"",FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Nursing professionals and midwives","Full-time equivalent (FTE)",322000,"",FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Nursing associate professionals","Full-time equivalent (FTE)",31000,"",FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Health care assistants","Full-time equivalent (FTE)",10196,"",TRUE
+2012,"Germany (until 1990 former territory of the FRG)","Hospital employment","Full-time equivalent (FTE)",946000,"",FALSE
+2012,"Estonia","Medical doctors","Full-time equivalent (FTE)",2679.5,"",FALSE
+2012,"Estonia","Nursing professionals and midwives","Full-time equivalent (FTE)",5855.4,"b",FALSE
+2012,"Estonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2012,"Estonia","Health care assistants","Full-time equivalent (FTE)",3110.9,"",FALSE
+2012,"Estonia","Hospital employment","Full-time equivalent (FTE)",18256.1,"",FALSE
+2012,"Ireland","Medical doctors","Full-time equivalent (FTE)",6269,"",FALSE
+2012,"Ireland","Nursing professionals and midwives","Full-time equivalent (FTE)",19369,"",FALSE
+2012,"Ireland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2012,"Ireland","Health care assistants","Full-time equivalent (FTE)",3262,"",FALSE
+2012,"Ireland","Hospital employment","Full-time equivalent (FTE)",48289,"",FALSE
+2012,"Greece","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Greece","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Greece","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Greece","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Greece","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Spain","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Spain","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Spain","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Spain","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Spain","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"France","Medical doctors","Full-time equivalent (FTE)",114599.04,"",FALSE
+2012,"France","Nursing professionals and midwives","Full-time equivalent (FTE)",345798.06,"",FALSE
+2012,"France","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2012,"France","Health care assistants","Full-time equivalent (FTE)",228124.77,"",FALSE
+2012,"France","Hospital employment","Full-time equivalent (FTE)",1150444.67,"",FALSE
+2012,"Croatia","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Croatia","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Croatia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Croatia","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Croatia","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Italy","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Italy","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Italy","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Italy","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Italy","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Cyprus","Medical doctors","Full-time equivalent (FTE)",747,"",FALSE
+2012,"Cyprus","Nursing professionals and midwives","Full-time equivalent (FTE)",3630,"",FALSE
+2012,"Cyprus","Nursing associate professionals","Full-time equivalent (FTE)",139,"",FALSE
+2012,"Cyprus","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Cyprus","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Latvia","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Latvia","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Latvia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Latvia","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Latvia","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Lithuania","Medical doctors","Full-time equivalent (FTE)",10067,"",FALSE
+2012,"Lithuania","Nursing professionals and midwives","Full-time equivalent (FTE)",16106,"",FALSE
+2012,"Lithuania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2012,"Lithuania","Health care assistants","Full-time equivalent (FTE)",5607,"",FALSE
+2012,"Lithuania","Hospital employment","Full-time equivalent (FTE)",47396,"",FALSE
+2012,"Luxembourg","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Luxembourg","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Luxembourg","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Luxembourg","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Luxembourg","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Hungary","Medical doctors","Full-time equivalent (FTE)",15676.92,"",FALSE
+2012,"Hungary","Nursing professionals and midwives","Full-time equivalent (FTE)",26107.91,"",FALSE
+2012,"Hungary","Nursing associate professionals","Full-time equivalent (FTE)",7028.78,"",FALSE
+2012,"Hungary","Health care assistants","Full-time equivalent (FTE)",12806.64,"",FALSE
+2012,"Hungary","Hospital employment","Full-time equivalent (FTE)",94745.35,"",FALSE
+2012,"Malta","Medical doctors","Full-time equivalent (FTE)",788.02,"",FALSE
+2012,"Malta","Nursing professionals and midwives","Full-time equivalent (FTE)",2221.07,"",FALSE
+2012,"Malta","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2012,"Malta","Health care assistants","Full-time equivalent (FTE)",1401.43,"",FALSE
+2012,"Malta","Hospital employment","Full-time equivalent (FTE)",7006.63,"",FALSE
+2012,"Netherlands","Medical doctors","Full-time equivalent (FTE)",22285,"e",FALSE
+2012,"Netherlands","Nursing professionals and midwives","Full-time equivalent (FTE)",61278,"e",FALSE
+2012,"Netherlands","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Netherlands","Health care assistants","Full-time equivalent (FTE)",11101,"be",FALSE
+2012,"Netherlands","Hospital employment","Full-time equivalent (FTE)",215396,"b",FALSE
+2012,"Austria","Medical doctors","Full-time equivalent (FTE)",21361,"",FALSE
+2012,"Austria","Nursing professionals and midwives","Full-time equivalent (FTE)",49318,"",FALSE
+2012,"Austria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2012,"Austria","Health care assistants","Full-time equivalent (FTE)",8628.31,"",FALSE
+2012,"Austria","Hospital employment","Full-time equivalent (FTE)",135061,"",FALSE
+2012,"Poland","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Poland","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Poland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Poland","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Poland","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Portugal","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Portugal","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Portugal","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Portugal","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Portugal","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Romania","Medical doctors","Full-time equivalent (FTE)",25906,"",FALSE
+2012,"Romania","Nursing professionals and midwives","Full-time equivalent (FTE)",7055,"",FALSE
+2012,"Romania","Nursing associate professionals","Full-time equivalent (FTE)",50875,"",FALSE
+2012,"Romania","Health care assistants","Full-time equivalent (FTE)",37350,"",FALSE
+2012,"Romania","Hospital employment","Full-time equivalent (FTE)",150489,"",FALSE
+2012,"Slovenia","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Slovenia","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Slovenia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Slovenia","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Slovenia","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Slovakia","Medical doctors","Full-time equivalent (FTE)",8532.88,"",FALSE
+2012,"Slovakia","Nursing professionals and midwives","Full-time equivalent (FTE)",21453.48,"",FALSE
+2012,"Slovakia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2012,"Slovakia","Health care assistants","Full-time equivalent (FTE)",5878,"",FALSE
+2012,"Slovakia","Hospital employment","Full-time equivalent (FTE)",40256.78,"",FALSE
+2012,"Finland","Medical doctors","Full-time equivalent (FTE)",7366.72,"e",FALSE
+2012,"Finland","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Finland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Finland","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Finland","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Iceland","Medical doctors","Full-time equivalent (FTE)",564.69,"",FALSE
+2012,"Iceland","Nursing professionals and midwives","Full-time equivalent (FTE)",1360.83,"",FALSE
+2012,"Iceland","Nursing associate professionals","Full-time equivalent (FTE)",541.54,"",FALSE
+2012,"Iceland","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Iceland","Hospital employment","Full-time equivalent (FTE)",4615.07,"",FALSE
+2012,"Liechtenstein","Medical doctors","Full-time equivalent (FTE)",10.51,"",FALSE
+2012,"Liechtenstein","Nursing professionals and midwives","Full-time equivalent (FTE)",49.73,"",FALSE
+2012,"Liechtenstein","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2012,"Liechtenstein","Health care assistants","Full-time equivalent (FTE)",22.52,"",FALSE
+2012,"Liechtenstein","Hospital employment","Full-time equivalent (FTE)",147.12,"",FALSE
+2012,"Norway","Medical doctors","Full-time equivalent (FTE)",11419,"",FALSE
+2012,"Norway","Nursing professionals and midwives","Full-time equivalent (FTE)",37702,"",FALSE
+2012,"Norway","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2012,"Norway","Health care assistants","Full-time equivalent (FTE)",8356,"",FALSE
+2012,"Norway","Hospital employment","Full-time equivalent (FTE)",92822,"",FALSE
+2012,"Switzerland","Medical doctors","Full-time equivalent (FTE)",18426.31,"",FALSE
+2012,"Switzerland","Nursing professionals and midwives","Full-time equivalent (FTE)",43644.56,"",FALSE
+2012,"Switzerland","Nursing associate professionals","Full-time equivalent (FTE)",5919.73,"",FALSE
+2012,"Switzerland","Health care assistants","Full-time equivalent (FTE)",10901.35,"",FALSE
+2012,"Switzerland","Hospital employment","Full-time equivalent (FTE)",144065.66,"",FALSE
+2012,"United Kingdom","Medical doctors","Full-time equivalent (FTE)",116291.96,"e",FALSE
+2012,"United Kingdom","Nursing professionals and midwives","Full-time equivalent (FTE)",350464.87,"e",FALSE
+2012,"United Kingdom","Nursing associate professionals","Full-time equivalent (FTE)",71135.73,"e",FALSE
+2012,"United Kingdom","Health care assistants","Full-time equivalent (FTE)",56655.33,"e",FALSE
+2012,"United Kingdom","Hospital employment","Full-time equivalent (FTE)",1190503.45,"e",FALSE
+2012,"Montenegro","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Montenegro","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Montenegro","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Montenegro","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Montenegro","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"North Macedonia","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"North Macedonia","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"North Macedonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"North Macedonia","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"North Macedonia","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Albania","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Albania","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Albania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Albania","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Albania","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2012,"Serbia","Medical doctors","Full-time equivalent (FTE)",11256,"",FALSE
+2012,"Serbia","Nursing professionals and midwives","Full-time equivalent (FTE)",5279,"",FALSE
+2012,"Serbia","Nursing associate professionals","Full-time equivalent (FTE)",23216,"",FALSE
+2012,"Serbia","Health care assistants","Full-time equivalent (FTE)",0,"",FALSE
+2012,"Serbia","Hospital employment","Full-time equivalent (FTE)",64423,"",FALSE
+2012,"Turkey","Medical doctors","Full-time equivalent (FTE)",20386.79,"",TRUE
+2012,"Turkey","Nursing professionals and midwives","Full-time equivalent (FTE)",53455.95,"",TRUE
+2012,"Turkey","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2012,"Turkey","Health care assistants","Full-time equivalent (FTE)",3110.9,"",TRUE
+2012,"Turkey","Hospital employment","Full-time equivalent (FTE)",134949.51,"",TRUE
+2013,"Belgium","Medical doctors","Full-time equivalent (FTE)",6308.2,"e",FALSE
+2013,"Belgium","Nursing professionals and midwives","Full-time equivalent (FTE)",61609.04,"e",FALSE
+2013,"Belgium","Nursing associate professionals","Full-time equivalent (FTE)",908.04,"e",FALSE
+2013,"Belgium","Health care assistants","Full-time equivalent (FTE)",8760.16,"e",FALSE
+2013,"Belgium","Hospital employment","Full-time equivalent (FTE)",146152.98,"e",FALSE
+2013,"Bulgaria","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Bulgaria","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Bulgaria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Bulgaria","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Bulgaria","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Czechia","Medical doctors","Full-time equivalent (FTE)",20377.24,"",FALSE
+2013,"Czechia","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",FALSE
+2013,"Czechia","Nursing associate professionals","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Czechia","Health care assistants","Full-time equivalent (FTE)",2824.92,"",FALSE
+2013,"Czechia","Hospital employment","Full-time equivalent (FTE)",134002.9,"",FALSE
+2013,"Denmark","Medical doctors","Full-time equivalent (FTE)",15120,"",FALSE
+2013,"Denmark","Nursing professionals and midwives","Full-time equivalent (FTE)",36802,"",FALSE
+2013,"Denmark","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2013,"Denmark","Health care assistants","Full-time equivalent (FTE)",10546,"",FALSE
+2013,"Denmark","Hospital employment","Full-time equivalent (FTE)",105861,"",FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Medical doctors","Full-time equivalent (FTE)",155000,"",FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Nursing professionals and midwives","Full-time equivalent (FTE)",332000,"",FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Nursing associate professionals","Full-time equivalent (FTE)",32000,"",FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Health care assistants","Full-time equivalent (FTE)",10546,"",TRUE
+2013,"Germany (until 1990 former territory of the FRG)","Hospital employment","Full-time equivalent (FTE)",959000,"",FALSE
+2013,"Estonia","Medical doctors","Full-time equivalent (FTE)",2502,"b",FALSE
+2013,"Estonia","Nursing professionals and midwives","Full-time equivalent (FTE)",4858.9,"b",FALSE
+2013,"Estonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2013,"Estonia","Health care assistants","Full-time equivalent (FTE)",2766.9,"b",FALSE
+2013,"Estonia","Hospital employment","Full-time equivalent (FTE)",12756.6,"b",FALSE
+2013,"Ireland","Medical doctors","Full-time equivalent (FTE)",6302,"",FALSE
+2013,"Ireland","Nursing professionals and midwives","Full-time equivalent (FTE)",19221,"",FALSE
+2013,"Ireland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2013,"Ireland","Health care assistants","Full-time equivalent (FTE)",3237,"",FALSE
+2013,"Ireland","Hospital employment","Full-time equivalent (FTE)",47935,"",FALSE
+2013,"Greece","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Greece","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Greece","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Greece","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Greece","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Spain","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Spain","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Spain","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Spain","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Spain","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"France","Medical doctors","Full-time equivalent (FTE)",121137.02,"b",FALSE
+2013,"France","Nursing professionals and midwives","Full-time equivalent (FTE)",345196.95,"b",FALSE
+2013,"France","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2013,"France","Health care assistants","Full-time equivalent (FTE)",225947.78,"b",FALSE
+2013,"France","Hospital employment","Full-time equivalent (FTE)",1147732.18,"b",FALSE
+2013,"Croatia","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Croatia","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Croatia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Croatia","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Croatia","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Italy","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Italy","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Italy","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Italy","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Italy","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Cyprus","Medical doctors","Full-time equivalent (FTE)",796,"",FALSE
+2013,"Cyprus","Nursing professionals and midwives","Full-time equivalent (FTE)",3711,"",FALSE
+2013,"Cyprus","Nursing associate professionals","Full-time equivalent (FTE)",134,"",FALSE
+2013,"Cyprus","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Cyprus","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Latvia","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Latvia","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Latvia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Latvia","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Latvia","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Lithuania","Medical doctors","Full-time equivalent (FTE)",10007,"",FALSE
+2013,"Lithuania","Nursing professionals and midwives","Full-time equivalent (FTE)",15962,"",FALSE
+2013,"Lithuania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2013,"Lithuania","Health care assistants","Full-time equivalent (FTE)",5710,"",FALSE
+2013,"Lithuania","Hospital employment","Full-time equivalent (FTE)",46819,"",FALSE
+2013,"Luxembourg","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Luxembourg","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Luxembourg","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Luxembourg","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Luxembourg","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Hungary","Medical doctors","Full-time equivalent (FTE)",17209.44,"",FALSE
+2013,"Hungary","Nursing professionals and midwives","Full-time equivalent (FTE)",28701.12,"",FALSE
+2013,"Hungary","Nursing associate professionals","Full-time equivalent (FTE)",7751.04,"",FALSE
+2013,"Hungary","Health care assistants","Full-time equivalent (FTE)",14114.23,"",FALSE
+2013,"Hungary","Hospital employment","Full-time equivalent (FTE)",102494.73,"",FALSE
+2013,"Malta","Medical doctors","Full-time equivalent (FTE)",886.65,"",FALSE
+2013,"Malta","Nursing professionals and midwives","Full-time equivalent (FTE)",2304.38,"",FALSE
+2013,"Malta","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2013,"Malta","Health care assistants","Full-time equivalent (FTE)",1434.24,"",FALSE
+2013,"Malta","Hospital employment","Full-time equivalent (FTE)",7214.87,"",FALSE
+2013,"Netherlands","Medical doctors","Full-time equivalent (FTE)",23222,"e",FALSE
+2013,"Netherlands","Nursing professionals and midwives","Full-time equivalent (FTE)",61564,"e",FALSE
+2013,"Netherlands","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Netherlands","Health care assistants","Full-time equivalent (FTE)",13543,"e",FALSE
+2013,"Netherlands","Hospital employment","Full-time equivalent (FTE)",215281,"",FALSE
+2013,"Austria","Medical doctors","Full-time equivalent (FTE)",21514,"",FALSE
+2013,"Austria","Nursing professionals and midwives","Full-time equivalent (FTE)",49775,"",FALSE
+2013,"Austria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2013,"Austria","Health care assistants","Full-time equivalent (FTE)",8672.96,"",FALSE
+2013,"Austria","Hospital employment","Full-time equivalent (FTE)",135829,"",FALSE
+2013,"Poland","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Poland","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Poland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Poland","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Poland","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Portugal","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Portugal","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Portugal","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Portugal","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Portugal","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Romania","Medical doctors","Full-time equivalent (FTE)",26011,"",FALSE
+2013,"Romania","Nursing professionals and midwives","Full-time equivalent (FTE)",8219,"",FALSE
+2013,"Romania","Nursing associate professionals","Full-time equivalent (FTE)",50952,"",FALSE
+2013,"Romania","Health care assistants","Full-time equivalent (FTE)",37243,"",FALSE
+2013,"Romania","Hospital employment","Full-time equivalent (FTE)",152126,"",FALSE
+2013,"Slovenia","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Slovenia","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Slovenia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Slovenia","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Slovenia","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Slovakia","Medical doctors","Full-time equivalent (FTE)",8748.94,"",FALSE
+2013,"Slovakia","Nursing professionals and midwives","Full-time equivalent (FTE)",21491.75,"",FALSE
+2013,"Slovakia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2013,"Slovakia","Health care assistants","Full-time equivalent (FTE)",6083.74,"",FALSE
+2013,"Slovakia","Hospital employment","Full-time equivalent (FTE)",40723.64,"",FALSE
+2013,"Finland","Medical doctors","Full-time equivalent (FTE)",7490.92,"e",FALSE
+2013,"Finland","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Finland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Finland","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Finland","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Iceland","Medical doctors","Full-time equivalent (FTE)",546.42,"",FALSE
+2013,"Iceland","Nursing professionals and midwives","Full-time equivalent (FTE)",1382.78,"",FALSE
+2013,"Iceland","Nursing associate professionals","Full-time equivalent (FTE)",541.86,"",FALSE
+2013,"Iceland","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Iceland","Hospital employment","Full-time equivalent (FTE)",4629.52,"",FALSE
+2013,"Liechtenstein","Medical doctors","Full-time equivalent (FTE)",12.1,"",FALSE
+2013,"Liechtenstein","Nursing professionals and midwives","Full-time equivalent (FTE)",52.2,"",FALSE
+2013,"Liechtenstein","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2013,"Liechtenstein","Health care assistants","Full-time equivalent (FTE)",22.6,"",FALSE
+2013,"Liechtenstein","Hospital employment","Full-time equivalent (FTE)",153.8,"",FALSE
+2013,"Norway","Medical doctors","Full-time equivalent (FTE)",11631,"",FALSE
+2013,"Norway","Nursing professionals and midwives","Full-time equivalent (FTE)",37637,"",FALSE
+2013,"Norway","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2013,"Norway","Health care assistants","Full-time equivalent (FTE)",7921,"",FALSE
+2013,"Norway","Hospital employment","Full-time equivalent (FTE)",91981,"",FALSE
+2013,"Switzerland","Medical doctors","Full-time equivalent (FTE)",19026.13,"",FALSE
+2013,"Switzerland","Nursing professionals and midwives","Full-time equivalent (FTE)",45343.32,"",FALSE
+2013,"Switzerland","Nursing associate professionals","Full-time equivalent (FTE)",6447.43,"",FALSE
+2013,"Switzerland","Health care assistants","Full-time equivalent (FTE)",10919.81,"",FALSE
+2013,"Switzerland","Hospital employment","Full-time equivalent (FTE)",148362.81,"",FALSE
+2013,"United Kingdom","Medical doctors","Full-time equivalent (FTE)",118086.09,"e",FALSE
+2013,"United Kingdom","Nursing professionals and midwives","Full-time equivalent (FTE)",354397.24,"e",FALSE
+2013,"United Kingdom","Nursing associate professionals","Full-time equivalent (FTE)",70366.21,"e",FALSE
+2013,"United Kingdom","Health care assistants","Full-time equivalent (FTE)",61782.11,"e",FALSE
+2013,"United Kingdom","Hospital employment","Full-time equivalent (FTE)",1204434.87,"e",FALSE
+2013,"Montenegro","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Montenegro","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Montenegro","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Montenegro","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Montenegro","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"North Macedonia","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"North Macedonia","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"North Macedonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"North Macedonia","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"North Macedonia","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Albania","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Albania","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Albania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Albania","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Albania","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2013,"Serbia","Medical doctors","Full-time equivalent (FTE)",11379,"",FALSE
+2013,"Serbia","Nursing professionals and midwives","Full-time equivalent (FTE)",5424,"",FALSE
+2013,"Serbia","Nursing associate professionals","Full-time equivalent (FTE)",23617,"",FALSE
+2013,"Serbia","Health care assistants","Full-time equivalent (FTE)",0,"",FALSE
+2013,"Serbia","Hospital employment","Full-time equivalent (FTE)",64940,"",FALSE
+2013,"Turkey","Medical doctors","Full-time equivalent (FTE)",20377.24,"",TRUE
+2013,"Turkey","Nursing professionals and midwives","Full-time equivalent (FTE)",52749.84,"",TRUE
+2013,"Turkey","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2013,"Turkey","Health care assistants","Full-time equivalent (FTE)",3237,"",TRUE
+2013,"Turkey","Hospital employment","Full-time equivalent (FTE)",134002.9,"",TRUE
+2014,"Belgium","Medical doctors","Full-time equivalent (FTE)",6522.08,"e",FALSE
+2014,"Belgium","Nursing professionals and midwives","Full-time equivalent (FTE)",62181.95,"e",FALSE
+2014,"Belgium","Nursing associate professionals","Full-time equivalent (FTE)",773.8,"e",FALSE
+2014,"Belgium","Health care assistants","Full-time equivalent (FTE)",7444.63,"e",FALSE
+2014,"Belgium","Hospital employment","Full-time equivalent (FTE)",146475.33,"e",FALSE
+2014,"Bulgaria","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Bulgaria","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Bulgaria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Bulgaria","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Bulgaria","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Czechia","Medical doctors","Full-time equivalent (FTE)",21104.31,"e",FALSE
+2014,"Czechia","Nursing professionals and midwives","Full-time equivalent (FTE)",52511.26,"e",FALSE
+2014,"Czechia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Czechia","Health care assistants","Full-time equivalent (FTE)",2847.01,"e",FALSE
+2014,"Czechia","Hospital employment","Full-time equivalent (FTE)",133988.71,"e",FALSE
+2014,"Denmark","Medical doctors","Full-time equivalent (FTE)",15385,"",FALSE
+2014,"Denmark","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",FALSE
+2014,"Denmark","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2014,"Denmark","Health care assistants","Full-time equivalent (FTE)",10213,"",FALSE
+2014,"Denmark","Hospital employment","Full-time equivalent (FTE)",107078,"",FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Medical doctors","Full-time equivalent (FTE)",159000,"",FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Nursing professionals and midwives","Full-time equivalent (FTE)",335000,"",FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Nursing associate professionals","Full-time equivalent (FTE)",32000,"",FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Health care assistants","Full-time equivalent (FTE)",159000,"",TRUE
+2014,"Germany (until 1990 former territory of the FRG)","Hospital employment","Full-time equivalent (FTE)",968000,"",FALSE
+2014,"Estonia","Medical doctors","Full-time equivalent (FTE)",2531.9,"",FALSE
+2014,"Estonia","Nursing professionals and midwives","Full-time equivalent (FTE)",4963.1,"",FALSE
+2014,"Estonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2014,"Estonia","Health care assistants","Full-time equivalent (FTE)",2909.7,"",FALSE
+2014,"Estonia","Hospital employment","Full-time equivalent (FTE)",12985.4,"",FALSE
+2014,"Ireland","Medical doctors","Full-time equivalent (FTE)",6774,"",FALSE
+2014,"Ireland","Nursing professionals and midwives","Full-time equivalent (FTE)",19741,"",FALSE
+2014,"Ireland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2014,"Ireland","Health care assistants","Full-time equivalent (FTE)",3718,"",FALSE
+2014,"Ireland","Hospital employment","Full-time equivalent (FTE)",49747,"",FALSE
+2014,"Greece","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Greece","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Greece","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Greece","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Greece","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Spain","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Spain","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Spain","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Spain","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Spain","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"France","Medical doctors","Full-time equivalent (FTE)",124057.19,"",FALSE
+2014,"France","Nursing professionals and midwives","Full-time equivalent (FTE)",348535.05,"",FALSE
+2014,"France","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2014,"France","Health care assistants","Full-time equivalent (FTE)",227044.21,"",FALSE
+2014,"France","Hospital employment","Full-time equivalent (FTE)",1155583.2,"",FALSE
+2014,"Croatia","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Croatia","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Croatia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Croatia","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Croatia","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Italy","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Italy","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Italy","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Italy","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Italy","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Cyprus","Medical doctors","Full-time equivalent (FTE)",811,"",FALSE
+2014,"Cyprus","Nursing professionals and midwives","Full-time equivalent (FTE)",3773,"",FALSE
+2014,"Cyprus","Nursing associate professionals","Full-time equivalent (FTE)",119,"",FALSE
+2014,"Cyprus","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Cyprus","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Latvia","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Latvia","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Latvia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Latvia","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Latvia","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Lithuania","Medical doctors","Full-time equivalent (FTE)",9818,"",FALSE
+2014,"Lithuania","Nursing professionals and midwives","Full-time equivalent (FTE)",15770,"",FALSE
+2014,"Lithuania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2014,"Lithuania","Health care assistants","Full-time equivalent (FTE)",5704,"",FALSE
+2014,"Lithuania","Hospital employment","Full-time equivalent (FTE)",46144,"",FALSE
+2014,"Luxembourg","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Luxembourg","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Luxembourg","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Luxembourg","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Luxembourg","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Hungary","Medical doctors","Full-time equivalent (FTE)",16970.61,"",FALSE
+2014,"Hungary","Nursing professionals and midwives","Full-time equivalent (FTE)",28191.02,"",FALSE
+2014,"Hungary","Nursing associate professionals","Full-time equivalent (FTE)",6736.48,"",FALSE
+2014,"Hungary","Health care assistants","Full-time equivalent (FTE)",14102.33,"",FALSE
+2014,"Hungary","Hospital employment","Full-time equivalent (FTE)",100064.07,"",FALSE
+2014,"Malta","Medical doctors","Full-time equivalent (FTE)",934.87,"",FALSE
+2014,"Malta","Nursing professionals and midwives","Full-time equivalent (FTE)",2774.47,"",FALSE
+2014,"Malta","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2014,"Malta","Health care assistants","Full-time equivalent (FTE)",1481.84,"",FALSE
+2014,"Malta","Hospital employment","Full-time equivalent (FTE)",7855.51,"",FALSE
+2014,"Netherlands","Medical doctors","Full-time equivalent (FTE)",23920,"e",FALSE
+2014,"Netherlands","Nursing professionals and midwives","Full-time equivalent (FTE)",56801,"be",FALSE
+2014,"Netherlands","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Netherlands","Health care assistants","Full-time equivalent (FTE)",11975,"e",FALSE
+2014,"Netherlands","Hospital employment","Full-time equivalent (FTE)",204854,"b",FALSE
+2014,"Austria","Medical doctors","Full-time equivalent (FTE)",21757,"",FALSE
+2014,"Austria","Nursing professionals and midwives","Full-time equivalent (FTE)",50307,"",FALSE
+2014,"Austria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2014,"Austria","Health care assistants","Full-time equivalent (FTE)",8763.41,"",FALSE
+2014,"Austria","Hospital employment","Full-time equivalent (FTE)",136931,"",FALSE
+2014,"Poland","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Poland","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Poland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Poland","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Poland","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Portugal","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Portugal","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Portugal","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Portugal","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Portugal","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Romania","Medical doctors","Full-time equivalent (FTE)",26368,"",FALSE
+2014,"Romania","Nursing professionals and midwives","Full-time equivalent (FTE)",8959,"",FALSE
+2014,"Romania","Nursing associate professionals","Full-time equivalent (FTE)",51186,"",FALSE
+2014,"Romania","Health care assistants","Full-time equivalent (FTE)",37747,"",FALSE
+2014,"Romania","Hospital employment","Full-time equivalent (FTE)",154315,"",FALSE
+2014,"Slovenia","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Slovenia","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Slovenia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Slovenia","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Slovenia","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Slovakia","Medical doctors","Full-time equivalent (FTE)",8936.08,"",FALSE
+2014,"Slovakia","Nursing professionals and midwives","Full-time equivalent (FTE)",21632.52,"",FALSE
+2014,"Slovakia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2014,"Slovakia","Health care assistants","Full-time equivalent (FTE)",6293.97,"",FALSE
+2014,"Slovakia","Hospital employment","Full-time equivalent (FTE)",41262.81,"",FALSE
+2014,"Finland","Medical doctors","Full-time equivalent (FTE)",8058.85,"e",FALSE
+2014,"Finland","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Finland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Finland","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Finland","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Iceland","Medical doctors","Full-time equivalent (FTE)",560.26,"",FALSE
+2014,"Iceland","Nursing professionals and midwives","Full-time equivalent (FTE)",1432.5,"",FALSE
+2014,"Iceland","Nursing associate professionals","Full-time equivalent (FTE)",561.4,"",FALSE
+2014,"Iceland","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Iceland","Hospital employment","Full-time equivalent (FTE)",4723.43,"",FALSE
+2014,"Liechtenstein","Medical doctors","Full-time equivalent (FTE)",13.15,"",FALSE
+2014,"Liechtenstein","Nursing professionals and midwives","Full-time equivalent (FTE)",57.3,"",FALSE
+2014,"Liechtenstein","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2014,"Liechtenstein","Health care assistants","Full-time equivalent (FTE)",23.7,"",FALSE
+2014,"Liechtenstein","Hospital employment","Full-time equivalent (FTE)",169.05,"",FALSE
+2014,"Norway","Medical doctors","Full-time equivalent (FTE)",11909,"",FALSE
+2014,"Norway","Nursing professionals and midwives","Full-time equivalent (FTE)",38459,"",FALSE
+2014,"Norway","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2014,"Norway","Health care assistants","Full-time equivalent (FTE)",7824,"",FALSE
+2014,"Norway","Hospital employment","Full-time equivalent (FTE)",92626,"",FALSE
+2014,"Switzerland","Medical doctors","Full-time equivalent (FTE)",19775.97,"",FALSE
+2014,"Switzerland","Nursing professionals and midwives","Full-time equivalent (FTE)",46387.12,"",FALSE
+2014,"Switzerland","Nursing associate professionals","Full-time equivalent (FTE)",7022.41,"",FALSE
+2014,"Switzerland","Health care assistants","Full-time equivalent (FTE)",11070.45,"",FALSE
+2014,"Switzerland","Hospital employment","Full-time equivalent (FTE)",152435.2,"",FALSE
+2014,"United Kingdom","Medical doctors","Full-time equivalent (FTE)",120607.07,"e",FALSE
+2014,"United Kingdom","Nursing professionals and midwives","Full-time equivalent (FTE)",359840.92,"e",FALSE
+2014,"United Kingdom","Nursing associate professionals","Full-time equivalent (FTE)",69371.38,"e",FALSE
+2014,"United Kingdom","Health care assistants","Full-time equivalent (FTE)",65556.97,"e",FALSE
+2014,"United Kingdom","Hospital employment","Full-time equivalent (FTE)",1229041.62,"e",FALSE
+2014,"Montenegro","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Montenegro","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Montenegro","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Montenegro","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Montenegro","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"North Macedonia","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"North Macedonia","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"North Macedonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"North Macedonia","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"North Macedonia","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Albania","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Albania","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Albania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Albania","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Albania","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2014,"Serbia","Medical doctors","Full-time equivalent (FTE)",11324,"",FALSE
+2014,"Serbia","Nursing professionals and midwives","Full-time equivalent (FTE)",5406,"",FALSE
+2014,"Serbia","Nursing associate professionals","Full-time equivalent (FTE)",23364,"",FALSE
+2014,"Serbia","Health care assistants","Full-time equivalent (FTE)",0,"",FALSE
+2014,"Serbia","Hospital employment","Full-time equivalent (FTE)",64155,"",FALSE
+2014,"Turkey","Medical doctors","Full-time equivalent (FTE)",15385,"",TRUE
+2014,"Turkey","Nursing professionals and midwives","Full-time equivalent (FTE)",37231,"",TRUE
+2014,"Turkey","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2014,"Turkey","Health care assistants","Full-time equivalent (FTE)",3718,"",TRUE
+2014,"Turkey","Hospital employment","Full-time equivalent (FTE)",107078,"",TRUE
+2015,"Belgium","Medical doctors","Full-time equivalent (FTE)",6700.02,"e",FALSE
+2015,"Belgium","Nursing professionals and midwives","Full-time equivalent (FTE)",62971.53,"e",FALSE
+2015,"Belgium","Nursing associate professionals","Full-time equivalent (FTE)",692.83,"e",FALSE
+2015,"Belgium","Health care assistants","Full-time equivalent (FTE)",7491.89,"e",FALSE
+2015,"Belgium","Hospital employment","Full-time equivalent (FTE)",147380.48,"e",FALSE
+2015,"Bulgaria","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Bulgaria","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Bulgaria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Bulgaria","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Bulgaria","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Czechia","Medical doctors","Full-time equivalent (FTE)",21134.89,"",FALSE
+2015,"Czechia","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",FALSE
+2015,"Czechia","Nursing associate professionals","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Czechia","Health care assistants","Full-time equivalent (FTE)",2941.09,"",FALSE
+2015,"Czechia","Hospital employment","Full-time equivalent (FTE)",137558.57,"",FALSE
+2015,"Denmark","Medical doctors","Full-time equivalent (FTE)",15632,"",FALSE
+2015,"Denmark","Nursing professionals and midwives","Full-time equivalent (FTE)",37155,"",FALSE
+2015,"Denmark","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2015,"Denmark","Health care assistants","Full-time equivalent (FTE)",9762,"",FALSE
+2015,"Denmark","Hospital employment","Full-time equivalent (FTE)",106525,"",FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Medical doctors","Full-time equivalent (FTE)",163000,"",FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Nursing professionals and midwives","Full-time equivalent (FTE)",337000,"",FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Nursing associate professionals","Full-time equivalent (FTE)",33000,"",FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Health care assistants","Full-time equivalent (FTE)",9762,"",TRUE
+2015,"Germany (until 1990 former territory of the FRG)","Hospital employment","Full-time equivalent (FTE)",978000,"",FALSE
+2015,"Estonia","Medical doctors","Full-time equivalent (FTE)",2580.8,"",FALSE
+2015,"Estonia","Nursing professionals and midwives","Full-time equivalent (FTE)",4902.1,"",FALSE
+2015,"Estonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2015,"Estonia","Health care assistants","Full-time equivalent (FTE)",2852.8,"",FALSE
+2015,"Estonia","Hospital employment","Full-time equivalent (FTE)",13055.2,"",FALSE
+2015,"Ireland","Medical doctors","Full-time equivalent (FTE)",7220,"",FALSE
+2015,"Ireland","Nursing professionals and midwives","Full-time equivalent (FTE)",20314,"",FALSE
+2015,"Ireland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2015,"Ireland","Health care assistants","Full-time equivalent (FTE)",4158,"",FALSE
+2015,"Ireland","Hospital employment","Full-time equivalent (FTE)",52542,"",FALSE
+2015,"Greece","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Greece","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Greece","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Greece","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Greece","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Spain","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Spain","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Spain","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Spain","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Spain","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"France","Medical doctors","Full-time equivalent (FTE)",126023.95,"",FALSE
+2015,"France","Nursing professionals and midwives","Full-time equivalent (FTE)",350218.46,"",FALSE
+2015,"France","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2015,"France","Health care assistants","Full-time equivalent (FTE)",227119.01,"",FALSE
+2015,"France","Hospital employment","Full-time equivalent (FTE)",1158639.44,"",FALSE
+2015,"Croatia","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Croatia","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Croatia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Croatia","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Croatia","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Italy","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Italy","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Italy","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Italy","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Italy","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Cyprus","Medical doctors","Full-time equivalent (FTE)",790,"",FALSE
+2015,"Cyprus","Nursing professionals and midwives","Full-time equivalent (FTE)",3985,"",FALSE
+2015,"Cyprus","Nursing associate professionals","Full-time equivalent (FTE)",102,"",FALSE
+2015,"Cyprus","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Cyprus","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Latvia","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Latvia","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Latvia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Latvia","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Latvia","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Lithuania","Medical doctors","Full-time equivalent (FTE)",9747,"",FALSE
+2015,"Lithuania","Nursing professionals and midwives","Full-time equivalent (FTE)",15675,"",FALSE
+2015,"Lithuania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2015,"Lithuania","Health care assistants","Full-time equivalent (FTE)",5794,"",FALSE
+2015,"Lithuania","Hospital employment","Full-time equivalent (FTE)",45940,"",FALSE
+2015,"Luxembourg","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Luxembourg","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Luxembourg","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Luxembourg","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Luxembourg","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Hungary","Medical doctors","Full-time equivalent (FTE)",17320.63,"",FALSE
+2015,"Hungary","Nursing professionals and midwives","Full-time equivalent (FTE)",28116.62,"",FALSE
+2015,"Hungary","Nursing associate professionals","Full-time equivalent (FTE)",6535.19,"",FALSE
+2015,"Hungary","Health care assistants","Full-time equivalent (FTE)",13931.29,"",FALSE
+2015,"Hungary","Hospital employment","Full-time equivalent (FTE)",99873.85,"",FALSE
+2015,"Malta","Medical doctors","Full-time equivalent (FTE)",1005.72,"",FALSE
+2015,"Malta","Nursing professionals and midwives","Full-time equivalent (FTE)",2773.33,"",FALSE
+2015,"Malta","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2015,"Malta","Health care assistants","Full-time equivalent (FTE)",1549.74,"",FALSE
+2015,"Malta","Hospital employment","Full-time equivalent (FTE)",8554.44,"",FALSE
+2015,"Netherlands","Medical doctors","Full-time equivalent (FTE)",21501,"e",FALSE
+2015,"Netherlands","Nursing professionals and midwives","Full-time equivalent (FTE)",57423,"e",FALSE
+2015,"Netherlands","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Netherlands","Health care assistants","Full-time equivalent (FTE)",10824,"e",FALSE
+2015,"Netherlands","Hospital employment","Full-time equivalent (FTE)",211903,"",FALSE
+2015,"Austria","Medical doctors","Full-time equivalent (FTE)",22193,"",FALSE
+2015,"Austria","Nursing professionals and midwives","Full-time equivalent (FTE)",50823,"",FALSE
+2015,"Austria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2015,"Austria","Health care assistants","Full-time equivalent (FTE)",9020.17,"",FALSE
+2015,"Austria","Hospital employment","Full-time equivalent (FTE)",138958,"",FALSE
+2015,"Poland","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Poland","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Poland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Poland","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Poland","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Portugal","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Portugal","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Portugal","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Portugal","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Portugal","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Romania","Medical doctors","Full-time equivalent (FTE)",27211,"",FALSE
+2015,"Romania","Nursing professionals and midwives","Full-time equivalent (FTE)",9582,"",FALSE
+2015,"Romania","Nursing associate professionals","Full-time equivalent (FTE)",52690,"",FALSE
+2015,"Romania","Health care assistants","Full-time equivalent (FTE)",39065,"",FALSE
+2015,"Romania","Hospital employment","Full-time equivalent (FTE)",160424,"",FALSE
+2015,"Slovenia","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Slovenia","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Slovenia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Slovenia","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Slovenia","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Slovakia","Medical doctors","Full-time equivalent (FTE)",9083.46,"",FALSE
+2015,"Slovakia","Nursing professionals and midwives","Full-time equivalent (FTE)",21381.23,"",FALSE
+2015,"Slovakia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2015,"Slovakia","Health care assistants","Full-time equivalent (FTE)",6504.65,"",FALSE
+2015,"Slovakia","Hospital employment","Full-time equivalent (FTE)",41345.26,"",FALSE
+2015,"Finland","Medical doctors","Full-time equivalent (FTE)",7698.74,"e",FALSE
+2015,"Finland","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Finland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Finland","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Finland","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Iceland","Medical doctors","Full-time equivalent (FTE)",616.81,"",FALSE
+2015,"Iceland","Nursing professionals and midwives","Full-time equivalent (FTE)",1468.98,"",FALSE
+2015,"Iceland","Nursing associate professionals","Full-time equivalent (FTE)",557.96,"",FALSE
+2015,"Iceland","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Iceland","Hospital employment","Full-time equivalent (FTE)",4871.12,"",FALSE
+2015,"Liechtenstein","Medical doctors","Full-time equivalent (FTE)",12.4,"",FALSE
+2015,"Liechtenstein","Nursing professionals and midwives","Full-time equivalent (FTE)",60.2,"",FALSE
+2015,"Liechtenstein","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2015,"Liechtenstein","Health care assistants","Full-time equivalent (FTE)",23.2,"",FALSE
+2015,"Liechtenstein","Hospital employment","Full-time equivalent (FTE)",171.1,"",FALSE
+2015,"Norway","Medical doctors","Full-time equivalent (FTE)",12886,"b",FALSE
+2015,"Norway","Nursing professionals and midwives","Full-time equivalent (FTE)",41474,"b",FALSE
+2015,"Norway","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2015,"Norway","Health care assistants","Full-time equivalent (FTE)",8108,"b",FALSE
+2015,"Norway","Hospital employment","Full-time equivalent (FTE)",97281,"b",FALSE
+2015,"Switzerland","Medical doctors","Full-time equivalent (FTE)",20503.96,"",FALSE
+2015,"Switzerland","Nursing professionals and midwives","Full-time equivalent (FTE)",47458.1,"",FALSE
+2015,"Switzerland","Nursing associate professionals","Full-time equivalent (FTE)",7766.25,"",FALSE
+2015,"Switzerland","Health care assistants","Full-time equivalent (FTE)",10734.23,"",FALSE
+2015,"Switzerland","Hospital employment","Full-time equivalent (FTE)",157664.36,"",FALSE
+2015,"United Kingdom","Medical doctors","Full-time equivalent (FTE)",122743.29,"e",FALSE
+2015,"United Kingdom","Nursing professionals and midwives","Full-time equivalent (FTE)",364229.35,"e",FALSE
+2015,"United Kingdom","Nursing associate professionals","Full-time equivalent (FTE)",69212.21,"e",FALSE
+2015,"United Kingdom","Health care assistants","Full-time equivalent (FTE)",71293.24,"e",FALSE
+2015,"United Kingdom","Hospital employment","Full-time equivalent (FTE)",1255606.48,"e",FALSE
+2015,"Montenegro","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Montenegro","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Montenegro","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Montenegro","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Montenegro","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"North Macedonia","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"North Macedonia","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"North Macedonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"North Macedonia","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"North Macedonia","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Albania","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Albania","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Albania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Albania","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Albania","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2015,"Serbia","Medical doctors","Full-time equivalent (FTE)",11321,"",FALSE
+2015,"Serbia","Nursing professionals and midwives","Full-time equivalent (FTE)",5504,"",FALSE
+2015,"Serbia","Nursing associate professionals","Full-time equivalent (FTE)",23422,"",FALSE
+2015,"Serbia","Health care assistants","Full-time equivalent (FTE)",0,"",FALSE
+2015,"Serbia","Hospital employment","Full-time equivalent (FTE)",63965,"",FALSE
+2015,"Turkey","Medical doctors","Full-time equivalent (FTE)",21134.89,"",TRUE
+2015,"Turkey","Nursing professionals and midwives","Full-time equivalent (FTE)",52293.24,"",TRUE
+2015,"Turkey","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2015,"Turkey","Health care assistants","Full-time equivalent (FTE)",2941.09,"",TRUE
+2015,"Turkey","Hospital employment","Full-time equivalent (FTE)",137558.57,"",TRUE
+2016,"Belgium","Medical doctors","Full-time equivalent (FTE)",6806.88,"e",FALSE
+2016,"Belgium","Nursing professionals and midwives","Full-time equivalent (FTE)",63839.09,"e",FALSE
+2016,"Belgium","Nursing associate professionals","Full-time equivalent (FTE)",667.22,"e",FALSE
+2016,"Belgium","Health care assistants","Full-time equivalent (FTE)",7394.95,"e",FALSE
+2016,"Belgium","Hospital employment","Full-time equivalent (FTE)",149044.33,"e",FALSE
+2016,"Bulgaria","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Bulgaria","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Bulgaria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Bulgaria","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Bulgaria","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Czechia","Medical doctors","Full-time equivalent (FTE)",20661.84,"b",FALSE
+2016,"Czechia","Nursing professionals and midwives","Full-time equivalent (FTE)",53207.71,"b",FALSE
+2016,"Czechia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Czechia","Health care assistants","Full-time equivalent (FTE)",3157.08,"b",FALSE
+2016,"Czechia","Hospital employment","Full-time equivalent (FTE)",141423.39,"b",FALSE
+2016,"Denmark","Medical doctors","Full-time equivalent (FTE)",16021,"",FALSE
+2016,"Denmark","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",FALSE
+2016,"Denmark","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2016,"Denmark","Health care assistants","Full-time equivalent (FTE)",9573,"",FALSE
+2016,"Denmark","Hospital employment","Full-time equivalent (FTE)",106246,"",FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Medical doctors","Full-time equivalent (FTE)",166000,"",FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Nursing professionals and midwives","Full-time equivalent (FTE)",341000,"",FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Nursing associate professionals","Full-time equivalent (FTE)",34000,"",FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Health care assistants","Full-time equivalent (FTE)",166000,"",TRUE
+2016,"Germany (until 1990 former territory of the FRG)","Hospital employment","Full-time equivalent (FTE)",988000,"",FALSE
+2016,"Estonia","Medical doctors","Full-time equivalent (FTE)",2567.1,"",FALSE
+2016,"Estonia","Nursing professionals and midwives","Full-time equivalent (FTE)",4824.4,"",FALSE
+2016,"Estonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2016,"Estonia","Health care assistants","Full-time equivalent (FTE)",2741.2,"",FALSE
+2016,"Estonia","Hospital employment","Full-time equivalent (FTE)",12790.2,"",FALSE
+2016,"Ireland","Medical doctors","Full-time equivalent (FTE)",7580,"",FALSE
+2016,"Ireland","Nursing professionals and midwives","Full-time equivalent (FTE)",20707,"",FALSE
+2016,"Ireland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2016,"Ireland","Health care assistants","Full-time equivalent (FTE)",4385,"",FALSE
+2016,"Ireland","Hospital employment","Full-time equivalent (FTE)",54144,"",FALSE
+2016,"Greece","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Greece","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Greece","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Greece","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Greece","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Spain","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Spain","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Spain","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Spain","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Spain","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"France","Medical doctors","Full-time equivalent (FTE)",129366.47,"",FALSE
+2016,"France","Nursing professionals and midwives","Full-time equivalent (FTE)",352461.05,"",FALSE
+2016,"France","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2016,"France","Health care assistants","Full-time equivalent (FTE)",226711.78,"",FALSE
+2016,"France","Hospital employment","Full-time equivalent (FTE)",1164679.41,"",FALSE
+2016,"Croatia","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Croatia","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Croatia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Croatia","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Croatia","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Italy","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Italy","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Italy","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Italy","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Italy","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Cyprus","Medical doctors","Full-time equivalent (FTE)",787,"",FALSE
+2016,"Cyprus","Nursing professionals and midwives","Full-time equivalent (FTE)",4023,"",FALSE
+2016,"Cyprus","Nursing associate professionals","Full-time equivalent (FTE)",95,"",FALSE
+2016,"Cyprus","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Cyprus","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Latvia","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Latvia","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Latvia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Latvia","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Latvia","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Lithuania","Medical doctors","Full-time equivalent (FTE)",9753,"",FALSE
+2016,"Lithuania","Nursing professionals and midwives","Full-time equivalent (FTE)",15674,"",FALSE
+2016,"Lithuania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2016,"Lithuania","Health care assistants","Full-time equivalent (FTE)",6072,"",FALSE
+2016,"Lithuania","Hospital employment","Full-time equivalent (FTE)",45988,"",FALSE
+2016,"Luxembourg","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Luxembourg","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Luxembourg","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Luxembourg","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Luxembourg","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Hungary","Medical doctors","Full-time equivalent (FTE)",17142.19,"",FALSE
+2016,"Hungary","Nursing professionals and midwives","Full-time equivalent (FTE)",27509,"",FALSE
+2016,"Hungary","Nursing associate professionals","Full-time equivalent (FTE)",7064.67,"",FALSE
+2016,"Hungary","Health care assistants","Full-time equivalent (FTE)",13922.49,"",FALSE
+2016,"Hungary","Hospital employment","Full-time equivalent (FTE)",99556.29,"",FALSE
+2016,"Malta","Medical doctors","Full-time equivalent (FTE)",1084.03,"",FALSE
+2016,"Malta","Nursing professionals and midwives","Full-time equivalent (FTE)",2652.47,"",FALSE
+2016,"Malta","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2016,"Malta","Health care assistants","Full-time equivalent (FTE)",1515.62,"",FALSE
+2016,"Malta","Hospital employment","Full-time equivalent (FTE)",8469.13,"",FALSE
+2016,"Netherlands","Medical doctors","Full-time equivalent (FTE)",21605,"e",FALSE
+2016,"Netherlands","Nursing professionals and midwives","Full-time equivalent (FTE)",58536,"e",FALSE
+2016,"Netherlands","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Netherlands","Health care assistants","Full-time equivalent (FTE)",11563,"e",FALSE
+2016,"Netherlands","Hospital employment","Full-time equivalent (FTE)",198647,"",FALSE
+2016,"Austria","Medical doctors","Full-time equivalent (FTE)",22470.96,"",FALSE
+2016,"Austria","Nursing professionals and midwives","Full-time equivalent (FTE)",50998.08,"",FALSE
+2016,"Austria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2016,"Austria","Health care assistants","Full-time equivalent (FTE)",9027.73,"",FALSE
+2016,"Austria","Hospital employment","Full-time equivalent (FTE)",139702.6,"",FALSE
+2016,"Poland","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Poland","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Poland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Poland","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Poland","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Portugal","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Portugal","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Portugal","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Portugal","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Portugal","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Romania","Medical doctors","Full-time equivalent (FTE)",27667,"",FALSE
+2016,"Romania","Nursing professionals and midwives","Full-time equivalent (FTE)",10112,"",FALSE
+2016,"Romania","Nursing associate professionals","Full-time equivalent (FTE)",54679,"",FALSE
+2016,"Romania","Health care assistants","Full-time equivalent (FTE)",41349,"",FALSE
+2016,"Romania","Hospital employment","Full-time equivalent (FTE)",166297,"",FALSE
+2016,"Slovenia","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Slovenia","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Slovenia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Slovenia","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Slovenia","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Slovakia","Medical doctors","Full-time equivalent (FTE)",9027.29,"",FALSE
+2016,"Slovakia","Nursing professionals and midwives","Full-time equivalent (FTE)",21394.42,"",FALSE
+2016,"Slovakia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2016,"Slovakia","Health care assistants","Full-time equivalent (FTE)",6697.27,"",FALSE
+2016,"Slovakia","Hospital employment","Full-time equivalent (FTE)",41442.12,"",FALSE
+2016,"Finland","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Finland","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Finland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Finland","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Finland","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Iceland","Medical doctors","Full-time equivalent (FTE)",647.21,"",FALSE
+2016,"Iceland","Nursing professionals and midwives","Full-time equivalent (FTE)",1496.55,"",FALSE
+2016,"Iceland","Nursing associate professionals","Full-time equivalent (FTE)",602.86,"",FALSE
+2016,"Iceland","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Iceland","Hospital employment","Full-time equivalent (FTE)",5046.73,"",FALSE
+2016,"Liechtenstein","Medical doctors","Full-time equivalent (FTE)",15.2,"",FALSE
+2016,"Liechtenstein","Nursing professionals and midwives","Full-time equivalent (FTE)",53.75,"",FALSE
+2016,"Liechtenstein","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2016,"Liechtenstein","Health care assistants","Full-time equivalent (FTE)",25.4,"",FALSE
+2016,"Liechtenstein","Hospital employment","Full-time equivalent (FTE)",167,"",FALSE
+2016,"Norway","Medical doctors","Full-time equivalent (FTE)",13208,"",FALSE
+2016,"Norway","Nursing professionals and midwives","Full-time equivalent (FTE)",41795,"",FALSE
+2016,"Norway","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2016,"Norway","Health care assistants","Full-time equivalent (FTE)",7937,"",FALSE
+2016,"Norway","Hospital employment","Full-time equivalent (FTE)",98240,"",FALSE
+2016,"Switzerland","Medical doctors","Full-time equivalent (FTE)",21454.68,"",FALSE
+2016,"Switzerland","Nursing professionals and midwives","Full-time equivalent (FTE)",48019.39,"",FALSE
+2016,"Switzerland","Nursing associate professionals","Full-time equivalent (FTE)",8356.17,"",FALSE
+2016,"Switzerland","Health care assistants","Full-time equivalent (FTE)",10756.23,"",FALSE
+2016,"Switzerland","Hospital employment","Full-time equivalent (FTE)",161945.41,"",FALSE
+2016,"United Kingdom","Medical doctors","Full-time equivalent (FTE)",124555.65,"e",FALSE
+2016,"United Kingdom","Nursing professionals and midwives","Full-time equivalent (FTE)",367609.62,"e",FALSE
+2016,"United Kingdom","Nursing associate professionals","Full-time equivalent (FTE)",67429.96,"e",FALSE
+2016,"United Kingdom","Health care assistants","Full-time equivalent (FTE)",76719.99,"e",FALSE
+2016,"United Kingdom","Hospital employment","Full-time equivalent (FTE)",1283240.71,"e",FALSE
+2016,"Montenegro","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Montenegro","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Montenegro","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Montenegro","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Montenegro","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"North Macedonia","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"North Macedonia","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"North Macedonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"North Macedonia","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"North Macedonia","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Albania","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Albania","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Albania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Albania","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Albania","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2016,"Serbia","Medical doctors","Full-time equivalent (FTE)",11216,"",FALSE
+2016,"Serbia","Nursing professionals and midwives","Full-time equivalent (FTE)",5555,"",FALSE
+2016,"Serbia","Nursing associate professionals","Full-time equivalent (FTE)",23271,"",FALSE
+2016,"Serbia","Health care assistants","Full-time equivalent (FTE)",0,"",FALSE
+2016,"Serbia","Hospital employment","Full-time equivalent (FTE)",62606,"",FALSE
+2016,"Turkey","Medical doctors","Full-time equivalent (FTE)",16021,"",TRUE
+2016,"Turkey","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2016,"Turkey","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2016,"Turkey","Health care assistants","Full-time equivalent (FTE)",4385,"",TRUE
+2016,"Turkey","Hospital employment","Full-time equivalent (FTE)",106246,"",TRUE
+2017,"Belgium","Medical doctors","Full-time equivalent (FTE)",7146.81,"e",FALSE
+2017,"Belgium","Nursing professionals and midwives","Full-time equivalent (FTE)",63695.29,"e",FALSE
+2017,"Belgium","Nursing associate professionals","Full-time equivalent (FTE)",616,"e",FALSE
+2017,"Belgium","Health care assistants","Full-time equivalent (FTE)",7181,"e",FALSE
+2017,"Belgium","Hospital employment","Full-time equivalent (FTE)",149036.47,"e",FALSE
+2017,"Bulgaria","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Bulgaria","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Bulgaria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Bulgaria","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Bulgaria","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Czechia","Medical doctors","Full-time equivalent (FTE)",22371.82,"",FALSE
+2017,"Czechia","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",FALSE
+2017,"Czechia","Nursing associate professionals","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Czechia","Health care assistants","Full-time equivalent (FTE)",3293.64,"",FALSE
+2017,"Czechia","Hospital employment","Full-time equivalent (FTE)",144836.12,"",FALSE
+2017,"Denmark","Medical doctors","Full-time equivalent (FTE)",16614,"",FALSE
+2017,"Denmark","Nursing professionals and midwives","Full-time equivalent (FTE)",37172,"",FALSE
+2017,"Denmark","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2017,"Denmark","Health care assistants","Full-time equivalent (FTE)",9058,"",FALSE
+2017,"Denmark","Hospital employment","Full-time equivalent (FTE)",106529,"",FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Medical doctors","Full-time equivalent (FTE)",170000,"",FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Nursing professionals and midwives","Full-time equivalent (FTE)",350000,"",FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Nursing associate professionals","Full-time equivalent (FTE)",35000,"",FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Health care assistants","Full-time equivalent (FTE)",9058,"",TRUE
+2017,"Germany (until 1990 former territory of the FRG)","Hospital employment","Full-time equivalent (FTE)",1003000,"",FALSE
+2017,"Estonia","Medical doctors","Full-time equivalent (FTE)",2547.7,"",FALSE
+2017,"Estonia","Nursing professionals and midwives","Full-time equivalent (FTE)",4890.9,"",FALSE
+2017,"Estonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2017,"Estonia","Health care assistants","Full-time equivalent (FTE)",2727.5,"",FALSE
+2017,"Estonia","Hospital employment","Full-time equivalent (FTE)",12875.9,"",FALSE
+2017,"Ireland","Medical doctors","Full-time equivalent (FTE)",7909,"",FALSE
+2017,"Ireland","Nursing professionals and midwives","Full-time equivalent (FTE)",21536,"",FALSE
+2017,"Ireland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2017,"Ireland","Health care assistants","Full-time equivalent (FTE)",4569,"",FALSE
+2017,"Ireland","Hospital employment","Full-time equivalent (FTE)",56260,"",FALSE
+2017,"Greece","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Greece","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Greece","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Greece","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Greece","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Spain","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Spain","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Spain","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Spain","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Spain","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"France","Medical doctors","Full-time equivalent (FTE)",131059.27,"",FALSE
+2017,"France","Nursing professionals and midwives","Full-time equivalent (FTE)",354504.78,"",FALSE
+2017,"France","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2017,"France","Health care assistants","Full-time equivalent (FTE)",227468.49,"",FALSE
+2017,"France","Hospital employment","Full-time equivalent (FTE)",1169711.72,"",FALSE
+2017,"Croatia","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Croatia","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Croatia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Croatia","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Croatia","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Italy","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Italy","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Italy","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Italy","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Italy","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Cyprus","Medical doctors","Full-time equivalent (FTE)",801,"",FALSE
+2017,"Cyprus","Nursing professionals and midwives","Full-time equivalent (FTE)",4141,"",FALSE
+2017,"Cyprus","Nursing associate professionals","Full-time equivalent (FTE)",93,"",FALSE
+2017,"Cyprus","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Cyprus","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Latvia","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Latvia","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Latvia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Latvia","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Latvia","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Lithuania","Medical doctors","Full-time equivalent (FTE)",9726,"",FALSE
+2017,"Lithuania","Nursing professionals and midwives","Full-time equivalent (FTE)",15478,"",FALSE
+2017,"Lithuania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2017,"Lithuania","Health care assistants","Full-time equivalent (FTE)",6167,"",FALSE
+2017,"Lithuania","Hospital employment","Full-time equivalent (FTE)",45637,"",FALSE
+2017,"Luxembourg","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Luxembourg","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Luxembourg","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Luxembourg","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Luxembourg","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Hungary","Medical doctors","Full-time equivalent (FTE)",17406.65,"",FALSE
+2017,"Hungary","Nursing professionals and midwives","Full-time equivalent (FTE)",28684.52,"",FALSE
+2017,"Hungary","Nursing associate professionals","Full-time equivalent (FTE)",6212,"",FALSE
+2017,"Hungary","Health care assistants","Full-time equivalent (FTE)",13539.81,"",FALSE
+2017,"Hungary","Hospital employment","Full-time equivalent (FTE)",100372.68,"",FALSE
+2017,"Malta","Medical doctors","Full-time equivalent (FTE)",1155.1,"",FALSE
+2017,"Malta","Nursing professionals and midwives","Full-time equivalent (FTE)",2958.69,"",FALSE
+2017,"Malta","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2017,"Malta","Health care assistants","Full-time equivalent (FTE)",1277.35,"",FALSE
+2017,"Malta","Hospital employment","Full-time equivalent (FTE)",8914.7,"",FALSE
+2017,"Netherlands","Medical doctors","Full-time equivalent (FTE)",22043,"e",FALSE
+2017,"Netherlands","Nursing professionals and midwives","Full-time equivalent (FTE)",60080,"e",FALSE
+2017,"Netherlands","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Netherlands","Health care assistants","Full-time equivalent (FTE)",12360,"e",FALSE
+2017,"Netherlands","Hospital employment","Full-time equivalent (FTE)",202528,"",FALSE
+2017,"Austria","Medical doctors","Full-time equivalent (FTE)",22807.83,"",FALSE
+2017,"Austria","Nursing professionals and midwives","Full-time equivalent (FTE)",51203.43,"",FALSE
+2017,"Austria","Nursing associate professionals","Full-time equivalent (FTE)",42.85,"",FALSE
+2017,"Austria","Health care assistants","Full-time equivalent (FTE)",8640.66,"",FALSE
+2017,"Austria","Hospital employment","Full-time equivalent (FTE)",140592.65,"",FALSE
+2017,"Poland","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Poland","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Poland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Poland","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Poland","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Portugal","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Portugal","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Portugal","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Portugal","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Portugal","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Romania","Medical doctors","Full-time equivalent (FTE)",28465,"",FALSE
+2017,"Romania","Nursing professionals and midwives","Full-time equivalent (FTE)",10737,"",FALSE
+2017,"Romania","Nursing associate professionals","Full-time equivalent (FTE)",56899.5,"",FALSE
+2017,"Romania","Health care assistants","Full-time equivalent (FTE)",43530.5,"",FALSE
+2017,"Romania","Hospital employment","Full-time equivalent (FTE)",174423.5,"",FALSE
+2017,"Slovenia","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Slovenia","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Slovenia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Slovenia","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Slovenia","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Slovakia","Medical doctors","Full-time equivalent (FTE)",9086.69,"",FALSE
+2017,"Slovakia","Nursing professionals and midwives","Full-time equivalent (FTE)",21178.38,"",FALSE
+2017,"Slovakia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2017,"Slovakia","Health care assistants","Full-time equivalent (FTE)",6903.42,"",FALSE
+2017,"Slovakia","Hospital employment","Full-time equivalent (FTE)",41458.33,"",FALSE
+2017,"Finland","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Finland","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Finland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Finland","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Finland","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Iceland","Medical doctors","Full-time equivalent (FTE)",685.24,"",FALSE
+2017,"Iceland","Nursing professionals and midwives","Full-time equivalent (FTE)",1515.83,"",FALSE
+2017,"Iceland","Nursing associate professionals","Full-time equivalent (FTE)",565.37,"",FALSE
+2017,"Iceland","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Iceland","Hospital employment","Full-time equivalent (FTE)",5153.58,"",FALSE
+2017,"Liechtenstein","Medical doctors","Full-time equivalent (FTE)",18.6,"",FALSE
+2017,"Liechtenstein","Nursing professionals and midwives","Full-time equivalent (FTE)",48.96,"",FALSE
+2017,"Liechtenstein","Nursing associate professionals","Full-time equivalent (FTE)",22,"",FALSE
+2017,"Liechtenstein","Health care assistants","Full-time equivalent (FTE)",23.25,"",FALSE
+2017,"Liechtenstein","Hospital employment","Full-time equivalent (FTE)",203.92,"",FALSE
+2017,"Norway","Medical doctors","Full-time equivalent (FTE)",13667,"",FALSE
+2017,"Norway","Nursing professionals and midwives","Full-time equivalent (FTE)",42077,"",FALSE
+2017,"Norway","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2017,"Norway","Health care assistants","Full-time equivalent (FTE)",7677,"",FALSE
+2017,"Norway","Hospital employment","Full-time equivalent (FTE)",99187,"",FALSE
+2017,"Switzerland","Medical doctors","Full-time equivalent (FTE)",22011.05,"",FALSE
+2017,"Switzerland","Nursing professionals and midwives","Full-time equivalent (FTE)",48068.77,"",FALSE
+2017,"Switzerland","Nursing associate professionals","Full-time equivalent (FTE)",8969.75,"",FALSE
+2017,"Switzerland","Health care assistants","Full-time equivalent (FTE)",10933.74,"",FALSE
+2017,"Switzerland","Hospital employment","Full-time equivalent (FTE)",165463.1,"",FALSE
+2017,"United Kingdom","Medical doctors","Full-time equivalent (FTE)",126619.32,"e",FALSE
+2017,"United Kingdom","Nursing professionals and midwives","Full-time equivalent (FTE)",362951.19,"e",FALSE
+2017,"United Kingdom","Nursing associate professionals","Full-time equivalent (FTE)",67049.02,"e",FALSE
+2017,"United Kingdom","Health care assistants","Full-time equivalent (FTE)",79031.65,"e",FALSE
+2017,"United Kingdom","Hospital employment","Full-time equivalent (FTE)",1290047.12,"e",FALSE
+2017,"Montenegro","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Montenegro","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Montenegro","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Montenegro","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Montenegro","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"North Macedonia","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"North Macedonia","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"North Macedonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"North Macedonia","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"North Macedonia","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Albania","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Albania","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Albania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Albania","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Albania","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2017,"Serbia","Medical doctors","Full-time equivalent (FTE)",11345,"",FALSE
+2017,"Serbia","Nursing professionals and midwives","Full-time equivalent (FTE)",5697,"",FALSE
+2017,"Serbia","Nursing associate professionals","Full-time equivalent (FTE)",23671,"",FALSE
+2017,"Serbia","Health care assistants","Full-time equivalent (FTE)",0,"",FALSE
+2017,"Serbia","Hospital employment","Full-time equivalent (FTE)",62978,"",FALSE
+2017,"Turkey","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2017,"Turkey","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2017,"Turkey","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2017,"Turkey","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2017,"Turkey","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2018,"Belgium","Medical doctors","Full-time equivalent (FTE)",7087.5,"e",FALSE
+2018,"Belgium","Nursing professionals and midwives","Full-time equivalent (FTE)",61820.93,"e",FALSE
+2018,"Belgium","Nursing associate professionals","Full-time equivalent (FTE)",490,"e",FALSE
+2018,"Belgium","Health care assistants","Full-time equivalent (FTE)",6920,"e",FALSE
+2018,"Belgium","Hospital employment","Full-time equivalent (FTE)",144741.52,"e",FALSE
+2018,"Bulgaria","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Bulgaria","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Bulgaria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Bulgaria","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Bulgaria","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Czechia","Medical doctors","Full-time equivalent (FTE)",22716.84,"",FALSE
+2018,"Czechia","Nursing professionals and midwives","Full-time equivalent (FTE)",52904.51,"",FALSE
+2018,"Czechia","Nursing associate professionals","Full-time equivalent (FTE)",22716.84,"",TRUE
+2018,"Czechia","Health care assistants","Full-time equivalent (FTE)",3430.58,"",FALSE
+2018,"Czechia","Hospital employment","Full-time equivalent (FTE)",146598.44,"",FALSE
+2018,"Denmark","Medical doctors","Full-time equivalent (FTE)",17094,"",FALSE
+2018,"Denmark","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",FALSE
+2018,"Denmark","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2018,"Denmark","Health care assistants","Full-time equivalent (FTE)",8055,"",FALSE
+2018,"Denmark","Hospital employment","Full-time equivalent (FTE)",106676,"",FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Medical doctors","Full-time equivalent (FTE)",166000,"",TRUE
+2018,"Germany (until 1990 former territory of the FRG)","Nursing professionals and midwives","Full-time equivalent (FTE)",341000,"",TRUE
+2018,"Germany (until 1990 former territory of the FRG)","Nursing associate professionals","Full-time equivalent (FTE)",34000,"",TRUE
+2018,"Germany (until 1990 former territory of the FRG)","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Germany (until 1990 former territory of the FRG)","Hospital employment","Full-time equivalent (FTE)",988000,"",TRUE
+2018,"Estonia","Medical doctors","Full-time equivalent (FTE)",2556.5,"",FALSE
+2018,"Estonia","Nursing professionals and midwives","Full-time equivalent (FTE)",4901.3,"",FALSE
+2018,"Estonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2018,"Estonia","Health care assistants","Full-time equivalent (FTE)",2813.2,"",FALSE
+2018,"Estonia","Hospital employment","Full-time equivalent (FTE)",12854.4,"",FALSE
+2018,"Ireland","Medical doctors","Full-time equivalent (FTE)",8206,"",FALSE
+2018,"Ireland","Nursing professionals and midwives","Full-time equivalent (FTE)",22376,"",FALSE
+2018,"Ireland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2018,"Ireland","Health care assistants","Full-time equivalent (FTE)",4871,"",FALSE
+2018,"Ireland","Hospital employment","Full-time equivalent (FTE)",58474,"",FALSE
+2018,"Greece","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Greece","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Greece","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Greece","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Greece","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Spain","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Spain","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Spain","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Spain","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Spain","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"France","Medical doctors","Full-time equivalent (FTE)",133123.05,"",FALSE
+2018,"France","Nursing professionals and midwives","Full-time equivalent (FTE)",356733.74,"",FALSE
+2018,"France","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2018,"France","Health care assistants","Full-time equivalent (FTE)",227829.65,"",FALSE
+2018,"France","Hospital employment","Full-time equivalent (FTE)",1176945.99,"",FALSE
+2018,"Croatia","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Croatia","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Croatia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Croatia","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Croatia","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Italy","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Italy","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Italy","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Italy","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Italy","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Cyprus","Medical doctors","Full-time equivalent (FTE)",842,"",FALSE
+2018,"Cyprus","Nursing professionals and midwives","Full-time equivalent (FTE)",4217,"",FALSE
+2018,"Cyprus","Nursing associate professionals","Full-time equivalent (FTE)",81,"",FALSE
+2018,"Cyprus","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Cyprus","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Latvia","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Latvia","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Latvia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Latvia","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Latvia","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Lithuania","Medical doctors","Full-time equivalent (FTE)",9761,"",FALSE
+2018,"Lithuania","Nursing professionals and midwives","Full-time equivalent (FTE)",15465,"",FALSE
+2018,"Lithuania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2018,"Lithuania","Health care assistants","Full-time equivalent (FTE)",6359,"",FALSE
+2018,"Lithuania","Hospital employment","Full-time equivalent (FTE)",45742,"",FALSE
+2018,"Luxembourg","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Luxembourg","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Luxembourg","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Luxembourg","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Luxembourg","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Hungary","Medical doctors","Full-time equivalent (FTE)",17342.23,"",FALSE
+2018,"Hungary","Nursing professionals and midwives","Full-time equivalent (FTE)",28764.81,"",FALSE
+2018,"Hungary","Nursing associate professionals","Full-time equivalent (FTE)",5725.36,"",FALSE
+2018,"Hungary","Health care assistants","Full-time equivalent (FTE)",13882.05,"",FALSE
+2018,"Hungary","Hospital employment","Full-time equivalent (FTE)",100795.43,"",FALSE
+2018,"Malta","Medical doctors","Full-time equivalent (FTE)",1177.94,"",FALSE
+2018,"Malta","Nursing professionals and midwives","Full-time equivalent (FTE)",2908.37,"",FALSE
+2018,"Malta","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2018,"Malta","Health care assistants","Full-time equivalent (FTE)",1566.84,"",FALSE
+2018,"Malta","Hospital employment","Full-time equivalent (FTE)",9455.2,"",FALSE
+2018,"Netherlands","Medical doctors","Full-time equivalent (FTE)",21682,"e",FALSE
+2018,"Netherlands","Nursing professionals and midwives","Full-time equivalent (FTE)",60773,"e",FALSE
+2018,"Netherlands","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Netherlands","Health care assistants","Full-time equivalent (FTE)",11778,"e",FALSE
+2018,"Netherlands","Hospital employment","Full-time equivalent (FTE)",216350,"",FALSE
+2018,"Austria","Medical doctors","Full-time equivalent (FTE)",23110.78,"",FALSE
+2018,"Austria","Nursing professionals and midwives","Full-time equivalent (FTE)",51629.17,"",FALSE
+2018,"Austria","Nursing associate professionals","Full-time equivalent (FTE)",36.47,"",FALSE
+2018,"Austria","Health care assistants","Full-time equivalent (FTE)",8840.38,"",FALSE
+2018,"Austria","Hospital employment","Full-time equivalent (FTE)",141704.22,"",FALSE
+2018,"Poland","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Poland","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Poland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Poland","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Poland","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Portugal","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Portugal","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Portugal","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Portugal","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Portugal","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Romania","Medical doctors","Full-time equivalent (FTE)",29342,"",FALSE
+2018,"Romania","Nursing professionals and midwives","Full-time equivalent (FTE)",11268,"",FALSE
+2018,"Romania","Nursing associate professionals","Full-time equivalent (FTE)",57243.5,"",FALSE
+2018,"Romania","Health care assistants","Full-time equivalent (FTE)",43893,"",FALSE
+2018,"Romania","Hospital employment","Full-time equivalent (FTE)",176297,"",FALSE
+2018,"Slovenia","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Slovenia","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Slovenia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Slovenia","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Slovenia","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Slovakia","Medical doctors","Full-time equivalent (FTE)",9309.16,"",FALSE
+2018,"Slovakia","Nursing professionals and midwives","Full-time equivalent (FTE)",21352.19,"",FALSE
+2018,"Slovakia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2018,"Slovakia","Health care assistants","Full-time equivalent (FTE)",7273.15,"",FALSE
+2018,"Slovakia","Hospital employment","Full-time equivalent (FTE)",42287.43,"",FALSE
+2018,"Finland","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Finland","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Finland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Finland","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Finland","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Iceland","Medical doctors","Full-time equivalent (FTE)",695.59,"",FALSE
+2018,"Iceland","Nursing professionals and midwives","Full-time equivalent (FTE)",1588.23,"",FALSE
+2018,"Iceland","Nursing associate professionals","Full-time equivalent (FTE)",544.79,"",FALSE
+2018,"Iceland","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Iceland","Hospital employment","Full-time equivalent (FTE)",5343.04,"",FALSE
+2018,"Liechtenstein","Medical doctors","Full-time equivalent (FTE)",19.1,"",FALSE
+2018,"Liechtenstein","Nursing professionals and midwives","Full-time equivalent (FTE)",46.9,"",FALSE
+2018,"Liechtenstein","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2018,"Liechtenstein","Health care assistants","Full-time equivalent (FTE)",19.2,"",FALSE
+2018,"Liechtenstein","Hospital employment","Full-time equivalent (FTE)",151.05,"",FALSE
+2018,"Norway","Medical doctors","Full-time equivalent (FTE)",14049,"",FALSE
+2018,"Norway","Nursing professionals and midwives","Full-time equivalent (FTE)",42599,"",FALSE
+2018,"Norway","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2018,"Norway","Health care assistants","Full-time equivalent (FTE)",7752,"",FALSE
+2018,"Norway","Hospital employment","Full-time equivalent (FTE)",100705,"",FALSE
+2018,"Switzerland","Medical doctors","Full-time equivalent (FTE)",22731.09,"",FALSE
+2018,"Switzerland","Nursing professionals and midwives","Full-time equivalent (FTE)",48833.7,"",FALSE
+2018,"Switzerland","Nursing associate professionals","Full-time equivalent (FTE)",9523.36,"",FALSE
+2018,"Switzerland","Health care assistants","Full-time equivalent (FTE)",10191.45,"",FALSE
+2018,"Switzerland","Hospital employment","Full-time equivalent (FTE)",168372.17,"",FALSE
+2018,"United Kingdom","Medical doctors","Full-time equivalent (FTE)",129312.18,"e",FALSE
+2018,"United Kingdom","Nursing professionals and midwives","Full-time equivalent (FTE)",365458.22,"e",FALSE
+2018,"United Kingdom","Nursing associate professionals","Full-time equivalent (FTE)",69897.31,"e",FALSE
+2018,"United Kingdom","Health care assistants","Full-time equivalent (FTE)",79365.7,"e",FALSE
+2018,"United Kingdom","Hospital employment","Full-time equivalent (FTE)",1317664,"e",FALSE
+2018,"Montenegro","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Montenegro","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Montenegro","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Montenegro","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Montenegro","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"North Macedonia","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"North Macedonia","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"North Macedonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"North Macedonia","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"North Macedonia","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Albania","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Albania","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Albania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Albania","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Albania","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2018,"Serbia","Medical doctors","Full-time equivalent (FTE)",11483,"",FALSE
+2018,"Serbia","Nursing professionals and midwives","Full-time equivalent (FTE)",5884,"",FALSE
+2018,"Serbia","Nursing associate professionals","Full-time equivalent (FTE)",23905,"",FALSE
+2018,"Serbia","Health care assistants","Full-time equivalent (FTE)",0,"",FALSE
+2018,"Serbia","Hospital employment","Full-time equivalent (FTE)",62822,"",FALSE
+2018,"Turkey","Medical doctors","Full-time equivalent (FTE)",17094,"",TRUE
+2018,"Turkey","Nursing professionals and midwives","Full-time equivalent (FTE)",37092,"",TRUE
+2018,"Turkey","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2018,"Turkey","Health care assistants","Full-time equivalent (FTE)",3430.58,"",TRUE
+2018,"Turkey","Hospital employment","Full-time equivalent (FTE)",106676,"",TRUE
+2019,"Belgium","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Belgium","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Belgium","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Belgium","Health care assistants","Full-time equivalent (FTE)",6920,"",TRUE
+2019,"Belgium","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Bulgaria","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Bulgaria","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Bulgaria","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Bulgaria","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Bulgaria","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Czechia","Medical doctors","Full-time equivalent (FTE)",22371.82,"",TRUE
+2019,"Czechia","Nursing professionals and midwives","Full-time equivalent (FTE)",52864.88,"",TRUE
+2019,"Czechia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Czechia","Health care assistants","Full-time equivalent (FTE)",3293.64,"",TRUE
+2019,"Czechia","Hospital employment","Full-time equivalent (FTE)",144836.12,"",TRUE
+2019,"Denmark","Medical doctors","Full-time equivalent (FTE)",16614,"",TRUE
+2019,"Denmark","Nursing professionals and midwives","Full-time equivalent (FTE)",37127,"",TRUE
+2019,"Denmark","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Denmark","Health care assistants","Full-time equivalent (FTE)",9058,"",TRUE
+2019,"Denmark","Hospital employment","Full-time equivalent (FTE)",106529,"",TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Medical doctors","Full-time equivalent (FTE)",166000,"",TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Nursing professionals and midwives","Full-time equivalent (FTE)",341000,"",TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Nursing associate professionals","Full-time equivalent (FTE)",34000,"",TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Hospital employment","Full-time equivalent (FTE)",988000,"",TRUE
+2019,"Estonia","Medical doctors","Full-time equivalent (FTE)",2556.5,"",TRUE
+2019,"Estonia","Nursing professionals and midwives","Full-time equivalent (FTE)",4890.9,"",TRUE
+2019,"Estonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Estonia","Health care assistants","Full-time equivalent (FTE)",2741.2,"",TRUE
+2019,"Estonia","Hospital employment","Full-time equivalent (FTE)",12854.4,"",TRUE
+2019,"Ireland","Medical doctors","Full-time equivalent (FTE)",8547,"",FALSE
+2019,"Ireland","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",FALSE
+2019,"Ireland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2019,"Ireland","Health care assistants","Full-time equivalent (FTE)",5087,"",FALSE
+2019,"Ireland","Hospital employment","Full-time equivalent (FTE)",62080,"",FALSE
+2019,"Greece","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Greece","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Greece","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Greece","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Greece","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Spain","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Spain","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Spain","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Spain","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Spain","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"France","Medical doctors","Full-time equivalent (FTE)",131059.27,"",TRUE
+2019,"France","Nursing professionals and midwives","Full-time equivalent (FTE)",354504.78,"",TRUE
+2019,"France","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"France","Health care assistants","Full-time equivalent (FTE)",227468.49,"",TRUE
+2019,"France","Hospital employment","Full-time equivalent (FTE)",1169711.72,"",TRUE
+2019,"Croatia","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Croatia","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Croatia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Croatia","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Croatia","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Italy","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Italy","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Italy","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Italy","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Italy","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Cyprus","Medical doctors","Full-time equivalent (FTE)",801,"",TRUE
+2019,"Cyprus","Nursing professionals and midwives","Full-time equivalent (FTE)",4141,"",TRUE
+2019,"Cyprus","Nursing associate professionals","Full-time equivalent (FTE)",93,"",TRUE
+2019,"Cyprus","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Cyprus","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Latvia","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Latvia","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Latvia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Latvia","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Latvia","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Lithuania","Medical doctors","Full-time equivalent (FTE)",9753,"",TRUE
+2019,"Lithuania","Nursing professionals and midwives","Full-time equivalent (FTE)",15478,"",TRUE
+2019,"Lithuania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Lithuania","Health care assistants","Full-time equivalent (FTE)",6167,"",TRUE
+2019,"Lithuania","Hospital employment","Full-time equivalent (FTE)",45742,"",TRUE
+2019,"Luxembourg","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Luxembourg","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Luxembourg","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Luxembourg","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Luxembourg","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Hungary","Medical doctors","Full-time equivalent (FTE)",17342.23,"",TRUE
+2019,"Hungary","Nursing professionals and midwives","Full-time equivalent (FTE)",28684.52,"",TRUE
+2019,"Hungary","Nursing associate professionals","Full-time equivalent (FTE)",6212,"",TRUE
+2019,"Hungary","Health care assistants","Full-time equivalent (FTE)",13882.05,"",TRUE
+2019,"Hungary","Hospital employment","Full-time equivalent (FTE)",100372.68,"",TRUE
+2019,"Malta","Medical doctors","Full-time equivalent (FTE)",1155.1,"",TRUE
+2019,"Malta","Nursing professionals and midwives","Full-time equivalent (FTE)",2908.37,"",TRUE
+2019,"Malta","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Malta","Health care assistants","Full-time equivalent (FTE)",1515.62,"",TRUE
+2019,"Malta","Hospital employment","Full-time equivalent (FTE)",8914.7,"",TRUE
+2019,"Netherlands","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Netherlands","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Netherlands","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Netherlands","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Netherlands","Hospital employment","Full-time equivalent (FTE)",202528,"",TRUE
+2019,"Austria","Medical doctors","Full-time equivalent (FTE)",22807.83,"",TRUE
+2019,"Austria","Nursing professionals and midwives","Full-time equivalent (FTE)",51203.43,"",TRUE
+2019,"Austria","Nursing associate professionals","Full-time equivalent (FTE)",36.47,"",TRUE
+2019,"Austria","Health care assistants","Full-time equivalent (FTE)",8840.38,"",TRUE
+2019,"Austria","Hospital employment","Full-time equivalent (FTE)",140592.65,"",TRUE
+2019,"Poland","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Poland","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Poland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Poland","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Poland","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Portugal","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Portugal","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Portugal","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Portugal","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Portugal","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Romania","Medical doctors","Full-time equivalent (FTE)",28465,"",TRUE
+2019,"Romania","Nursing professionals and midwives","Full-time equivalent (FTE)",10737,"",TRUE
+2019,"Romania","Nursing associate professionals","Full-time equivalent (FTE)",56899.5,"",TRUE
+2019,"Romania","Health care assistants","Full-time equivalent (FTE)",43530.5,"",TRUE
+2019,"Romania","Hospital employment","Full-time equivalent (FTE)",174423.5,"",TRUE
+2019,"Slovenia","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Slovenia","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Slovenia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Slovenia","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Slovenia","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Slovakia","Medical doctors","Full-time equivalent (FTE)",9086.69,"",TRUE
+2019,"Slovakia","Nursing professionals and midwives","Full-time equivalent (FTE)",21352.19,"",TRUE
+2019,"Slovakia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Slovakia","Health care assistants","Full-time equivalent (FTE)",6903.42,"",TRUE
+2019,"Slovakia","Hospital employment","Full-time equivalent (FTE)",41458.33,"",TRUE
+2019,"Finland","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Finland","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Finland","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Finland","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Finland","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Iceland","Medical doctors","Full-time equivalent (FTE)",741.36,"",FALSE
+2019,"Iceland","Nursing professionals and midwives","Full-time equivalent (FTE)",1640.4,"",FALSE
+2019,"Iceland","Nursing associate professionals","Full-time equivalent (FTE)",546.32,"",FALSE
+2019,"Iceland","Health care assistants","Full-time equivalent (FTE)",1640.4,"",TRUE
+2019,"Iceland","Hospital employment","Full-time equivalent (FTE)",5490.63,"",FALSE
+2019,"Liechtenstein","Medical doctors","Full-time equivalent (FTE)",25.7,"b",FALSE
+2019,"Liechtenstein","Nursing professionals and midwives","Full-time equivalent (FTE)",60,"b",FALSE
+2019,"Liechtenstein","Nursing associate professionals","Full-time equivalent (FTE)",0,"b",FALSE
+2019,"Liechtenstein","Health care assistants","Full-time equivalent (FTE)",15.6,"b",FALSE
+2019,"Liechtenstein","Hospital employment","Full-time equivalent (FTE)",197.8,"b",FALSE
+2019,"Norway","Medical doctors","Full-time equivalent (FTE)",14437,"",FALSE
+2019,"Norway","Nursing professionals and midwives","Full-time equivalent (FTE)",43337,"",FALSE
+2019,"Norway","Nursing associate professionals","Full-time equivalent (FTE)",0,"",FALSE
+2019,"Norway","Health care assistants","Full-time equivalent (FTE)",7830,"",FALSE
+2019,"Norway","Hospital employment","Full-time equivalent (FTE)",102178,"",FALSE
+2019,"Switzerland","Medical doctors","Full-time equivalent (FTE)",22011.05,"",TRUE
+2019,"Switzerland","Nursing professionals and midwives","Full-time equivalent (FTE)",48068.77,"",TRUE
+2019,"Switzerland","Nursing associate professionals","Full-time equivalent (FTE)",8969.75,"",TRUE
+2019,"Switzerland","Health care assistants","Full-time equivalent (FTE)",10756.23,"",TRUE
+2019,"Switzerland","Hospital employment","Full-time equivalent (FTE)",165463.1,"",TRUE
+2019,"United Kingdom","Medical doctors","Full-time equivalent (FTE)",135729.02,"e",FALSE
+2019,"United Kingdom","Nursing professionals and midwives","Full-time equivalent (FTE)",374550.58,"e",FALSE
+2019,"United Kingdom","Nursing associate professionals","Full-time equivalent (FTE)",73213.39,"e",FALSE
+2019,"United Kingdom","Health care assistants","Full-time equivalent (FTE)",83760.13,"e",FALSE
+2019,"United Kingdom","Hospital employment","Full-time equivalent (FTE)",1363598.98,"e",FALSE
+2019,"Montenegro","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Montenegro","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Montenegro","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Montenegro","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Montenegro","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"North Macedonia","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"North Macedonia","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"North Macedonia","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"North Macedonia","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"North Macedonia","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Albania","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Albania","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Albania","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Albania","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Albania","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE
+2019,"Serbia","Medical doctors","Full-time equivalent (FTE)",11345,"",TRUE
+2019,"Serbia","Nursing professionals and midwives","Full-time equivalent (FTE)",5697,"",TRUE
+2019,"Serbia","Nursing associate professionals","Full-time equivalent (FTE)",23671,"",TRUE
+2019,"Serbia","Health care assistants","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Serbia","Hospital employment","Full-time equivalent (FTE)",62822,"",TRUE
+2019,"Turkey","Medical doctors","Full-time equivalent (FTE)",8547,"",TRUE
+2019,"Turkey","Nursing professionals and midwives","Full-time equivalent (FTE)",22972,"",TRUE
+2019,"Turkey","Nursing associate professionals","Full-time equivalent (FTE)",0,"",TRUE
+2019,"Turkey","Health care assistants","Full-time equivalent (FTE)",5087,"",TRUE
+2019,"Turkey","Hospital employment","Full-time equivalent (FTE)",62080,"",TRUE

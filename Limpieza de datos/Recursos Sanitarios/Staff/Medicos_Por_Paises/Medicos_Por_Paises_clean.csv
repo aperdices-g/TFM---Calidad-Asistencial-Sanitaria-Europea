@@ -1,0 +1,1901 @@
+"TIME","GEO","UNIT","AGE","Value","Value_imp"
+2010,"European Union - 27 countries (from 2020)","Number","Total",1612767,TRUE
+2010,"European Union - 27 countries (from 2020)","Number","Less than 35 years",4012,TRUE
+2010,"European Union - 27 countries (from 2020)","Number","From 35 to 44 years",7867,TRUE
+2010,"European Union - 27 countries (from 2020)","Number","From 45 to 54 years",9108,TRUE
+2010,"European Union - 27 countries (from 2020)","Number","From 55 to 64 years",8691,TRUE
+2010,"European Union - 28 countries (2013-2020)","Number","Total",1791929,TRUE
+2010,"European Union - 28 countries (2013-2020)","Number","Less than 35 years",4012,TRUE
+2010,"European Union - 28 countries (2013-2020)","Number","From 35 to 44 years",7867,TRUE
+2010,"European Union - 28 countries (2013-2020)","Number","From 45 to 54 years",9108,TRUE
+2010,"European Union - 28 countries (2013-2020)","Number","From 55 to 64 years",8691,TRUE
+2010,"Belgium","Number","Total",31815,FALSE
+2010,"Belgium","Number","Less than 35 years",2416,FALSE
+2010,"Belgium","Number","From 35 to 44 years",7867,FALSE
+2010,"Belgium","Number","From 45 to 54 years",9108,FALSE
+2010,"Belgium","Number","From 55 to 64 years",8691,FALSE
+2010,"Bulgaria","Number","Total",29038,TRUE
+2010,"Bulgaria","Number","Less than 35 years",2943,TRUE
+2010,"Bulgaria","Number","From 35 to 44 years",3709,TRUE
+2010,"Bulgaria","Number","From 45 to 54 years",9456,TRUE
+2010,"Bulgaria","Number","From 55 to 64 years",9061,TRUE
+2010,"Czechia","Number","Total",37661,FALSE
+2010,"Czechia","Number","Less than 35 years",7192,FALSE
+2010,"Czechia","Number","From 35 to 44 years",8703,FALSE
+2010,"Czechia","Number","From 45 to 54 years",9132,FALSE
+2010,"Czechia","Number","From 55 to 64 years",9161,FALSE
+2010,"Denmark","Number","Total",20670,FALSE
+2010,"Denmark","Number","Less than 35 years",4012,FALSE
+2010,"Denmark","Number","From 35 to 44 years",5022,FALSE
+2010,"Denmark","Number","From 45 to 54 years",4937,FALSE
+2010,"Denmark","Number","From 55 to 64 years",5110,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","Total",303645,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","Less than 35 years",55085,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","From 35 to 44 years",35260,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","From 45 to 54 years",93445,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","From 55 to 64 years",108915,FALSE
+2010,"Estonia","Number","Total",4319,FALSE
+2010,"Estonia","Number","Less than 35 years",782,TRUE
+2010,"Estonia","Number","From 35 to 44 years",632,TRUE
+2010,"Estonia","Number","From 45 to 54 years",1070,TRUE
+2010,"Estonia","Number","From 55 to 64 years",1180,TRUE
+2010,"Ireland","Number","Total",18821,FALSE
+2010,"Ireland","Number","Less than 35 years",5502,TRUE
+2010,"Ireland","Number","From 35 to 44 years",5102,TRUE
+2010,"Ireland","Number","From 45 to 54 years",3989,TRUE
+2010,"Ireland","Number","From 55 to 64 years",2228,TRUE
+2010,"Greece","Number","Total",64032,FALSE
+2010,"Greece","Number","Less than 35 years",15361,FALSE
+2010,"Greece","Number","From 35 to 44 years",18938,FALSE
+2010,"Greece","Number","From 45 to 54 years",14255,FALSE
+2010,"Greece","Number","From 55 to 64 years",11752,FALSE
+2010,"Spain","Number","Total",175033,FALSE
+2010,"Spain","Number","Less than 35 years",44000,FALSE
+2010,"Spain","Number","From 35 to 44 years",40333,FALSE
+2010,"Spain","Number","From 45 to 54 years",52033,FALSE
+2010,"Spain","Number","From 55 to 64 years",33233,FALSE
+2010,"France","Number","Total",212132,FALSE
+2010,"France","Number","Less than 35 years",15626,FALSE
+2010,"France","Number","From 35 to 44 years",39822,FALSE
+2010,"France","Number","From 45 to 54 years",69169,FALSE
+2010,"France","Number","From 55 to 64 years",75838,FALSE
+2010,"Croatia","Number","Total",12304,FALSE
+2010,"Croatia","Number","Less than 35 years",2516,FALSE
+2010,"Croatia","Number","From 35 to 44 years",2861,FALSE
+2010,"Croatia","Number","From 45 to 54 years",3793,FALSE
+2010,"Croatia","Number","From 55 to 64 years",2836,FALSE
+2010,"Italy","Number","Total",371450,FALSE
+2010,"Italy","Number","Less than 35 years",45708,FALSE
+2010,"Italy","Number","From 35 to 44 years",54760,FALSE
+2010,"Italy","Number","From 45 to 54 years",114308,FALSE
+2010,"Italy","Number","From 55 to 64 years",113069,FALSE
+2010,"Cyprus","Number","Total",3046,TRUE
+2010,"Cyprus","Number","Less than 35 years",311,TRUE
+2010,"Cyprus","Number","From 35 to 44 years",704,TRUE
+2010,"Cyprus","Number","From 45 to 54 years",690,TRUE
+2010,"Cyprus","Number","From 55 to 64 years",879,TRUE
+2010,"Latvia","Number","Total",6517,FALSE
+2010,"Latvia","Number","Less than 35 years",638,FALSE
+2010,"Latvia","Number","From 35 to 44 years",1273,FALSE
+2010,"Latvia","Number","From 45 to 54 years",2111,FALSE
+2010,"Latvia","Number","From 55 to 64 years",1473,FALSE
+2010,"Lithuania","Number","Total",13203,FALSE
+2010,"Lithuania","Number","Less than 35 years",2320,FALSE
+2010,"Lithuania","Number","From 35 to 44 years",2448,FALSE
+2010,"Lithuania","Number","From 45 to 54 years",3575,FALSE
+2010,"Lithuania","Number","From 55 to 64 years",3219,FALSE
+2010,"Luxembourg","Number","Total",1413,FALSE
+2010,"Luxembourg","Number","Less than 35 years",69,FALSE
+2010,"Luxembourg","Number","From 35 to 44 years",335,FALSE
+2010,"Luxembourg","Number","From 45 to 54 years",562,FALSE
+2010,"Luxembourg","Number","From 55 to 64 years",356,FALSE
+2010,"Hungary","Number","Total",28686,FALSE
+2010,"Hungary","Number","Less than 35 years",4690,FALSE
+2010,"Hungary","Number","From 35 to 44 years",5741,FALSE
+2010,"Hungary","Number","From 45 to 54 years",7361,FALSE
+2010,"Hungary","Number","From 55 to 64 years",7047,FALSE
+2010,"Malta","Number","Total",1279,FALSE
+2010,"Malta","Number","Less than 35 years",499,FALSE
+2010,"Malta","Number","From 35 to 44 years",227,FALSE
+2010,"Malta","Number","From 45 to 54 years",354,FALSE
+2010,"Malta","Number","From 55 to 64 years",114,FALSE
+2010,"Netherlands","Number","Total",49242,FALSE
+2010,"Netherlands","Number","Less than 35 years",12511,FALSE
+2010,"Netherlands","Number","From 35 to 44 years",12036,FALSE
+2010,"Netherlands","Number","From 45 to 54 years",13048,FALSE
+2010,"Netherlands","Number","From 55 to 64 years",10549,FALSE
+2010,"Austria","Number","Total",40105,FALSE
+2010,"Austria","Number","Less than 35 years",7333,FALSE
+2010,"Austria","Number","From 35 to 44 years",9755,FALSE
+2010,"Austria","Number","From 45 to 54 years",13797,FALSE
+2010,"Austria","Number","From 55 to 64 years",7262,FALSE
+2010,"Poland","Number","Total",83201,FALSE
+2010,"Poland","Number","Less than 35 years",4012,TRUE
+2010,"Poland","Number","From 35 to 44 years",7867,TRUE
+2010,"Poland","Number","From 45 to 54 years",9108,TRUE
+2010,"Poland","Number","From 55 to 64 years",8691,TRUE
+2010,"Portugal","Number","Total",40672,FALSE
+2010,"Portugal","Number","Less than 35 years",4012,TRUE
+2010,"Portugal","Number","From 35 to 44 years",7867,TRUE
+2010,"Portugal","Number","From 45 to 54 years",9108,TRUE
+2010,"Portugal","Number","From 55 to 64 years",8691,TRUE
+2010,"Romania","Number","Total",50778,FALSE
+2010,"Romania","Number","Less than 35 years",15416,FALSE
+2010,"Romania","Number","From 35 to 44 years",12739,FALSE
+2010,"Romania","Number","From 45 to 54 years",11831,FALSE
+2010,"Romania","Number","From 55 to 64 years",9394,FALSE
+2010,"Slovenia","Number","Total",4979,FALSE
+2010,"Slovenia","Number","Less than 35 years",959,FALSE
+2010,"Slovenia","Number","From 35 to 44 years",1279,FALSE
+2010,"Slovenia","Number","From 45 to 54 years",1429,FALSE
+2010,"Slovenia","Number","From 55 to 64 years",1089,FALSE
+2010,"Slovakia","Number","Total",18110,FALSE
+2010,"Slovakia","Number","Less than 35 years",3576,FALSE
+2010,"Slovakia","Number","From 35 to 44 years",4501,FALSE
+2010,"Slovakia","Number","From 45 to 54 years",3970,FALSE
+2010,"Slovakia","Number","From 55 to 64 years",4798,FALSE
+2010,"Finland","Number","Total",17520,FALSE
+2010,"Finland","Number","Less than 35 years",3304,FALSE
+2010,"Finland","Number","From 35 to 44 years",4510,FALSE
+2010,"Finland","Number","From 45 to 54 years",5547,FALSE
+2010,"Finland","Number","From 55 to 64 years",4159,FALSE
+2010,"Sweden","Number","Total",35708,FALSE
+2010,"Sweden","Number","Less than 35 years",6320,FALSE
+2010,"Sweden","Number","From 35 to 44 years",8814,FALSE
+2010,"Sweden","Number","From 45 to 54 years",8320,FALSE
+2010,"Sweden","Number","From 55 to 64 years",9354,FALSE
+2010,"Iceland","Number","Total",1142,FALSE
+2010,"Iceland","Number","Less than 35 years",166,FALSE
+2010,"Iceland","Number","From 35 to 44 years",195,FALSE
+2010,"Iceland","Number","From 45 to 54 years",362,FALSE
+2010,"Iceland","Number","From 55 to 64 years",330,FALSE
+2010,"Liechtenstein","Number","Total",104,FALSE
+2010,"Liechtenstein","Number","Less than 35 years",2,FALSE
+2010,"Liechtenstein","Number","From 35 to 44 years",27,FALSE
+2010,"Liechtenstein","Number","From 45 to 54 years",39,FALSE
+2010,"Liechtenstein","Number","From 55 to 64 years",31,FALSE
+2010,"Norway","Number","Total",20114,FALSE
+2010,"Norway","Number","Less than 35 years",5073,FALSE
+2010,"Norway","Number","From 35 to 44 years",5274,FALSE
+2010,"Norway","Number","From 45 to 54 years",4388,FALSE
+2010,"Norway","Number","From 55 to 64 years",3936,FALSE
+2010,"Switzerland","Number","Total",29803,FALSE
+2010,"Switzerland","Number","Less than 35 years",3439,FALSE
+2010,"Switzerland","Number","From 35 to 44 years",8068,FALSE
+2010,"Switzerland","Number","From 45 to 54 years",9183,FALSE
+2010,"Switzerland","Number","From 55 to 64 years",7206,FALSE
+2010,"United Kingdom","Number","Total",165060,FALSE
+2010,"United Kingdom","Number","Less than 35 years",56194,FALSE
+2010,"United Kingdom","Number","From 35 to 44 years",48800,FALSE
+2010,"United Kingdom","Number","From 45 to 54 years",38261,FALSE
+2010,"United Kingdom","Number","From 55 to 64 years",18945,FALSE
+2010,"Montenegro","Number","Total",1276,FALSE
+2010,"Montenegro","Number","Less than 35 years",236,FALSE
+2010,"Montenegro","Number","From 35 to 44 years",359,FALSE
+2010,"Montenegro","Number","From 45 to 54 years",454,FALSE
+2010,"Montenegro","Number","From 55 to 64 years",227,FALSE
+2010,"North Macedonia","Number","Total",5541,FALSE
+2010,"North Macedonia","Number","Less than 35 years",810,FALSE
+2010,"North Macedonia","Number","From 35 to 44 years",1178,FALSE
+2010,"North Macedonia","Number","From 45 to 54 years",2037,FALSE
+2010,"North Macedonia","Number","From 55 to 64 years",1516,FALSE
+2010,"Serbia","Number","Total",22316,FALSE
+2010,"Serbia","Number","Less than 35 years",3611,FALSE
+2010,"Serbia","Number","From 35 to 44 years",6417,FALSE
+2010,"Serbia","Number","From 45 to 54 years",7541,FALSE
+2010,"Serbia","Number","From 55 to 64 years",4682,FALSE
+2010,"Turkey","Number","Total",123447,FALSE
+2010,"Turkey","Number","Less than 35 years",43729,FALSE
+2010,"Turkey","Number","From 35 to 44 years",40457,FALSE
+2010,"Turkey","Number","From 45 to 54 years",21724,FALSE
+2010,"Turkey","Number","From 55 to 64 years",9834,FALSE
+2011,"European Union - 27 countries (from 2020)","Number","Total",1612767,TRUE
+2011,"European Union - 27 countries (from 2020)","Number","Less than 35 years",4132,TRUE
+2011,"European Union - 27 countries (from 2020)","Number","From 35 to 44 years",7871,TRUE
+2011,"European Union - 27 countries (from 2020)","Number","From 45 to 54 years",8850,TRUE
+2011,"European Union - 27 countries (from 2020)","Number","From 55 to 64 years",8974,TRUE
+2011,"European Union - 28 countries (2013-2020)","Number","Total",1791929,TRUE
+2011,"European Union - 28 countries (2013-2020)","Number","Less than 35 years",4132,TRUE
+2011,"European Union - 28 countries (2013-2020)","Number","From 35 to 44 years",7871,TRUE
+2011,"European Union - 28 countries (2013-2020)","Number","From 45 to 54 years",8850,TRUE
+2011,"European Union - 28 countries (2013-2020)","Number","From 55 to 64 years",8974,TRUE
+2011,"Belgium","Number","Total",32182,FALSE
+2011,"Belgium","Number","Less than 35 years",2420,FALSE
+2011,"Belgium","Number","From 35 to 44 years",7871,FALSE
+2011,"Belgium","Number","From 45 to 54 years",8850,FALSE
+2011,"Belgium","Number","From 55 to 64 years",8974,FALSE
+2011,"Bulgaria","Number","Total",29038,TRUE
+2011,"Bulgaria","Number","Less than 35 years",2943,TRUE
+2011,"Bulgaria","Number","From 35 to 44 years",3709,TRUE
+2011,"Bulgaria","Number","From 45 to 54 years",9456,TRUE
+2011,"Bulgaria","Number","From 55 to 64 years",9061,TRUE
+2011,"Czechia","Number","Total",38171,FALSE
+2011,"Czechia","Number","Less than 35 years",7287,FALSE
+2011,"Czechia","Number","From 35 to 44 years",8698,FALSE
+2011,"Czechia","Number","From 45 to 54 years",8882,FALSE
+2011,"Czechia","Number","From 55 to 64 years",9508,FALSE
+2011,"Denmark","Number","Total",21108,FALSE
+2011,"Denmark","Number","Less than 35 years",4132,FALSE
+2011,"Denmark","Number","From 35 to 44 years",5265,FALSE
+2011,"Denmark","Number","From 45 to 54 years",4804,FALSE
+2011,"Denmark","Number","From 55 to 64 years",5114,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","Total",311223,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","Less than 35 years",57748,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","From 35 to 44 years",36100,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","From 45 to 54 years",91591,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","From 55 to 64 years",114365,FALSE
+2011,"Estonia","Number","Total",4372,FALSE
+2011,"Estonia","Number","Less than 35 years",782,TRUE
+2011,"Estonia","Number","From 35 to 44 years",632,TRUE
+2011,"Estonia","Number","From 45 to 54 years",1070,TRUE
+2011,"Estonia","Number","From 55 to 64 years",1180,TRUE
+2011,"Ireland","Number","Total",18795,FALSE
+2011,"Ireland","Number","Less than 35 years",5869,FALSE
+2011,"Ireland","Number","From 35 to 44 years",5328,FALSE
+2011,"Ireland","Number","From 45 to 54 years",3989,FALSE
+2011,"Ireland","Number","From 55 to 64 years",2228,FALSE
+2011,"Greece","Number","Total",64145,FALSE
+2011,"Greece","Number","Less than 35 years",12244,FALSE
+2011,"Greece","Number","From 35 to 44 years",21399,FALSE
+2011,"Greece","Number","From 45 to 54 years",14490,FALSE
+2011,"Greece","Number","From 55 to 64 years",12269,FALSE
+2011,"Spain","Number","Total",179267,FALSE
+2011,"Spain","Number","Less than 35 years",43700,FALSE
+2011,"Spain","Number","From 35 to 44 years",44867,FALSE
+2011,"Spain","Number","From 45 to 54 years",49333,FALSE
+2011,"Spain","Number","From 55 to 64 years",34933,FALSE
+2011,"France","Number","Total",199920,FALSE
+2011,"France","Number","Less than 35 years",17865,FALSE
+2011,"France","Number","From 35 to 44 years",37929,FALSE
+2011,"France","Number","From 45 to 54 years",61853,FALSE
+2011,"France","Number","From 55 to 64 years",69758,FALSE
+2011,"Croatia","Number","Total",12490,FALSE
+2011,"Croatia","Number","Less than 35 years",2704,FALSE
+2011,"Croatia","Number","From 35 to 44 years",2881,FALSE
+2011,"Croatia","Number","From 45 to 54 years",3797,FALSE
+2011,"Croatia","Number","From 55 to 64 years",2847,FALSE
+2011,"Italy","Number","Total",379930,FALSE
+2011,"Italy","Number","Less than 35 years",50260,FALSE
+2011,"Italy","Number","From 35 to 44 years",54414,FALSE
+2011,"Italy","Number","From 45 to 54 years",104373,FALSE
+2011,"Italy","Number","From 55 to 64 years",123815,FALSE
+2011,"Cyprus","Number","Total",3046,TRUE
+2011,"Cyprus","Number","Less than 35 years",311,TRUE
+2011,"Cyprus","Number","From 35 to 44 years",704,TRUE
+2011,"Cyprus","Number","From 45 to 54 years",690,TRUE
+2011,"Cyprus","Number","From 55 to 64 years",879,TRUE
+2011,"Latvia","Number","Total",6456,FALSE
+2011,"Latvia","Number","Less than 35 years",652,FALSE
+2011,"Latvia","Number","From 35 to 44 years",1166,FALSE
+2011,"Latvia","Number","From 45 to 54 years",2040,FALSE
+2011,"Latvia","Number","From 55 to 64 years",1586,FALSE
+2011,"Lithuania","Number","Total",13327,FALSE
+2011,"Lithuania","Number","Less than 35 years",2550,FALSE
+2011,"Lithuania","Number","From 35 to 44 years",2248,FALSE
+2011,"Lithuania","Number","From 45 to 54 years",3549,FALSE
+2011,"Lithuania","Number","From 55 to 64 years",3285,FALSE
+2011,"Luxembourg","Number","Total",1439,FALSE
+2011,"Luxembourg","Number","Less than 35 years",73,FALSE
+2011,"Luxembourg","Number","From 35 to 44 years",313,FALSE
+2011,"Luxembourg","Number","From 45 to 54 years",566,FALSE
+2011,"Luxembourg","Number","From 55 to 64 years",385,FALSE
+2011,"Hungary","Number","Total",29500,FALSE
+2011,"Hungary","Number","Less than 35 years",4655,FALSE
+2011,"Hungary","Number","From 35 to 44 years",5699,FALSE
+2011,"Hungary","Number","From 45 to 54 years",7304,FALSE
+2011,"Hungary","Number","From 55 to 64 years",7541,FALSE
+2011,"Malta","Number","Total",1319,FALSE
+2011,"Malta","Number","Less than 35 years",519,FALSE
+2011,"Malta","Number","From 35 to 44 years",235,FALSE
+2011,"Malta","Number","From 45 to 54 years",372,FALSE
+2011,"Malta","Number","From 55 to 64 years",124,FALSE
+2011,"Netherlands","Number","Total",52295,FALSE
+2011,"Netherlands","Number","Less than 35 years",14358,FALSE
+2011,"Netherlands","Number","From 35 to 44 years",12404,FALSE
+2011,"Netherlands","Number","From 45 to 54 years",12915,FALSE
+2011,"Netherlands","Number","From 55 to 64 years",11117,FALSE
+2011,"Austria","Number","Total",40634,FALSE
+2011,"Austria","Number","Less than 35 years",7675,FALSE
+2011,"Austria","Number","From 35 to 44 years",9910,FALSE
+2011,"Austria","Number","From 45 to 54 years",13669,FALSE
+2011,"Austria","Number","From 55 to 64 years",7506,FALSE
+2011,"Poland","Number","Total",84221,FALSE
+2011,"Poland","Number","Less than 35 years",4132,TRUE
+2011,"Poland","Number","From 35 to 44 years",7871,TRUE
+2011,"Poland","Number","From 45 to 54 years",8850,TRUE
+2011,"Poland","Number","From 55 to 64 years",8974,TRUE
+2011,"Portugal","Number","Total",42054,FALSE
+2011,"Portugal","Number","Less than 35 years",4132,TRUE
+2011,"Portugal","Number","From 35 to 44 years",7871,TRUE
+2011,"Portugal","Number","From 45 to 54 years",8850,TRUE
+2011,"Portugal","Number","From 55 to 64 years",8974,TRUE
+2011,"Romania","Number","Total",51153,FALSE
+2011,"Romania","Number","Less than 35 years",15719,FALSE
+2011,"Romania","Number","From 35 to 44 years",12807,FALSE
+2011,"Romania","Number","From 45 to 54 years",11451,FALSE
+2011,"Romania","Number","From 55 to 64 years",9779,FALSE
+2011,"Slovenia","Number","Total",5121,FALSE
+2011,"Slovenia","Number","Less than 35 years",1037,FALSE
+2011,"Slovenia","Number","From 35 to 44 years",1284,FALSE
+2011,"Slovenia","Number","From 45 to 54 years",1427,FALSE
+2011,"Slovenia","Number","From 55 to 64 years",1106,FALSE
+2011,"Slovakia","Number","Total",17849,FALSE
+2011,"Slovakia","Number","Less than 35 years",3529,FALSE
+2011,"Slovakia","Number","From 35 to 44 years",4444,FALSE
+2011,"Slovakia","Number","From 45 to 54 years",3700,FALSE
+2011,"Slovakia","Number","From 55 to 64 years",4878,FALSE
+2011,"Finland","Number","Total",17589,FALSE
+2011,"Finland","Number","Less than 35 years",3424,FALSE
+2011,"Finland","Number","From 35 to 44 years",4436,FALSE
+2011,"Finland","Number","From 45 to 54 years",5373,FALSE
+2011,"Finland","Number","From 55 to 64 years",4356,FALSE
+2011,"Sweden","Number","Total",36743,FALSE
+2011,"Sweden","Number","Less than 35 years",6652,FALSE
+2011,"Sweden","Number","From 35 to 44 years",9195,FALSE
+2011,"Sweden","Number","From 45 to 54 years",8174,FALSE
+2011,"Sweden","Number","From 55 to 64 years",9431,FALSE
+2011,"Iceland","Number","Total",1118,FALSE
+2011,"Iceland","Number","Less than 35 years",152,FALSE
+2011,"Iceland","Number","From 35 to 44 years",174,FALSE
+2011,"Iceland","Number","From 45 to 54 years",355,FALSE
+2011,"Iceland","Number","From 55 to 64 years",328,FALSE
+2011,"Liechtenstein","Number","Total",111,FALSE
+2011,"Liechtenstein","Number","Less than 35 years",2,FALSE
+2011,"Liechtenstein","Number","From 35 to 44 years",26,FALSE
+2011,"Liechtenstein","Number","From 45 to 54 years",40,FALSE
+2011,"Liechtenstein","Number","From 55 to 64 years",37,FALSE
+2011,"Norway","Number","Total",20744,FALSE
+2011,"Norway","Number","Less than 35 years",5276,FALSE
+2011,"Norway","Number","From 35 to 44 years",5573,FALSE
+2011,"Norway","Number","From 45 to 54 years",4306,FALSE
+2011,"Norway","Number","From 55 to 64 years",4010,FALSE
+2011,"Switzerland","Number","Total",30327,FALSE
+2011,"Switzerland","Number","Less than 35 years",3458,FALSE
+2011,"Switzerland","Number","From 35 to 44 years",8143,FALSE
+2011,"Switzerland","Number","From 45 to 54 years",9135,FALSE
+2011,"Switzerland","Number","From 55 to 64 years",7464,FALSE
+2011,"United Kingdom","Number","Total",168751,FALSE
+2011,"United Kingdom","Number","Less than 35 years",56518,FALSE
+2011,"United Kingdom","Number","From 35 to 44 years",50183,FALSE
+2011,"United Kingdom","Number","From 45 to 54 years",39501,FALSE
+2011,"United Kingdom","Number","From 55 to 64 years",19253,FALSE
+2011,"Montenegro","Number","Total",1259,FALSE
+2011,"Montenegro","Number","Less than 35 years",213,FALSE
+2011,"Montenegro","Number","From 35 to 44 years",360,FALSE
+2011,"Montenegro","Number","From 45 to 54 years",457,FALSE
+2011,"Montenegro","Number","From 55 to 64 years",229,FALSE
+2011,"North Macedonia","Number","Total",5649,FALSE
+2011,"North Macedonia","Number","Less than 35 years",943,FALSE
+2011,"North Macedonia","Number","From 35 to 44 years",1248,FALSE
+2011,"North Macedonia","Number","From 45 to 54 years",1826,FALSE
+2011,"North Macedonia","Number","From 55 to 64 years",1632,FALSE
+2011,"Serbia","Number","Total",22412,FALSE
+2011,"Serbia","Number","Less than 35 years",3415,FALSE
+2011,"Serbia","Number","From 35 to 44 years",6457,FALSE
+2011,"Serbia","Number","From 45 to 54 years",7403,FALSE
+2011,"Serbia","Number","From 55 to 64 years",5038,FALSE
+2011,"Turkey","Number","Total",126029,FALSE
+2011,"Turkey","Number","Less than 35 years",42934,FALSE
+2011,"Turkey","Number","From 35 to 44 years",40124,FALSE
+2011,"Turkey","Number","From 45 to 54 years",24226,FALSE
+2011,"Turkey","Number","From 55 to 64 years",10449,FALSE
+2012,"European Union - 27 countries (from 2020)","Number","Total",1612767,TRUE
+2012,"European Union - 27 countries (from 2020)","Number","Less than 35 years",4208,TRUE
+2012,"European Union - 27 countries (from 2020)","Number","From 35 to 44 years",7898,TRUE
+2012,"European Union - 27 countries (from 2020)","Number","From 45 to 54 years",8641,TRUE
+2012,"European Union - 27 countries (from 2020)","Number","From 55 to 64 years",9240,TRUE
+2012,"European Union - 28 countries (2013-2020)","Number","Total",1791929,TRUE
+2012,"European Union - 28 countries (2013-2020)","Number","Less than 35 years",4208,TRUE
+2012,"European Union - 28 countries (2013-2020)","Number","From 35 to 44 years",7898,TRUE
+2012,"European Union - 28 countries (2013-2020)","Number","From 45 to 54 years",8641,TRUE
+2012,"European Union - 28 countries (2013-2020)","Number","From 55 to 64 years",9240,TRUE
+2012,"Belgium","Number","Total",32583,FALSE
+2012,"Belgium","Number","Less than 35 years",2356,FALSE
+2012,"Belgium","Number","From 35 to 44 years",7898,FALSE
+2012,"Belgium","Number","From 45 to 54 years",8641,FALSE
+2012,"Belgium","Number","From 55 to 64 years",9240,FALSE
+2012,"Bulgaria","Number","Total",29038,TRUE
+2012,"Bulgaria","Number","Less than 35 years",2943,TRUE
+2012,"Bulgaria","Number","From 35 to 44 years",3709,TRUE
+2012,"Bulgaria","Number","From 45 to 54 years",9456,TRUE
+2012,"Bulgaria","Number","From 55 to 64 years",9061,TRUE
+2012,"Czechia","Number","Total",38624,FALSE
+2012,"Czechia","Number","Less than 35 years",7430,FALSE
+2012,"Czechia","Number","From 35 to 44 years",8631,FALSE
+2012,"Czechia","Number","From 45 to 54 years",8656,FALSE
+2012,"Czechia","Number","From 55 to 64 years",9797,FALSE
+2012,"Denmark","Number","Total",21458,FALSE
+2012,"Denmark","Number","Less than 35 years",4208,FALSE
+2012,"Denmark","Number","From 35 to 44 years",5474,FALSE
+2012,"Denmark","Number","From 45 to 54 years",4696,FALSE
+2012,"Denmark","Number","From 55 to 64 years",5126,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","Total",317390,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","Less than 35 years",58379,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","From 35 to 44 years",37274,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","From 45 to 54 years",88334,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","From 55 to 64 years",120468,FALSE
+2012,"Estonia","Number","Total",4343,FALSE
+2012,"Estonia","Number","Less than 35 years",782,TRUE
+2012,"Estonia","Number","From 35 to 44 years",632,TRUE
+2012,"Estonia","Number","From 45 to 54 years",1070,TRUE
+2012,"Estonia","Number","From 55 to 64 years",1180,TRUE
+2012,"Ireland","Number","Total",18167,FALSE
+2012,"Ireland","Number","Less than 35 years",5502,FALSE
+2012,"Ireland","Number","From 35 to 44 years",5039,FALSE
+2012,"Ireland","Number","From 45 to 54 years",3917,FALSE
+2012,"Ireland","Number","From 55 to 64 years",2223,FALSE
+2012,"Greece","Number","Total",63838,FALSE
+2012,"Greece","Number","Less than 35 years",11639,FALSE
+2012,"Greece","Number","From 35 to 44 years",21591,FALSE
+2012,"Greece","Number","From 45 to 54 years",14356,FALSE
+2012,"Greece","Number","From 55 to 64 years",12262,FALSE
+2012,"Spain","Number","Total",178833,FALSE
+2012,"Spain","Number","Less than 35 years",40233,FALSE
+2012,"Spain","Number","From 35 to 44 years",46500,FALSE
+2012,"Spain","Number","From 45 to 54 years",49100,FALSE
+2012,"Spain","Number","From 55 to 64 years",36267,FALSE
+2012,"France","Number","Total",201784,FALSE
+2012,"France","Number","Less than 35 years",18851,FALSE
+2012,"France","Number","From 35 to 44 years",37825,FALSE
+2012,"France","Number","From 45 to 54 years",58595,FALSE
+2012,"France","Number","From 55 to 64 years",71004,FALSE
+2012,"Croatia","Number","Total",12772,FALSE
+2012,"Croatia","Number","Less than 35 years",2780,FALSE
+2012,"Croatia","Number","From 35 to 44 years",2904,FALSE
+2012,"Croatia","Number","From 45 to 54 years",3780,FALSE
+2012,"Croatia","Number","From 55 to 64 years",2963,FALSE
+2012,"Italy","Number","Total",230621,FALSE
+2012,"Italy","Number","Less than 35 years",20406,FALSE
+2012,"Italy","Number","From 35 to 44 years",37010,FALSE
+2012,"Italy","Number","From 45 to 54 years",66281,FALSE
+2012,"Italy","Number","From 55 to 64 years",91537,FALSE
+2012,"Cyprus","Number","Total",3046,TRUE
+2012,"Cyprus","Number","Less than 35 years",311,TRUE
+2012,"Cyprus","Number","From 35 to 44 years",704,TRUE
+2012,"Cyprus","Number","From 45 to 54 years",690,TRUE
+2012,"Cyprus","Number","From 55 to 64 years",879,TRUE
+2012,"Latvia","Number","Total",6396,FALSE
+2012,"Latvia","Number","Less than 35 years",661,FALSE
+2012,"Latvia","Number","From 35 to 44 years",1055,FALSE
+2012,"Latvia","Number","From 45 to 54 years",1972,FALSE
+2012,"Latvia","Number","From 55 to 64 years",1664,FALSE
+2012,"Lithuania","Number","Total",13552,FALSE
+2012,"Lithuania","Number","Less than 35 years",2778,FALSE
+2012,"Lithuania","Number","From 35 to 44 years",2232,FALSE
+2012,"Lithuania","Number","From 45 to 54 years",3507,FALSE
+2012,"Lithuania","Number","From 55 to 64 years",3295,FALSE
+2012,"Luxembourg","Number","Total",1489,FALSE
+2012,"Luxembourg","Number","Less than 35 years",76,FALSE
+2012,"Luxembourg","Number","From 35 to 44 years",332,FALSE
+2012,"Luxembourg","Number","From 45 to 54 years",553,FALSE
+2012,"Luxembourg","Number","From 55 to 64 years",411,FALSE
+2012,"Hungary","Number","Total",30641,FALSE
+2012,"Hungary","Number","Less than 35 years",4979,FALSE
+2012,"Hungary","Number","From 35 to 44 years",5761,FALSE
+2012,"Hungary","Number","From 45 to 54 years",7283,FALSE
+2012,"Hungary","Number","From 55 to 64 years",7835,FALSE
+2012,"Malta","Number","Total",1381,FALSE
+2012,"Malta","Number","Less than 35 years",573,FALSE
+2012,"Malta","Number","From 35 to 44 years",240,FALSE
+2012,"Malta","Number","From 45 to 54 years",362,FALSE
+2012,"Malta","Number","From 55 to 64 years",136,FALSE
+2012,"Netherlands","Number","Total",54511,FALSE
+2012,"Netherlands","Number","Less than 35 years",15240,FALSE
+2012,"Netherlands","Number","From 35 to 44 years",13244,FALSE
+2012,"Netherlands","Number","From 45 to 54 years",12663,FALSE
+2012,"Netherlands","Number","From 55 to 64 years",11543,FALSE
+2012,"Austria","Number","Total",41268,FALSE
+2012,"Austria","Number","Less than 35 years",7412,FALSE
+2012,"Austria","Number","From 35 to 44 years",10310,FALSE
+2012,"Austria","Number","From 45 to 54 years",13289,FALSE
+2012,"Austria","Number","From 55 to 64 years",8273,FALSE
+2012,"Poland","Number","Total",85025,FALSE
+2012,"Poland","Number","Less than 35 years",4208,TRUE
+2012,"Poland","Number","From 35 to 44 years",7898,TRUE
+2012,"Poland","Number","From 45 to 54 years",8641,TRUE
+2012,"Poland","Number","From 55 to 64 years",9240,TRUE
+2012,"Portugal","Number","Total",43123,FALSE
+2012,"Portugal","Number","Less than 35 years",4208,TRUE
+2012,"Portugal","Number","From 35 to 44 years",7898,TRUE
+2012,"Portugal","Number","From 45 to 54 years",8641,TRUE
+2012,"Portugal","Number","From 55 to 64 years",9240,TRUE
+2012,"Romania","Number","Total",52362,FALSE
+2012,"Romania","Number","Less than 35 years",15763,FALSE
+2012,"Romania","Number","From 35 to 44 years",13173,FALSE
+2012,"Romania","Number","From 45 to 54 years",11568,FALSE
+2012,"Romania","Number","From 55 to 64 years",10461,FALSE
+2012,"Slovenia","Number","Total",5228,FALSE
+2012,"Slovenia","Number","Less than 35 years",1159,FALSE
+2012,"Slovenia","Number","From 35 to 44 years",1346,FALSE
+2012,"Slovenia","Number","From 45 to 54 years",1374,FALSE
+2012,"Slovenia","Number","From 55 to 64 years",1100,FALSE
+2012,"Slovakia","Number","Total",18193,FALSE
+2012,"Slovakia","Number","Less than 35 years",3678,FALSE
+2012,"Slovakia","Number","From 35 to 44 years",4399,FALSE
+2012,"Slovakia","Number","From 45 to 54 years",3633,FALSE
+2012,"Slovakia","Number","From 55 to 64 years",5034,FALSE
+2012,"Finland","Number","Total",17790,FALSE
+2012,"Finland","Number","Less than 35 years",3511,FALSE
+2012,"Finland","Number","From 35 to 44 years",4463,FALSE
+2012,"Finland","Number","From 45 to 54 years",5284,FALSE
+2012,"Finland","Number","From 55 to 64 years",4532,FALSE
+2012,"Sweden","Number","Total",37769,FALSE
+2012,"Sweden","Number","Less than 35 years",6945,FALSE
+2012,"Sweden","Number","From 35 to 44 years",9555,FALSE
+2012,"Sweden","Number","From 45 to 54 years",8129,FALSE
+2012,"Sweden","Number","From 55 to 64 years",9303,FALSE
+2012,"Iceland","Number","Total",1142,FALSE
+2012,"Iceland","Number","Less than 35 years",175,FALSE
+2012,"Iceland","Number","From 35 to 44 years",177,FALSE
+2012,"Iceland","Number","From 45 to 54 years",323,FALSE
+2012,"Iceland","Number","From 55 to 64 years",331,FALSE
+2012,"Liechtenstein","Number","Total",116,FALSE
+2012,"Liechtenstein","Number","Less than 35 years",2,FALSE
+2012,"Liechtenstein","Number","From 35 to 44 years",28,FALSE
+2012,"Liechtenstein","Number","From 45 to 54 years",38,FALSE
+2012,"Liechtenstein","Number","From 55 to 64 years",39,FALSE
+2012,"Norway","Number","Total",21238,FALSE
+2012,"Norway","Number","Less than 35 years",5515,FALSE
+2012,"Norway","Number","From 35 to 44 years",5759,FALSE
+2012,"Norway","Number","From 45 to 54 years",4246,FALSE
+2012,"Norway","Number","From 55 to 64 years",4056,FALSE
+2012,"Switzerland","Number","Total",31313,FALSE
+2012,"Switzerland","Number","Less than 35 years",3488,FALSE
+2012,"Switzerland","Number","From 35 to 44 years",8370,FALSE
+2012,"Switzerland","Number","From 45 to 54 years",9265,FALSE
+2012,"Switzerland","Number","From 55 to 64 years",7849,FALSE
+2012,"United Kingdom","Number","Total",170580,FALSE
+2012,"United Kingdom","Number","Less than 35 years",56471,FALSE
+2012,"United Kingdom","Number","From 35 to 44 years",50887,FALSE
+2012,"United Kingdom","Number","From 45 to 54 years",40298,FALSE
+2012,"United Kingdom","Number","From 55 to 64 years",19416,FALSE
+2012,"Montenegro","Number","Total",1276,FALSE
+2012,"Montenegro","Number","Less than 35 years",242,FALSE
+2012,"Montenegro","Number","From 35 to 44 years",367,FALSE
+2012,"Montenegro","Number","From 45 to 54 years",434,FALSE
+2012,"Montenegro","Number","From 55 to 64 years",233,FALSE
+2012,"North Macedonia","Number","Total",5755,FALSE
+2012,"North Macedonia","Number","Less than 35 years",1040,FALSE
+2012,"North Macedonia","Number","From 35 to 44 years",1299,FALSE
+2012,"North Macedonia","Number","From 45 to 54 years",1740,FALSE
+2012,"North Macedonia","Number","From 55 to 64 years",1676,FALSE
+2012,"Serbia","Number","Total",22315,FALSE
+2012,"Serbia","Number","Less than 35 years",3260,FALSE
+2012,"Serbia","Number","From 35 to 44 years",6406,FALSE
+2012,"Serbia","Number","From 45 to 54 years",7329,FALSE
+2012,"Serbia","Number","From 55 to 64 years",5206,FALSE
+2012,"Turkey","Number","Total",129772,FALSE
+2012,"Turkey","Number","Less than 35 years",42386,FALSE
+2012,"Turkey","Number","From 35 to 44 years",40674,FALSE
+2012,"Turkey","Number","From 45 to 54 years",26668,FALSE
+2012,"Turkey","Number","From 55 to 64 years",11092,FALSE
+2013,"European Union - 27 countries (from 2020)","Number","Total",1612767,TRUE
+2013,"European Union - 27 countries (from 2020)","Number","Less than 35 years",4170,TRUE
+2013,"European Union - 27 countries (from 2020)","Number","From 35 to 44 years",7946,TRUE
+2013,"European Union - 27 countries (from 2020)","Number","From 45 to 54 years",8337,TRUE
+2013,"European Union - 27 countries (from 2020)","Number","From 55 to 64 years",9446,TRUE
+2013,"European Union - 28 countries (2013-2020)","Number","Total",1791929,TRUE
+2013,"European Union - 28 countries (2013-2020)","Number","Less than 35 years",4170,TRUE
+2013,"European Union - 28 countries (2013-2020)","Number","From 35 to 44 years",7946,TRUE
+2013,"European Union - 28 countries (2013-2020)","Number","From 45 to 54 years",8337,TRUE
+2013,"European Union - 28 countries (2013-2020)","Number","From 55 to 64 years",9446,TRUE
+2013,"Belgium","Number","Total",32999,FALSE
+2013,"Belgium","Number","Less than 35 years",2457,FALSE
+2013,"Belgium","Number","From 35 to 44 years",7946,FALSE
+2013,"Belgium","Number","From 45 to 54 years",8337,FALSE
+2013,"Belgium","Number","From 55 to 64 years",9446,FALSE
+2013,"Bulgaria","Number","Total",29038,TRUE
+2013,"Bulgaria","Number","Less than 35 years",2943,TRUE
+2013,"Bulgaria","Number","From 35 to 44 years",3709,TRUE
+2013,"Bulgaria","Number","From 45 to 54 years",9456,TRUE
+2013,"Bulgaria","Number","From 55 to 64 years",9061,TRUE
+2013,"Czechia","Number","Total",38776,FALSE
+2013,"Czechia","Number","Less than 35 years",7298,FALSE
+2013,"Czechia","Number","From 35 to 44 years",8555,FALSE
+2013,"Czechia","Number","From 45 to 54 years",8508,FALSE
+2013,"Czechia","Number","From 55 to 64 years",10088,FALSE
+2013,"Denmark","Number","Total",21614,FALSE
+2013,"Denmark","Number","Less than 35 years",4170,FALSE
+2013,"Denmark","Number","From 35 to 44 years",5725,FALSE
+2013,"Denmark","Number","From 45 to 54 years",4533,FALSE
+2013,"Denmark","Number","From 55 to 64 years",5074,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","Total",325407,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","Less than 35 years",62703,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","From 35 to 44 years",38966,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","From 45 to 54 years",86349,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Number","From 55 to 64 years",124023,FALSE
+2013,"Estonia","Number","Total",4395,FALSE
+2013,"Estonia","Number","Less than 35 years",731,FALSE
+2013,"Estonia","Number","From 35 to 44 years",654,FALSE
+2013,"Estonia","Number","From 45 to 54 years",1110,FALSE
+2013,"Estonia","Number","From 55 to 64 years",1169,FALSE
+2013,"Ireland","Number","Total",18160,FALSE
+2013,"Ireland","Number","Less than 35 years",5115,FALSE
+2013,"Ireland","Number","From 35 to 44 years",5102,FALSE
+2013,"Ireland","Number","From 45 to 54 years",4051,FALSE
+2013,"Ireland","Number","From 55 to 64 years",2661,FALSE
+2013,"Greece","Number","Total",63736,FALSE
+2013,"Greece","Number","Less than 35 years",10859,FALSE
+2013,"Greece","Number","From 35 to 44 years",21708,FALSE
+2013,"Greece","Number","From 45 to 54 years",14621,FALSE
+2013,"Greece","Number","From 55 to 64 years",12599,FALSE
+2013,"Spain","Number","Total",177665,FALSE
+2013,"Spain","Number","Less than 35 years",36566,FALSE
+2013,"Spain","Number","From 35 to 44 years",47167,FALSE
+2013,"Spain","Number","From 45 to 54 years",48566,FALSE
+2013,"Spain","Number","From 55 to 64 years",38700,FALSE
+2013,"France","Number","Total",204129,FALSE
+2013,"France","Number","Less than 35 years",20188,FALSE
+2013,"France","Number","From 35 to 44 years",38032,FALSE
+2013,"France","Number","From 45 to 54 years",55586,FALSE
+2013,"France","Number","From 55 to 64 years",71459,FALSE
+2013,"Croatia","Number","Total",12906,FALSE
+2013,"Croatia","Number","Less than 35 years",2827,FALSE
+2013,"Croatia","Number","From 35 to 44 years",2973,FALSE
+2013,"Croatia","Number","From 45 to 54 years",3724,FALSE
+2013,"Croatia","Number","From 55 to 64 years",3068,FALSE
+2013,"Italy","Number","Total",234918,FALSE
+2013,"Italy","Number","Less than 35 years",20545,FALSE
+2013,"Italy","Number","From 35 to 44 years",38008,FALSE
+2013,"Italy","Number","From 45 to 54 years",61033,FALSE
+2013,"Italy","Number","From 55 to 64 years",96582,FALSE
+2013,"Cyprus","Number","Total",3046,TRUE
+2013,"Cyprus","Number","Less than 35 years",311,TRUE
+2013,"Cyprus","Number","From 35 to 44 years",704,TRUE
+2013,"Cyprus","Number","From 45 to 54 years",690,TRUE
+2013,"Cyprus","Number","From 55 to 64 years",879,TRUE
+2013,"Latvia","Number","Total",6423,FALSE
+2013,"Latvia","Number","Less than 35 years",749,FALSE
+2013,"Latvia","Number","From 35 to 44 years",977,FALSE
+2013,"Latvia","Number","From 45 to 54 years",1904,FALSE
+2013,"Latvia","Number","From 55 to 64 years",1705,FALSE
+2013,"Lithuania","Number","Total",13570,FALSE
+2013,"Lithuania","Number","Less than 35 years",2773,FALSE
+2013,"Lithuania","Number","From 35 to 44 years",2136,FALSE
+2013,"Lithuania","Number","From 45 to 54 years",3446,FALSE
+2013,"Lithuania","Number","From 55 to 64 years",3421,FALSE
+2013,"Luxembourg","Number","Total",1537,FALSE
+2013,"Luxembourg","Number","Less than 35 years",72,FALSE
+2013,"Luxembourg","Number","From 35 to 44 years",355,FALSE
+2013,"Luxembourg","Number","From 45 to 54 years",532,FALSE
+2013,"Luxembourg","Number","From 55 to 64 years",457,FALSE
+2013,"Hungary","Number","Total",31748,FALSE
+2013,"Hungary","Number","Less than 35 years",6074,FALSE
+2013,"Hungary","Number","From 35 to 44 years",5762,FALSE
+2013,"Hungary","Number","From 45 to 54 years",7296,FALSE
+2013,"Hungary","Number","From 55 to 64 years",7804,FALSE
+2013,"Malta","Number","Total",1466,FALSE
+2013,"Malta","Number","Less than 35 years",619,FALSE
+2013,"Malta","Number","From 35 to 44 years",261,FALSE
+2013,"Malta","Number","From 45 to 54 years",364,FALSE
+2013,"Malta","Number","From 55 to 64 years",143,FALSE
+2013,"Netherlands","Number","Total",55681,FALSE
+2013,"Netherlands","Number","Less than 35 years",15841,FALSE
+2013,"Netherlands","Number","From 35 to 44 years",13582,FALSE
+2013,"Netherlands","Number","From 45 to 54 years",12461,FALSE
+2013,"Netherlands","Number","From 55 to 64 years",11763,FALSE
+2013,"Austria","Number","Total",42302,FALSE
+2013,"Austria","Number","Less than 35 years",7232,FALSE
+2013,"Austria","Number","From 35 to 44 years",10628,FALSE
+2013,"Austria","Number","From 45 to 54 years",12975,FALSE
+2013,"Austria","Number","From 55 to 64 years",8942,FALSE
+2013,"Poland","Number","Total",85246,FALSE
+2013,"Poland","Number","Less than 35 years",4170,TRUE
+2013,"Poland","Number","From 35 to 44 years",7946,TRUE
+2013,"Poland","Number","From 45 to 54 years",8337,TRUE
+2013,"Poland","Number","From 55 to 64 years",9446,TRUE
+2013,"Portugal","Number","Total",44555,FALSE
+2013,"Portugal","Number","Less than 35 years",4170,TRUE
+2013,"Portugal","Number","From 35 to 44 years",7946,TRUE
+2013,"Portugal","Number","From 45 to 54 years",8337,TRUE
+2013,"Portugal","Number","From 55 to 64 years",9446,TRUE
+2013,"Romania","Number","Total",52828,FALSE
+2013,"Romania","Number","Less than 35 years",15353,FALSE
+2013,"Romania","Number","From 35 to 44 years",13152,FALSE
+2013,"Romania","Number","From 45 to 54 years",11883,FALSE
+2013,"Romania","Number","From 55 to 64 years",10954,FALSE
+2013,"Slovenia","Number","Total",5416,FALSE
+2013,"Slovenia","Number","Less than 35 years",1220,FALSE
+2013,"Slovenia","Number","From 35 to 44 years",1391,FALSE
+2013,"Slovenia","Number","From 45 to 54 years",1376,FALSE
+2013,"Slovenia","Number","From 55 to 64 years",1163,FALSE
+2013,"Slovakia","Number","Total",18355,FALSE
+2013,"Slovakia","Number","Less than 35 years",3945,FALSE
+2013,"Slovakia","Number","From 35 to 44 years",4318,FALSE
+2013,"Slovakia","Number","From 45 to 54 years",3528,FALSE
+2013,"Slovakia","Number","From 55 to 64 years",4932,FALSE
+2013,"Finland","Number","Total",17931,FALSE
+2013,"Finland","Number","Less than 35 years",3571,FALSE
+2013,"Finland","Number","From 35 to 44 years",4399,FALSE
+2013,"Finland","Number","From 45 to 54 years",5258,FALSE
+2013,"Finland","Number","From 55 to 64 years",4703,FALSE
+2013,"Sweden","Number","Total",38817,FALSE
+2013,"Sweden","Number","Less than 35 years",7223,FALSE
+2013,"Sweden","Number","From 35 to 44 years",10037,FALSE
+2013,"Sweden","Number","From 45 to 54 years",8220,FALSE
+2013,"Sweden","Number","From 55 to 64 years",9058,FALSE
+2013,"Iceland","Number","Total",1168,FALSE
+2013,"Iceland","Number","Less than 35 years",187,FALSE
+2013,"Iceland","Number","From 35 to 44 years",189,FALSE
+2013,"Iceland","Number","From 45 to 54 years",312,FALSE
+2013,"Iceland","Number","From 55 to 64 years",334,FALSE
+2013,"Liechtenstein","Number","Total",120,FALSE
+2013,"Liechtenstein","Number","Less than 35 years",2,FALSE
+2013,"Liechtenstein","Number","From 35 to 44 years",28,FALSE
+2013,"Liechtenstein","Number","From 45 to 54 years",41,FALSE
+2013,"Liechtenstein","Number","From 55 to 64 years",33,FALSE
+2013,"Norway","Number","Total",21874,FALSE
+2013,"Norway","Number","Less than 35 years",5753,FALSE
+2013,"Norway","Number","From 35 to 44 years",5964,FALSE
+2013,"Norway","Number","From 45 to 54 years",4302,FALSE
+2013,"Norway","Number","From 55 to 64 years",4070,FALSE
+2013,"Switzerland","Number","Total",32681,FALSE
+2013,"Switzerland","Number","Less than 35 years",3749,FALSE
+2013,"Switzerland","Number","From 35 to 44 years",8707,FALSE
+2013,"Switzerland","Number","From 45 to 54 years",9461,FALSE
+2013,"Switzerland","Number","From 55 to 64 years",8105,FALSE
+2013,"United Kingdom","Number","Total",172792,FALSE
+2013,"United Kingdom","Number","Less than 35 years",57455,FALSE
+2013,"United Kingdom","Number","From 35 to 44 years",51666,FALSE
+2013,"United Kingdom","Number","From 45 to 54 years",40496,FALSE
+2013,"United Kingdom","Number","From 55 to 64 years",19679,FALSE
+2013,"Montenegro","Number","Total",1348,FALSE
+2013,"Montenegro","Number","Less than 35 years",243,FALSE
+2013,"Montenegro","Number","From 35 to 44 years",425,FALSE
+2013,"Montenegro","Number","From 45 to 54 years",429,FALSE
+2013,"Montenegro","Number","From 55 to 64 years",251,FALSE
+2013,"North Macedonia","Number","Total",5804,FALSE
+2013,"North Macedonia","Number","Less than 35 years",1060,FALSE
+2013,"North Macedonia","Number","From 35 to 44 years",1323,FALSE
+2013,"North Macedonia","Number","From 45 to 54 years",1680,FALSE
+2013,"North Macedonia","Number","From 55 to 64 years",1741,FALSE
+2013,"Serbia","Number","Total",22248,FALSE
+2013,"Serbia","Number","Less than 35 years",3231,FALSE
+2013,"Serbia","Number","From 35 to 44 years",6442,FALSE
+2013,"Serbia","Number","From 45 to 54 years",7229,FALSE
+2013,"Serbia","Number","From 55 to 64 years",5216,FALSE
+2013,"Turkey","Number","Total",133775,FALSE
+2013,"Turkey","Number","Less than 35 years",42233,FALSE
+2013,"Turkey","Number","From 35 to 44 years",40910,FALSE
+2013,"Turkey","Number","From 45 to 54 years",29170,FALSE
+2013,"Turkey","Number","From 55 to 64 years",11832,FALSE
+2014,"European Union - 27 countries (from 2020)","Number","Total",1599619,FALSE
+2014,"European Union - 27 countries (from 2020)","Number","Less than 35 years",2615,TRUE
+2014,"European Union - 27 countries (from 2020)","Number","From 35 to 44 years",7878,TRUE
+2014,"European Union - 27 countries (from 2020)","Number","From 45 to 54 years",10294,TRUE
+2014,"European Union - 27 countries (from 2020)","Number","From 55 to 64 years",9487,TRUE
+2014,"European Union - 28 countries (2013-2020)","Number","Total",1775754,FALSE
+2014,"European Union - 28 countries (2013-2020)","Number","Less than 35 years",2615,TRUE
+2014,"European Union - 28 countries (2013-2020)","Number","From 35 to 44 years",7878,TRUE
+2014,"European Union - 28 countries (2013-2020)","Number","From 45 to 54 years",10294,TRUE
+2014,"European Union - 28 countries (2013-2020)","Number","From 55 to 64 years",9487,TRUE
+2014,"Belgium","Number","Total",33353,FALSE
+2014,"Belgium","Number","Less than 35 years",2615,FALSE
+2014,"Belgium","Number","From 35 to 44 years",7878,FALSE
+2014,"Belgium","Number","From 45 to 54 years",8180,FALSE
+2014,"Belgium","Number","From 55 to 64 years",9487,FALSE
+2014,"Bulgaria","Number","Total",28801,FALSE
+2014,"Bulgaria","Number","Less than 35 years",2351,FALSE
+2014,"Bulgaria","Number","From 35 to 44 years",4005,FALSE
+2014,"Bulgaria","Number","From 45 to 54 years",10294,FALSE
+2014,"Bulgaria","Number","From 55 to 64 years",8598,FALSE
+2014,"Czechia","Number","Total",38624,TRUE
+2014,"Czechia","Number","Less than 35 years",7298,TRUE
+2014,"Czechia","Number","From 35 to 44 years",8631,TRUE
+2014,"Czechia","Number","From 45 to 54 years",8656,TRUE
+2014,"Czechia","Number","From 55 to 64 years",9797,TRUE
+2014,"Denmark","Number","Total",21882,FALSE
+2014,"Denmark","Number","Less than 35 years",4118,FALSE
+2014,"Denmark","Number","From 35 to 44 years",6034,FALSE
+2014,"Denmark","Number","From 45 to 54 years",4457,FALSE
+2014,"Denmark","Number","From 55 to 64 years",5081,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","Total",332695,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","Less than 35 years",64989,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","From 35 to 44 years",40315,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","From 45 to 54 years",83991,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Number","From 55 to 64 years",128499,FALSE
+2014,"Estonia","Number","Total",4418,FALSE
+2014,"Estonia","Number","Less than 35 years",782,FALSE
+2014,"Estonia","Number","From 35 to 44 years",632,FALSE
+2014,"Estonia","Number","From 45 to 54 years",1070,FALSE
+2014,"Estonia","Number","From 55 to 64 years",1180,FALSE
+2014,"Ireland","Number","Total",14029,FALSE
+2014,"Ireland","Number","Less than 35 years",3565,FALSE
+2014,"Ireland","Number","From 35 to 44 years",4063,FALSE
+2014,"Ireland","Number","From 45 to 54 years",3283,FALSE
+2014,"Ireland","Number","From 55 to 64 years",2238,FALSE
+2014,"Greece","Number","Total",63906,FALSE
+2014,"Greece","Number","Less than 35 years",9586,FALSE
+2014,"Greece","Number","From 35 to 44 years",22159,FALSE
+2014,"Greece","Number","From 45 to 54 years",14793,FALSE
+2014,"Greece","Number","From 55 to 64 years",12902,FALSE
+2014,"Spain","Number","Total",176665,FALSE
+2014,"Spain","Number","Less than 35 years",34833,FALSE
+2014,"Spain","Number","From 35 to 44 years",45166,FALSE
+2014,"Spain","Number","From 45 to 54 years",47300,FALSE
+2014,"Spain","Number","From 55 to 64 years",43200,FALSE
+2014,"France","Number","Total",206159,FALSE
+2014,"France","Number","Less than 35 years",22338,FALSE
+2014,"France","Number","From 35 to 44 years",38500,FALSE
+2014,"France","Number","From 45 to 54 years",52448,FALSE
+2014,"France","Number","From 55 to 64 years",71403,FALSE
+2014,"Croatia","Number","Total",13302,FALSE
+2014,"Croatia","Number","Less than 35 years",2837,FALSE
+2014,"Croatia","Number","From 35 to 44 years",3020,FALSE
+2014,"Croatia","Number","From 45 to 54 years",3394,FALSE
+2014,"Croatia","Number","From 55 to 64 years",3453,FALSE
+2014,"Italy","Number","Total",235889,FALSE
+2014,"Italy","Number","Less than 35 years",19918,FALSE
+2014,"Italy","Number","From 35 to 44 years",38584,FALSE
+2014,"Italy","Number","From 45 to 54 years",55725,FALSE
+2014,"Italy","Number","From 55 to 64 years",99546,FALSE
+2014,"Cyprus","Number","Total",2880,FALSE
+2014,"Cyprus","Number","Less than 35 years",313,FALSE
+2014,"Cyprus","Number","From 35 to 44 years",654,FALSE
+2014,"Cyprus","Number","From 45 to 54 years",690,FALSE
+2014,"Cyprus","Number","From 55 to 64 years",830,FALSE
+2014,"Latvia","Number","Total",6412,FALSE
+2014,"Latvia","Number","Less than 35 years",835,FALSE
+2014,"Latvia","Number","From 35 to 44 years",906,FALSE
+2014,"Latvia","Number","From 45 to 54 years",1785,FALSE
+2014,"Latvia","Number","From 55 to 64 years",1797,FALSE
+2014,"Lithuania","Number","Total",13510,FALSE
+2014,"Lithuania","Number","Less than 35 years",2962,FALSE
+2014,"Lithuania","Number","From 35 to 44 years",2068,FALSE
+2014,"Lithuania","Number","From 45 to 54 years",3198,FALSE
+2014,"Lithuania","Number","From 55 to 64 years",3464,FALSE
+2014,"Luxembourg","Number","Total",1603,FALSE
+2014,"Luxembourg","Number","Less than 35 years",71,FALSE
+2014,"Luxembourg","Number","From 35 to 44 years",365,FALSE
+2014,"Luxembourg","Number","From 45 to 54 years",534,FALSE
+2014,"Luxembourg","Number","From 55 to 64 years",491,FALSE
+2014,"Hungary","Number","Total",32791,FALSE
+2014,"Hungary","Number","Less than 35 years",5674,FALSE
+2014,"Hungary","Number","From 35 to 44 years",5698,FALSE
+2014,"Hungary","Number","From 45 to 54 years",7101,FALSE
+2014,"Hungary","Number","From 55 to 64 years",8232,FALSE
+2014,"Malta","Number","Total",1566,FALSE
+2014,"Malta","Number","Less than 35 years",667,FALSE
+2014,"Malta","Number","From 35 to 44 years",283,FALSE
+2014,"Malta","Number","From 45 to 54 years",353,FALSE
+2014,"Malta","Number","From 55 to 64 years",175,FALSE
+2014,"Netherlands","Number","Total",57762,FALSE
+2014,"Netherlands","Number","Less than 35 years",16729,FALSE
+2014,"Netherlands","Number","From 35 to 44 years",14077,FALSE
+2014,"Netherlands","Number","From 45 to 54 years",12348,FALSE
+2014,"Netherlands","Number","From 55 to 64 years",12274,FALSE
+2014,"Austria","Number","Total",43126,FALSE
+2014,"Austria","Number","Less than 35 years",6716,FALSE
+2014,"Austria","Number","From 35 to 44 years",11067,FALSE
+2014,"Austria","Number","From 45 to 54 years",12103,FALSE
+2014,"Austria","Number","From 55 to 64 years",10261,FALSE
+2014,"Poland","Number","Total",87687,FALSE
+2014,"Poland","Number","Less than 35 years",2615,TRUE
+2014,"Poland","Number","From 35 to 44 years",6034,TRUE
+2014,"Poland","Number","From 45 to 54 years",8180,TRUE
+2014,"Poland","Number","From 55 to 64 years",8598,TRUE
+2014,"Portugal","Number","Total",46036,FALSE
+2014,"Portugal","Number","Less than 35 years",2615,TRUE
+2014,"Portugal","Number","From 35 to 44 years",6034,TRUE
+2014,"Portugal","Number","From 45 to 54 years",8180,TRUE
+2014,"Portugal","Number","From 55 to 64 years",8598,TRUE
+2014,"Romania","Number","Total",53720,FALSE
+2014,"Romania","Number","Less than 35 years",15721,FALSE
+2014,"Romania","Number","From 35 to 44 years",13193,FALSE
+2014,"Romania","Number","From 45 to 54 years",11887,FALSE
+2014,"Romania","Number","From 55 to 64 years",11133,FALSE
+2014,"Slovenia","Number","Total",5712,FALSE
+2014,"Slovenia","Number","Less than 35 years",1342,FALSE
+2014,"Slovenia","Number","From 35 to 44 years",1476,FALSE
+2014,"Slovenia","Number","From 45 to 54 years",1379,FALSE
+2014,"Slovenia","Number","From 55 to 64 years",1216,FALSE
+2014,"Slovakia","Number","Total",18574,FALSE
+2014,"Slovakia","Number","Less than 35 years",4026,FALSE
+2014,"Slovakia","Number","From 35 to 44 years",4268,FALSE
+2014,"Slovakia","Number","From 45 to 54 years",3609,FALSE
+2014,"Slovakia","Number","From 55 to 64 years",4883,FALSE
+2014,"Finland","Number","Total",18526,FALSE
+2014,"Finland","Number","Less than 35 years",3903,FALSE
+2014,"Finland","Number","From 35 to 44 years",4510,FALSE
+2014,"Finland","Number","From 45 to 54 years",5308,FALSE
+2014,"Finland","Number","From 55 to 64 years",4805,FALSE
+2014,"Sweden","Number","Total",39839,FALSE
+2014,"Sweden","Number","Less than 35 years",7571,FALSE
+2014,"Sweden","Number","From 35 to 44 years",10477,FALSE
+2014,"Sweden","Number","From 45 to 54 years",8343,FALSE
+2014,"Sweden","Number","From 55 to 64 years",8759,FALSE
+2014,"Iceland","Number","Total",1193,FALSE
+2014,"Iceland","Number","Less than 35 years",195,FALSE
+2014,"Iceland","Number","From 35 to 44 years",189,FALSE
+2014,"Iceland","Number","From 45 to 54 years",303,FALSE
+2014,"Iceland","Number","From 55 to 64 years",345,FALSE
+2014,"Liechtenstein","Number","Total",119,FALSE
+2014,"Liechtenstein","Number","Less than 35 years",2,FALSE
+2014,"Liechtenstein","Number","From 35 to 44 years",27,FALSE
+2014,"Liechtenstein","Number","From 45 to 54 years",43,FALSE
+2014,"Liechtenstein","Number","From 55 to 64 years",34,FALSE
+2014,"Norway","Number","Total",22754,FALSE
+2014,"Norway","Number","Less than 35 years",5912,FALSE
+2014,"Norway","Number","From 35 to 44 years",6400,FALSE
+2014,"Norway","Number","From 45 to 54 years",4452,FALSE
+2014,"Norway","Number","From 55 to 64 years",4095,FALSE
+2014,"Switzerland","Number","Total",33785,FALSE
+2014,"Switzerland","Number","Less than 35 years",4142,FALSE
+2014,"Switzerland","Number","From 35 to 44 years",8821,FALSE
+2014,"Switzerland","Number","From 45 to 54 years",9576,FALSE
+2014,"Switzerland","Number","From 55 to 64 years",8298,FALSE
+2014,"United Kingdom","Number","Total",176135,FALSE
+2014,"United Kingdom","Number","Less than 35 years",58326,FALSE
+2014,"United Kingdom","Number","From 35 to 44 years",52646,FALSE
+2014,"United Kingdom","Number","From 45 to 54 years",41161,FALSE
+2014,"United Kingdom","Number","From 55 to 64 years",19839,FALSE
+2014,"Montenegro","Number","Total",1370,FALSE
+2014,"Montenegro","Number","Less than 35 years",247,FALSE
+2014,"Montenegro","Number","From 35 to 44 years",436,FALSE
+2014,"Montenegro","Number","From 45 to 54 years",400,FALSE
+2014,"Montenegro","Number","From 55 to 64 years",287,FALSE
+2014,"North Macedonia","Number","Total",6035,FALSE
+2014,"North Macedonia","Number","Less than 35 years",1168,FALSE
+2014,"North Macedonia","Number","From 35 to 44 years",1389,FALSE
+2014,"North Macedonia","Number","From 45 to 54 years",1566,FALSE
+2014,"North Macedonia","Number","From 55 to 64 years",1912,FALSE
+2014,"Serbia","Number","Total",21900,FALSE
+2014,"Serbia","Number","Less than 35 years",3056,FALSE
+2014,"Serbia","Number","From 35 to 44 years",6468,FALSE
+2014,"Serbia","Number","From 45 to 54 years",6972,FALSE
+2014,"Serbia","Number","From 55 to 64 years",5310,FALSE
+2014,"Turkey","Number","Total",135616,FALSE
+2014,"Turkey","Number","Less than 35 years",42251,FALSE
+2014,"Turkey","Number","From 35 to 44 years",40008,FALSE
+2014,"Turkey","Number","From 45 to 54 years",30618,FALSE
+2014,"Turkey","Number","From 55 to 64 years",12570,FALSE
+2015,"European Union - 27 countries (from 2020)","Number","Total",1612767,FALSE
+2015,"European Union - 27 countries (from 2020)","Number","Less than 35 years",2943,TRUE
+2015,"European Union - 27 countries (from 2020)","Number","From 35 to 44 years",7781,TRUE
+2015,"European Union - 27 countries (from 2020)","Number","From 45 to 54 years",9456,TRUE
+2015,"European Union - 27 countries (from 2020)","Number","From 55 to 64 years",9502,TRUE
+2015,"European Union - 28 countries (2013-2020)","Number","Total",1791929,FALSE
+2015,"European Union - 28 countries (2013-2020)","Number","Less than 35 years",2943,TRUE
+2015,"European Union - 28 countries (2013-2020)","Number","From 35 to 44 years",7781,TRUE
+2015,"European Union - 28 countries (2013-2020)","Number","From 45 to 54 years",9456,TRUE
+2015,"European Union - 28 countries (2013-2020)","Number","From 55 to 64 years",9502,TRUE
+2015,"Belgium","Number","Total",34020,FALSE
+2015,"Belgium","Number","Less than 35 years",2926,FALSE
+2015,"Belgium","Number","From 35 to 44 years",7781,FALSE
+2015,"Belgium","Number","From 45 to 54 years",8192,FALSE
+2015,"Belgium","Number","From 55 to 64 years",9502,FALSE
+2015,"Bulgaria","Number","Total",29038,FALSE
+2015,"Bulgaria","Number","Less than 35 years",2943,FALSE
+2015,"Bulgaria","Number","From 35 to 44 years",3709,FALSE
+2015,"Bulgaria","Number","From 45 to 54 years",9456,FALSE
+2015,"Bulgaria","Number","From 55 to 64 years",9061,FALSE
+2015,"Czechia","Number","Total",38776,TRUE
+2015,"Czechia","Number","Less than 35 years",7430,TRUE
+2015,"Czechia","Number","From 35 to 44 years",8631,TRUE
+2015,"Czechia","Number","From 45 to 54 years",8656,TRUE
+2015,"Czechia","Number","From 55 to 64 years",9797,TRUE
+2015,"Denmark","Number","Total",22332,FALSE
+2015,"Denmark","Number","Less than 35 years",4272,FALSE
+2015,"Denmark","Number","From 35 to 44 years",6291,FALSE
+2015,"Denmark","Number","From 45 to 54 years",4352,FALSE
+2015,"Denmark","Number","From 55 to 64 years",5127,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","Total",338129,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","Less than 35 years",66887,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","From 35 to 44 years",40947,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","From 45 to 54 years",81804,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Number","From 55 to 64 years",130999,FALSE
+2015,"Estonia","Number","Total",4492,FALSE
+2015,"Estonia","Number","Less than 35 years",834,FALSE
+2015,"Estonia","Number","From 35 to 44 years",609,FALSE
+2015,"Estonia","Number","From 45 to 54 years",1047,FALSE
+2015,"Estonia","Number","From 55 to 64 years",1200,FALSE
+2015,"Ireland","Number","Total",14666,FALSE
+2015,"Ireland","Number","Less than 35 years",3969,FALSE
+2015,"Ireland","Number","From 35 to 44 years",4093,FALSE
+2015,"Ireland","Number","From 45 to 54 years",3354,FALSE
+2015,"Ireland","Number","From 55 to 64 years",2310,FALSE
+2015,"Greece","Number","Total",63866,FALSE
+2015,"Greece","Number","Less than 35 years",9947,FALSE
+2015,"Greece","Number","From 35 to 44 years",21457,FALSE
+2015,"Greece","Number","From 45 to 54 years",15295,FALSE
+2015,"Greece","Number","From 55 to 64 years",12991,FALSE
+2015,"Spain","Number","Total",178600,FALSE
+2015,"Spain","Number","Less than 35 years",34733,FALSE
+2015,"Spain","Number","From 35 to 44 years",44333,FALSE
+2015,"Spain","Number","From 45 to 54 years",44167,FALSE
+2015,"Spain","Number","From 55 to 64 years",48800,FALSE
+2015,"France","Number","Total",207789,FALSE
+2015,"France","Number","Less than 35 years",24232,FALSE
+2015,"France","Number","From 35 to 44 years",39090,FALSE
+2015,"France","Number","From 45 to 54 years",49892,FALSE
+2015,"France","Number","From 55 to 64 years",70762,FALSE
+2015,"Croatia","Number","Total",13430,FALSE
+2015,"Croatia","Number","Less than 35 years",3265,FALSE
+2015,"Croatia","Number","From 35 to 44 years",3009,FALSE
+2015,"Croatia","Number","From 45 to 54 years",3415,FALSE
+2015,"Croatia","Number","From 55 to 64 years",3384,FALSE
+2015,"Italy","Number","Total",233102,FALSE
+2015,"Italy","Number","Less than 35 years",19081,FALSE
+2015,"Italy","Number","From 35 to 44 years",38725,FALSE
+2015,"Italy","Number","From 45 to 54 years",51097,FALSE
+2015,"Italy","Number","From 55 to 64 years",99188,FALSE
+2015,"Cyprus","Number","Total",3046,FALSE
+2015,"Cyprus","Number","Less than 35 years",311,FALSE
+2015,"Cyprus","Number","From 35 to 44 years",704,FALSE
+2015,"Cyprus","Number","From 45 to 54 years",687,FALSE
+2015,"Cyprus","Number","From 55 to 64 years",879,FALSE
+2015,"Latvia","Number","Total",6324,FALSE
+2015,"Latvia","Number","Less than 35 years",904,FALSE
+2015,"Latvia","Number","From 35 to 44 years",809,FALSE
+2015,"Latvia","Number","From 45 to 54 years",1692,FALSE
+2015,"Latvia","Number","From 55 to 64 years",1842,FALSE
+2015,"Lithuania","Number","Total",13490,FALSE
+2015,"Lithuania","Number","Less than 35 years",3169,FALSE
+2015,"Lithuania","Number","From 35 to 44 years",2007,FALSE
+2015,"Lithuania","Number","From 45 to 54 years",3058,FALSE
+2015,"Lithuania","Number","From 55 to 64 years",3468,FALSE
+2015,"Luxembourg","Number","Total",1657,FALSE
+2015,"Luxembourg","Number","Less than 35 years",63,FALSE
+2015,"Luxembourg","Number","From 35 to 44 years",390,FALSE
+2015,"Luxembourg","Number","From 45 to 54 years",522,FALSE
+2015,"Luxembourg","Number","From 55 to 64 years",517,FALSE
+2015,"Hungary","Number","Total",30486,FALSE
+2015,"Hungary","Number","Less than 35 years",6203,FALSE
+2015,"Hungary","Number","From 35 to 44 years",5591,FALSE
+2015,"Hungary","Number","From 45 to 54 years",6332,FALSE
+2015,"Hungary","Number","From 55 to 64 years",7524,FALSE
+2015,"Malta","Number","Total",1636,FALSE
+2015,"Malta","Number","Less than 35 years",717,FALSE
+2015,"Malta","Number","From 35 to 44 years",295,FALSE
+2015,"Malta","Number","From 45 to 54 years",334,FALSE
+2015,"Malta","Number","From 55 to 64 years",205,FALSE
+2015,"Netherlands","Number","Total",59144,FALSE
+2015,"Netherlands","Number","Less than 35 years",17502,FALSE
+2015,"Netherlands","Number","From 35 to 44 years",14451,FALSE
+2015,"Netherlands","Number","From 45 to 54 years",12259,FALSE
+2015,"Netherlands","Number","From 55 to 64 years",12324,FALSE
+2015,"Austria","Number","Total",44002,FALSE
+2015,"Austria","Number","Less than 35 years",7280,FALSE
+2015,"Austria","Number","From 35 to 44 years",11504,FALSE
+2015,"Austria","Number","From 45 to 54 years",11898,FALSE
+2015,"Austria","Number","From 55 to 64 years",10492,FALSE
+2015,"Poland","Number","Total",88437,FALSE
+2015,"Poland","Number","Less than 35 years",2943,TRUE
+2015,"Poland","Number","From 35 to 44 years",6291,TRUE
+2015,"Poland","Number","From 45 to 54 years",8192,TRUE
+2015,"Poland","Number","From 55 to 64 years",9061,TRUE
+2015,"Portugal","Number","Total",47792,FALSE
+2015,"Portugal","Number","Less than 35 years",2943,TRUE
+2015,"Portugal","Number","From 35 to 44 years",6291,TRUE
+2015,"Portugal","Number","From 45 to 54 years",8192,TRUE
+2015,"Portugal","Number","From 55 to 64 years",9061,TRUE
+2015,"Romania","Number","Total",54807,FALSE
+2015,"Romania","Number","Less than 35 years",16155,FALSE
+2015,"Romania","Number","From 35 to 44 years",13601,FALSE
+2015,"Romania","Number","From 45 to 54 years",12085,FALSE
+2015,"Romania","Number","From 55 to 64 years",11115,FALSE
+2015,"Slovenia","Number","Total",5830,FALSE
+2015,"Slovenia","Number","Less than 35 years",1409,FALSE
+2015,"Slovenia","Number","From 35 to 44 years",1505,FALSE
+2015,"Slovenia","Number","From 45 to 54 years",1347,FALSE
+2015,"Slovenia","Number","From 55 to 64 years",1280,FALSE
+2015,"Slovakia","Number","Total",18719,FALSE
+2015,"Slovakia","Number","Less than 35 years",4149,FALSE
+2015,"Slovakia","Number","From 35 to 44 years",4125,FALSE
+2015,"Slovakia","Number","From 45 to 54 years",3712,FALSE
+2015,"Slovakia","Number","From 55 to 64 years",4785,FALSE
+2015,"Finland","Number","Total",18258,FALSE
+2015,"Finland","Number","Less than 35 years",3736,FALSE
+2015,"Finland","Number","From 35 to 44 years",4530,FALSE
+2015,"Finland","Number","From 45 to 54 years",5121,FALSE
+2015,"Finland","Number","From 55 to 64 years",4871,FALSE
+2015,"Sweden","Number","Total",40899,FALSE
+2015,"Sweden","Number","Less than 35 years",7884,FALSE
+2015,"Sweden","Number","From 35 to 44 years",11003,FALSE
+2015,"Sweden","Number","From 45 to 54 years",8427,FALSE
+2015,"Sweden","Number","From 55 to 64 years",8665,FALSE
+2015,"Iceland","Number","Total",1249,FALSE
+2015,"Iceland","Number","Less than 35 years",230,FALSE
+2015,"Iceland","Number","From 35 to 44 years",198,FALSE
+2015,"Iceland","Number","From 45 to 54 years",285,FALSE
+2015,"Iceland","Number","From 55 to 64 years",351,FALSE
+2015,"Liechtenstein","Number","Total",120,FALSE
+2015,"Liechtenstein","Number","Less than 35 years",4,FALSE
+2015,"Liechtenstein","Number","From 35 to 44 years",27,FALSE
+2015,"Liechtenstein","Number","From 45 to 54 years",42,FALSE
+2015,"Liechtenstein","Number","From 55 to 64 years",37,FALSE
+2015,"Norway","Number","Total",22848,FALSE
+2015,"Norway","Number","Less than 35 years",5982,FALSE
+2015,"Norway","Number","From 35 to 44 years",6719,FALSE
+2015,"Norway","Number","From 45 to 54 years",4378,FALSE
+2015,"Norway","Number","From 55 to 64 years",3930,FALSE
+2015,"Switzerland","Number","Total",34762,FALSE
+2015,"Switzerland","Number","Less than 35 years",4328,FALSE
+2015,"Switzerland","Number","From 35 to 44 years",8911,FALSE
+2015,"Switzerland","Number","From 45 to 54 years",9660,FALSE
+2015,"Switzerland","Number","From 55 to 64 years",8589,FALSE
+2015,"United Kingdom","Number","Total",179162,FALSE
+2015,"United Kingdom","Number","Less than 35 years",58108,FALSE
+2015,"United Kingdom","Number","From 35 to 44 years",52228,FALSE
+2015,"United Kingdom","Number","From 45 to 54 years",40445,FALSE
+2015,"United Kingdom","Number","From 55 to 64 years",19779,FALSE
+2015,"Montenegro","Number","Total",1490,FALSE
+2015,"Montenegro","Number","Less than 35 years",300,FALSE
+2015,"Montenegro","Number","From 35 to 44 years",478,FALSE
+2015,"Montenegro","Number","From 45 to 54 years",379,FALSE
+2015,"Montenegro","Number","From 55 to 64 years",333,FALSE
+2015,"North Macedonia","Number","Total",5975,FALSE
+2015,"North Macedonia","Number","Less than 35 years",1172,FALSE
+2015,"North Macedonia","Number","From 35 to 44 years",1416,FALSE
+2015,"North Macedonia","Number","From 45 to 54 years",1496,FALSE
+2015,"North Macedonia","Number","From 55 to 64 years",1891,FALSE
+2015,"Serbia","Number","Total",21840,FALSE
+2015,"Serbia","Number","Less than 35 years",2897,FALSE
+2015,"Serbia","Number","From 35 to 44 years",6492,FALSE
+2015,"Serbia","Number","From 45 to 54 years",6730,FALSE
+2015,"Serbia","Number","From 55 to 64 years",5644,FALSE
+2015,"Turkey","Number","Total",141259,FALSE
+2015,"Turkey","Number","Less than 35 years",44077,FALSE
+2015,"Turkey","Number","From 35 to 44 years",40065,FALSE
+2015,"Turkey","Number","From 45 to 54 years",32601,FALSE
+2015,"Turkey","Number","From 55 to 64 years",13488,FALSE
+2016,"European Union - 27 countries (from 2020)","Number","Total",1642461,FALSE
+2016,"European Union - 27 countries (from 2020)","Number","Less than 35 years",3421,TRUE
+2016,"European Union - 27 countries (from 2020)","Number","From 35 to 44 years",7664,TRUE
+2016,"European Union - 27 countries (from 2020)","Number","From 45 to 54 years",8573,TRUE
+2016,"European Union - 27 countries (from 2020)","Number","From 55 to 64 years",9968,TRUE
+2016,"European Union - 28 countries (2013-2020)","Number","Total",1823710,FALSE
+2016,"European Union - 28 countries (2013-2020)","Number","Less than 35 years",3421,TRUE
+2016,"European Union - 28 countries (2013-2020)","Number","From 35 to 44 years",7664,TRUE
+2016,"European Union - 28 countries (2013-2020)","Number","From 45 to 54 years",8573,TRUE
+2016,"European Union - 28 countries (2013-2020)","Number","From 55 to 64 years",9968,TRUE
+2016,"Belgium","Number","Total",34834,FALSE
+2016,"Belgium","Number","Less than 35 years",3275,FALSE
+2016,"Belgium","Number","From 35 to 44 years",7664,FALSE
+2016,"Belgium","Number","From 45 to 54 years",8258,FALSE
+2016,"Belgium","Number","From 55 to 64 years",9457,FALSE
+2016,"Bulgaria","Number","Total",29492,FALSE
+2016,"Bulgaria","Number","Less than 35 years",3421,FALSE
+2016,"Bulgaria","Number","From 35 to 44 years",3060,FALSE
+2016,"Bulgaria","Number","From 45 to 54 years",8573,FALSE
+2016,"Bulgaria","Number","From 55 to 64 years",9968,FALSE
+2016,"Czechia","Number","Total",38776,TRUE
+2016,"Czechia","Number","Less than 35 years",7430,TRUE
+2016,"Czechia","Number","From 35 to 44 years",8631,TRUE
+2016,"Czechia","Number","From 45 to 54 years",8656,TRUE
+2016,"Czechia","Number","From 55 to 64 years",9797,TRUE
+2016,"Denmark","Number","Total",22902,FALSE
+2016,"Denmark","Number","Less than 35 years",4603,FALSE
+2016,"Denmark","Number","From 35 to 44 years",6459,FALSE
+2016,"Denmark","Number","From 45 to 54 years",4394,FALSE
+2016,"Denmark","Number","From 55 to 64 years",5042,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","Total",344755,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","Less than 35 years",69019,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","From 35 to 44 years",41758,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","From 45 to 54 years",80976,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Number","From 55 to 64 years",133558,FALSE
+2016,"Estonia","Number","Total",4548,FALSE
+2016,"Estonia","Number","Less than 35 years",865,FALSE
+2016,"Estonia","Number","From 35 to 44 years",624,FALSE
+2016,"Estonia","Number","From 45 to 54 years",1008,FALSE
+2016,"Estonia","Number","From 55 to 64 years",1208,FALSE
+2016,"Ireland","Number","Total",15178,FALSE
+2016,"Ireland","Number","Less than 35 years",4136,FALSE
+2016,"Ireland","Number","From 35 to 44 years",4187,FALSE
+2016,"Ireland","Number","From 45 to 54 years",3436,FALSE
+2016,"Ireland","Number","From 55 to 64 years",2396,FALSE
+2016,"Greece","Number","Total",65972,FALSE
+2016,"Greece","Number","Less than 35 years",10264,FALSE
+2016,"Greece","Number","From 35 to 44 years",20810,FALSE
+2016,"Greece","Number","From 45 to 54 years",16538,FALSE
+2016,"Greece","Number","From 55 to 64 years",13675,FALSE
+2016,"Spain","Number","Total",177731,FALSE
+2016,"Spain","Number","Less than 35 years",35366,FALSE
+2016,"Spain","Number","From 35 to 44 years",43133,FALSE
+2016,"Spain","Number","From 45 to 54 years",40233,FALSE
+2016,"Spain","Number","From 55 to 64 years",51133,FALSE
+2016,"France","Number","Total",209367,FALSE
+2016,"France","Number","Less than 35 years",26322,FALSE
+2016,"France","Number","From 35 to 44 years",39464,FALSE
+2016,"France","Number","From 45 to 54 years",48068,FALSE
+2016,"France","Number","From 55 to 64 years",69506,FALSE
+2016,"Croatia","Number","Total",13504,FALSE
+2016,"Croatia","Number","Less than 35 years",3279,FALSE
+2016,"Croatia","Number","From 35 to 44 years",3040,FALSE
+2016,"Croatia","Number","From 45 to 54 years",3234,FALSE
+2016,"Croatia","Number","From 55 to 64 years",3538,FALSE
+2016,"Italy","Number","Total",239642,FALSE
+2016,"Italy","Number","Less than 35 years",20377,FALSE
+2016,"Italy","Number","From 35 to 44 years",40638,FALSE
+2016,"Italy","Number","From 45 to 54 years",48271,FALSE
+2016,"Italy","Number","From 55 to 64 years",98969,FALSE
+2016,"Cyprus","Number","Total",3209,FALSE
+2016,"Cyprus","Number","Less than 35 years",306,FALSE
+2016,"Cyprus","Number","From 35 to 44 years",767,FALSE
+2016,"Cyprus","Number","From 45 to 54 years",706,FALSE
+2016,"Cyprus","Number","From 55 to 64 years",902,FALSE
+2016,"Latvia","Number","Total",6295,FALSE
+2016,"Latvia","Number","Less than 35 years",996,FALSE
+2016,"Latvia","Number","From 35 to 44 years",757,FALSE
+2016,"Latvia","Number","From 45 to 54 years",1583,FALSE
+2016,"Latvia","Number","From 55 to 64 years",1854,FALSE
+2016,"Lithuania","Number","Total",13681,FALSE
+2016,"Lithuania","Number","Less than 35 years",3368,FALSE
+2016,"Lithuania","Number","From 35 to 44 years",2035,FALSE
+2016,"Lithuania","Number","From 45 to 54 years",2983,FALSE
+2016,"Lithuania","Number","From 55 to 64 years",3397,FALSE
+2016,"Luxembourg","Number","Total",1683,FALSE
+2016,"Luxembourg","Number","Less than 35 years",73,FALSE
+2016,"Luxembourg","Number","From 35 to 44 years",388,FALSE
+2016,"Luxembourg","Number","From 45 to 54 years",511,FALSE
+2016,"Luxembourg","Number","From 55 to 64 years",527,FALSE
+2016,"Hungary","Number","Total",31515,FALSE
+2016,"Hungary","Number","Less than 35 years",6381,FALSE
+2016,"Hungary","Number","From 35 to 44 years",5507,FALSE
+2016,"Hungary","Number","From 45 to 54 years",6315,FALSE
+2016,"Hungary","Number","From 55 to 64 years",7821,FALSE
+2016,"Malta","Number","Total",1743,FALSE
+2016,"Malta","Number","Less than 35 years",760,FALSE
+2016,"Malta","Number","From 35 to 44 years",332,FALSE
+2016,"Malta","Number","From 45 to 54 years",321,FALSE
+2016,"Malta","Number","From 55 to 64 years",244,FALSE
+2016,"Netherlands","Number","Total",60233,FALSE
+2016,"Netherlands","Number","Less than 35 years",18147,FALSE
+2016,"Netherlands","Number","From 35 to 44 years",14688,FALSE
+2016,"Netherlands","Number","From 45 to 54 years",12157,FALSE
+2016,"Netherlands","Number","From 55 to 64 years",12414,FALSE
+2016,"Austria","Number","Total",44816,FALSE
+2016,"Austria","Number","Less than 35 years",8452,FALSE
+2016,"Austria","Number","From 35 to 44 years",11813,FALSE
+2016,"Austria","Number","From 45 to 54 years",11912,FALSE
+2016,"Austria","Number","From 55 to 64 years",10207,FALSE
+2016,"Poland","Number","Total",91730,FALSE
+2016,"Poland","Number","Less than 35 years",3421,TRUE
+2016,"Poland","Number","From 35 to 44 years",6459,TRUE
+2016,"Poland","Number","From 45 to 54 years",8258,TRUE
+2016,"Poland","Number","From 55 to 64 years",9457,TRUE
+2016,"Portugal","Number","Total",49541,FALSE
+2016,"Portugal","Number","Less than 35 years",3421,TRUE
+2016,"Portugal","Number","From 35 to 44 years",6459,TRUE
+2016,"Portugal","Number","From 45 to 54 years",8258,TRUE
+2016,"Portugal","Number","From 55 to 64 years",9457,TRUE
+2016,"Romania","Number","Total",55975,FALSE
+2016,"Romania","Number","Less than 35 years",16680,FALSE
+2016,"Romania","Number","From 35 to 44 years",13677,FALSE
+2016,"Romania","Number","From 45 to 54 years",12336,FALSE
+2016,"Romania","Number","From 55 to 64 years",11100,FALSE
+2016,"Slovenia","Number","Total",6224,FALSE
+2016,"Slovenia","Number","Less than 35 years",1683,FALSE
+2016,"Slovenia","Number","From 35 to 44 years",1526,FALSE
+2016,"Slovenia","Number","From 45 to 54 years",1357,FALSE
+2016,"Slovenia","Number","From 55 to 64 years",1354,FALSE
+2016,"Slovakia","Number","Total",18864,FALSE
+2016,"Slovakia","Number","Less than 35 years",4264,FALSE
+2016,"Slovakia","Number","From 35 to 44 years",3862,FALSE
+2016,"Slovakia","Number","From 45 to 54 years",3958,FALSE
+2016,"Slovakia","Number","From 55 to 64 years",4603,FALSE
+2016,"Finland","Number","Total",18258,TRUE
+2016,"Finland","Number","Less than 35 years",3736,TRUE
+2016,"Finland","Number","From 35 to 44 years",4510,TRUE
+2016,"Finland","Number","From 45 to 54 years",5258,TRUE
+2016,"Finland","Number","From 55 to 64 years",4805,TRUE
+2016,"Sweden","Number","Total",41993,FALSE
+2016,"Sweden","Number","Less than 35 years",7966,FALSE
+2016,"Sweden","Number","From 35 to 44 years",11472,FALSE
+2016,"Sweden","Number","From 45 to 54 years",8632,FALSE
+2016,"Sweden","Number","From 55 to 64 years",8632,FALSE
+2016,"Iceland","Number","Total",1292,FALSE
+2016,"Iceland","Number","Less than 35 years",186,FALSE
+2016,"Iceland","Number","From 35 to 44 years",249,FALSE
+2016,"Iceland","Number","From 45 to 54 years",288,FALSE
+2016,"Iceland","Number","From 55 to 64 years",370,FALSE
+2016,"Liechtenstein","Number","Total",124,FALSE
+2016,"Liechtenstein","Number","Less than 35 years",5,FALSE
+2016,"Liechtenstein","Number","From 35 to 44 years",25,FALSE
+2016,"Liechtenstein","Number","From 45 to 54 years",45,FALSE
+2016,"Liechtenstein","Number","From 55 to 64 years",37,FALSE
+2016,"Norway","Number","Total",23619,FALSE
+2016,"Norway","Number","Less than 35 years",6177,FALSE
+2016,"Norway","Number","From 35 to 44 years",7021,FALSE
+2016,"Norway","Number","From 45 to 54 years",4473,FALSE
+2016,"Norway","Number","From 55 to 64 years",3990,FALSE
+2016,"Switzerland","Number","Total",35592,FALSE
+2016,"Switzerland","Number","Less than 35 years",4430,FALSE
+2016,"Switzerland","Number","From 35 to 44 years",8943,FALSE
+2016,"Switzerland","Number","From 45 to 54 years",9847,FALSE
+2016,"Switzerland","Number","From 55 to 64 years",8853,FALSE
+2016,"United Kingdom","Number","Total",181249,FALSE
+2016,"United Kingdom","Number","Less than 35 years",58657,FALSE
+2016,"United Kingdom","Number","From 35 to 44 years",52617,FALSE
+2016,"United Kingdom","Number","From 45 to 54 years",41051,FALSE
+2016,"United Kingdom","Number","From 55 to 64 years",20331,FALSE
+2016,"Montenegro","Number","Total",1616,FALSE
+2016,"Montenegro","Number","Less than 35 years",389,FALSE
+2016,"Montenegro","Number","From 35 to 44 years",494,FALSE
+2016,"Montenegro","Number","From 45 to 54 years",360,FALSE
+2016,"Montenegro","Number","From 55 to 64 years",373,FALSE
+2016,"North Macedonia","Number","Total",6210,FALSE
+2016,"North Macedonia","Number","Less than 35 years",1290,FALSE
+2016,"North Macedonia","Number","From 35 to 44 years",1531,FALSE
+2016,"North Macedonia","Number","From 45 to 54 years",1407,FALSE
+2016,"North Macedonia","Number","From 55 to 64 years",1982,FALSE
+2016,"Serbia","Number","Total",20853,FALSE
+2016,"Serbia","Number","Less than 35 years",2616,FALSE
+2016,"Serbia","Number","From 35 to 44 years",6296,FALSE
+2016,"Serbia","Number","From 45 to 54 years",6114,FALSE
+2016,"Serbia","Number","From 55 to 64 years",5756,FALSE
+2016,"Turkey","Number","Total",144827,FALSE
+2016,"Turkey","Number","Less than 35 years",45232,FALSE
+2016,"Turkey","Number","From 35 to 44 years",39777,FALSE
+2016,"Turkey","Number","From 45 to 54 years",33841,FALSE
+2016,"Turkey","Number","From 55 to 64 years",14377,FALSE
+2017,"European Union - 27 countries (from 2020)","Number","Total",1663238,FALSE
+2017,"European Union - 27 countries (from 2020)","Number","Less than 35 years",3744,TRUE
+2017,"European Union - 27 countries (from 2020)","Number","From 35 to 44 years",7566,TRUE
+2017,"European Union - 27 countries (from 2020)","Number","From 45 to 54 years",8293,TRUE
+2017,"European Union - 27 countries (from 2020)","Number","From 55 to 64 years",10385,TRUE
+2017,"European Union - 28 countries (2013-2020)","Number","Total",1847622,FALSE
+2017,"European Union - 28 countries (2013-2020)","Number","Less than 35 years",3744,TRUE
+2017,"European Union - 28 countries (2013-2020)","Number","From 35 to 44 years",7566,TRUE
+2017,"European Union - 28 countries (2013-2020)","Number","From 45 to 54 years",8293,TRUE
+2017,"European Union - 28 countries (2013-2020)","Number","From 55 to 64 years",10385,TRUE
+2017,"Belgium","Number","Total",35069,FALSE
+2017,"Belgium","Number","Less than 35 years",3586,FALSE
+2017,"Belgium","Number","From 35 to 44 years",7566,FALSE
+2017,"Belgium","Number","From 45 to 54 years",8293,FALSE
+2017,"Belgium","Number","From 55 to 64 years",9250,FALSE
+2017,"Bulgaria","Number","Total",30037,FALSE
+2017,"Bulgaria","Number","Less than 35 years",3744,FALSE
+2017,"Bulgaria","Number","From 35 to 44 years",2886,FALSE
+2017,"Bulgaria","Number","From 45 to 54 years",8164,FALSE
+2017,"Bulgaria","Number","From 55 to 64 years",10385,FALSE
+2017,"Czechia","Number","Total",38776,TRUE
+2017,"Czechia","Number","Less than 35 years",7430,TRUE
+2017,"Czechia","Number","From 35 to 44 years",8631,TRUE
+2017,"Czechia","Number","From 45 to 54 years",8656,TRUE
+2017,"Czechia","Number","From 55 to 64 years",9797,TRUE
+2017,"Denmark","Number","Total",23688,FALSE
+2017,"Denmark","Number","Less than 35 years",5084,FALSE
+2017,"Denmark","Number","From 35 to 44 years",6618,FALSE
+2017,"Denmark","Number","From 45 to 54 years",4558,FALSE
+2017,"Denmark","Number","From 55 to 64 years",4909,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","Total",351195,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","Less than 35 years",70682,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","From 35 to 44 years",43325,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","From 45 to 54 years",80318,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Number","From 55 to 64 years",135664,FALSE
+2017,"Estonia","Number","Total",4569,FALSE
+2017,"Estonia","Number","Less than 35 years",903,FALSE
+2017,"Estonia","Number","From 35 to 44 years",639,FALSE
+2017,"Estonia","Number","From 45 to 54 years",930,FALSE
+2017,"Estonia","Number","From 55 to 64 years",1204,FALSE
+2017,"Ireland","Number","Total",15660,FALSE
+2017,"Ireland","Number","Less than 35 years",4317,FALSE
+2017,"Ireland","Number","From 35 to 44 years",4327,FALSE
+2017,"Ireland","Number","From 45 to 54 years",3498,FALSE
+2017,"Ireland","Number","From 55 to 64 years",2448,FALSE
+2017,"Greece","Number","Total",65240,FALSE
+2017,"Greece","Number","Less than 35 years",9841,FALSE
+2017,"Greece","Number","From 35 to 44 years",18921,FALSE
+2017,"Greece","Number","From 45 to 54 years",17386,FALSE
+2017,"Greece","Number","From 55 to 64 years",13423,FALSE
+2017,"Spain","Number","Total",180633,FALSE
+2017,"Spain","Number","Less than 35 years",37134,FALSE
+2017,"Spain","Number","From 35 to 44 years",43166,FALSE
+2017,"Spain","Number","From 45 to 54 years",38766,FALSE
+2017,"Spain","Number","From 55 to 64 years",52400,FALSE
+2017,"France","Number","Total",211162,FALSE
+2017,"France","Number","Less than 35 years",29027,FALSE
+2017,"France","Number","From 35 to 44 years",40667,FALSE
+2017,"France","Number","From 45 to 54 years",46167,FALSE
+2017,"France","Number","From 55 to 64 years",67536,FALSE
+2017,"Croatia","Number","Total",13885,FALSE
+2017,"Croatia","Number","Less than 35 years",3482,FALSE
+2017,"Croatia","Number","From 35 to 44 years",3112,FALSE
+2017,"Croatia","Number","From 45 to 54 years",3216,FALSE
+2017,"Croatia","Number","From 55 to 64 years",3594,FALSE
+2017,"Italy","Number","Total",241512,FALSE
+2017,"Italy","Number","Less than 35 years",20652,FALSE
+2017,"Italy","Number","From 35 to 44 years",41789,FALSE
+2017,"Italy","Number","From 45 to 54 years",46123,FALSE
+2017,"Italy","Number","From 55 to 64 years",95419,FALSE
+2017,"Cyprus","Number","Total",3325,FALSE
+2017,"Cyprus","Number","Less than 35 years",327,FALSE
+2017,"Cyprus","Number","From 35 to 44 years",804,FALSE
+2017,"Cyprus","Number","From 45 to 54 years",705,FALSE
+2017,"Cyprus","Number","From 55 to 64 years",892,FALSE
+2017,"Latvia","Number","Total",6225,FALSE
+2017,"Latvia","Number","Less than 35 years",1079,FALSE
+2017,"Latvia","Number","From 35 to 44 years",687,FALSE
+2017,"Latvia","Number","From 45 to 54 years",1495,FALSE
+2017,"Latvia","Number","From 55 to 64 years",1870,FALSE
+2017,"Lithuania","Number","Total",13731,FALSE
+2017,"Lithuania","Number","Less than 35 years",3421,FALSE
+2017,"Lithuania","Number","From 35 to 44 years",2051,FALSE
+2017,"Lithuania","Number","From 45 to 54 years",2879,FALSE
+2017,"Lithuania","Number","From 55 to 64 years",3399,FALSE
+2017,"Luxembourg","Number","Total",1781,FALSE
+2017,"Luxembourg","Number","Less than 35 years",85,FALSE
+2017,"Luxembourg","Number","From 35 to 44 years",414,FALSE
+2017,"Luxembourg","Number","From 45 to 54 years",509,FALSE
+2017,"Luxembourg","Number","From 55 to 64 years",559,FALSE
+2017,"Hungary","Number","Total",32543,FALSE
+2017,"Hungary","Number","Less than 35 years",6628,FALSE
+2017,"Hungary","Number","From 35 to 44 years",5518,FALSE
+2017,"Hungary","Number","From 45 to 54 years",6296,FALSE
+2017,"Hungary","Number","From 55 to 64 years",7961,FALSE
+2017,"Malta","Number","Total",1855,FALSE
+2017,"Malta","Number","Less than 35 years",813,FALSE
+2017,"Malta","Number","From 35 to 44 years",360,FALSE
+2017,"Malta","Number","From 45 to 54 years",297,FALSE
+2017,"Malta","Number","From 55 to 64 years",292,FALSE
+2017,"Netherlands","Number","Total",61730,FALSE
+2017,"Netherlands","Number","Less than 35 years",19013,FALSE
+2017,"Netherlands","Number","From 35 to 44 years",14968,FALSE
+2017,"Netherlands","Number","From 45 to 54 years",12200,FALSE
+2017,"Netherlands","Number","From 55 to 64 years",12401,FALSE
+2017,"Austria","Number","Total",45596,FALSE
+2017,"Austria","Number","Less than 35 years",8610,FALSE
+2017,"Austria","Number","From 35 to 44 years",12098,FALSE
+2017,"Austria","Number","From 45 to 54 years",11337,FALSE
+2017,"Austria","Number","From 55 to 64 years",11000,FALSE
+2017,"Poland","Number","Total",90284,FALSE
+2017,"Poland","Number","Less than 35 years",3744,TRUE
+2017,"Poland","Number","From 35 to 44 years",6618,TRUE
+2017,"Poland","Number","From 45 to 54 years",8164,TRUE
+2017,"Poland","Number","From 55 to 64 years",9250,TRUE
+2017,"Portugal","Number","Total",51241,FALSE
+2017,"Portugal","Number","Less than 35 years",3744,TRUE
+2017,"Portugal","Number","From 35 to 44 years",6618,TRUE
+2017,"Portugal","Number","From 45 to 54 years",8164,TRUE
+2017,"Portugal","Number","From 55 to 64 years",9250,TRUE
+2017,"Romania","Number","Total",57329,FALSE
+2017,"Romania","Number","Less than 35 years",17423,FALSE
+2017,"Romania","Number","From 35 to 44 years",14133,FALSE
+2017,"Romania","Number","From 45 to 54 years",12312,FALSE
+2017,"Romania","Number","From 55 to 64 years",10866,FALSE
+2017,"Slovenia","Number","Total",6408,FALSE
+2017,"Slovenia","Number","Less than 35 years",1573,FALSE
+2017,"Slovenia","Number","From 35 to 44 years",1604,FALSE
+2017,"Slovenia","Number","From 45 to 54 years",1339,FALSE
+2017,"Slovenia","Number","From 55 to 64 years",1450,FALSE
+2017,"Slovakia","Number","Total",18608,FALSE
+2017,"Slovakia","Number","Less than 35 years",4260,FALSE
+2017,"Slovakia","Number","From 35 to 44 years",3654,FALSE
+2017,"Slovakia","Number","From 45 to 54 years",3988,FALSE
+2017,"Slovakia","Number","From 55 to 64 years",4339,FALSE
+2017,"Finland","Number","Total",18258,TRUE
+2017,"Finland","Number","Less than 35 years",3736,TRUE
+2017,"Finland","Number","From 35 to 44 years",4510,TRUE
+2017,"Finland","Number","From 45 to 54 years",5258,TRUE
+2017,"Finland","Number","From 55 to 64 years",4805,TRUE
+2017,"Sweden","Number","Total",42898,FALSE
+2017,"Sweden","Number","Less than 35 years",7441,FALSE
+2017,"Sweden","Number","From 35 to 44 years",11636,FALSE
+2017,"Sweden","Number","From 45 to 54 years",9004,FALSE
+2017,"Sweden","Number","From 55 to 64 years",8440,FALSE
+2017,"Iceland","Number","Total",1330,FALSE
+2017,"Iceland","Number","Less than 35 years",229,FALSE
+2017,"Iceland","Number","From 35 to 44 years",237,FALSE
+2017,"Iceland","Number","From 45 to 54 years",293,FALSE
+2017,"Iceland","Number","From 55 to 64 years",364,FALSE
+2017,"Liechtenstein","Number","Total",138,FALSE
+2017,"Liechtenstein","Number","Less than 35 years",11,FALSE
+2017,"Liechtenstein","Number","From 35 to 44 years",28,FALSE
+2017,"Liechtenstein","Number","From 45 to 54 years",42,FALSE
+2017,"Liechtenstein","Number","From 55 to 64 years",40,FALSE
+2017,"Norway","Number","Total",24583,FALSE
+2017,"Norway","Number","Less than 35 years",6445,FALSE
+2017,"Norway","Number","From 35 to 44 years",7292,FALSE
+2017,"Norway","Number","From 45 to 54 years",4694,FALSE
+2017,"Norway","Number","From 55 to 64 years",4058,FALSE
+2017,"Switzerland","Number","Total",36324,FALSE
+2017,"Switzerland","Number","Less than 35 years",4584,FALSE
+2017,"Switzerland","Number","From 35 to 44 years",8886,FALSE
+2017,"Switzerland","Number","From 45 to 54 years",9955,FALSE
+2017,"Switzerland","Number","From 55 to 64 years",9132,FALSE
+2017,"United Kingdom","Number","Total",184384,FALSE
+2017,"United Kingdom","Number","Less than 35 years",60009,FALSE
+2017,"United Kingdom","Number","From 35 to 44 years",53821,FALSE
+2017,"United Kingdom","Number","From 45 to 54 years",42732,FALSE
+2017,"United Kingdom","Number","From 55 to 64 years",21962,FALSE
+2017,"Montenegro","Number","Total",1659,FALSE
+2017,"Montenegro","Number","Less than 35 years",398,FALSE
+2017,"Montenegro","Number","From 35 to 44 years",498,FALSE
+2017,"Montenegro","Number","From 45 to 54 years",357,FALSE
+2017,"Montenegro","Number","From 55 to 64 years",406,FALSE
+2017,"North Macedonia","Number","Total",6219,FALSE
+2017,"North Macedonia","Number","Less than 35 years",1216,FALSE
+2017,"North Macedonia","Number","From 35 to 44 years",1571,FALSE
+2017,"North Macedonia","Number","From 45 to 54 years",1302,FALSE
+2017,"North Macedonia","Number","From 55 to 64 years",2130,FALSE
+2017,"Serbia","Number","Total",20773,FALSE
+2017,"Serbia","Number","Less than 35 years",2640,FALSE
+2017,"Serbia","Number","From 35 to 44 years",6196,FALSE
+2017,"Serbia","Number","From 45 to 54 years",5865,FALSE
+2017,"Serbia","Number","From 55 to 64 years",5992,FALSE
+2017,"Turkey","Number","Total",149997,FALSE
+2017,"Turkey","Number","Less than 35 years",46847,FALSE
+2017,"Turkey","Number","From 35 to 44 years",41197,FALSE
+2017,"Turkey","Number","From 45 to 54 years",35049,FALSE
+2017,"Turkey","Number","From 55 to 64 years",14890,FALSE
+2018,"European Union - 27 countries (from 2020)","Number","Total",1689621,FALSE
+2018,"European Union - 27 countries (from 2020)","Number","Less than 35 years",4111,TRUE
+2018,"European Union - 27 countries (from 2020)","Number","From 35 to 44 years",7618,TRUE
+2018,"European Union - 27 countries (from 2020)","Number","From 45 to 54 years",8195,TRUE
+2018,"European Union - 27 countries (from 2020)","Number","From 55 to 64 years",10249,TRUE
+2018,"European Union - 28 countries (2013-2020)","Number","Total",1878404,FALSE
+2018,"European Union - 28 countries (2013-2020)","Number","Less than 35 years",4111,TRUE
+2018,"European Union - 28 countries (2013-2020)","Number","From 35 to 44 years",7618,TRUE
+2018,"European Union - 28 countries (2013-2020)","Number","From 45 to 54 years",8195,TRUE
+2018,"European Union - 28 countries (2013-2020)","Number","From 55 to 64 years",10249,TRUE
+2018,"Belgium","Number","Total",35762,FALSE
+2018,"Belgium","Number","Less than 35 years",4111,FALSE
+2018,"Belgium","Number","From 35 to 44 years",7618,FALSE
+2018,"Belgium","Number","From 45 to 54 years",8195,FALSE
+2018,"Belgium","Number","From 55 to 64 years",9109,FALSE
+2018,"Bulgaria","Number","Total",29625,FALSE
+2018,"Bulgaria","Number","Less than 35 years",3936,FALSE
+2018,"Bulgaria","Number","From 35 to 44 years",2926,FALSE
+2018,"Bulgaria","Number","From 45 to 54 years",7642,FALSE
+2018,"Bulgaria","Number","From 55 to 64 years",10249,FALSE
+2018,"Czechia","Number","Total",42919,FALSE
+2018,"Czechia","Number","Less than 35 years",9675,FALSE
+2018,"Czechia","Number","From 35 to 44 years",9479,FALSE
+2018,"Czechia","Number","From 45 to 54 years",9488,FALSE
+2018,"Czechia","Number","From 55 to 64 years",8103,FALSE
+2018,"Denmark","Number","Total",24301,FALSE
+2018,"Denmark","Number","Less than 35 years",5514,FALSE
+2018,"Denmark","Number","From 35 to 44 years",6765,FALSE
+2018,"Denmark","Number","From 45 to 54 years",4670,FALSE
+2018,"Denmark","Number","From 55 to 64 years",4801,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","Total",357401,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","Less than 35 years",71792,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","From 35 to 44 years",45013,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","From 45 to 54 years",80045,FALSE
+2018,"Germany (until 1990 former territory of the FRG)","Number","From 55 to 64 years",137536,FALSE
+2018,"Estonia","Number","Total",4605,FALSE
+2018,"Estonia","Number","Less than 35 years",954,FALSE
+2018,"Estonia","Number","From 35 to 44 years",633,FALSE
+2018,"Estonia","Number","From 45 to 54 years",899,FALSE
+2018,"Estonia","Number","From 55 to 64 years",1214,FALSE
+2018,"Ireland","Number","Total",15962,FALSE
+2018,"Ireland","Number","Less than 35 years",4350,FALSE
+2018,"Ireland","Number","From 35 to 44 years",4000,FALSE
+2018,"Ireland","Number","From 45 to 54 years",3755,FALSE
+2018,"Ireland","Number","From 55 to 64 years",2595,FALSE
+2018,"Greece","Number","Total",65513,FALSE
+2018,"Greece","Number","Less than 35 years",10630,FALSE
+2018,"Greece","Number","From 35 to 44 years",17778,FALSE
+2018,"Greece","Number","From 45 to 54 years",17945,FALSE
+2018,"Greece","Number","From 55 to 64 years",13912,FALSE
+2018,"Spain","Number","Total",188166,FALSE
+2018,"Spain","Number","Less than 35 years",40133,FALSE
+2018,"Spain","Number","From 35 to 44 years",45200,FALSE
+2018,"Spain","Number","From 45 to 54 years",39967,FALSE
+2018,"Spain","Number","From 55 to 64 years",53100,FALSE
+2018,"France","Number","Total",212337,FALSE
+2018,"France","Number","Less than 35 years",31223,FALSE
+2018,"France","Number","From 35 to 44 years",41963,FALSE
+2018,"France","Number","From 45 to 54 years",44347,FALSE
+2018,"France","Number","From 55 to 64 years",65566,FALSE
+2018,"Croatia","Number","Total",14075,FALSE
+2018,"Croatia","Number","Less than 35 years",3710,FALSE
+2018,"Croatia","Number","From 35 to 44 years",3104,FALSE
+2018,"Croatia","Number","From 45 to 54 years",3168,FALSE
+2018,"Croatia","Number","From 55 to 64 years",3633,FALSE
+2018,"Italy","Number","Total",240301,FALSE
+2018,"Italy","Number","Less than 35 years",20708,FALSE
+2018,"Italy","Number","From 35 to 44 years",41420,FALSE
+2018,"Italy","Number","From 45 to 54 years",44142,FALSE
+2018,"Italy","Number","From 55 to 64 years",90636,FALSE
+2018,"Cyprus","Number","Total",3544,FALSE
+2018,"Cyprus","Number","Less than 35 years",353,FALSE
+2018,"Cyprus","Number","From 35 to 44 years",861,FALSE
+2018,"Cyprus","Number","From 45 to 54 years",746,FALSE
+2018,"Cyprus","Number","From 55 to 64 years",905,FALSE
+2018,"Latvia","Number","Total",6367,FALSE
+2018,"Latvia","Number","Less than 35 years",1306,FALSE
+2018,"Latvia","Number","From 35 to 44 years",653,FALSE
+2018,"Latvia","Number","From 45 to 54 years",1397,FALSE
+2018,"Latvia","Number","From 55 to 64 years",1901,FALSE
+2018,"Lithuania","Number","Total",12881,FALSE
+2018,"Lithuania","Number","Less than 35 years",3009,FALSE
+2018,"Lithuania","Number","From 35 to 44 years",1895,FALSE
+2018,"Lithuania","Number","From 45 to 54 years",2489,FALSE
+2018,"Lithuania","Number","From 55 to 64 years",3330,FALSE
+2018,"Luxembourg","Number","Total",1683,TRUE
+2018,"Luxembourg","Number","Less than 35 years",73,TRUE
+2018,"Luxembourg","Number","From 35 to 44 years",390,TRUE
+2018,"Luxembourg","Number","From 45 to 54 years",511,TRUE
+2018,"Luxembourg","Number","From 55 to 64 years",527,TRUE
+2018,"Hungary","Number","Total",33078,FALSE
+2018,"Hungary","Number","Less than 35 years",6976,FALSE
+2018,"Hungary","Number","From 35 to 44 years",5467,FALSE
+2018,"Hungary","Number","From 45 to 54 years",6051,FALSE
+2018,"Hungary","Number","From 55 to 64 years",7845,FALSE
+2018,"Malta","Number","Total",1925,FALSE
+2018,"Malta","Number","Less than 35 years",839,FALSE
+2018,"Malta","Number","From 35 to 44 years",382,FALSE
+2018,"Malta","Number","From 45 to 54 years",280,FALSE
+2018,"Malta","Number","From 55 to 64 years",325,FALSE
+2018,"Netherlands","Number","Total",63233,FALSE
+2018,"Netherlands","Number","Less than 35 years",20087,FALSE
+2018,"Netherlands","Number","From 35 to 44 years",15293,FALSE
+2018,"Netherlands","Number","From 45 to 54 years",12145,FALSE
+2018,"Netherlands","Number","From 55 to 64 years",12188,FALSE
+2018,"Austria","Number","Total",46337,FALSE
+2018,"Austria","Number","Less than 35 years",8670,FALSE
+2018,"Austria","Number","From 35 to 44 years",12255,FALSE
+2018,"Austria","Number","From 45 to 54 years",10831,FALSE
+2018,"Austria","Number","From 55 to 64 years",11772,FALSE
+2018,"Poland","Number","Total",90284,TRUE
+2018,"Poland","Number","Less than 35 years",4111,TRUE
+2018,"Poland","Number","From 35 to 44 years",7618,TRUE
+2018,"Poland","Number","From 45 to 54 years",8195,TRUE
+2018,"Poland","Number","From 55 to 64 years",9109,TRUE
+2018,"Portugal","Number","Total",52966,FALSE
+2018,"Portugal","Number","Less than 35 years",4111,TRUE
+2018,"Portugal","Number","From 35 to 44 years",7618,TRUE
+2018,"Portugal","Number","From 45 to 54 years",8195,TRUE
+2018,"Portugal","Number","From 55 to 64 years",9109,TRUE
+2018,"Romania","Number","Total",59333,FALSE
+2018,"Romania","Number","Less than 35 years",18572,FALSE
+2018,"Romania","Number","From 35 to 44 years",14314,FALSE
+2018,"Romania","Number","From 45 to 54 years",12535,FALSE
+2018,"Romania","Number","From 55 to 64 years",10718,FALSE
+2018,"Slovenia","Number","Total",6591,FALSE
+2018,"Slovenia","Number","Less than 35 years",1626,FALSE
+2018,"Slovenia","Number","From 35 to 44 years",1689,FALSE
+2018,"Slovenia","Number","From 45 to 54 years",1338,FALSE
+2018,"Slovenia","Number","From 55 to 64 years",1441,FALSE
+2018,"Slovakia","Number","Total",19178,FALSE
+2018,"Slovakia","Number","Less than 35 years",4343,FALSE
+2018,"Slovakia","Number","From 35 to 44 years",3718,FALSE
+2018,"Slovakia","Number","From 45 to 54 years",4369,FALSE
+2018,"Slovakia","Number","From 55 to 64 years",4028,FALSE
+2018,"Finland","Number","Total",18258,TRUE
+2018,"Finland","Number","Less than 35 years",3736,TRUE
+2018,"Finland","Number","From 35 to 44 years",4510,TRUE
+2018,"Finland","Number","From 45 to 54 years",5258,TRUE
+2018,"Finland","Number","From 55 to 64 years",4805,TRUE
+2018,"Sweden","Number","Total",41993,TRUE
+2018,"Sweden","Number","Less than 35 years",7884,TRUE
+2018,"Sweden","Number","From 35 to 44 years",11472,TRUE
+2018,"Sweden","Number","From 45 to 54 years",8632,TRUE
+2018,"Sweden","Number","From 55 to 64 years",8632,TRUE
+2018,"Iceland","Number","Total",1373,FALSE
+2018,"Iceland","Number","Less than 35 years",249,FALSE
+2018,"Iceland","Number","From 35 to 44 years",247,FALSE
+2018,"Iceland","Number","From 45 to 54 years",313,FALSE
+2018,"Iceland","Number","From 55 to 64 years",347,FALSE
+2018,"Liechtenstein","Number","Total",135,FALSE
+2018,"Liechtenstein","Number","Less than 35 years",9,FALSE
+2018,"Liechtenstein","Number","From 35 to 44 years",26,FALSE
+2018,"Liechtenstein","Number","From 45 to 54 years",42,FALSE
+2018,"Liechtenstein","Number","From 55 to 64 years",40,FALSE
+2018,"Norway","Number","Total",25538,FALSE
+2018,"Norway","Number","Less than 35 years",6672,FALSE
+2018,"Norway","Number","From 35 to 44 years",7590,FALSE
+2018,"Norway","Number","From 45 to 54 years",4966,FALSE
+2018,"Norway","Number","From 55 to 64 years",4037,FALSE
+2018,"Switzerland","Number","Total",36940,FALSE
+2018,"Switzerland","Number","Less than 35 years",4621,FALSE
+2018,"Switzerland","Number","From 35 to 44 years",8961,FALSE
+2018,"Switzerland","Number","From 45 to 54 years",9961,FALSE
+2018,"Switzerland","Number","From 55 to 64 years",9357,FALSE
+2018,"United Kingdom","Number","Total",188783,FALSE
+2018,"United Kingdom","Number","Less than 35 years",61415,FALSE
+2018,"United Kingdom","Number","From 35 to 44 years",55110,FALSE
+2018,"United Kingdom","Number","From 45 to 54 years",44513,FALSE
+2018,"United Kingdom","Number","From 55 to 64 years",23743,FALSE
+2018,"Montenegro","Number","Total",1730,FALSE
+2018,"Montenegro","Number","Less than 35 years",386,FALSE
+2018,"Montenegro","Number","From 35 to 44 years",550,FALSE
+2018,"Montenegro","Number","From 45 to 54 years",342,FALSE
+2018,"Montenegro","Number","From 55 to 64 years",452,FALSE
+2018,"North Macedonia","Number","Total",6210,TRUE
+2018,"North Macedonia","Number","Less than 35 years",1216,TRUE
+2018,"North Macedonia","Number","From 35 to 44 years",1531,TRUE
+2018,"North Macedonia","Number","From 45 to 54 years",1407,TRUE
+2018,"North Macedonia","Number","From 55 to 64 years",1982,TRUE
+2018,"Serbia","Number","Total",20824,FALSE
+2018,"Serbia","Number","Less than 35 years",2864,FALSE
+2018,"Serbia","Number","From 35 to 44 years",5867,FALSE
+2018,"Serbia","Number","From 45 to 54 years",5784,FALSE
+2018,"Serbia","Number","From 55 to 64 years",6197,FALSE
+2018,"Turkey","Number","Total",153128,FALSE
+2018,"Turkey","Number","Less than 35 years",47825,FALSE
+2018,"Turkey","Number","From 35 to 44 years",42057,FALSE
+2018,"Turkey","Number","From 45 to 54 years",35780,FALSE
+2018,"Turkey","Number","From 55 to 64 years",15201,FALSE
+2019,"European Union - 27 countries (from 2020)","Number","Total",1663238,TRUE
+2019,"European Union - 27 countries (from 2020)","Number","Less than 35 years",4939,TRUE
+2019,"European Union - 27 countries (from 2020)","Number","From 35 to 44 years",4022,TRUE
+2019,"European Union - 27 countries (from 2020)","Number","From 45 to 54 years",3725,TRUE
+2019,"European Union - 27 countries (from 2020)","Number","From 55 to 64 years",2551,TRUE
+2019,"European Union - 28 countries (2013-2020)","Number","Total",1847622,TRUE
+2019,"European Union - 28 countries (2013-2020)","Number","Less than 35 years",4939,TRUE
+2019,"European Union - 28 countries (2013-2020)","Number","From 35 to 44 years",4022,TRUE
+2019,"European Union - 28 countries (2013-2020)","Number","From 45 to 54 years",3725,TRUE
+2019,"European Union - 28 countries (2013-2020)","Number","From 55 to 64 years",2551,TRUE
+2019,"Belgium","Number","Total",35069,TRUE
+2019,"Belgium","Number","Less than 35 years",3586,TRUE
+2019,"Belgium","Number","From 35 to 44 years",7618,TRUE
+2019,"Belgium","Number","From 45 to 54 years",8258,TRUE
+2019,"Belgium","Number","From 55 to 64 years",9250,TRUE
+2019,"Bulgaria","Number","Total",29625,TRUE
+2019,"Bulgaria","Number","Less than 35 years",3744,TRUE
+2019,"Bulgaria","Number","From 35 to 44 years",2926,TRUE
+2019,"Bulgaria","Number","From 45 to 54 years",8164,TRUE
+2019,"Bulgaria","Number","From 55 to 64 years",10249,TRUE
+2019,"Czechia","Number","Total",38776,TRUE
+2019,"Czechia","Number","Less than 35 years",7430,TRUE
+2019,"Czechia","Number","From 35 to 44 years",8631,TRUE
+2019,"Czechia","Number","From 45 to 54 years",8656,TRUE
+2019,"Czechia","Number","From 55 to 64 years",9797,TRUE
+2019,"Denmark","Number","Total",23688,TRUE
+2019,"Denmark","Number","Less than 35 years",5084,TRUE
+2019,"Denmark","Number","From 35 to 44 years",6618,TRUE
+2019,"Denmark","Number","From 45 to 54 years",4558,TRUE
+2019,"Denmark","Number","From 55 to 64 years",4909,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","Total",351195,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","Less than 35 years",70682,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","From 35 to 44 years",43325,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","From 45 to 54 years",80318,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Number","From 55 to 64 years",135664,TRUE
+2019,"Estonia","Number","Total",4569,TRUE
+2019,"Estonia","Number","Less than 35 years",903,TRUE
+2019,"Estonia","Number","From 35 to 44 years",633,TRUE
+2019,"Estonia","Number","From 45 to 54 years",930,TRUE
+2019,"Estonia","Number","From 55 to 64 years",1208,TRUE
+2019,"Ireland","Number","Total",16366,FALSE
+2019,"Ireland","Number","Less than 35 years",4939,FALSE
+2019,"Ireland","Number","From 35 to 44 years",4022,FALSE
+2019,"Ireland","Number","From 45 to 54 years",3725,FALSE
+2019,"Ireland","Number","From 55 to 64 years",2551,FALSE
+2019,"Greece","Number","Total",65513,TRUE
+2019,"Greece","Number","Less than 35 years",10264,TRUE
+2019,"Greece","Number","From 35 to 44 years",18921,TRUE
+2019,"Greece","Number","From 45 to 54 years",17386,TRUE
+2019,"Greece","Number","From 55 to 64 years",13675,TRUE
+2019,"Spain","Number","Total",180633,TRUE
+2019,"Spain","Number","Less than 35 years",37134,TRUE
+2019,"Spain","Number","From 35 to 44 years",43166,TRUE
+2019,"Spain","Number","From 45 to 54 years",39967,TRUE
+2019,"Spain","Number","From 55 to 64 years",52400,TRUE
+2019,"France","Number","Total",211162,TRUE
+2019,"France","Number","Less than 35 years",29027,TRUE
+2019,"France","Number","From 35 to 44 years",40667,TRUE
+2019,"France","Number","From 45 to 54 years",46167,TRUE
+2019,"France","Number","From 55 to 64 years",67536,TRUE
+2019,"Croatia","Number","Total",13885,TRUE
+2019,"Croatia","Number","Less than 35 years",3482,TRUE
+2019,"Croatia","Number","From 35 to 44 years",3104,TRUE
+2019,"Croatia","Number","From 45 to 54 years",3216,TRUE
+2019,"Croatia","Number","From 55 to 64 years",3594,TRUE
+2019,"Italy","Number","Total",242595,FALSE
+2019,"Italy","Number","Less than 35 years",21345,FALSE
+2019,"Italy","Number","From 35 to 44 years",42314,FALSE
+2019,"Italy","Number","From 45 to 54 years",42629,FALSE
+2019,"Italy","Number","From 55 to 64 years",85586,FALSE
+2019,"Cyprus","Number","Total",3325,TRUE
+2019,"Cyprus","Number","Less than 35 years",327,TRUE
+2019,"Cyprus","Number","From 35 to 44 years",804,TRUE
+2019,"Cyprus","Number","From 45 to 54 years",706,TRUE
+2019,"Cyprus","Number","From 55 to 64 years",902,TRUE
+2019,"Latvia","Number","Total",6295,TRUE
+2019,"Latvia","Number","Less than 35 years",1079,TRUE
+2019,"Latvia","Number","From 35 to 44 years",687,TRUE
+2019,"Latvia","Number","From 45 to 54 years",1495,TRUE
+2019,"Latvia","Number","From 55 to 64 years",1870,TRUE
+2019,"Lithuania","Number","Total",13681,TRUE
+2019,"Lithuania","Number","Less than 35 years",3368,TRUE
+2019,"Lithuania","Number","From 35 to 44 years",2035,TRUE
+2019,"Lithuania","Number","From 45 to 54 years",2879,TRUE
+2019,"Lithuania","Number","From 55 to 64 years",3397,TRUE
+2019,"Luxembourg","Number","Total",1683,TRUE
+2019,"Luxembourg","Number","Less than 35 years",73,TRUE
+2019,"Luxembourg","Number","From 35 to 44 years",390,TRUE
+2019,"Luxembourg","Number","From 45 to 54 years",511,TRUE
+2019,"Luxembourg","Number","From 55 to 64 years",527,TRUE
+2019,"Hungary","Number","Total",32543,TRUE
+2019,"Hungary","Number","Less than 35 years",6628,TRUE
+2019,"Hungary","Number","From 35 to 44 years",5507,TRUE
+2019,"Hungary","Number","From 45 to 54 years",6296,TRUE
+2019,"Hungary","Number","From 55 to 64 years",7845,TRUE
+2019,"Malta","Number","Total",1855,TRUE
+2019,"Malta","Number","Less than 35 years",813,TRUE
+2019,"Malta","Number","From 35 to 44 years",360,TRUE
+2019,"Malta","Number","From 45 to 54 years",297,TRUE
+2019,"Malta","Number","From 55 to 64 years",292,TRUE
+2019,"Netherlands","Number","Total",61730,TRUE
+2019,"Netherlands","Number","Less than 35 years",19013,TRUE
+2019,"Netherlands","Number","From 35 to 44 years",14968,TRUE
+2019,"Netherlands","Number","From 45 to 54 years",12157,TRUE
+2019,"Netherlands","Number","From 55 to 64 years",12401,TRUE
+2019,"Austria","Number","Total",45596,TRUE
+2019,"Austria","Number","Less than 35 years",8610,TRUE
+2019,"Austria","Number","From 35 to 44 years",12098,TRUE
+2019,"Austria","Number","From 45 to 54 years",11337,TRUE
+2019,"Austria","Number","From 55 to 64 years",11000,TRUE
+2019,"Poland","Number","Total",90284,TRUE
+2019,"Poland","Number","Less than 35 years",4939,TRUE
+2019,"Poland","Number","From 35 to 44 years",4022,TRUE
+2019,"Poland","Number","From 45 to 54 years",3725,TRUE
+2019,"Poland","Number","From 55 to 64 years",2551,TRUE
+2019,"Portugal","Number","Total",51241,TRUE
+2019,"Portugal","Number","Less than 35 years",4939,TRUE
+2019,"Portugal","Number","From 35 to 44 years",4022,TRUE
+2019,"Portugal","Number","From 45 to 54 years",3725,TRUE
+2019,"Portugal","Number","From 55 to 64 years",2551,TRUE
+2019,"Romania","Number","Total",57329,TRUE
+2019,"Romania","Number","Less than 35 years",17423,TRUE
+2019,"Romania","Number","From 35 to 44 years",14133,TRUE
+2019,"Romania","Number","From 45 to 54 years",12336,TRUE
+2019,"Romania","Number","From 55 to 64 years",10866,TRUE
+2019,"Slovenia","Number","Total",6408,TRUE
+2019,"Slovenia","Number","Less than 35 years",1626,TRUE
+2019,"Slovenia","Number","From 35 to 44 years",1604,TRUE
+2019,"Slovenia","Number","From 45 to 54 years",1339,TRUE
+2019,"Slovenia","Number","From 55 to 64 years",1441,TRUE
+2019,"Slovakia","Number","Total",18864,TRUE
+2019,"Slovakia","Number","Less than 35 years",4264,TRUE
+2019,"Slovakia","Number","From 35 to 44 years",3718,TRUE
+2019,"Slovakia","Number","From 45 to 54 years",3988,TRUE
+2019,"Slovakia","Number","From 55 to 64 years",4339,TRUE
+2019,"Finland","Number","Total",18258,TRUE
+2019,"Finland","Number","Less than 35 years",3736,TRUE
+2019,"Finland","Number","From 35 to 44 years",4510,TRUE
+2019,"Finland","Number","From 45 to 54 years",5258,TRUE
+2019,"Finland","Number","From 55 to 64 years",4805,TRUE
+2019,"Sweden","Number","Total",41993,TRUE
+2019,"Sweden","Number","Less than 35 years",7884,TRUE
+2019,"Sweden","Number","From 35 to 44 years",11472,TRUE
+2019,"Sweden","Number","From 45 to 54 years",8632,TRUE
+2019,"Sweden","Number","From 55 to 64 years",8632,TRUE
+2019,"Iceland","Number","Total",1404,FALSE
+2019,"Iceland","Number","Less than 35 years",259,FALSE
+2019,"Iceland","Number","From 35 to 44 years",270,FALSE
+2019,"Iceland","Number","From 45 to 54 years",317,FALSE
+2019,"Iceland","Number","From 55 to 64 years",348,FALSE
+2019,"Liechtenstein","Number","Total",144,FALSE
+2019,"Liechtenstein","Number","Less than 35 years",11,FALSE
+2019,"Liechtenstein","Number","From 35 to 44 years",27,FALSE
+2019,"Liechtenstein","Number","From 45 to 54 years",45,FALSE
+2019,"Liechtenstein","Number","From 55 to 64 years",40,FALSE
+2019,"Norway","Number","Total",26276,FALSE
+2019,"Norway","Number","Less than 35 years",6751,FALSE
+2019,"Norway","Number","From 35 to 44 years",7873,FALSE
+2019,"Norway","Number","From 45 to 54 years",5225,FALSE
+2019,"Norway","Number","From 55 to 64 years",4058,FALSE
+2019,"Switzerland","Number","Total",36324,TRUE
+2019,"Switzerland","Number","Less than 35 years",4584,TRUE
+2019,"Switzerland","Number","From 35 to 44 years",8943,TRUE
+2019,"Switzerland","Number","From 45 to 54 years",9955,TRUE
+2019,"Switzerland","Number","From 55 to 64 years",9132,TRUE
+2019,"United Kingdom","Number","Total",195669,FALSE
+2019,"United Kingdom","Number","Less than 35 years",64992,FALSE
+2019,"United Kingdom","Number","From 35 to 44 years",57049,FALSE
+2019,"United Kingdom","Number","From 45 to 54 years",45065,FALSE
+2019,"United Kingdom","Number","From 55 to 64 years",23736,FALSE
+2019,"Montenegro","Number","Total",1659,TRUE
+2019,"Montenegro","Number","Less than 35 years",389,TRUE
+2019,"Montenegro","Number","From 35 to 44 years",498,TRUE
+2019,"Montenegro","Number","From 45 to 54 years",357,TRUE
+2019,"Montenegro","Number","From 55 to 64 years",406,TRUE
+2019,"North Macedonia","Number","Total",6210,TRUE
+2019,"North Macedonia","Number","Less than 35 years",1216,TRUE
+2019,"North Macedonia","Number","From 35 to 44 years",1531,TRUE
+2019,"North Macedonia","Number","From 45 to 54 years",1407,TRUE
+2019,"North Macedonia","Number","From 55 to 64 years",1982,TRUE
+2019,"Serbia","Number","Total",20824,TRUE
+2019,"Serbia","Number","Less than 35 years",2640,TRUE
+2019,"Serbia","Number","From 35 to 44 years",6196,TRUE
+2019,"Serbia","Number","From 45 to 54 years",5865,TRUE
+2019,"Serbia","Number","From 55 to 64 years",5992,TRUE
+2019,"Turkey","Number","Total",149997,TRUE
+2019,"Turkey","Number","Less than 35 years",46847,TRUE
+2019,"Turkey","Number","From 35 to 44 years",41197,TRUE
+2019,"Turkey","Number","From 45 to 54 years",35049,TRUE
+2019,"Turkey","Number","From 55 to 64 years",14890,TRUE

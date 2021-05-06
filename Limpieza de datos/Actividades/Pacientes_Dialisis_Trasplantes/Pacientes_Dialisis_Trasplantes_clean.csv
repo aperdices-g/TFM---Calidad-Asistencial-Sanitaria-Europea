@@ -1,0 +1,1741 @@
+"TIME","GEO","UNIT","ICD9CM","Value","Value_imp"
+2005,"Belgium","Number","Transplantation of kidney and haemodialysis",10371,FALSE
+2005,"Belgium","Number","Haemodialysis",6192,FALSE
+2005,"Belgium","Number","Transplantation of kidney",4179,FALSE
+2005,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.97,FALSE
+2005,"Belgium","Per hundred thousand inhabitants","Haemodialysis",59.09,FALSE
+2005,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney",39.88,FALSE
+2005,"Bulgaria","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2005,"Bulgaria","Number","Haemodialysis",6192,TRUE
+2005,"Bulgaria","Number","Transplantation of kidney",1681,TRUE
+2005,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.97,TRUE
+2005,"Bulgaria","Per hundred thousand inhabitants","Haemodialysis",59.09,TRUE
+2005,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney",31.02,TRUE
+2005,"Czechia","Number","Transplantation of kidney and haemodialysis",9956,TRUE
+2005,"Czechia","Number","Haemodialysis",5733,FALSE
+2005,"Czechia","Number","Transplantation of kidney",3687,TRUE
+2005,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",95.51,TRUE
+2005,"Czechia","Per hundred thousand inhabitants","Haemodialysis",56.01,FALSE
+2005,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney",35.37,TRUE
+2005,"Denmark","Number","Transplantation of kidney and haemodialysis",4205,FALSE
+2005,"Denmark","Number","Haemodialysis",2524,FALSE
+2005,"Denmark","Number","Transplantation of kidney",1681,FALSE
+2005,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",77.59,FALSE
+2005,"Denmark","Per hundred thousand inhabitants","Haemodialysis",46.57,FALSE
+2005,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney",31.02,FALSE
+2005,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney and haemodialysis",87151,FALSE
+2005,"Germany (until 1990 former territory of the FRG)","Number","Haemodialysis",63427,FALSE
+2005,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney",23724,FALSE
+2005,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",105.68,FALSE
+2005,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Haemodialysis",76.91,FALSE
+2005,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney",28.77,FALSE
+2005,"Estonia","Number","Transplantation of kidney and haemodialysis",10371,TRUE
+2005,"Estonia","Number","Haemodialysis",5733,TRUE
+2005,"Estonia","Number","Transplantation of kidney",395,TRUE
+2005,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.97,TRUE
+2005,"Estonia","Per hundred thousand inhabitants","Haemodialysis",56.01,TRUE
+2005,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney",29.47,TRUE
+2005,"Ireland","Number","Transplantation of kidney and haemodialysis",3329,TRUE
+2005,"Ireland","Number","Haemodialysis",1343,FALSE
+2005,"Ireland","Number","Transplantation of kidney",1728,TRUE
+2005,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",75.22,TRUE
+2005,"Ireland","Per hundred thousand inhabitants","Haemodialysis",32.28,FALSE
+2005,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney",39.04,TRUE
+2005,"Greece","Number","Transplantation of kidney and haemodialysis",10648,FALSE
+2005,"Greece","Number","Haemodialysis",8634,FALSE
+2005,"Greece","Number","Transplantation of kidney",2014,FALSE
+2005,"Greece","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",95.89,FALSE
+2005,"Greece","Per hundred thousand inhabitants","Haemodialysis",77.76,FALSE
+2005,"Greece","Per hundred thousand inhabitants","Transplantation of kidney",18.14,FALSE
+2005,"Spain","Number","Transplantation of kidney and haemodialysis",39532,FALSE
+2005,"Spain","Number","Haemodialysis",21385,FALSE
+2005,"Spain","Number","Transplantation of kidney",18147,FALSE
+2005,"Spain","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",91.09,FALSE
+2005,"Spain","Per hundred thousand inhabitants","Haemodialysis",49.28,FALSE
+2005,"Spain","Per hundred thousand inhabitants","Transplantation of kidney",41.82,FALSE
+2005,"France","Number","Transplantation of kidney and haemodialysis",57325,FALSE
+2005,"France","Number","Haemodialysis",32652,FALSE
+2005,"France","Number","Transplantation of kidney",24673,FALSE
+2005,"France","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.99,FALSE
+2005,"France","Per hundred thousand inhabitants","Haemodialysis",51.83,FALSE
+2005,"France","Per hundred thousand inhabitants","Transplantation of kidney",39.16,FALSE
+2005,"Croatia","Number","Transplantation of kidney and haemodialysis",3708,FALSE
+2005,"Croatia","Number","Haemodialysis",2970,FALSE
+2005,"Croatia","Number","Transplantation of kidney",738,FALSE
+2005,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",83.45,FALSE
+2005,"Croatia","Per hundred thousand inhabitants","Haemodialysis",66.84,FALSE
+2005,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney",16.61,FALSE
+2005,"Italy","Number","Transplantation of kidney and haemodialysis",48873,FALSE
+2005,"Italy","Number","Haemodialysis",41478,FALSE
+2005,"Italy","Number","Transplantation of kidney",7395,FALSE
+2005,"Italy","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",83.39,FALSE
+2005,"Italy","Per hundred thousand inhabitants","Haemodialysis",70.77,FALSE
+2005,"Italy","Per hundred thousand inhabitants","Transplantation of kidney",12.62,FALSE
+2005,"Lithuania","Number","Transplantation of kidney and haemodialysis",2671,TRUE
+2005,"Lithuania","Number","Haemodialysis",1888,TRUE
+2005,"Lithuania","Number","Transplantation of kidney",353,FALSE
+2005,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.31,TRUE
+2005,"Lithuania","Per hundred thousand inhabitants","Haemodialysis",60.75,TRUE
+2005,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney",10.34,FALSE
+2005,"Luxembourg","Number","Transplantation of kidney and haemodialysis",10371,TRUE
+2005,"Luxembourg","Number","Haemodialysis",207,FALSE
+2005,"Luxembourg","Number","Transplantation of kidney",4179,TRUE
+2005,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.97,TRUE
+2005,"Luxembourg","Per hundred thousand inhabitants","Haemodialysis",44.5,FALSE
+2005,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney",31.02,TRUE
+2005,"Hungary","Number","Transplantation of kidney and haemodialysis",7323,FALSE
+2005,"Hungary","Number","Haemodialysis",5476,FALSE
+2005,"Hungary","Number","Transplantation of kidney",1847,FALSE
+2005,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",72.6,FALSE
+2005,"Hungary","Per hundred thousand inhabitants","Haemodialysis",54.29,FALSE
+2005,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney",18.31,FALSE
+2005,"Malta","Number","Transplantation of kidney and haemodialysis",10371,TRUE
+2005,"Malta","Number","Haemodialysis",5733,TRUE
+2005,"Malta","Number","Transplantation of kidney",4179,TRUE
+2005,"Malta","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.97,TRUE
+2005,"Malta","Per hundred thousand inhabitants","Haemodialysis",59.09,TRUE
+2005,"Malta","Per hundred thousand inhabitants","Transplantation of kidney",31.02,TRUE
+2005,"Netherlands","Number","Transplantation of kidney and haemodialysis",11238,FALSE
+2005,"Netherlands","Number","Haemodialysis",5327,FALSE
+2005,"Netherlands","Number","Transplantation of kidney",5911,FALSE
+2005,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",68.86,FALSE
+2005,"Netherlands","Per hundred thousand inhabitants","Haemodialysis",32.64,FALSE
+2005,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney",36.22,FALSE
+2005,"Austria","Number","Transplantation of kidney and haemodialysis",7242,FALSE
+2005,"Austria","Number","Haemodialysis",3742,FALSE
+2005,"Austria","Number","Transplantation of kidney",3500,FALSE
+2005,"Austria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",88.02,FALSE
+2005,"Austria","Per hundred thousand inhabitants","Haemodialysis",45.48,FALSE
+2005,"Austria","Per hundred thousand inhabitants","Transplantation of kidney",42.54,FALSE
+2005,"Poland","Number","Transplantation of kidney and haemodialysis",10371,TRUE
+2005,"Poland","Number","Haemodialysis",24418,FALSE
+2005,"Poland","Number","Transplantation of kidney",4179,TRUE
+2005,"Poland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.97,TRUE
+2005,"Poland","Per hundred thousand inhabitants","Haemodialysis",63.98,FALSE
+2005,"Poland","Per hundred thousand inhabitants","Transplantation of kidney",31.02,TRUE
+2005,"Portugal","Number","Transplantation of kidney and haemodialysis",13237,FALSE
+2005,"Portugal","Number","Haemodialysis",8829,FALSE
+2005,"Portugal","Number","Transplantation of kidney",4408,FALSE
+2005,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",125.48,FALSE
+2005,"Portugal","Per hundred thousand inhabitants","Haemodialysis",83.69,FALSE
+2005,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney",41.78,FALSE
+2005,"Romania","Number","Transplantation of kidney and haemodialysis",7994,FALSE
+2005,"Romania","Number","Haemodialysis",7994,FALSE
+2005,"Romania","Number","Transplantation of kidney",2240,TRUE
+2005,"Romania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",36.95,FALSE
+2005,"Romania","Per hundred thousand inhabitants","Haemodialysis",36.95,FALSE
+2005,"Romania","Per hundred thousand inhabitants","Transplantation of kidney",31.02,TRUE
+2005,"Slovakia","Number","Transplantation of kidney and haemodialysis",3600,FALSE
+2005,"Slovakia","Number","Haemodialysis",2790,FALSE
+2005,"Slovakia","Number","Transplantation of kidney",810,FALSE
+2005,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",66.83,FALSE
+2005,"Slovakia","Per hundred thousand inhabitants","Haemodialysis",51.79,FALSE
+2005,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney",15.04,FALSE
+2005,"Finland","Number","Transplantation of kidney and haemodialysis",3754,FALSE
+2005,"Finland","Number","Haemodialysis",1560,FALSE
+2005,"Finland","Number","Transplantation of kidney",2194,FALSE
+2005,"Finland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",71.56,FALSE
+2005,"Finland","Per hundred thousand inhabitants","Haemodialysis",29.74,FALSE
+2005,"Finland","Per hundred thousand inhabitants","Transplantation of kidney",41.82,FALSE
+2005,"Iceland","Number","Transplantation of kidney and haemodialysis",143,FALSE
+2005,"Iceland","Number","Haemodialysis",59,FALSE
+2005,"Iceland","Number","Transplantation of kidney",84,FALSE
+2005,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",48.19,FALSE
+2005,"Iceland","Per hundred thousand inhabitants","Haemodialysis",19.88,FALSE
+2005,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney",28.31,FALSE
+2005,"Liechtenstein","Number","Transplantation of kidney and haemodialysis",0,TRUE
+2005,"Liechtenstein","Number","Haemodialysis",0,TRUE
+2005,"Liechtenstein","Number","Transplantation of kidney",0,TRUE
+2005,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",0,TRUE
+2005,"Liechtenstein","Per hundred thousand inhabitants","Haemodialysis",0,TRUE
+2005,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney",0,TRUE
+2005,"Switzerland","Number","Transplantation of kidney and haemodialysis",10371,TRUE
+2005,"Switzerland","Number","Haemodialysis",5733,TRUE
+2005,"Switzerland","Number","Transplantation of kidney",4179,TRUE
+2005,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.97,TRUE
+2005,"Switzerland","Per hundred thousand inhabitants","Haemodialysis",56.01,TRUE
+2005,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney",31.02,TRUE
+2005,"United Kingdom","Number","Transplantation of kidney and haemodialysis",41776,FALSE
+2005,"United Kingdom","Number","Haemodialysis",22702,FALSE
+2005,"United Kingdom","Number","Transplantation of kidney",19074,FALSE
+2005,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",69.37,FALSE
+2005,"United Kingdom","Per hundred thousand inhabitants","Haemodialysis",37.7,FALSE
+2005,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney",31.67,FALSE
+2005,"Serbia","Number","Transplantation of kidney and haemodialysis",10371,TRUE
+2005,"Serbia","Number","Haemodialysis",4369,TRUE
+2005,"Serbia","Number","Transplantation of kidney",4179,TRUE
+2005,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.97,TRUE
+2005,"Serbia","Per hundred thousand inhabitants","Haemodialysis",59.44,TRUE
+2005,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney",31.02,TRUE
+2005,"Turkey","Number","Transplantation of kidney and haemodialysis",60635,TRUE
+2005,"Turkey","Number","Haemodialysis",38235,FALSE
+2005,"Turkey","Number","Transplantation of kidney",5743,TRUE
+2005,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",80.52,TRUE
+2005,"Turkey","Per hundred thousand inhabitants","Haemodialysis",53.06,FALSE
+2005,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney",7.64,TRUE
+2006,"Belgium","Number","Transplantation of kidney and haemodialysis",10948,FALSE
+2006,"Belgium","Number","Haemodialysis",6475,FALSE
+2006,"Belgium","Number","Transplantation of kidney",4473,FALSE
+2006,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,FALSE
+2006,"Belgium","Per hundred thousand inhabitants","Haemodialysis",61.39,FALSE
+2006,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney",42.41,FALSE
+2006,"Bulgaria","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2006,"Bulgaria","Number","Haemodialysis",6475,TRUE
+2006,"Bulgaria","Number","Transplantation of kidney",1733,TRUE
+2006,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2006,"Bulgaria","Per hundred thousand inhabitants","Haemodialysis",61.39,TRUE
+2006,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney",31.87,TRUE
+2006,"Czechia","Number","Transplantation of kidney and haemodialysis",9956,TRUE
+2006,"Czechia","Number","Haemodialysis",5878,FALSE
+2006,"Czechia","Number","Transplantation of kidney",3687,TRUE
+2006,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",95.51,TRUE
+2006,"Czechia","Per hundred thousand inhabitants","Haemodialysis",57.24,FALSE
+2006,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney",35.37,TRUE
+2006,"Denmark","Number","Transplantation of kidney and haemodialysis",4288,FALSE
+2006,"Denmark","Number","Haemodialysis",2555,FALSE
+2006,"Denmark","Number","Transplantation of kidney",1733,FALSE
+2006,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",78.86,FALSE
+2006,"Denmark","Per hundred thousand inhabitants","Haemodialysis",46.99,FALSE
+2006,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney",31.87,FALSE
+2006,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney and haemodialysis",91718,FALSE
+2006,"Germany (until 1990 former territory of the FRG)","Number","Haemodialysis",66508,FALSE
+2006,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney",25210,FALSE
+2006,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",111.34,FALSE
+2006,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Haemodialysis",80.74,FALSE
+2006,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney",30.6,FALSE
+2006,"Estonia","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2006,"Estonia","Number","Haemodialysis",5878,TRUE
+2006,"Estonia","Number","Transplantation of kidney",395,TRUE
+2006,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2006,"Estonia","Per hundred thousand inhabitants","Haemodialysis",57.24,TRUE
+2006,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney",29.47,TRUE
+2006,"Ireland","Number","Transplantation of kidney and haemodialysis",3329,TRUE
+2006,"Ireland","Number","Haemodialysis",1475,FALSE
+2006,"Ireland","Number","Transplantation of kidney",1728,TRUE
+2006,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",75.22,TRUE
+2006,"Ireland","Per hundred thousand inhabitants","Haemodialysis",34.62,FALSE
+2006,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney",39.04,TRUE
+2006,"Greece","Number","Transplantation of kidney and haemodialysis",10970,FALSE
+2006,"Greece","Number","Haemodialysis",8844,FALSE
+2006,"Greece","Number","Transplantation of kidney",2126,FALSE
+2006,"Greece","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.4,FALSE
+2006,"Greece","Per hundred thousand inhabitants","Haemodialysis",79.33,FALSE
+2006,"Greece","Per hundred thousand inhabitants","Transplantation of kidney",19.07,FALSE
+2006,"Spain","Number","Transplantation of kidney and haemodialysis",40252,FALSE
+2006,"Spain","Number","Haemodialysis",21395,FALSE
+2006,"Spain","Number","Transplantation of kidney",18857,FALSE
+2006,"Spain","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",91.24,FALSE
+2006,"Spain","Per hundred thousand inhabitants","Haemodialysis",48.5,FALSE
+2006,"Spain","Per hundred thousand inhabitants","Transplantation of kidney",42.74,FALSE
+2006,"France","Number","Transplantation of kidney and haemodialysis",57325,TRUE
+2006,"France","Number","Haemodialysis",32600,TRUE
+2006,"France","Number","Transplantation of kidney",25699,TRUE
+2006,"France","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.99,TRUE
+2006,"France","Per hundred thousand inhabitants","Haemodialysis",51.08,TRUE
+2006,"France","Per hundred thousand inhabitants","Transplantation of kidney",40.04,TRUE
+2006,"Croatia","Number","Transplantation of kidney and haemodialysis",3799,FALSE
+2006,"Croatia","Number","Haemodialysis",2963,FALSE
+2006,"Croatia","Number","Transplantation of kidney",836,FALSE
+2006,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.52,FALSE
+2006,"Croatia","Per hundred thousand inhabitants","Haemodialysis",66.7,FALSE
+2006,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney",18.82,FALSE
+2006,"Italy","Number","Transplantation of kidney and haemodialysis",52395,FALSE
+2006,"Italy","Number","Haemodialysis",43605,FALSE
+2006,"Italy","Number","Transplantation of kidney",8790,FALSE
+2006,"Italy","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",88.89,FALSE
+2006,"Italy","Per hundred thousand inhabitants","Haemodialysis",73.98,FALSE
+2006,"Italy","Per hundred thousand inhabitants","Transplantation of kidney",14.91,FALSE
+2006,"Lithuania","Number","Transplantation of kidney and haemodialysis",2671,TRUE
+2006,"Lithuania","Number","Haemodialysis",1888,TRUE
+2006,"Lithuania","Number","Transplantation of kidney",406,FALSE
+2006,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.31,TRUE
+2006,"Lithuania","Per hundred thousand inhabitants","Haemodialysis",61.39,TRUE
+2006,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney",11.96,FALSE
+2006,"Luxembourg","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2006,"Luxembourg","Number","Haemodialysis",218,FALSE
+2006,"Luxembourg","Number","Transplantation of kidney",4473,TRUE
+2006,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2006,"Luxembourg","Per hundred thousand inhabitants","Haemodialysis",46.12,FALSE
+2006,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney",31.87,TRUE
+2006,"Hungary","Number","Transplantation of kidney and haemodialysis",7758,FALSE
+2006,"Hungary","Number","Haemodialysis",5707,FALSE
+2006,"Hungary","Number","Transplantation of kidney",2051,FALSE
+2006,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",77.03,FALSE
+2006,"Hungary","Per hundred thousand inhabitants","Haemodialysis",56.67,FALSE
+2006,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney",20.36,FALSE
+2006,"Malta","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2006,"Malta","Number","Haemodialysis",519,TRUE
+2006,"Malta","Number","Transplantation of kidney",4473,TRUE
+2006,"Malta","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2006,"Malta","Per hundred thousand inhabitants","Haemodialysis",61.39,TRUE
+2006,"Malta","Per hundred thousand inhabitants","Transplantation of kidney",31.87,TRUE
+2006,"Netherlands","Number","Transplantation of kidney and haemodialysis",11757,FALSE
+2006,"Netherlands","Number","Haemodialysis",5514,FALSE
+2006,"Netherlands","Number","Transplantation of kidney",6243,FALSE
+2006,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",71.93,FALSE
+2006,"Netherlands","Per hundred thousand inhabitants","Haemodialysis",33.73,FALSE
+2006,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney",38.19,FALSE
+2006,"Austria","Number","Transplantation of kidney and haemodialysis",7544,FALSE
+2006,"Austria","Number","Haemodialysis",3881,FALSE
+2006,"Austria","Number","Transplantation of kidney",3663,FALSE
+2006,"Austria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",91.24,FALSE
+2006,"Austria","Per hundred thousand inhabitants","Haemodialysis",46.94,FALSE
+2006,"Austria","Per hundred thousand inhabitants","Transplantation of kidney",44.3,FALSE
+2006,"Poland","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2006,"Poland","Number","Haemodialysis",25213,FALSE
+2006,"Poland","Number","Transplantation of kidney",4473,TRUE
+2006,"Poland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2006,"Poland","Per hundred thousand inhabitants","Haemodialysis",66.1,FALSE
+2006,"Poland","Per hundred thousand inhabitants","Transplantation of kidney",31.87,TRUE
+2006,"Portugal","Number","Transplantation of kidney and haemodialysis",13727,FALSE
+2006,"Portugal","Number","Haemodialysis",9189,FALSE
+2006,"Portugal","Number","Transplantation of kidney",4538,FALSE
+2006,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",129.69,FALSE
+2006,"Portugal","Per hundred thousand inhabitants","Haemodialysis",86.82,FALSE
+2006,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney",42.87,FALSE
+2006,"Romania","Number","Transplantation of kidney and haemodialysis",9139,FALSE
+2006,"Romania","Number","Haemodialysis",9139,FALSE
+2006,"Romania","Number","Transplantation of kidney",2240,TRUE
+2006,"Romania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",42.33,FALSE
+2006,"Romania","Per hundred thousand inhabitants","Haemodialysis",42.33,FALSE
+2006,"Romania","Per hundred thousand inhabitants","Transplantation of kidney",31.87,TRUE
+2006,"Slovakia","Number","Transplantation of kidney and haemodialysis",4583,TRUE
+2006,"Slovakia","Number","Haemodialysis",2904,FALSE
+2006,"Slovakia","Number","Transplantation of kidney",1343,TRUE
+2006,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.75,TRUE
+2006,"Slovakia","Per hundred thousand inhabitants","Haemodialysis",53.86,FALSE
+2006,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney",24.83,TRUE
+2006,"Finland","Number","Transplantation of kidney and haemodialysis",3829,FALSE
+2006,"Finland","Number","Haemodialysis",1542,FALSE
+2006,"Finland","Number","Transplantation of kidney",2287,FALSE
+2006,"Finland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",72.71,FALSE
+2006,"Finland","Per hundred thousand inhabitants","Haemodialysis",29.28,FALSE
+2006,"Finland","Per hundred thousand inhabitants","Transplantation of kidney",43.43,FALSE
+2006,"Iceland","Number","Transplantation of kidney and haemodialysis",147,FALSE
+2006,"Iceland","Number","Haemodialysis",52,FALSE
+2006,"Iceland","Number","Transplantation of kidney",95,FALSE
+2006,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",48.39,FALSE
+2006,"Iceland","Per hundred thousand inhabitants","Haemodialysis",17.12,FALSE
+2006,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney",31.27,FALSE
+2006,"Liechtenstein","Number","Transplantation of kidney and haemodialysis",0,TRUE
+2006,"Liechtenstein","Number","Haemodialysis",0,TRUE
+2006,"Liechtenstein","Number","Transplantation of kidney",0,TRUE
+2006,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",0,TRUE
+2006,"Liechtenstein","Per hundred thousand inhabitants","Haemodialysis",0,TRUE
+2006,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney",0,TRUE
+2006,"Switzerland","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2006,"Switzerland","Number","Haemodialysis",5878,TRUE
+2006,"Switzerland","Number","Transplantation of kidney",4473,TRUE
+2006,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2006,"Switzerland","Per hundred thousand inhabitants","Haemodialysis",57.24,TRUE
+2006,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney",31.87,TRUE
+2006,"United Kingdom","Number","Transplantation of kidney and haemodialysis",43901,FALSE
+2006,"United Kingdom","Number","Haemodialysis",23550,FALSE
+2006,"United Kingdom","Number","Transplantation of kidney",20351,FALSE
+2006,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",72.45,FALSE
+2006,"United Kingdom","Per hundred thousand inhabitants","Haemodialysis",38.86,FALSE
+2006,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney",33.58,FALSE
+2006,"Serbia","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2006,"Serbia","Number","Haemodialysis",4369,TRUE
+2006,"Serbia","Number","Transplantation of kidney",4473,TRUE
+2006,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2006,"Serbia","Per hundred thousand inhabitants","Haemodialysis",59.44,TRUE
+2006,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney",31.87,TRUE
+2006,"Turkey","Number","Transplantation of kidney and haemodialysis",60635,TRUE
+2006,"Turkey","Number","Haemodialysis",42846,FALSE
+2006,"Turkey","Number","Transplantation of kidney",5743,TRUE
+2006,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",80.52,TRUE
+2006,"Turkey","Per hundred thousand inhabitants","Haemodialysis",60.26,FALSE
+2006,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney",7.64,TRUE
+2007,"Belgium","Number","Transplantation of kidney and haemodialysis",11396,FALSE
+2007,"Belgium","Number","Haemodialysis",6696,FALSE
+2007,"Belgium","Number","Transplantation of kidney",4700,FALSE
+2007,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",107.25,FALSE
+2007,"Belgium","Per hundred thousand inhabitants","Haemodialysis",63.02,FALSE
+2007,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney",44.23,FALSE
+2007,"Bulgaria","Number","Transplantation of kidney and haemodialysis",9659,TRUE
+2007,"Bulgaria","Number","Haemodialysis",6696,TRUE
+2007,"Bulgaria","Number","Transplantation of kidney",3573,TRUE
+2007,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",107.25,TRUE
+2007,"Bulgaria","Per hundred thousand inhabitants","Haemodialysis",63.02,TRUE
+2007,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney",34.57,TRUE
+2007,"Czechia","Number","Transplantation of kidney and haemodialysis",9659,FALSE
+2007,"Czechia","Number","Haemodialysis",6086,FALSE
+2007,"Czechia","Number","Transplantation of kidney",3573,FALSE
+2007,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",93.47,FALSE
+2007,"Czechia","Per hundred thousand inhabitants","Haemodialysis",58.89,FALSE
+2007,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney",34.57,FALSE
+2007,"Denmark","Number","Transplantation of kidney and haemodialysis",4527,FALSE
+2007,"Denmark","Number","Haemodialysis",2717,FALSE
+2007,"Denmark","Number","Transplantation of kidney",1810,FALSE
+2007,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",82.89,FALSE
+2007,"Denmark","Per hundred thousand inhabitants","Haemodialysis",49.75,FALSE
+2007,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney",33.14,FALSE
+2007,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney and haemodialysis",87151,TRUE
+2007,"Germany (until 1990 former territory of the FRG)","Number","Haemodialysis",63427,TRUE
+2007,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney",23724,TRUE
+2007,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",107.25,TRUE
+2007,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Haemodialysis",76.91,TRUE
+2007,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney",30.6,TRUE
+2007,"Estonia","Number","Transplantation of kidney and haemodialysis",9659,TRUE
+2007,"Estonia","Number","Haemodialysis",6086,TRUE
+2007,"Estonia","Number","Transplantation of kidney",395,TRUE
+2007,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",93.47,TRUE
+2007,"Estonia","Per hundred thousand inhabitants","Haemodialysis",58.89,TRUE
+2007,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney",29.47,TRUE
+2007,"Ireland","Number","Transplantation of kidney and haemodialysis",3143,FALSE
+2007,"Ireland","Number","Haemodialysis",1520,FALSE
+2007,"Ireland","Number","Transplantation of kidney",1623,FALSE
+2007,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",72.14,FALSE
+2007,"Ireland","Per hundred thousand inhabitants","Haemodialysis",34.89,FALSE
+2007,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney",37.25,FALSE
+2007,"Greece","Number","Transplantation of kidney and haemodialysis",11318,FALSE
+2007,"Greece","Number","Haemodialysis",9083,FALSE
+2007,"Greece","Number","Transplantation of kidney",2235,FALSE
+2007,"Greece","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",101.12,FALSE
+2007,"Greece","Per hundred thousand inhabitants","Haemodialysis",81.15,FALSE
+2007,"Greece","Per hundred thousand inhabitants","Transplantation of kidney",19.97,FALSE
+2007,"Spain","Number","Transplantation of kidney and haemodialysis",41547,FALSE
+2007,"Spain","Number","Haemodialysis",21974,FALSE
+2007,"Spain","Number","Transplantation of kidney",19573,FALSE
+2007,"Spain","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",92.58,FALSE
+2007,"Spain","Per hundred thousand inhabitants","Haemodialysis",48.96,FALSE
+2007,"Spain","Per hundred thousand inhabitants","Transplantation of kidney",43.61,FALSE
+2007,"France","Number","Transplantation of kidney and haemodialysis",59600,FALSE
+2007,"France","Number","Haemodialysis",32600,FALSE
+2007,"France","Number","Transplantation of kidney",27000,FALSE
+2007,"France","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",93.38,FALSE
+2007,"France","Per hundred thousand inhabitants","Haemodialysis",51.08,FALSE
+2007,"France","Per hundred thousand inhabitants","Transplantation of kidney",42.3,FALSE
+2007,"Croatia","Number","Transplantation of kidney and haemodialysis",3932,FALSE
+2007,"Croatia","Number","Haemodialysis",3023,FALSE
+2007,"Croatia","Number","Transplantation of kidney",909,FALSE
+2007,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",88.58,FALSE
+2007,"Croatia","Per hundred thousand inhabitants","Haemodialysis",68.1,FALSE
+2007,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney",20.48,FALSE
+2007,"Italy","Number","Transplantation of kidney and haemodialysis",53903,FALSE
+2007,"Italy","Number","Haemodialysis",43761,FALSE
+2007,"Italy","Number","Transplantation of kidney",10142,FALSE
+2007,"Italy","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.78,FALSE
+2007,"Italy","Per hundred thousand inhabitants","Haemodialysis",73.7,FALSE
+2007,"Italy","Per hundred thousand inhabitants","Transplantation of kidney",17.08,FALSE
+2007,"Lithuania","Number","Transplantation of kidney and haemodialysis",2671,TRUE
+2007,"Lithuania","Number","Haemodialysis",1888,TRUE
+2007,"Lithuania","Number","Transplantation of kidney",460,FALSE
+2007,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.31,TRUE
+2007,"Lithuania","Per hundred thousand inhabitants","Haemodialysis",63.02,TRUE
+2007,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney",13.63,FALSE
+2007,"Luxembourg","Number","Transplantation of kidney and haemodialysis",9659,TRUE
+2007,"Luxembourg","Number","Haemodialysis",237,FALSE
+2007,"Luxembourg","Number","Transplantation of kidney",3573,TRUE
+2007,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",93.47,TRUE
+2007,"Luxembourg","Per hundred thousand inhabitants","Haemodialysis",49.38,FALSE
+2007,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney",34.57,TRUE
+2007,"Hungary","Number","Transplantation of kidney and haemodialysis",7964,FALSE
+2007,"Hungary","Number","Haemodialysis",5746,FALSE
+2007,"Hungary","Number","Transplantation of kidney",2218,FALSE
+2007,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",79.2,FALSE
+2007,"Hungary","Per hundred thousand inhabitants","Haemodialysis",57.14,FALSE
+2007,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney",22.06,FALSE
+2007,"Malta","Number","Transplantation of kidney and haemodialysis",9659,TRUE
+2007,"Malta","Number","Haemodialysis",519,TRUE
+2007,"Malta","Number","Transplantation of kidney",3573,TRUE
+2007,"Malta","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",93.47,TRUE
+2007,"Malta","Per hundred thousand inhabitants","Haemodialysis",63.02,TRUE
+2007,"Malta","Per hundred thousand inhabitants","Transplantation of kidney",34.57,TRUE
+2007,"Netherlands","Number","Transplantation of kidney and haemodialysis",12363,FALSE
+2007,"Netherlands","Number","Haemodialysis",5780,FALSE
+2007,"Netherlands","Number","Transplantation of kidney",6583,FALSE
+2007,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",75.47,FALSE
+2007,"Netherlands","Per hundred thousand inhabitants","Haemodialysis",35.28,FALSE
+2007,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney",40.19,FALSE
+2007,"Austria","Number","Transplantation of kidney and haemodialysis",7738,FALSE
+2007,"Austria","Number","Haemodialysis",3947,FALSE
+2007,"Austria","Number","Transplantation of kidney",3791,FALSE
+2007,"Austria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",93.22,FALSE
+2007,"Austria","Per hundred thousand inhabitants","Haemodialysis",47.55,FALSE
+2007,"Austria","Per hundred thousand inhabitants","Transplantation of kidney",45.67,FALSE
+2007,"Poland","Number","Transplantation of kidney and haemodialysis",9659,TRUE
+2007,"Poland","Number","Haemodialysis",25813,FALSE
+2007,"Poland","Number","Transplantation of kidney",3573,TRUE
+2007,"Poland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",93.47,TRUE
+2007,"Poland","Per hundred thousand inhabitants","Haemodialysis",67.71,FALSE
+2007,"Poland","Per hundred thousand inhabitants","Transplantation of kidney",34.57,TRUE
+2007,"Portugal","Number","Transplantation of kidney and haemodialysis",14567,FALSE
+2007,"Portugal","Number","Haemodialysis",9554,FALSE
+2007,"Portugal","Number","Transplantation of kidney",5013,FALSE
+2007,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",137.32,FALSE
+2007,"Portugal","Per hundred thousand inhabitants","Haemodialysis",90.06,FALSE
+2007,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney",47.26,FALSE
+2007,"Romania","Number","Transplantation of kidney and haemodialysis",11384,FALSE
+2007,"Romania","Number","Haemodialysis",11384,FALSE
+2007,"Romania","Number","Transplantation of kidney",3573,TRUE
+2007,"Romania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",52.83,FALSE
+2007,"Romania","Per hundred thousand inhabitants","Haemodialysis",52.83,FALSE
+2007,"Romania","Per hundred thousand inhabitants","Transplantation of kidney",34.57,TRUE
+2007,"Slovakia","Number","Transplantation of kidney and haemodialysis",4583,TRUE
+2007,"Slovakia","Number","Haemodialysis",2930,FALSE
+2007,"Slovakia","Number","Transplantation of kidney",1343,TRUE
+2007,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.75,TRUE
+2007,"Slovakia","Per hundred thousand inhabitants","Haemodialysis",54.29,FALSE
+2007,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney",24.83,TRUE
+2007,"Finland","Number","Transplantation of kidney and haemodialysis",3949,FALSE
+2007,"Finland","Number","Haemodialysis",1594,FALSE
+2007,"Finland","Number","Transplantation of kidney",2355,FALSE
+2007,"Finland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",74.67,FALSE
+2007,"Finland","Per hundred thousand inhabitants","Haemodialysis",30.14,FALSE
+2007,"Finland","Per hundred thousand inhabitants","Transplantation of kidney",44.53,FALSE
+2007,"Iceland","Number","Transplantation of kidney and haemodialysis",158,FALSE
+2007,"Iceland","Number","Haemodialysis",60,FALSE
+2007,"Iceland","Number","Transplantation of kidney",98,FALSE
+2007,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",50.71,FALSE
+2007,"Iceland","Per hundred thousand inhabitants","Haemodialysis",19.26,FALSE
+2007,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney",31.45,FALSE
+2007,"Liechtenstein","Number","Transplantation of kidney and haemodialysis",0,TRUE
+2007,"Liechtenstein","Number","Haemodialysis",0,TRUE
+2007,"Liechtenstein","Number","Transplantation of kidney",0,TRUE
+2007,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",0,TRUE
+2007,"Liechtenstein","Per hundred thousand inhabitants","Haemodialysis",0,TRUE
+2007,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney",0,TRUE
+2007,"Switzerland","Number","Transplantation of kidney and haemodialysis",9659,TRUE
+2007,"Switzerland","Number","Haemodialysis",6086,TRUE
+2007,"Switzerland","Number","Transplantation of kidney",3573,TRUE
+2007,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",93.47,TRUE
+2007,"Switzerland","Per hundred thousand inhabitants","Haemodialysis",58.89,TRUE
+2007,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney",34.57,TRUE
+2007,"United Kingdom","Number","Transplantation of kidney and haemodialysis",45484,FALSE
+2007,"United Kingdom","Number","Haemodialysis",24352,FALSE
+2007,"United Kingdom","Number","Transplantation of kidney",21132,FALSE
+2007,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",74.58,FALSE
+2007,"United Kingdom","Per hundred thousand inhabitants","Haemodialysis",39.93,FALSE
+2007,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney",34.65,FALSE
+2007,"Serbia","Number","Transplantation of kidney and haemodialysis",9659,TRUE
+2007,"Serbia","Number","Haemodialysis",4146,FALSE
+2007,"Serbia","Number","Transplantation of kidney",3573,TRUE
+2007,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",93.47,TRUE
+2007,"Serbia","Per hundred thousand inhabitants","Haemodialysis",56.17,FALSE
+2007,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney",34.57,TRUE
+2007,"Turkey","Number","Transplantation of kidney and haemodialysis",60635,TRUE
+2007,"Turkey","Number","Haemodialysis",46508,FALSE
+2007,"Turkey","Number","Transplantation of kidney",5743,TRUE
+2007,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",80.52,TRUE
+2007,"Turkey","Per hundred thousand inhabitants","Haemodialysis",66.31,FALSE
+2007,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney",7.64,TRUE
+2008,"Belgium","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2008,"Belgium","Number","Haemodialysis",6475,TRUE
+2008,"Belgium","Number","Transplantation of kidney",4473,TRUE
+2008,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2008,"Belgium","Per hundred thousand inhabitants","Haemodialysis",61.39,TRUE
+2008,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney",42.41,TRUE
+2008,"Bulgaria","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2008,"Bulgaria","Number","Haemodialysis",6269,TRUE
+2008,"Bulgaria","Number","Transplantation of kidney",1895,TRUE
+2008,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",95.51,TRUE
+2008,"Bulgaria","Per hundred thousand inhabitants","Haemodialysis",60.14,TRUE
+2008,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney",34.49,TRUE
+2008,"Czechia","Number","Transplantation of kidney and haemodialysis",9956,FALSE
+2008,"Czechia","Number","Haemodialysis",6269,FALSE
+2008,"Czechia","Number","Transplantation of kidney",3687,FALSE
+2008,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",95.51,FALSE
+2008,"Czechia","Per hundred thousand inhabitants","Haemodialysis",60.14,FALSE
+2008,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney",35.37,FALSE
+2008,"Denmark","Number","Transplantation of kidney and haemodialysis",4613,FALSE
+2008,"Denmark","Number","Haemodialysis",2718,FALSE
+2008,"Denmark","Number","Transplantation of kidney",1895,FALSE
+2008,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",83.97,FALSE
+2008,"Denmark","Per hundred thousand inhabitants","Haemodialysis",49.48,FALSE
+2008,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney",34.49,FALSE
+2008,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney and haemodialysis",87151,TRUE
+2008,"Germany (until 1990 former territory of the FRG)","Number","Haemodialysis",63427,TRUE
+2008,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney",23724,TRUE
+2008,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",105.68,TRUE
+2008,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Haemodialysis",76.91,TRUE
+2008,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney",30.6,TRUE
+2008,"Estonia","Number","Transplantation of kidney and haemodialysis",4613,TRUE
+2008,"Estonia","Number","Haemodialysis",2718,TRUE
+2008,"Estonia","Number","Transplantation of kidney",357,FALSE
+2008,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",83.97,TRUE
+2008,"Estonia","Per hundred thousand inhabitants","Haemodialysis",49.48,TRUE
+2008,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney",26.63,FALSE
+2008,"Ireland","Number","Transplantation of kidney and haemodialysis",3329,FALSE
+2008,"Ireland","Number","Haemodialysis",1601,FALSE
+2008,"Ireland","Number","Transplantation of kidney",1728,FALSE
+2008,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",75.22,FALSE
+2008,"Ireland","Per hundred thousand inhabitants","Haemodialysis",36.18,FALSE
+2008,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney",39.04,FALSE
+2008,"Greece","Number","Transplantation of kidney and haemodialysis",11606,FALSE
+2008,"Greece","Number","Haemodialysis",9226,FALSE
+2008,"Greece","Number","Transplantation of kidney",2380,FALSE
+2008,"Greece","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.28,FALSE
+2008,"Greece","Per hundred thousand inhabitants","Haemodialysis",82.1,FALSE
+2008,"Greece","Per hundred thousand inhabitants","Transplantation of kidney",21.18,FALSE
+2008,"Spain","Number","Transplantation of kidney and haemodialysis",44875,FALSE
+2008,"Spain","Number","Haemodialysis",22609,FALSE
+2008,"Spain","Number","Transplantation of kidney",22266,FALSE
+2008,"Spain","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.51,FALSE
+2008,"Spain","Per hundred thousand inhabitants","Haemodialysis",49.63,FALSE
+2008,"Spain","Per hundred thousand inhabitants","Transplantation of kidney",48.88,FALSE
+2008,"France","Number","Transplantation of kidney and haemodialysis",56755,FALSE
+2008,"France","Number","Haemodialysis",31056,FALSE
+2008,"France","Number","Transplantation of kidney",25699,FALSE
+2008,"France","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",88.43,FALSE
+2008,"France","Per hundred thousand inhabitants","Haemodialysis",48.39,FALSE
+2008,"France","Per hundred thousand inhabitants","Transplantation of kidney",40.04,FALSE
+2008,"Croatia","Number","Transplantation of kidney and haemodialysis",4009,FALSE
+2008,"Croatia","Number","Haemodialysis",2987,FALSE
+2008,"Croatia","Number","Transplantation of kidney",1022,FALSE
+2008,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.38,FALSE
+2008,"Croatia","Per hundred thousand inhabitants","Haemodialysis",67.34,FALSE
+2008,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney",23.04,FALSE
+2008,"Italy","Number","Transplantation of kidney and haemodialysis",56497,FALSE
+2008,"Italy","Number","Haemodialysis",45025,FALSE
+2008,"Italy","Number","Transplantation of kidney",11472,FALSE
+2008,"Italy","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",94.43,FALSE
+2008,"Italy","Per hundred thousand inhabitants","Haemodialysis",75.25,FALSE
+2008,"Italy","Per hundred thousand inhabitants","Transplantation of kidney",19.17,FALSE
+2008,"Lithuania","Number","Transplantation of kidney and haemodialysis",2671,TRUE
+2008,"Lithuania","Number","Haemodialysis",1888,TRUE
+2008,"Lithuania","Number","Transplantation of kidney",509,FALSE
+2008,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.31,TRUE
+2008,"Lithuania","Per hundred thousand inhabitants","Haemodialysis",60.75,TRUE
+2008,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney",15.16,FALSE
+2008,"Luxembourg","Number","Transplantation of kidney and haemodialysis",4613,TRUE
+2008,"Luxembourg","Number","Haemodialysis",276,FALSE
+2008,"Luxembourg","Number","Transplantation of kidney",1895,TRUE
+2008,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",83.97,TRUE
+2008,"Luxembourg","Per hundred thousand inhabitants","Haemodialysis",56.48,FALSE
+2008,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney",34.49,TRUE
+2008,"Hungary","Number","Transplantation of kidney and haemodialysis",8590,FALSE
+2008,"Hungary","Number","Haemodialysis",6229,FALSE
+2008,"Hungary","Number","Transplantation of kidney",2361,FALSE
+2008,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.57,FALSE
+2008,"Hungary","Per hundred thousand inhabitants","Haemodialysis",62.05,FALSE
+2008,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney",23.52,FALSE
+2008,"Malta","Number","Transplantation of kidney and haemodialysis",4613,TRUE
+2008,"Malta","Number","Haemodialysis",519,TRUE
+2008,"Malta","Number","Transplantation of kidney",1895,TRUE
+2008,"Malta","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",83.97,TRUE
+2008,"Malta","Per hundred thousand inhabitants","Haemodialysis",60.14,TRUE
+2008,"Malta","Per hundred thousand inhabitants","Transplantation of kidney",34.49,TRUE
+2008,"Netherlands","Number","Transplantation of kidney and haemodialysis",12825,FALSE
+2008,"Netherlands","Number","Haemodialysis",5851,FALSE
+2008,"Netherlands","Number","Transplantation of kidney",6974,FALSE
+2008,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",77.98,FALSE
+2008,"Netherlands","Per hundred thousand inhabitants","Haemodialysis",35.58,FALSE
+2008,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney",42.41,FALSE
+2008,"Austria","Number","Transplantation of kidney and haemodialysis",7920,FALSE
+2008,"Austria","Number","Haemodialysis",4045,FALSE
+2008,"Austria","Number","Transplantation of kidney",3875,FALSE
+2008,"Austria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",95,FALSE
+2008,"Austria","Per hundred thousand inhabitants","Haemodialysis",48.52,FALSE
+2008,"Austria","Per hundred thousand inhabitants","Transplantation of kidney",46.48,FALSE
+2008,"Poland","Number","Transplantation of kidney and haemodialysis",4613,TRUE
+2008,"Poland","Number","Haemodialysis",29396,FALSE
+2008,"Poland","Number","Transplantation of kidney",1895,TRUE
+2008,"Poland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",83.97,TRUE
+2008,"Poland","Per hundred thousand inhabitants","Haemodialysis",77.1,FALSE
+2008,"Poland","Per hundred thousand inhabitants","Transplantation of kidney",34.49,TRUE
+2008,"Portugal","Number","Transplantation of kidney and haemodialysis",14965,FALSE
+2008,"Portugal","Number","Haemodialysis",9814,FALSE
+2008,"Portugal","Number","Transplantation of kidney",5151,FALSE
+2008,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",140.88,FALSE
+2008,"Portugal","Per hundred thousand inhabitants","Haemodialysis",92.39,FALSE
+2008,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney",48.49,FALSE
+2008,"Romania","Number","Transplantation of kidney and haemodialysis",9864,FALSE
+2008,"Romania","Number","Haemodialysis",9864,FALSE
+2008,"Romania","Number","Transplantation of kidney",2240,TRUE
+2008,"Romania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",45.85,FALSE
+2008,"Romania","Per hundred thousand inhabitants","Haemodialysis",45.85,FALSE
+2008,"Romania","Per hundred thousand inhabitants","Transplantation of kidney",34.49,TRUE
+2008,"Slovakia","Number","Transplantation of kidney and haemodialysis",4583,TRUE
+2008,"Slovakia","Number","Haemodialysis",2937,FALSE
+2008,"Slovakia","Number","Transplantation of kidney",1343,TRUE
+2008,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.75,TRUE
+2008,"Slovakia","Per hundred thousand inhabitants","Haemodialysis",54.32,FALSE
+2008,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney",24.83,TRUE
+2008,"Finland","Number","Transplantation of kidney and haemodialysis",4088,FALSE
+2008,"Finland","Number","Haemodialysis",1700,FALSE
+2008,"Finland","Number","Transplantation of kidney",2388,FALSE
+2008,"Finland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",76.94,FALSE
+2008,"Finland","Per hundred thousand inhabitants","Haemodialysis",31.99,FALSE
+2008,"Finland","Per hundred thousand inhabitants","Transplantation of kidney",44.94,FALSE
+2008,"Iceland","Number","Transplantation of kidney and haemodialysis",167,FALSE
+2008,"Iceland","Number","Haemodialysis",64,FALSE
+2008,"Iceland","Number","Transplantation of kidney",103,FALSE
+2008,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",52.61,FALSE
+2008,"Iceland","Per hundred thousand inhabitants","Haemodialysis",20.16,FALSE
+2008,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney",32.45,FALSE
+2008,"Liechtenstein","Number","Transplantation of kidney and haemodialysis",0,TRUE
+2008,"Liechtenstein","Number","Haemodialysis",0,TRUE
+2008,"Liechtenstein","Number","Transplantation of kidney",0,TRUE
+2008,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",0,TRUE
+2008,"Liechtenstein","Per hundred thousand inhabitants","Haemodialysis",0,TRUE
+2008,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney",0,TRUE
+2008,"Switzerland","Number","Transplantation of kidney and haemodialysis",4613,TRUE
+2008,"Switzerland","Number","Haemodialysis",2718,TRUE
+2008,"Switzerland","Number","Transplantation of kidney",1895,TRUE
+2008,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",83.97,TRUE
+2008,"Switzerland","Per hundred thousand inhabitants","Haemodialysis",49.48,TRUE
+2008,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney",34.49,TRUE
+2008,"United Kingdom","Number","Transplantation of kidney and haemodialysis",47209,FALSE
+2008,"United Kingdom","Number","Haemodialysis",25225,FALSE
+2008,"United Kingdom","Number","Transplantation of kidney",21984,FALSE
+2008,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",76.9,FALSE
+2008,"United Kingdom","Per hundred thousand inhabitants","Haemodialysis",41.09,FALSE
+2008,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney",35.81,FALSE
+2008,"Serbia","Number","Transplantation of kidney and haemodialysis",4613,TRUE
+2008,"Serbia","Number","Haemodialysis",4369,FALSE
+2008,"Serbia","Number","Transplantation of kidney",1895,TRUE
+2008,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",83.97,TRUE
+2008,"Serbia","Per hundred thousand inhabitants","Haemodialysis",59.44,FALSE
+2008,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney",34.49,TRUE
+2008,"Turkey","Number","Transplantation of kidney and haemodialysis",60635,TRUE
+2008,"Turkey","Number","Haemodialysis",50554,FALSE
+2008,"Turkey","Number","Transplantation of kidney",5743,TRUE
+2008,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",80.52,TRUE
+2008,"Turkey","Per hundred thousand inhabitants","Haemodialysis",71.15,FALSE
+2008,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney",7.64,TRUE
+2009,"Belgium","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2009,"Belgium","Number","Haemodialysis",6475,TRUE
+2009,"Belgium","Number","Transplantation of kidney",4473,TRUE
+2009,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2009,"Belgium","Per hundred thousand inhabitants","Haemodialysis",61.39,TRUE
+2009,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney",42.41,TRUE
+2009,"Bulgaria","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2009,"Bulgaria","Number","Haemodialysis",6413,TRUE
+2009,"Bulgaria","Number","Transplantation of kidney",2000,TRUE
+2009,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",97.11,TRUE
+2009,"Bulgaria","Per hundred thousand inhabitants","Haemodialysis",61.15,TRUE
+2009,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney",35.96,TRUE
+2009,"Czechia","Number","Transplantation of kidney and haemodialysis",10184,FALSE
+2009,"Czechia","Number","Haemodialysis",6413,FALSE
+2009,"Czechia","Number","Transplantation of kidney",3771,FALSE
+2009,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",97.11,FALSE
+2009,"Czechia","Per hundred thousand inhabitants","Haemodialysis",61.15,FALSE
+2009,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney",35.96,FALSE
+2009,"Denmark","Number","Transplantation of kidney and haemodialysis",4705,FALSE
+2009,"Denmark","Number","Haemodialysis",2705,FALSE
+2009,"Denmark","Number","Transplantation of kidney",2000,FALSE
+2009,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.19,FALSE
+2009,"Denmark","Per hundred thousand inhabitants","Haemodialysis",48.98,FALSE
+2009,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney",36.21,FALSE
+2009,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney and haemodialysis",87151,TRUE
+2009,"Germany (until 1990 former territory of the FRG)","Number","Haemodialysis",63427,TRUE
+2009,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney",23724,TRUE
+2009,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",105.68,TRUE
+2009,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Haemodialysis",76.91,TRUE
+2009,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney",30.6,TRUE
+2009,"Estonia","Number","Transplantation of kidney and haemodialysis",4705,TRUE
+2009,"Estonia","Number","Haemodialysis",2705,TRUE
+2009,"Estonia","Number","Transplantation of kidney",395,FALSE
+2009,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.19,TRUE
+2009,"Estonia","Per hundred thousand inhabitants","Haemodialysis",48.98,TRUE
+2009,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney",29.47,FALSE
+2009,"Ireland","Number","Transplantation of kidney and haemodialysis",3505,FALSE
+2009,"Ireland","Number","Haemodialysis",1660,FALSE
+2009,"Ireland","Number","Transplantation of kidney",1845,FALSE
+2009,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",78.61,FALSE
+2009,"Ireland","Per hundred thousand inhabitants","Haemodialysis",37.23,FALSE
+2009,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney",41.38,FALSE
+2009,"Greece","Number","Transplantation of kidney and haemodialysis",12018,FALSE
+2009,"Greece","Number","Haemodialysis",9589,FALSE
+2009,"Greece","Number","Transplantation of kidney",2429,FALSE
+2009,"Greece","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",106.52,FALSE
+2009,"Greece","Per hundred thousand inhabitants","Haemodialysis",84.99,FALSE
+2009,"Greece","Per hundred thousand inhabitants","Transplantation of kidney",21.53,FALSE
+2009,"Spain","Number","Transplantation of kidney and haemodialysis",46093,FALSE
+2009,"Spain","Number","Haemodialysis",23391,FALSE
+2009,"Spain","Number","Transplantation of kidney",22702,FALSE
+2009,"Spain","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",100.4,FALSE
+2009,"Spain","Per hundred thousand inhabitants","Haemodialysis",50.95,FALSE
+2009,"Spain","Per hundred thousand inhabitants","Transplantation of kidney",49.45,FALSE
+2009,"France","Number","Transplantation of kidney and haemodialysis",62739,FALSE
+2009,"France","Number","Haemodialysis",33558,FALSE
+2009,"France","Number","Transplantation of kidney",29181,FALSE
+2009,"France","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",97.26,FALSE
+2009,"France","Per hundred thousand inhabitants","Haemodialysis",52.02,FALSE
+2009,"France","Per hundred thousand inhabitants","Transplantation of kidney",45.24,FALSE
+2009,"Croatia","Number","Transplantation of kidney and haemodialysis",4124,FALSE
+2009,"Croatia","Number","Haemodialysis",2968,FALSE
+2009,"Croatia","Number","Transplantation of kidney",1156,FALSE
+2009,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",93.08,FALSE
+2009,"Croatia","Per hundred thousand inhabitants","Haemodialysis",66.99,FALSE
+2009,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney",26.09,FALSE
+2009,"Italy","Number","Transplantation of kidney and haemodialysis",58804,FALSE
+2009,"Italy","Number","Haemodialysis",45892,FALSE
+2009,"Italy","Number","Transplantation of kidney",12912,FALSE
+2009,"Italy","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",97.69,FALSE
+2009,"Italy","Per hundred thousand inhabitants","Haemodialysis",76.24,FALSE
+2009,"Italy","Per hundred thousand inhabitants","Transplantation of kidney",21.45,FALSE
+2009,"Lithuania","Number","Transplantation of kidney and haemodialysis",2671,TRUE
+2009,"Lithuania","Number","Haemodialysis",1888,TRUE
+2009,"Lithuania","Number","Transplantation of kidney",579,FALSE
+2009,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.31,TRUE
+2009,"Lithuania","Per hundred thousand inhabitants","Haemodialysis",61.15,TRUE
+2009,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney",17.34,FALSE
+2009,"Luxembourg","Number","Transplantation of kidney and haemodialysis",4705,TRUE
+2009,"Luxembourg","Number","Haemodialysis",289,FALSE
+2009,"Luxembourg","Number","Transplantation of kidney",2000,TRUE
+2009,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.19,TRUE
+2009,"Luxembourg","Per hundred thousand inhabitants","Haemodialysis",58.06,FALSE
+2009,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney",35.96,TRUE
+2009,"Hungary","Number","Transplantation of kidney and haemodialysis",8942,FALSE
+2009,"Hungary","Number","Haemodialysis",6414,FALSE
+2009,"Hungary","Number","Transplantation of kidney",2528,FALSE
+2009,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",89.22,FALSE
+2009,"Hungary","Per hundred thousand inhabitants","Haemodialysis",64,FALSE
+2009,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney",25.22,FALSE
+2009,"Malta","Number","Transplantation of kidney and haemodialysis",4705,TRUE
+2009,"Malta","Number","Haemodialysis",519,TRUE
+2009,"Malta","Number","Transplantation of kidney",2000,TRUE
+2009,"Malta","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.19,TRUE
+2009,"Malta","Per hundred thousand inhabitants","Haemodialysis",61.15,TRUE
+2009,"Malta","Per hundred thousand inhabitants","Transplantation of kidney",35.96,TRUE
+2009,"Netherlands","Number","Transplantation of kidney and haemodialysis",13449,FALSE
+2009,"Netherlands","Number","Haemodialysis",6082,FALSE
+2009,"Netherlands","Number","Transplantation of kidney",7367,FALSE
+2009,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",81.36,FALSE
+2009,"Netherlands","Per hundred thousand inhabitants","Haemodialysis",36.79,FALSE
+2009,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney",44.57,FALSE
+2009,"Austria","Number","Transplantation of kidney and haemodialysis",8154,FALSE
+2009,"Austria","Number","Haemodialysis",4176,FALSE
+2009,"Austria","Number","Transplantation of kidney",3978,FALSE
+2009,"Austria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",97.47,FALSE
+2009,"Austria","Per hundred thousand inhabitants","Haemodialysis",49.92,FALSE
+2009,"Austria","Per hundred thousand inhabitants","Transplantation of kidney",47.55,FALSE
+2009,"Poland","Number","Transplantation of kidney and haemodialysis",4705,TRUE
+2009,"Poland","Number","Haemodialysis",27447,FALSE
+2009,"Poland","Number","Transplantation of kidney",2000,TRUE
+2009,"Poland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.19,TRUE
+2009,"Poland","Per hundred thousand inhabitants","Haemodialysis",71.94,FALSE
+2009,"Poland","Per hundred thousand inhabitants","Transplantation of kidney",35.96,TRUE
+2009,"Portugal","Number","Transplantation of kidney and haemodialysis",16010,FALSE
+2009,"Portugal","Number","Haemodialysis",10217,FALSE
+2009,"Portugal","Number","Transplantation of kidney",5793,FALSE
+2009,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",150.58,FALSE
+2009,"Portugal","Per hundred thousand inhabitants","Haemodialysis",96.09,FALSE
+2009,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney",54.48,FALSE
+2009,"Romania","Number","Transplantation of kidney and haemodialysis",9304,FALSE
+2009,"Romania","Number","Haemodialysis",9304,FALSE
+2009,"Romania","Number","Transplantation of kidney",2240,TRUE
+2009,"Romania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",43.31,FALSE
+2009,"Romania","Per hundred thousand inhabitants","Haemodialysis",43.31,FALSE
+2009,"Romania","Per hundred thousand inhabitants","Transplantation of kidney",35.96,TRUE
+2009,"Slovakia","Number","Transplantation of kidney and haemodialysis",4583,TRUE
+2009,"Slovakia","Number","Haemodialysis",3002,FALSE
+2009,"Slovakia","Number","Transplantation of kidney",1343,TRUE
+2009,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.75,TRUE
+2009,"Slovakia","Per hundred thousand inhabitants","Haemodialysis",55.4,FALSE
+2009,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney",24.83,TRUE
+2009,"Finland","Number","Transplantation of kidney and haemodialysis",4171,FALSE
+2009,"Finland","Number","Haemodialysis",1716,FALSE
+2009,"Finland","Number","Transplantation of kidney",2455,FALSE
+2009,"Finland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",78.13,FALSE
+2009,"Finland","Per hundred thousand inhabitants","Haemodialysis",32.14,FALSE
+2009,"Finland","Per hundred thousand inhabitants","Transplantation of kidney",45.98,FALSE
+2009,"Iceland","Number","Transplantation of kidney and haemodialysis",172,FALSE
+2009,"Iceland","Number","Haemodialysis",61,FALSE
+2009,"Iceland","Number","Transplantation of kidney",111,FALSE
+2009,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",54,FALSE
+2009,"Iceland","Per hundred thousand inhabitants","Haemodialysis",19.15,FALSE
+2009,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney",34.85,FALSE
+2009,"Liechtenstein","Number","Transplantation of kidney and haemodialysis",0,TRUE
+2009,"Liechtenstein","Number","Haemodialysis",0,TRUE
+2009,"Liechtenstein","Number","Transplantation of kidney",0,TRUE
+2009,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",0,TRUE
+2009,"Liechtenstein","Per hundred thousand inhabitants","Haemodialysis",0,TRUE
+2009,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney",0,TRUE
+2009,"Switzerland","Number","Transplantation of kidney and haemodialysis",4705,TRUE
+2009,"Switzerland","Number","Haemodialysis",2705,TRUE
+2009,"Switzerland","Number","Transplantation of kidney",2000,TRUE
+2009,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.19,TRUE
+2009,"Switzerland","Per hundred thousand inhabitants","Haemodialysis",48.98,TRUE
+2009,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney",35.96,TRUE
+2009,"United Kingdom","Number","Transplantation of kidney and haemodialysis",49080,FALSE
+2009,"United Kingdom","Number","Haemodialysis",25796,FALSE
+2009,"United Kingdom","Number","Transplantation of kidney",23284,FALSE
+2009,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",79.4,FALSE
+2009,"United Kingdom","Per hundred thousand inhabitants","Haemodialysis",41.73,FALSE
+2009,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney",37.67,FALSE
+2009,"Serbia","Number","Transplantation of kidney and haemodialysis",4705,TRUE
+2009,"Serbia","Number","Haemodialysis",4496,FALSE
+2009,"Serbia","Number","Transplantation of kidney",2000,TRUE
+2009,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.19,TRUE
+2009,"Serbia","Per hundred thousand inhabitants","Haemodialysis",61.41,FALSE
+2009,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney",35.96,TRUE
+2009,"Turkey","Number","Transplantation of kidney and haemodialysis",60635,TRUE
+2009,"Turkey","Number","Haemodialysis",54135,FALSE
+2009,"Turkey","Number","Transplantation of kidney",5743,TRUE
+2009,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",80.52,TRUE
+2009,"Turkey","Per hundred thousand inhabitants","Haemodialysis",75.15,FALSE
+2009,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney",7.64,TRUE
+2010,"Belgium","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2010,"Belgium","Number","Haemodialysis",6475,TRUE
+2010,"Belgium","Number","Transplantation of kidney",4473,TRUE
+2010,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2010,"Belgium","Per hundred thousand inhabitants","Haemodialysis",61.39,TRUE
+2010,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney",42.41,TRUE
+2010,"Bulgaria","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2010,"Bulgaria","Number","Haemodialysis",6765,TRUE
+2010,"Bulgaria","Number","Transplantation of kidney",2121,TRUE
+2010,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",101.6,TRUE
+2010,"Bulgaria","Per hundred thousand inhabitants","Haemodialysis",64.45,TRUE
+2010,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney",37.15,TRUE
+2010,"Czechia","Number","Transplantation of kidney and haemodialysis",10665,FALSE
+2010,"Czechia","Number","Haemodialysis",6765,FALSE
+2010,"Czechia","Number","Transplantation of kidney",3900,FALSE
+2010,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",101.6,FALSE
+2010,"Czechia","Per hundred thousand inhabitants","Haemodialysis",64.45,FALSE
+2010,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney",37.15,FALSE
+2010,"Denmark","Number","Transplantation of kidney and haemodialysis",4734,FALSE
+2010,"Denmark","Number","Haemodialysis",2613,FALSE
+2010,"Denmark","Number","Transplantation of kidney",2121,FALSE
+2010,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.33,FALSE
+2010,"Denmark","Per hundred thousand inhabitants","Haemodialysis",47.1,FALSE
+2010,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney",38.23,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney and haemodialysis",87151,TRUE
+2010,"Germany (until 1990 former territory of the FRG)","Number","Haemodialysis",63427,TRUE
+2010,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney",23724,TRUE
+2010,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",105.68,TRUE
+2010,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Haemodialysis",76.91,TRUE
+2010,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney",30.6,TRUE
+2010,"Estonia","Number","Transplantation of kidney and haemodialysis",4734,TRUE
+2010,"Estonia","Number","Haemodialysis",2613,TRUE
+2010,"Estonia","Number","Transplantation of kidney",400,FALSE
+2010,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.33,TRUE
+2010,"Estonia","Per hundred thousand inhabitants","Haemodialysis",47.1,TRUE
+2010,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney",29.85,FALSE
+2010,"Ireland","Number","Transplantation of kidney and haemodialysis",3665,FALSE
+2010,"Ireland","Number","Haemodialysis",1759,FALSE
+2010,"Ireland","Number","Transplantation of kidney",1906,FALSE
+2010,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",81.1,FALSE
+2010,"Ireland","Per hundred thousand inhabitants","Haemodialysis",38.93,FALSE
+2010,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney",42.18,FALSE
+2010,"Greece","Number","Transplantation of kidney and haemodialysis",12212,FALSE
+2010,"Greece","Number","Haemodialysis",9803,FALSE
+2010,"Greece","Number","Transplantation of kidney",2409,FALSE
+2010,"Greece","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",108,FALSE
+2010,"Greece","Per hundred thousand inhabitants","Haemodialysis",86.69,FALSE
+2010,"Greece","Per hundred thousand inhabitants","Transplantation of kidney",21.3,FALSE
+2010,"Spain","Number","Transplantation of kidney and haemodialysis",46050,FALSE
+2010,"Spain","Number","Haemodialysis",23348,FALSE
+2010,"Spain","Number","Transplantation of kidney",22702,FALSE
+2010,"Spain","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",99.95,FALSE
+2010,"Spain","Per hundred thousand inhabitants","Haemodialysis",50.68,FALSE
+2010,"Spain","Per hundred thousand inhabitants","Transplantation of kidney",49.28,FALSE
+2010,"France","Number","Transplantation of kidney and haemodialysis",67270,FALSE
+2010,"France","Number","Haemodialysis",37430,FALSE
+2010,"France","Number","Transplantation of kidney",29840,FALSE
+2010,"France","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.77,FALSE
+2010,"France","Per hundred thousand inhabitants","Haemodialysis",57.74,FALSE
+2010,"France","Per hundred thousand inhabitants","Transplantation of kidney",46.03,FALSE
+2010,"Croatia","Number","Transplantation of kidney and haemodialysis",4257,FALSE
+2010,"Croatia","Number","Haemodialysis",2942,FALSE
+2010,"Croatia","Number","Transplantation of kidney",1315,FALSE
+2010,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",96.34,FALSE
+2010,"Croatia","Per hundred thousand inhabitants","Haemodialysis",66.58,FALSE
+2010,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney",29.76,FALSE
+2010,"Italy","Number","Transplantation of kidney and haemodialysis",56497,TRUE
+2010,"Italy","Number","Haemodialysis",45025,TRUE
+2010,"Italy","Number","Transplantation of kidney",14256,FALSE
+2010,"Italy","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",94.43,TRUE
+2010,"Italy","Per hundred thousand inhabitants","Haemodialysis",75.25,TRUE
+2010,"Italy","Per hundred thousand inhabitants","Transplantation of kidney",23.57,FALSE
+2010,"Lithuania","Number","Transplantation of kidney and haemodialysis",2671,TRUE
+2010,"Lithuania","Number","Haemodialysis",1888,TRUE
+2010,"Lithuania","Number","Transplantation of kidney",590,FALSE
+2010,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.31,TRUE
+2010,"Lithuania","Per hundred thousand inhabitants","Haemodialysis",63.83,TRUE
+2010,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney",18.49,FALSE
+2010,"Luxembourg","Number","Transplantation of kidney and haemodialysis",4734,TRUE
+2010,"Luxembourg","Number","Haemodialysis",282,FALSE
+2010,"Luxembourg","Number","Transplantation of kidney",2121,TRUE
+2010,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.33,TRUE
+2010,"Luxembourg","Per hundred thousand inhabitants","Haemodialysis",55.63,FALSE
+2010,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney",37.15,TRUE
+2010,"Hungary","Number","Transplantation of kidney and haemodialysis",9227,FALSE
+2010,"Hungary","Number","Haemodialysis",6545,FALSE
+2010,"Hungary","Number","Transplantation of kidney",2682,FALSE
+2010,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",92.27,FALSE
+2010,"Hungary","Per hundred thousand inhabitants","Haemodialysis",65.45,FALSE
+2010,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney",26.82,FALSE
+2010,"Malta","Number","Transplantation of kidney and haemodialysis",4734,TRUE
+2010,"Malta","Number","Haemodialysis",519,TRUE
+2010,"Malta","Number","Transplantation of kidney",2121,TRUE
+2010,"Malta","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.33,TRUE
+2010,"Malta","Per hundred thousand inhabitants","Haemodialysis",64.45,TRUE
+2010,"Malta","Per hundred thousand inhabitants","Transplantation of kidney",37.15,TRUE
+2010,"Netherlands","Number","Transplantation of kidney and haemodialysis",14075,FALSE
+2010,"Netherlands","Number","Haemodialysis",6358,FALSE
+2010,"Netherlands","Number","Transplantation of kidney",7717,FALSE
+2010,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.71,FALSE
+2010,"Netherlands","Per hundred thousand inhabitants","Haemodialysis",38.27,FALSE
+2010,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney",46.44,FALSE
+2010,"Austria","Number","Transplantation of kidney and haemodialysis",8359,FALSE
+2010,"Austria","Number","Haemodialysis",4256,FALSE
+2010,"Austria","Number","Transplantation of kidney",4103,FALSE
+2010,"Austria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",99.63,FALSE
+2010,"Austria","Per hundred thousand inhabitants","Haemodialysis",50.73,FALSE
+2010,"Austria","Per hundred thousand inhabitants","Transplantation of kidney",48.9,FALSE
+2010,"Poland","Number","Transplantation of kidney and haemodialysis",4734,TRUE
+2010,"Poland","Number","Haemodialysis",30429,FALSE
+2010,"Poland","Number","Transplantation of kidney",2121,TRUE
+2010,"Poland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.33,TRUE
+2010,"Poland","Per hundred thousand inhabitants","Haemodialysis",79.35,FALSE
+2010,"Poland","Per hundred thousand inhabitants","Transplantation of kidney",37.15,TRUE
+2010,"Portugal","Number","Transplantation of kidney and haemodialysis",16788,FALSE
+2010,"Portugal","Number","Haemodialysis",10812,FALSE
+2010,"Portugal","Number","Transplantation of kidney",5976,FALSE
+2010,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",158.3,FALSE
+2010,"Portugal","Per hundred thousand inhabitants","Haemodialysis",101.95,FALSE
+2010,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney",56.35,FALSE
+2010,"Romania","Number","Transplantation of kidney and haemodialysis",11235,FALSE
+2010,"Romania","Number","Haemodialysis",11235,FALSE
+2010,"Romania","Number","Transplantation of kidney",2240,TRUE
+2010,"Romania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",52.41,FALSE
+2010,"Romania","Per hundred thousand inhabitants","Haemodialysis",52.41,FALSE
+2010,"Romania","Per hundred thousand inhabitants","Transplantation of kidney",37.15,TRUE
+2010,"Slovakia","Number","Transplantation of kidney and haemodialysis",4583,TRUE
+2010,"Slovakia","Number","Haemodialysis",3044,FALSE
+2010,"Slovakia","Number","Transplantation of kidney",1343,TRUE
+2010,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.75,TRUE
+2010,"Slovakia","Per hundred thousand inhabitants","Haemodialysis",56.28,FALSE
+2010,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney",24.83,TRUE
+2010,"Finland","Number","Transplantation of kidney and haemodialysis",4264,FALSE
+2010,"Finland","Number","Haemodialysis",1750,FALSE
+2010,"Finland","Number","Transplantation of kidney",2514,FALSE
+2010,"Finland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",79.5,FALSE
+2010,"Finland","Per hundred thousand inhabitants","Haemodialysis",32.63,FALSE
+2010,"Finland","Per hundred thousand inhabitants","Transplantation of kidney",46.87,FALSE
+2010,"Iceland","Number","Transplantation of kidney and haemodialysis",190,FALSE
+2010,"Iceland","Number","Haemodialysis",71,FALSE
+2010,"Iceland","Number","Transplantation of kidney",119,FALSE
+2010,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",59.74,FALSE
+2010,"Iceland","Per hundred thousand inhabitants","Haemodialysis",22.32,FALSE
+2010,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney",37.42,FALSE
+2010,"Liechtenstein","Number","Transplantation of kidney and haemodialysis",0,FALSE
+2010,"Liechtenstein","Number","Haemodialysis",0,FALSE
+2010,"Liechtenstein","Number","Transplantation of kidney",0,FALSE
+2010,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",0,FALSE
+2010,"Liechtenstein","Per hundred thousand inhabitants","Haemodialysis",0,FALSE
+2010,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney",0,FALSE
+2010,"Switzerland","Number","Transplantation of kidney and haemodialysis",4734,TRUE
+2010,"Switzerland","Number","Haemodialysis",2613,TRUE
+2010,"Switzerland","Number","Transplantation of kidney",2121,TRUE
+2010,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.33,TRUE
+2010,"Switzerland","Per hundred thousand inhabitants","Haemodialysis",47.1,TRUE
+2010,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney",37.15,TRUE
+2010,"United Kingdom","Number","Transplantation of kidney and haemodialysis",50965,FALSE
+2010,"United Kingdom","Number","Haemodialysis",26226,FALSE
+2010,"United Kingdom","Number","Transplantation of kidney",24739,FALSE
+2010,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",81.84,FALSE
+2010,"United Kingdom","Per hundred thousand inhabitants","Haemodialysis",42.12,FALSE
+2010,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney",39.73,FALSE
+2010,"Serbia","Number","Transplantation of kidney and haemodialysis",4734,TRUE
+2010,"Serbia","Number","Haemodialysis",4479,FALSE
+2010,"Serbia","Number","Transplantation of kidney",2121,TRUE
+2010,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.33,TRUE
+2010,"Serbia","Per hundred thousand inhabitants","Haemodialysis",61.43,FALSE
+2010,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney",37.15,TRUE
+2010,"Turkey","Number","Transplantation of kidney and haemodialysis",60635,TRUE
+2010,"Turkey","Number","Haemodialysis",55587,FALSE
+2010,"Turkey","Number","Transplantation of kidney",5743,TRUE
+2010,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",80.52,TRUE
+2010,"Turkey","Per hundred thousand inhabitants","Haemodialysis",76,FALSE
+2010,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney",7.64,TRUE
+2011,"Belgium","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2011,"Belgium","Number","Haemodialysis",6475,TRUE
+2011,"Belgium","Number","Transplantation of kidney",4473,TRUE
+2011,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2011,"Belgium","Per hundred thousand inhabitants","Haemodialysis",61.39,TRUE
+2011,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney",42.41,TRUE
+2011,"Bulgaria","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2011,"Bulgaria","Number","Haemodialysis",6862,TRUE
+2011,"Bulgaria","Number","Transplantation of kidney",2231,TRUE
+2011,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.26,TRUE
+2011,"Bulgaria","Per hundred thousand inhabitants","Haemodialysis",65.38,TRUE
+2011,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney",37.88,TRUE
+2011,"Czechia","Number","Transplantation of kidney and haemodialysis",10838,FALSE
+2011,"Czechia","Number","Haemodialysis",6862,FALSE
+2011,"Czechia","Number","Transplantation of kidney",3976,FALSE
+2011,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.26,FALSE
+2011,"Czechia","Per hundred thousand inhabitants","Haemodialysis",65.38,FALSE
+2011,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney",37.88,FALSE
+2011,"Denmark","Number","Transplantation of kidney and haemodialysis",4789,FALSE
+2011,"Denmark","Number","Haemodialysis",2558,FALSE
+2011,"Denmark","Number","Transplantation of kidney",2231,FALSE
+2011,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.97,FALSE
+2011,"Denmark","Per hundred thousand inhabitants","Haemodialysis",45.92,FALSE
+2011,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney",40.05,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney and haemodialysis",87151,TRUE
+2011,"Germany (until 1990 former territory of the FRG)","Number","Haemodialysis",63427,TRUE
+2011,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney",23724,TRUE
+2011,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",105.68,TRUE
+2011,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Haemodialysis",76.91,TRUE
+2011,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney",30.6,TRUE
+2011,"Estonia","Number","Transplantation of kidney and haemodialysis",4789,TRUE
+2011,"Estonia","Number","Haemodialysis",2558,TRUE
+2011,"Estonia","Number","Transplantation of kidney",405,FALSE
+2011,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.97,TRUE
+2011,"Estonia","Per hundred thousand inhabitants","Haemodialysis",45.92,TRUE
+2011,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney",30.23,FALSE
+2011,"Ireland","Number","Transplantation of kidney and haemodialysis",3775,FALSE
+2011,"Ireland","Number","Haemodialysis",1768,FALSE
+2011,"Ireland","Number","Transplantation of kidney",2007,FALSE
+2011,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",82.49,FALSE
+2011,"Ireland","Per hundred thousand inhabitants","Haemodialysis",38.63,FALSE
+2011,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney",43.86,FALSE
+2011,"Greece","Number","Transplantation of kidney and haemodialysis",12018,TRUE
+2011,"Greece","Number","Haemodialysis",9589,TRUE
+2011,"Greece","Number","Transplantation of kidney",2409,TRUE
+2011,"Greece","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",106.52,TRUE
+2011,"Greece","Per hundred thousand inhabitants","Haemodialysis",84.99,TRUE
+2011,"Greece","Per hundred thousand inhabitants","Transplantation of kidney",21.3,TRUE
+2011,"Spain","Number","Transplantation of kidney and haemodialysis",47771,FALSE
+2011,"Spain","Number","Haemodialysis",23647,FALSE
+2011,"Spain","Number","Transplantation of kidney",24124,FALSE
+2011,"Spain","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.46,FALSE
+2011,"Spain","Per hundred thousand inhabitants","Haemodialysis",51.21,FALSE
+2011,"Spain","Per hundred thousand inhabitants","Transplantation of kidney",52.25,FALSE
+2011,"France","Number","Transplantation of kidney and haemodialysis",70322,FALSE
+2011,"France","Number","Haemodialysis",39183,FALSE
+2011,"France","Number","Transplantation of kidney",31139,FALSE
+2011,"France","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",107.92,FALSE
+2011,"France","Per hundred thousand inhabitants","Haemodialysis",60.13,FALSE
+2011,"France","Per hundred thousand inhabitants","Transplantation of kidney",47.79,FALSE
+2011,"Croatia","Number","Transplantation of kidney and haemodialysis",4348,FALSE
+2011,"Croatia","Number","Haemodialysis",2859,FALSE
+2011,"Croatia","Number","Transplantation of kidney",1489,FALSE
+2011,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.7,FALSE
+2011,"Croatia","Per hundred thousand inhabitants","Haemodialysis",64.9,FALSE
+2011,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney",33.8,FALSE
+2011,"Italy","Number","Transplantation of kidney and haemodialysis",56497,TRUE
+2011,"Italy","Number","Haemodialysis",45025,TRUE
+2011,"Italy","Number","Transplantation of kidney",15636,FALSE
+2011,"Italy","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",94.43,TRUE
+2011,"Italy","Per hundred thousand inhabitants","Haemodialysis",75.25,TRUE
+2011,"Italy","Per hundred thousand inhabitants","Transplantation of kidney",25.75,FALSE
+2011,"Lithuania","Number","Transplantation of kidney and haemodialysis",2671,TRUE
+2011,"Lithuania","Number","Haemodialysis",1888,TRUE
+2011,"Lithuania","Number","Transplantation of kidney",657,FALSE
+2011,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.31,TRUE
+2011,"Lithuania","Per hundred thousand inhabitants","Haemodialysis",63.83,TRUE
+2011,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney",21.68,FALSE
+2011,"Luxembourg","Number","Transplantation of kidney and haemodialysis",4789,TRUE
+2011,"Luxembourg","Number","Haemodialysis",291,FALSE
+2011,"Luxembourg","Number","Transplantation of kidney",2231,TRUE
+2011,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.97,TRUE
+2011,"Luxembourg","Per hundred thousand inhabitants","Haemodialysis",56.14,FALSE
+2011,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney",37.88,TRUE
+2011,"Hungary","Number","Transplantation of kidney and haemodialysis",9397,FALSE
+2011,"Hungary","Number","Haemodialysis",6625,FALSE
+2011,"Hungary","Number","Transplantation of kidney",2772,FALSE
+2011,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",94.24,FALSE
+2011,"Hungary","Per hundred thousand inhabitants","Haemodialysis",66.44,FALSE
+2011,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney",27.8,FALSE
+2011,"Malta","Number","Transplantation of kidney and haemodialysis",4789,TRUE
+2011,"Malta","Number","Haemodialysis",519,TRUE
+2011,"Malta","Number","Transplantation of kidney",2231,TRUE
+2011,"Malta","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.97,TRUE
+2011,"Malta","Per hundred thousand inhabitants","Haemodialysis",65.38,TRUE
+2011,"Malta","Per hundred thousand inhabitants","Transplantation of kidney",37.88,TRUE
+2011,"Netherlands","Number","Transplantation of kidney and haemodialysis",14531,FALSE
+2011,"Netherlands","Number","Haemodialysis",6394,FALSE
+2011,"Netherlands","Number","Transplantation of kidney",8137,FALSE
+2011,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",87.05,FALSE
+2011,"Netherlands","Per hundred thousand inhabitants","Haemodialysis",38.3,FALSE
+2011,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney",48.74,FALSE
+2011,"Austria","Number","Transplantation of kidney and haemodialysis",8458,FALSE
+2011,"Austria","Number","Haemodialysis",4238,FALSE
+2011,"Austria","Number","Transplantation of kidney",4220,FALSE
+2011,"Austria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",100.41,FALSE
+2011,"Austria","Per hundred thousand inhabitants","Haemodialysis",50.31,FALSE
+2011,"Austria","Per hundred thousand inhabitants","Transplantation of kidney",50.1,FALSE
+2011,"Poland","Number","Transplantation of kidney and haemodialysis",4789,TRUE
+2011,"Poland","Number","Haemodialysis",32210,FALSE
+2011,"Poland","Number","Transplantation of kidney",2231,TRUE
+2011,"Poland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.97,TRUE
+2011,"Poland","Per hundred thousand inhabitants","Haemodialysis",83.59,FALSE
+2011,"Poland","Per hundred thousand inhabitants","Transplantation of kidney",37.88,TRUE
+2011,"Portugal","Number","Transplantation of kidney and haemodialysis",16010,TRUE
+2011,"Portugal","Number","Haemodialysis",11113,FALSE
+2011,"Portugal","Number","Transplantation of kidney",5793,TRUE
+2011,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",150.58,TRUE
+2011,"Portugal","Per hundred thousand inhabitants","Haemodialysis",105.27,FALSE
+2011,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney",54.48,TRUE
+2011,"Romania","Number","Transplantation of kidney and haemodialysis",11789,FALSE
+2011,"Romania","Number","Haemodialysis",11789,FALSE
+2011,"Romania","Number","Transplantation of kidney",2240,TRUE
+2011,"Romania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",55.13,FALSE
+2011,"Romania","Per hundred thousand inhabitants","Haemodialysis",55.13,FALSE
+2011,"Romania","Per hundred thousand inhabitants","Transplantation of kidney",37.88,TRUE
+2011,"Slovakia","Number","Transplantation of kidney and haemodialysis",4583,TRUE
+2011,"Slovakia","Number","Haemodialysis",3103,FALSE
+2011,"Slovakia","Number","Transplantation of kidney",1343,TRUE
+2011,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.75,TRUE
+2011,"Slovakia","Per hundred thousand inhabitants","Haemodialysis",57.48,FALSE
+2011,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney",24.83,TRUE
+2011,"Finland","Number","Transplantation of kidney and haemodialysis",4342,FALSE
+2011,"Finland","Number","Haemodialysis",1783,FALSE
+2011,"Finland","Number","Transplantation of kidney",2559,FALSE
+2011,"Finland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",80.58,FALSE
+2011,"Finland","Per hundred thousand inhabitants","Haemodialysis",33.09,FALSE
+2011,"Finland","Per hundred thousand inhabitants","Transplantation of kidney",47.49,FALSE
+2011,"Iceland","Number","Transplantation of kidney and haemodialysis",211,FALSE
+2011,"Iceland","Number","Haemodialysis",80,FALSE
+2011,"Iceland","Number","Transplantation of kidney",131,FALSE
+2011,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",66.14,FALSE
+2011,"Iceland","Per hundred thousand inhabitants","Haemodialysis",25.08,FALSE
+2011,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney",41.06,FALSE
+2011,"Liechtenstein","Number","Transplantation of kidney and haemodialysis",0,FALSE
+2011,"Liechtenstein","Number","Haemodialysis",0,FALSE
+2011,"Liechtenstein","Number","Transplantation of kidney",0,FALSE
+2011,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",0,FALSE
+2011,"Liechtenstein","Per hundred thousand inhabitants","Haemodialysis",0,FALSE
+2011,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney",0,FALSE
+2011,"Switzerland","Number","Transplantation of kidney and haemodialysis",4789,TRUE
+2011,"Switzerland","Number","Haemodialysis",2558,TRUE
+2011,"Switzerland","Number","Transplantation of kidney",2231,TRUE
+2011,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.97,TRUE
+2011,"Switzerland","Per hundred thousand inhabitants","Haemodialysis",45.92,TRUE
+2011,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney",37.88,TRUE
+2011,"United Kingdom","Number","Transplantation of kidney and haemodialysis",53207,FALSE
+2011,"United Kingdom","Number","Haemodialysis",26910,FALSE
+2011,"United Kingdom","Number","Transplantation of kidney",26297,FALSE
+2011,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.61,FALSE
+2011,"United Kingdom","Per hundred thousand inhabitants","Haemodialysis",42.79,FALSE
+2011,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney",41.82,FALSE
+2011,"Serbia","Number","Transplantation of kidney and haemodialysis",4789,TRUE
+2011,"Serbia","Number","Haemodialysis",4596,FALSE
+2011,"Serbia","Number","Transplantation of kidney",2231,TRUE
+2011,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.97,TRUE
+2011,"Serbia","Per hundred thousand inhabitants","Haemodialysis",63.32,FALSE
+2011,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney",37.88,TRUE
+2011,"Turkey","Number","Transplantation of kidney and haemodialysis",58758,FALSE
+2011,"Turkey","Number","Haemodialysis",55868,FALSE
+2011,"Turkey","Number","Transplantation of kidney",2890,FALSE
+2011,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",79.16,FALSE
+2011,"Turkey","Per hundred thousand inhabitants","Haemodialysis",75.27,FALSE
+2011,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney",3.89,FALSE
+2012,"Belgium","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2012,"Belgium","Number","Haemodialysis",6475,TRUE
+2012,"Belgium","Number","Transplantation of kidney",4473,TRUE
+2012,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2012,"Belgium","Per hundred thousand inhabitants","Haemodialysis",61.39,TRUE
+2012,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney",42.41,TRUE
+2012,"Bulgaria","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2012,"Bulgaria","Number","Haemodialysis",7155,TRUE
+2012,"Bulgaria","Number","Transplantation of kidney",2330,TRUE
+2012,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",107.18,TRUE
+2012,"Bulgaria","Per hundred thousand inhabitants","Haemodialysis",68.07,TRUE
+2012,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney",39.1,TRUE
+2012,"Czechia","Number","Transplantation of kidney and haemodialysis",11265,FALSE
+2012,"Czechia","Number","Haemodialysis",7155,FALSE
+2012,"Czechia","Number","Transplantation of kidney",4110,FALSE
+2012,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",107.18,FALSE
+2012,"Czechia","Per hundred thousand inhabitants","Haemodialysis",68.07,FALSE
+2012,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney",39.1,FALSE
+2012,"Denmark","Number","Transplantation of kidney and haemodialysis",4829,FALSE
+2012,"Denmark","Number","Haemodialysis",2499,FALSE
+2012,"Denmark","Number","Transplantation of kidney",2330,FALSE
+2012,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",86.36,FALSE
+2012,"Denmark","Per hundred thousand inhabitants","Haemodialysis",44.69,FALSE
+2012,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney",41.67,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney and haemodialysis",87151,TRUE
+2012,"Germany (until 1990 former territory of the FRG)","Number","Haemodialysis",63427,TRUE
+2012,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney",23724,TRUE
+2012,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",107.18,TRUE
+2012,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Haemodialysis",76.91,TRUE
+2012,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney",30.6,TRUE
+2012,"Estonia","Number","Transplantation of kidney and haemodialysis",4829,TRUE
+2012,"Estonia","Number","Haemodialysis",2499,TRUE
+2012,"Estonia","Number","Transplantation of kidney",434,FALSE
+2012,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",86.36,TRUE
+2012,"Estonia","Per hundred thousand inhabitants","Haemodialysis",44.69,TRUE
+2012,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney",32.81,FALSE
+2012,"Ireland","Number","Transplantation of kidney and haemodialysis",3898,FALSE
+2012,"Ireland","Number","Haemodialysis",1828,FALSE
+2012,"Ireland","Number","Transplantation of kidney",2070,FALSE
+2012,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.98,FALSE
+2012,"Ireland","Per hundred thousand inhabitants","Haemodialysis",39.85,FALSE
+2012,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney",45.13,FALSE
+2012,"Greece","Number","Transplantation of kidney and haemodialysis",12018,TRUE
+2012,"Greece","Number","Haemodialysis",9589,TRUE
+2012,"Greece","Number","Transplantation of kidney",2409,TRUE
+2012,"Greece","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",106.52,TRUE
+2012,"Greece","Per hundred thousand inhabitants","Haemodialysis",84.99,TRUE
+2012,"Greece","Per hundred thousand inhabitants","Transplantation of kidney",21.3,TRUE
+2012,"Spain","Number","Transplantation of kidney and haemodialysis",50653,FALSE
+2012,"Spain","Number","Haemodialysis",25211,FALSE
+2012,"Spain","Number","Transplantation of kidney",25442,FALSE
+2012,"Spain","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",108.3,FALSE
+2012,"Spain","Per hundred thousand inhabitants","Haemodialysis",53.9,FALSE
+2012,"Spain","Per hundred thousand inhabitants","Transplantation of kidney",54.39,FALSE
+2012,"France","Number","Transplantation of kidney and haemodialysis",73491,FALSE
+2012,"France","Number","Haemodialysis",40983,FALSE
+2012,"France","Number","Transplantation of kidney",32508,FALSE
+2012,"France","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",112.34,FALSE
+2012,"France","Per hundred thousand inhabitants","Haemodialysis",62.65,FALSE
+2012,"France","Per hundred thousand inhabitants","Transplantation of kidney",49.69,FALSE
+2012,"Croatia","Number","Transplantation of kidney and haemodialysis",4314,FALSE
+2012,"Croatia","Number","Haemodialysis",2746,FALSE
+2012,"Croatia","Number","Transplantation of kidney",1568,FALSE
+2012,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",101.05,FALSE
+2012,"Croatia","Per hundred thousand inhabitants","Haemodialysis",64.32,FALSE
+2012,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney",36.73,FALSE
+2012,"Italy","Number","Transplantation of kidney and haemodialysis",56497,TRUE
+2012,"Italy","Number","Haemodialysis",45025,TRUE
+2012,"Italy","Number","Transplantation of kidney",17012,FALSE
+2012,"Italy","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",94.43,TRUE
+2012,"Italy","Per hundred thousand inhabitants","Haemodialysis",75.25,TRUE
+2012,"Italy","Per hundred thousand inhabitants","Transplantation of kidney",28.57,FALSE
+2012,"Lithuania","Number","Transplantation of kidney and haemodialysis",2532,FALSE
+2012,"Lithuania","Number","Haemodialysis",1815,FALSE
+2012,"Lithuania","Number","Transplantation of kidney",717,FALSE
+2012,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.75,FALSE
+2012,"Lithuania","Per hundred thousand inhabitants","Haemodialysis",60.75,FALSE
+2012,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney",24,FALSE
+2012,"Luxembourg","Number","Transplantation of kidney and haemodialysis",4829,TRUE
+2012,"Luxembourg","Number","Haemodialysis",299,FALSE
+2012,"Luxembourg","Number","Transplantation of kidney",2330,TRUE
+2012,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",86.36,TRUE
+2012,"Luxembourg","Per hundred thousand inhabitants","Haemodialysis",56.31,FALSE
+2012,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney",39.1,TRUE
+2012,"Hungary","Number","Transplantation of kidney and haemodialysis",9585,FALSE
+2012,"Hungary","Number","Haemodialysis",6664,FALSE
+2012,"Hungary","Number","Transplantation of kidney",2921,FALSE
+2012,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",96.62,FALSE
+2012,"Hungary","Per hundred thousand inhabitants","Haemodialysis",67.17,FALSE
+2012,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney",29.44,FALSE
+2012,"Malta","Number","Transplantation of kidney and haemodialysis",4829,TRUE
+2012,"Malta","Number","Haemodialysis",519,TRUE
+2012,"Malta","Number","Transplantation of kidney",2330,TRUE
+2012,"Malta","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",86.36,TRUE
+2012,"Malta","Per hundred thousand inhabitants","Haemodialysis",68.07,TRUE
+2012,"Malta","Per hundred thousand inhabitants","Transplantation of kidney",39.1,TRUE
+2012,"Netherlands","Number","Transplantation of kidney and haemodialysis",14953,FALSE
+2012,"Netherlands","Number","Haemodialysis",6427,FALSE
+2012,"Netherlands","Number","Transplantation of kidney",8526,FALSE
+2012,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",89.25,FALSE
+2012,"Netherlands","Per hundred thousand inhabitants","Haemodialysis",38.36,FALSE
+2012,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney",50.89,FALSE
+2012,"Austria","Number","Transplantation of kidney and haemodialysis",8655,FALSE
+2012,"Austria","Number","Haemodialysis",4290,FALSE
+2012,"Austria","Number","Transplantation of kidney",4365,FALSE
+2012,"Austria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",102.67,FALSE
+2012,"Austria","Per hundred thousand inhabitants","Haemodialysis",50.89,FALSE
+2012,"Austria","Per hundred thousand inhabitants","Transplantation of kidney",51.78,FALSE
+2012,"Poland","Number","Transplantation of kidney and haemodialysis",4829,TRUE
+2012,"Poland","Number","Haemodialysis",29017,FALSE
+2012,"Poland","Number","Transplantation of kidney",2330,TRUE
+2012,"Poland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",86.36,TRUE
+2012,"Poland","Per hundred thousand inhabitants","Haemodialysis",76.23,FALSE
+2012,"Poland","Per hundred thousand inhabitants","Transplantation of kidney",39.1,TRUE
+2012,"Portugal","Number","Transplantation of kidney and haemodialysis",16010,TRUE
+2012,"Portugal","Number","Haemodialysis",11282,FALSE
+2012,"Portugal","Number","Transplantation of kidney",5793,TRUE
+2012,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",150.58,TRUE
+2012,"Portugal","Per hundred thousand inhabitants","Haemodialysis",107.3,FALSE
+2012,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney",54.48,TRUE
+2012,"Romania","Number","Transplantation of kidney and haemodialysis",14823,FALSE
+2012,"Romania","Number","Haemodialysis",12583,FALSE
+2012,"Romania","Number","Transplantation of kidney",2240,FALSE
+2012,"Romania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",73.9,FALSE
+2012,"Romania","Per hundred thousand inhabitants","Haemodialysis",62.73,FALSE
+2012,"Romania","Per hundred thousand inhabitants","Transplantation of kidney",11.17,FALSE
+2012,"Slovakia","Number","Transplantation of kidney and haemodialysis",4583,FALSE
+2012,"Slovakia","Number","Haemodialysis",3240,FALSE
+2012,"Slovakia","Number","Transplantation of kidney",1343,FALSE
+2012,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.75,FALSE
+2012,"Slovakia","Per hundred thousand inhabitants","Haemodialysis",59.92,FALSE
+2012,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney",24.84,FALSE
+2012,"Finland","Number","Transplantation of kidney and haemodialysis",4385,FALSE
+2012,"Finland","Number","Haemodialysis",1767,FALSE
+2012,"Finland","Number","Transplantation of kidney",2618,FALSE
+2012,"Finland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",80.99,FALSE
+2012,"Finland","Per hundred thousand inhabitants","Haemodialysis",32.64,FALSE
+2012,"Finland","Per hundred thousand inhabitants","Transplantation of kidney",48.36,FALSE
+2012,"Iceland","Number","Transplantation of kidney and haemodialysis",217,FALSE
+2012,"Iceland","Number","Haemodialysis",76,FALSE
+2012,"Iceland","Number","Transplantation of kidney",141,FALSE
+2012,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",67.66,FALSE
+2012,"Iceland","Per hundred thousand inhabitants","Haemodialysis",23.7,FALSE
+2012,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney",43.96,FALSE
+2012,"Liechtenstein","Number","Transplantation of kidney and haemodialysis",0,FALSE
+2012,"Liechtenstein","Number","Haemodialysis",0,FALSE
+2012,"Liechtenstein","Number","Transplantation of kidney",0,FALSE
+2012,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",0,FALSE
+2012,"Liechtenstein","Per hundred thousand inhabitants","Haemodialysis",0,FALSE
+2012,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney",0,FALSE
+2012,"Switzerland","Number","Transplantation of kidney and haemodialysis",4829,TRUE
+2012,"Switzerland","Number","Haemodialysis",2499,TRUE
+2012,"Switzerland","Number","Transplantation of kidney",2330,TRUE
+2012,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",86.36,TRUE
+2012,"Switzerland","Per hundred thousand inhabitants","Haemodialysis",44.69,TRUE
+2012,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney",39.1,TRUE
+2012,"United Kingdom","Number","Transplantation of kidney and haemodialysis",54824,FALSE
+2012,"United Kingdom","Number","Haemodialysis",27203,FALSE
+2012,"United Kingdom","Number","Transplantation of kidney",27621,FALSE
+2012,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",86.07,FALSE
+2012,"United Kingdom","Per hundred thousand inhabitants","Haemodialysis",42.7,FALSE
+2012,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney",43.36,FALSE
+2012,"Serbia","Number","Transplantation of kidney and haemodialysis",4829,TRUE
+2012,"Serbia","Number","Haemodialysis",4713,FALSE
+2012,"Serbia","Number","Transplantation of kidney",2330,TRUE
+2012,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",86.36,TRUE
+2012,"Serbia","Per hundred thousand inhabitants","Haemodialysis",61.43,TRUE
+2012,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney",39.1,TRUE
+2012,"Turkey","Number","Transplantation of kidney and haemodialysis",60635,FALSE
+2012,"Turkey","Number","Haemodialysis",54892,FALSE
+2012,"Turkey","Number","Transplantation of kidney",5743,FALSE
+2012,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",80.66,FALSE
+2012,"Turkey","Per hundred thousand inhabitants","Haemodialysis",73.02,FALSE
+2012,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney",7.64,FALSE
+2013,"Belgium","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2013,"Belgium","Number","Haemodialysis",6475,TRUE
+2013,"Belgium","Number","Transplantation of kidney",4473,TRUE
+2013,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2013,"Belgium","Per hundred thousand inhabitants","Haemodialysis",61.39,TRUE
+2013,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney",42.41,TRUE
+2013,"Bulgaria","Number","Transplantation of kidney and haemodialysis",8228,FALSE
+2013,"Bulgaria","Number","Haemodialysis",8163,FALSE
+2013,"Bulgaria","Number","Transplantation of kidney",65,FALSE
+2013,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",113.25,FALSE
+2013,"Bulgaria","Per hundred thousand inhabitants","Haemodialysis",112.36,FALSE
+2013,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney",0.89,FALSE
+2013,"Czechia","Number","Transplantation of kidney and haemodialysis",11609,FALSE
+2013,"Czechia","Number","Haemodialysis",7322,FALSE
+2013,"Czechia","Number","Transplantation of kidney",4287,FALSE
+2013,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,FALSE
+2013,"Czechia","Per hundred thousand inhabitants","Haemodialysis",69.64,FALSE
+2013,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney",40.77,FALSE
+2013,"Denmark","Number","Transplantation of kidney and haemodialysis",4789,TRUE
+2013,"Denmark","Number","Haemodialysis",2558,TRUE
+2013,"Denmark","Number","Transplantation of kidney",2231,TRUE
+2013,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.97,TRUE
+2013,"Denmark","Per hundred thousand inhabitants","Haemodialysis",45.92,TRUE
+2013,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney",40.05,TRUE
+2013,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney and haemodialysis",87151,TRUE
+2013,"Germany (until 1990 former territory of the FRG)","Number","Haemodialysis",63427,TRUE
+2013,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney",23724,TRUE
+2013,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",111.34,TRUE
+2013,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Haemodialysis",80.74,TRUE
+2013,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney",28.77,TRUE
+2013,"Estonia","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2013,"Estonia","Number","Haemodialysis",7322,TRUE
+2013,"Estonia","Number","Transplantation of kidney",458,FALSE
+2013,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,TRUE
+2013,"Estonia","Per hundred thousand inhabitants","Haemodialysis",69.64,TRUE
+2013,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney",34.75,FALSE
+2013,"Ireland","Number","Transplantation of kidney and haemodialysis",4047,FALSE
+2013,"Ireland","Number","Haemodialysis",1831,FALSE
+2013,"Ireland","Number","Transplantation of kidney",2216,FALSE
+2013,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",88.01,FALSE
+2013,"Ireland","Per hundred thousand inhabitants","Haemodialysis",39.82,FALSE
+2013,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney",48.19,FALSE
+2013,"Greece","Number","Transplantation of kidney and haemodialysis",12018,TRUE
+2013,"Greece","Number","Haemodialysis",9589,TRUE
+2013,"Greece","Number","Transplantation of kidney",2409,TRUE
+2013,"Greece","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",106.52,TRUE
+2013,"Greece","Per hundred thousand inhabitants","Haemodialysis",84.99,TRUE
+2013,"Greece","Per hundred thousand inhabitants","Transplantation of kidney",21.3,TRUE
+2013,"Spain","Number","Transplantation of kidney and haemodialysis",50219,FALSE
+2013,"Spain","Number","Haemodialysis",24365,FALSE
+2013,"Spain","Number","Transplantation of kidney",25854,FALSE
+2013,"Spain","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",107.72,FALSE
+2013,"Spain","Per hundred thousand inhabitants","Haemodialysis",52.26,FALSE
+2013,"Spain","Per hundred thousand inhabitants","Transplantation of kidney",55.46,FALSE
+2013,"France","Number","Transplantation of kidney and haemodialysis",70322,TRUE
+2013,"France","Number","Haemodialysis",39183,TRUE
+2013,"France","Number","Transplantation of kidney",31139,TRUE
+2013,"France","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",107.92,TRUE
+2013,"France","Per hundred thousand inhabitants","Haemodialysis",60.13,TRUE
+2013,"France","Per hundred thousand inhabitants","Transplantation of kidney",47.79,TRUE
+2013,"Croatia","Number","Transplantation of kidney and haemodialysis",4314,TRUE
+2013,"Croatia","Number","Haemodialysis",2859,TRUE
+2013,"Croatia","Number","Transplantation of kidney",1489,TRUE
+2013,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.7,TRUE
+2013,"Croatia","Per hundred thousand inhabitants","Haemodialysis",64.9,TRUE
+2013,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney",33.8,TRUE
+2013,"Italy","Number","Transplantation of kidney and haemodialysis",56497,TRUE
+2013,"Italy","Number","Haemodialysis",45025,TRUE
+2013,"Italy","Number","Transplantation of kidney",15636,TRUE
+2013,"Italy","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",94.43,TRUE
+2013,"Italy","Per hundred thousand inhabitants","Haemodialysis",75.25,TRUE
+2013,"Italy","Per hundred thousand inhabitants","Transplantation of kidney",25.75,TRUE
+2013,"Lithuania","Number","Transplantation of kidney and haemodialysis",2671,FALSE
+2013,"Lithuania","Number","Haemodialysis",1888,FALSE
+2013,"Lithuania","Number","Transplantation of kidney",783,FALSE
+2013,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.31,FALSE
+2013,"Lithuania","Per hundred thousand inhabitants","Haemodialysis",63.83,FALSE
+2013,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney",26.47,FALSE
+2013,"Luxembourg","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2013,"Luxembourg","Number","Haemodialysis",329,FALSE
+2013,"Luxembourg","Number","Transplantation of kidney",458,TRUE
+2013,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,TRUE
+2013,"Luxembourg","Per hundred thousand inhabitants","Haemodialysis",60.55,FALSE
+2013,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney",34.75,TRUE
+2013,"Hungary","Number","Transplantation of kidney and haemodialysis",9868,FALSE
+2013,"Hungary","Number","Haemodialysis",6821,FALSE
+2013,"Hungary","Number","Transplantation of kidney",3047,FALSE
+2013,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",99.75,FALSE
+2013,"Hungary","Per hundred thousand inhabitants","Haemodialysis",68.95,FALSE
+2013,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney",30.8,FALSE
+2013,"Malta","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2013,"Malta","Number","Haemodialysis",454,FALSE
+2013,"Malta","Number","Transplantation of kidney",458,TRUE
+2013,"Malta","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,TRUE
+2013,"Malta","Per hundred thousand inhabitants","Haemodialysis",107.23,FALSE
+2013,"Malta","Per hundred thousand inhabitants","Transplantation of kidney",34.75,TRUE
+2013,"Netherlands","Number","Transplantation of kidney and haemodialysis",15415,FALSE
+2013,"Netherlands","Number","Haemodialysis",6437,FALSE
+2013,"Netherlands","Number","Transplantation of kidney",8978,FALSE
+2013,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",91.73,FALSE
+2013,"Netherlands","Per hundred thousand inhabitants","Haemodialysis",38.31,FALSE
+2013,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney",53.43,FALSE
+2013,"Austria","Number","Transplantation of kidney and haemodialysis",8933,FALSE
+2013,"Austria","Number","Haemodialysis",4423,FALSE
+2013,"Austria","Number","Transplantation of kidney",4510,FALSE
+2013,"Austria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",105.35,FALSE
+2013,"Austria","Per hundred thousand inhabitants","Haemodialysis",52.16,FALSE
+2013,"Austria","Per hundred thousand inhabitants","Transplantation of kidney",53.19,FALSE
+2013,"Poland","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2013,"Poland","Number","Haemodialysis",30253,FALSE
+2013,"Poland","Number","Transplantation of kidney",458,TRUE
+2013,"Poland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,TRUE
+2013,"Poland","Per hundred thousand inhabitants","Haemodialysis",79.53,FALSE
+2013,"Poland","Per hundred thousand inhabitants","Transplantation of kidney",34.75,TRUE
+2013,"Portugal","Number","Transplantation of kidney and haemodialysis",16010,TRUE
+2013,"Portugal","Number","Haemodialysis",11709,FALSE
+2013,"Portugal","Number","Transplantation of kidney",5793,TRUE
+2013,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",150.58,TRUE
+2013,"Portugal","Per hundred thousand inhabitants","Haemodialysis",111.97,FALSE
+2013,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney",54.48,TRUE
+2013,"Romania","Number","Transplantation of kidney and haemodialysis",13445,FALSE
+2013,"Romania","Number","Haemodialysis",13445,FALSE
+2013,"Romania","Number","Transplantation of kidney",2240,TRUE
+2013,"Romania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",67.28,FALSE
+2013,"Romania","Per hundred thousand inhabitants","Haemodialysis",67.28,FALSE
+2013,"Romania","Per hundred thousand inhabitants","Transplantation of kidney",11.17,TRUE
+2013,"Slovakia","Number","Transplantation of kidney and haemodialysis",4602,FALSE
+2013,"Slovakia","Number","Haemodialysis",3258,FALSE
+2013,"Slovakia","Number","Transplantation of kidney",1344,FALSE
+2013,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.01,FALSE
+2013,"Slovakia","Per hundred thousand inhabitants","Haemodialysis",60.18,FALSE
+2013,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney",24.83,FALSE
+2013,"Finland","Number","Transplantation of kidney and haemodialysis",4483,FALSE
+2013,"Finland","Number","Haemodialysis",1813,FALSE
+2013,"Finland","Number","Transplantation of kidney",2670,FALSE
+2013,"Finland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",82.42,FALSE
+2013,"Finland","Per hundred thousand inhabitants","Haemodialysis",33.33,FALSE
+2013,"Finland","Per hundred thousand inhabitants","Transplantation of kidney",49.09,FALSE
+2013,"Iceland","Number","Transplantation of kidney and haemodialysis",221,FALSE
+2013,"Iceland","Number","Haemodialysis",72,FALSE
+2013,"Iceland","Number","Transplantation of kidney",149,FALSE
+2013,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",68.26,FALSE
+2013,"Iceland","Per hundred thousand inhabitants","Haemodialysis",22.24,FALSE
+2013,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney",46.02,FALSE
+2013,"Liechtenstein","Number","Transplantation of kidney and haemodialysis",0,FALSE
+2013,"Liechtenstein","Number","Haemodialysis",0,FALSE
+2013,"Liechtenstein","Number","Transplantation of kidney",0,FALSE
+2013,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",0,FALSE
+2013,"Liechtenstein","Per hundred thousand inhabitants","Haemodialysis",0,FALSE
+2013,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney",0,FALSE
+2013,"Switzerland","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2013,"Switzerland","Number","Haemodialysis",7322,TRUE
+2013,"Switzerland","Number","Transplantation of kidney",458,TRUE
+2013,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,TRUE
+2013,"Switzerland","Per hundred thousand inhabitants","Haemodialysis",69.64,TRUE
+2013,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney",34.75,TRUE
+2013,"United Kingdom","Number","Transplantation of kidney and haemodialysis",56940,FALSE
+2013,"United Kingdom","Number","Haemodialysis",27348,FALSE
+2013,"United Kingdom","Number","Transplantation of kidney",29592,FALSE
+2013,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",88.82,FALSE
+2013,"United Kingdom","Per hundred thousand inhabitants","Haemodialysis",42.66,FALSE
+2013,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney",46.16,FALSE
+2013,"Serbia","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2013,"Serbia","Number","Haemodialysis",4596,TRUE
+2013,"Serbia","Number","Transplantation of kidney",458,TRUE
+2013,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,TRUE
+2013,"Serbia","Per hundred thousand inhabitants","Haemodialysis",61.43,TRUE
+2013,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney",34.75,TRUE
+2013,"Turkey","Number","Transplantation of kidney and haemodialysis",61314,FALSE
+2013,"Turkey","Number","Haemodialysis",52675,FALSE
+2013,"Turkey","Number","Transplantation of kidney",8639,FALSE
+2013,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",80.52,FALSE
+2013,"Turkey","Per hundred thousand inhabitants","Haemodialysis",69.17,FALSE
+2013,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney",11.35,FALSE
+2014,"Belgium","Number","Transplantation of kidney and haemodialysis",10948,TRUE
+2014,"Belgium","Number","Haemodialysis",6475,TRUE
+2014,"Belgium","Number","Transplantation of kidney",4473,TRUE
+2014,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",103.79,TRUE
+2014,"Belgium","Per hundred thousand inhabitants","Haemodialysis",61.39,TRUE
+2014,"Belgium","Per hundred thousand inhabitants","Transplantation of kidney",42.41,TRUE
+2014,"Bulgaria","Number","Transplantation of kidney and haemodialysis",8228,TRUE
+2014,"Bulgaria","Number","Haemodialysis",1906,TRUE
+2014,"Bulgaria","Number","Transplantation of kidney",2270,TRUE
+2014,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",113.25,TRUE
+2014,"Bulgaria","Per hundred thousand inhabitants","Haemodialysis",113.25,TRUE
+2014,"Bulgaria","Per hundred thousand inhabitants","Transplantation of kidney",65,TRUE
+2014,"Czechia","Number","Transplantation of kidney and haemodialysis",11265,TRUE
+2014,"Czechia","Number","Haemodialysis",7155,TRUE
+2014,"Czechia","Number","Transplantation of kidney",4110,TRUE
+2014,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",107.18,TRUE
+2014,"Czechia","Per hundred thousand inhabitants","Haemodialysis",68.07,TRUE
+2014,"Czechia","Per hundred thousand inhabitants","Transplantation of kidney",39.1,TRUE
+2014,"Denmark","Number","Transplantation of kidney and haemodialysis",4789,TRUE
+2014,"Denmark","Number","Haemodialysis",2558,TRUE
+2014,"Denmark","Number","Transplantation of kidney",2231,TRUE
+2014,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",85.97,TRUE
+2014,"Denmark","Per hundred thousand inhabitants","Haemodialysis",45.92,TRUE
+2014,"Denmark","Per hundred thousand inhabitants","Transplantation of kidney",40.05,TRUE
+2014,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney and haemodialysis",87151,TRUE
+2014,"Germany (until 1990 former territory of the FRG)","Number","Haemodialysis",63427,TRUE
+2014,"Germany (until 1990 former territory of the FRG)","Number","Transplantation of kidney",23724,TRUE
+2014,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",111.34,TRUE
+2014,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Haemodialysis",80.74,TRUE
+2014,"Germany (until 1990 former territory of the FRG)","Per hundred thousand inhabitants","Transplantation of kidney",28.77,TRUE
+2014,"Estonia","Number","Transplantation of kidney and haemodialysis",4176,TRUE
+2014,"Estonia","Number","Haemodialysis",1906,TRUE
+2014,"Estonia","Number","Transplantation of kidney",434,TRUE
+2014,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,TRUE
+2014,"Estonia","Per hundred thousand inhabitants","Haemodialysis",69.64,TRUE
+2014,"Estonia","Per hundred thousand inhabitants","Transplantation of kidney",32.81,TRUE
+2014,"Ireland","Number","Transplantation of kidney and haemodialysis",4176,FALSE
+2014,"Ireland","Number","Haemodialysis",1906,FALSE
+2014,"Ireland","Number","Transplantation of kidney",2270,FALSE
+2014,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.98,TRUE
+2014,"Ireland","Per hundred thousand inhabitants","Haemodialysis",39.82,TRUE
+2014,"Ireland","Per hundred thousand inhabitants","Transplantation of kidney",45.13,TRUE
+2014,"Greece","Number","Transplantation of kidney and haemodialysis",12018,TRUE
+2014,"Greece","Number","Haemodialysis",9589,TRUE
+2014,"Greece","Number","Transplantation of kidney",2409,TRUE
+2014,"Greece","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",106.52,TRUE
+2014,"Greece","Per hundred thousand inhabitants","Haemodialysis",84.99,TRUE
+2014,"Greece","Per hundred thousand inhabitants","Transplantation of kidney",21.3,TRUE
+2014,"Spain","Number","Transplantation of kidney and haemodialysis",50219,TRUE
+2014,"Spain","Number","Haemodialysis",24365,TRUE
+2014,"Spain","Number","Transplantation of kidney",25442,TRUE
+2014,"Spain","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",107.72,TRUE
+2014,"Spain","Per hundred thousand inhabitants","Haemodialysis",52.26,TRUE
+2014,"Spain","Per hundred thousand inhabitants","Transplantation of kidney",54.39,TRUE
+2014,"France","Number","Transplantation of kidney and haemodialysis",70322,TRUE
+2014,"France","Number","Haemodialysis",39183,TRUE
+2014,"France","Number","Transplantation of kidney",31139,TRUE
+2014,"France","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",107.92,TRUE
+2014,"France","Per hundred thousand inhabitants","Haemodialysis",60.13,TRUE
+2014,"France","Per hundred thousand inhabitants","Transplantation of kidney",47.79,TRUE
+2014,"Croatia","Number","Transplantation of kidney and haemodialysis",4314,TRUE
+2014,"Croatia","Number","Haemodialysis",2859,TRUE
+2014,"Croatia","Number","Transplantation of kidney",1489,TRUE
+2014,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",98.7,TRUE
+2014,"Croatia","Per hundred thousand inhabitants","Haemodialysis",64.9,TRUE
+2014,"Croatia","Per hundred thousand inhabitants","Transplantation of kidney",33.8,TRUE
+2014,"Italy","Number","Transplantation of kidney and haemodialysis",56497,TRUE
+2014,"Italy","Number","Haemodialysis",45025,TRUE
+2014,"Italy","Number","Transplantation of kidney",15636,TRUE
+2014,"Italy","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",94.43,TRUE
+2014,"Italy","Per hundred thousand inhabitants","Haemodialysis",75.25,TRUE
+2014,"Italy","Per hundred thousand inhabitants","Transplantation of kidney",25.75,TRUE
+2014,"Lithuania","Number","Transplantation of kidney and haemodialysis",2671,TRUE
+2014,"Lithuania","Number","Haemodialysis",1888,TRUE
+2014,"Lithuania","Number","Transplantation of kidney",717,TRUE
+2014,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",90.31,TRUE
+2014,"Lithuania","Per hundred thousand inhabitants","Haemodialysis",63.83,TRUE
+2014,"Lithuania","Per hundred thousand inhabitants","Transplantation of kidney",24,TRUE
+2014,"Luxembourg","Number","Transplantation of kidney and haemodialysis",4176,TRUE
+2014,"Luxembourg","Number","Haemodialysis",299,TRUE
+2014,"Luxembourg","Number","Transplantation of kidney",2270,TRUE
+2014,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,TRUE
+2014,"Luxembourg","Per hundred thousand inhabitants","Haemodialysis",56.31,TRUE
+2014,"Luxembourg","Per hundred thousand inhabitants","Transplantation of kidney",34.75,TRUE
+2014,"Hungary","Number","Transplantation of kidney and haemodialysis",9585,TRUE
+2014,"Hungary","Number","Haemodialysis",6664,TRUE
+2014,"Hungary","Number","Transplantation of kidney",2921,TRUE
+2014,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",96.62,TRUE
+2014,"Hungary","Per hundred thousand inhabitants","Haemodialysis",67.17,TRUE
+2014,"Hungary","Per hundred thousand inhabitants","Transplantation of kidney",29.44,TRUE
+2014,"Malta","Number","Transplantation of kidney and haemodialysis",4176,TRUE
+2014,"Malta","Number","Haemodialysis",519,FALSE
+2014,"Malta","Number","Transplantation of kidney",2270,TRUE
+2014,"Malta","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,TRUE
+2014,"Malta","Per hundred thousand inhabitants","Haemodialysis",112.36,TRUE
+2014,"Malta","Per hundred thousand inhabitants","Transplantation of kidney",34.75,TRUE
+2014,"Netherlands","Number","Transplantation of kidney and haemodialysis",15923,FALSE
+2014,"Netherlands","Number","Haemodialysis",6463,FALSE
+2014,"Netherlands","Number","Transplantation of kidney",9460,FALSE
+2014,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",89.25,TRUE
+2014,"Netherlands","Per hundred thousand inhabitants","Haemodialysis",38.31,TRUE
+2014,"Netherlands","Per hundred thousand inhabitants","Transplantation of kidney",50.89,TRUE
+2014,"Austria","Number","Transplantation of kidney and haemodialysis",8655,TRUE
+2014,"Austria","Number","Haemodialysis",4290,TRUE
+2014,"Austria","Number","Transplantation of kidney",4365,TRUE
+2014,"Austria","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",102.67,TRUE
+2014,"Austria","Per hundred thousand inhabitants","Haemodialysis",50.89,TRUE
+2014,"Austria","Per hundred thousand inhabitants","Transplantation of kidney",51.78,TRUE
+2014,"Poland","Number","Transplantation of kidney and haemodialysis",4176,TRUE
+2014,"Poland","Number","Haemodialysis",30253,TRUE
+2014,"Poland","Number","Transplantation of kidney",2270,TRUE
+2014,"Poland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,TRUE
+2014,"Poland","Per hundred thousand inhabitants","Haemodialysis",79.53,TRUE
+2014,"Poland","Per hundred thousand inhabitants","Transplantation of kidney",34.75,TRUE
+2014,"Portugal","Number","Transplantation of kidney and haemodialysis",16010,TRUE
+2014,"Portugal","Number","Haemodialysis",12085,FALSE
+2014,"Portugal","Number","Transplantation of kidney",5793,TRUE
+2014,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",150.58,TRUE
+2014,"Portugal","Per hundred thousand inhabitants","Haemodialysis",107.3,TRUE
+2014,"Portugal","Per hundred thousand inhabitants","Transplantation of kidney",54.48,TRUE
+2014,"Romania","Number","Transplantation of kidney and haemodialysis",13445,TRUE
+2014,"Romania","Number","Haemodialysis",12583,TRUE
+2014,"Romania","Number","Transplantation of kidney",2270,TRUE
+2014,"Romania","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",67.28,TRUE
+2014,"Romania","Per hundred thousand inhabitants","Haemodialysis",62.73,TRUE
+2014,"Romania","Per hundred thousand inhabitants","Transplantation of kidney",11.17,TRUE
+2014,"Slovakia","Number","Transplantation of kidney and haemodialysis",4583,TRUE
+2014,"Slovakia","Number","Haemodialysis",3240,TRUE
+2014,"Slovakia","Number","Transplantation of kidney",1343,TRUE
+2014,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",84.75,TRUE
+2014,"Slovakia","Per hundred thousand inhabitants","Haemodialysis",59.92,TRUE
+2014,"Slovakia","Per hundred thousand inhabitants","Transplantation of kidney",24.83,TRUE
+2014,"Finland","Number","Transplantation of kidney and haemodialysis",4385,TRUE
+2014,"Finland","Number","Haemodialysis",1783,TRUE
+2014,"Finland","Number","Transplantation of kidney",2618,TRUE
+2014,"Finland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",80.99,TRUE
+2014,"Finland","Per hundred thousand inhabitants","Haemodialysis",33.09,TRUE
+2014,"Finland","Per hundred thousand inhabitants","Transplantation of kidney",48.36,TRUE
+2014,"Iceland","Number","Transplantation of kidney and haemodialysis",223,FALSE
+2014,"Iceland","Number","Haemodialysis",72,FALSE
+2014,"Iceland","Number","Transplantation of kidney",151,FALSE
+2014,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",67.66,TRUE
+2014,"Iceland","Per hundred thousand inhabitants","Haemodialysis",23.7,TRUE
+2014,"Iceland","Per hundred thousand inhabitants","Transplantation of kidney",43.96,TRUE
+2014,"Liechtenstein","Number","Transplantation of kidney and haemodialysis",0,FALSE
+2014,"Liechtenstein","Number","Haemodialysis",0,FALSE
+2014,"Liechtenstein","Number","Transplantation of kidney",0,FALSE
+2014,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",0,TRUE
+2014,"Liechtenstein","Per hundred thousand inhabitants","Haemodialysis",0,TRUE
+2014,"Liechtenstein","Per hundred thousand inhabitants","Transplantation of kidney",0,TRUE
+2014,"Switzerland","Number","Transplantation of kidney and haemodialysis",4176,TRUE
+2014,"Switzerland","Number","Haemodialysis",1906,TRUE
+2014,"Switzerland","Number","Transplantation of kidney",2270,TRUE
+2014,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,TRUE
+2014,"Switzerland","Per hundred thousand inhabitants","Haemodialysis",69.64,TRUE
+2014,"Switzerland","Per hundred thousand inhabitants","Transplantation of kidney",34.75,TRUE
+2014,"United Kingdom","Number","Transplantation of kidney and haemodialysis",54824,TRUE
+2014,"United Kingdom","Number","Haemodialysis",27203,TRUE
+2014,"United Kingdom","Number","Transplantation of kidney",27621,TRUE
+2014,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",86.07,TRUE
+2014,"United Kingdom","Per hundred thousand inhabitants","Haemodialysis",42.7,TRUE
+2014,"United Kingdom","Per hundred thousand inhabitants","Transplantation of kidney",43.36,TRUE
+2014,"Serbia","Number","Transplantation of kidney and haemodialysis",4176,TRUE
+2014,"Serbia","Number","Haemodialysis",4596,TRUE
+2014,"Serbia","Number","Transplantation of kidney",2270,TRUE
+2014,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",110.41,TRUE
+2014,"Serbia","Per hundred thousand inhabitants","Haemodialysis",61.43,TRUE
+2014,"Serbia","Per hundred thousand inhabitants","Transplantation of kidney",34.75,TRUE
+2014,"Turkey","Number","Transplantation of kidney and haemodialysis",60635,TRUE
+2014,"Turkey","Number","Haemodialysis",54892,TRUE
+2014,"Turkey","Number","Transplantation of kidney",5743,TRUE
+2014,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney and haemodialysis",80.52,TRUE
+2014,"Turkey","Per hundred thousand inhabitants","Haemodialysis",73.02,TRUE
+2014,"Turkey","Per hundred thousand inhabitants","Transplantation of kidney",7.64,TRUE
