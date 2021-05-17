@@ -1,11 +1,16 @@
 
 Esquema del Análisis Del Gasto Sanitario
-1.- Análisis Descriptivo.
-2.- Visualización y Distribución de la variable "Value".
-3.- Normalidad de la variable "Value".
+1.- EDA_Gasto Sanitario
+2.- EDA_Recursos Sanitarios
+3.- EDA_Actividades
+4.- EDA_Cuidados Domiciliarios
+5.- EDA_Estado de Salud
+6.- EDA_Prevención
+7.- EDA_Mortalidad
 
 
-En este directorio encontramos los archivos:
--Analisis_Exploratorio_Por_Paises_Gasto_Sanitario.Rmd. Con el código en R del análisis.
--Analisis_Exploratorio_Por_Paises_Gasto_Sanitario.html. Código generado en formato HTML
--Analisis_Exploratorio_Por_Paises_Gasto_Sanitario.pdf. Código generado en formato PDF.
+
+En cada uno de los directorio encontramos los archivos:
+-Nomre.Rmd. Con el código en R del análisis.
+-Nombre.html. Código generado en formato HTML
+-Nombre.pdf. Código generado en formato PDF.
