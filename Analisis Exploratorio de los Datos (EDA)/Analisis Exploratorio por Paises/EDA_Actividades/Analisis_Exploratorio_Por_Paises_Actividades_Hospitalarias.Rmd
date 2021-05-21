@@ -1,0 +1,488 @@
+---
+title: "Análisis Exploratorio de los Datos \n ACTIVIDADES"
+author: "Alicia Perdices Guerra"
+date: '`r format(Sys.Date(),"%e de %B, %Y")`'
+output:
+  html_document:
+    number_sections: no
+    toc: yes
+  pdf_document:
+    toc: yes
+---
+* **1.ANÁLISIS EXPLORATORIO POR PAISES.**
+
+  * 1.1 EN RELACIÓN CON LAS ACTIVIDADES SANITARIAS
+    * 1.1.1 Análisis Descriptivo
+    * 1.1.2 Visualización y Distribución de la variable "Value"
+      * OCUPACIÓN DE CAMA HOSPITALARIA.
+      * DIALISIS Y TRASPLANTE.
+      
+    * 1.1.3 Normalidad de la variable "Value"
+      * OCUPACIÓN DE CAMA HOSPITALARIA.
+      * DIALISIS Y TRASPLANTE.
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(scales)
+library(ggplot2)
+library(gridExtra)
+require(knitr)
+```
+
+#### **1.ANÁLISIS EXPLORATORIO POR PAISES**
+
+Se procede en primer lugar a cargar todos los archivos para poder realizar el análisis.
+
+```{r}
+ocupacion_cama<-read.csv("C:/temp/OcupacionCamaHospitalaria_clean.csv",sep= ",")
+dia_tras<-read.csv("C:/temp/Pacientes_Dialisis_Trasplantes_clean.csv",sep= ",")
+```
+
+**1.1.- EN RELACIÓN CON LAS ACTIVIDADES SANITARIAS**
+
+  * **1.1.1 Análisis Descriptivo**
+
+  
+Se procede a realizar el análisis descriptivo:
+
+
+```{r}
+summary(ocupacion_cama)
+summary(dia_tras)
+
+```
+
+Se filta el dataframe para que obtener el ratio de pacientes en Diálisis y Trasplantados por Paises (Nº por cada 100000 habitantes).
+En el archivo de ocupación de cama obtendremos el porcentaje de ocupación de camas por Paises.
+
+```{r}
+dia_tras_ratio<-filter(dia_tras,UNIT=="Per hundred thousand inhabitants")
+dia_tras_ratio_dia<-filter(dia_tras_ratio,ICD9CM=="Haemodialysis")
+dia_tras_ratio_tras<-filter(dia_tras_ratio,ICD9CM=="Transplantation of kidney")
+
+#Generamos los ficheros filtrados para utilizarlos en el siguiente análisis.
+
+write.csv(dia_tras_ratio_dia, 
+          file="Ratio_Pacientes_Dialisis_Analisis.csv", row.names = FALSE)
+write.csv(dia_tras_ratio_tras, 
+          file="Ratio_Pacientes_Trasplantados_Analisis.csv", row.names = FALSE) 
+write.csv(ocupacion_cama, 
+          file="Ocupacion_Cama_Analisis.csv", row.names = FALSE)
+
+```
+
+Se reescalan los datos:
+
+```{r}
+#Pacientes en Diálisis
+#=====================
+dia_tras_ratio_dia["Value_norm"]<-
+  rescale(dia_tras_ratio_dia$Value, to=c(0,1))
+#Pacientes Trasplantados
+#=====================
+dia_tras_ratio_tras["Value_norm"]<-
+  rescale(dia_tras_ratio_tras$Value, to=c(0,1))
+#Ocupación de Camas
+#=====================
+ocupacion_cama["Value_norm"]<-
+  rescale(ocupacion_cama$Value, to=c(0,1))
+
+```
+
+ * **1.1.2 Visualización y Distribución de la variable "Value"**
+  
+Se visualiza la variable "Value" en función de TIME, y los distintos tipos de Actividades Sanitarias.
+
+```{r}
+#Actividades Sanitarias 
+#======================================================
+
+#GRÁFICAS DE BARRAS
+#==================
+#Gráfica de barras del ratio de pacientes en Diálisis."
+plot1=ggplot(data=dia_tras_ratio_dia)+
+  geom_col(aes(x=TIME,y=Value))+
+  theme(axis.text.x = element_text(angle = 45))+
+  scale_y_continuous(limit=c(0,3000))+
+  ggtitle("Pacientes Diálisis /100.000hab")+
+  theme (plot.title = element_text(size=rel(0.5), hjust = 0.5))
+
+#Gráfica de barras del ratio de pacientes Trasplantados."
+plot2=ggplot(data=dia_tras_ratio_tras)+
+  geom_col(aes(x=TIME,y=Value))+
+  theme(axis.text.x = element_text(angle = 45))+
+  scale_y_continuous(limit=c(0,3000))+
+  ggtitle("Pacientes Trasplantados /100.000hab")+
+  theme (plot.title = element_text(size=rel(0.5), hjust = 0.5))
+
+#Gráfica de barras del porcentaje de Ocupación de Cama."
+plot3=ggplot(data=ocupacion_cama)+
+  geom_col(aes(x=TIME,y=Value))+
+  theme(axis.text.x = element_text(angle = 45))+
+  scale_y_continuous(limit=c(0,3000))+
+  ggtitle("Ocupación de Cama (%)")+
+  theme (plot.title = element_text(size=rel(0.5), hjust = 0.5))
+```
+
+```{r}
+#GRÁFICAS DE PUNTOS
+#==================
+##Gráfica de puntos del ratio de pacientes en Diálisis por Países.""
+plot4=ggplot(data=dia_tras_ratio_dia)+
+  geom_point(aes(x=GEO,y=Value))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,200))+
+  ggtitle("Pacientes en Diálisis /100.000 hab")+
+  theme (plot.title = element_text(size=rel(0.5),hjust=0.5))
+
+##Gráfica de puntos del ratio de pacientes Trasplantados por Países.""
+plot5=ggplot(data=dia_tras_ratio_tras)+
+  geom_point(aes(x=GEO,y=Value))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,200))+
+  ggtitle("Pacientes Trasplantados /100.000 hab")+
+  theme (plot.title = element_text(size=rel(0.5),hjust=0.5))
+
+##Gráfica de puntos del porcentaje de Ocupación de Cama.""
+plot6=ggplot(data=ocupacion_cama)+
+  geom_point(aes(x=GEO,y=Value))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,200))+
+  ggtitle("Ocupación de Cama %")+
+  theme (plot.title = element_text(size=rel(0.5),hjust=0.5))
+
+grid.arrange(plot1,plot4,widths=c(1,3), ncol=2)
+grid.arrange(plot2,plot5,widths=c(1,3), ncol=2)
+grid.arrange(plot3,plot6,widths=c(1,3), ncol=2)
+```
+
+Se obtienen los 5 países con mayor número de Pacientes en Diálisis, Trasplantados (/100000 hb), y mayor ratio de ocupación de camas por años y en cómputo global.
+
+* **Pacientes en Diálisis**
+
+```{r}
+#########################################
+#Para "Pacientes en Diálisis"           #
+#########################################
+
+#Se filtra por Año
+y_2005<-filter(dia_tras_ratio_dia, TIME==2005)
+y_2006<-filter(dia_tras_ratio_dia, TIME==2006)
+y_2007<-filter(dia_tras_ratio_dia, TIME==2007)
+y_2008<-filter(dia_tras_ratio_dia, TIME==2008)
+y_2009<-filter(dia_tras_ratio_dia, TIME==2009)
+y_2010<-filter(dia_tras_ratio_dia, TIME==2010)
+y_2011<-filter(dia_tras_ratio_dia, TIME==2011)
+y_2012<-filter(dia_tras_ratio_dia, TIME==2012)
+y_2013<-filter(dia_tras_ratio_dia, TIME==2013)
+y_2014<-filter(dia_tras_ratio_dia, TIME==2014)
+
+#Se ordena por "Value"
+
+actividad_5paises_2005<-y_2005[with(y_2005, order(-y_2005$Value)),]
+actividad_5paises_2006<-y_2006[with(y_2006, order(-y_2006$Value)),]
+actividad_5paises_2007<-y_2007[with(y_2007, order(-y_2007$Value)),]
+actividad_5paises_2008<-y_2008[with(y_2008, order(-y_2008$Value)),]
+actividad_5paises_2009<-y_2009[with(y_2009, order(-y_2009$Value)),]
+actividad_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Value)),]
+actividad_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Value)),]
+actividad_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Value)),]
+actividad_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Value)),]
+actividad_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Value)),]
+
+
+#Se crea una tabla para cada año sobre las Actividades Sanitarias
+#(Pacientes en Diaísis) de los 5 Paises con un mayor número de ellos( por cada 100000 habitantes).
+
+kable(actividad_5paises_2005[0:5,c(2,5)], 
+      col.names = c("País","P.Diálisis/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes en Diálisis en 2005")
+kable(actividad_5paises_2006[0:5,c(2,5)], 
+      col.names = c("País","P.Diálisis/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes en Diálisis en 2006")
+kable(actividad_5paises_2007[0:5,c(2,5)], 
+      col.names = c("País","P.Diálisis/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes en Diálisis en 2007")
+kable(actividad_5paises_2008[0:5,c(2,5)], 
+      col.names = c("País","P.Diálisis/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes en Diálisis en 2008")
+kable(actividad_5paises_2009[0:5,c(2,5)], 
+      col.names = c("País","P.Diálisis/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes en Diálisis en 2009")
+kable(actividad_5paises_2010[0:5,c(2,5)], 
+      col.names = c("País","P.Diálisis/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes en Diálisis en 2010")
+kable(actividad_5paises_2011[0:5,c(2,5)], 
+      col.names = c("País","P.Diálisis"), 
+      caption = "Países con mayor Número de Pacientes en Diálisis en 2011")
+kable(actividad_5paises_2012[0:5,c(2,5)], 
+      col.names = c("País","P.Diálisis/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes en Diálisis en 2012")
+kable(actividad_5paises_2013[0:5,c(2,5)], 
+      col.names = c("País","P.Diálisis/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes en Diálisis en 2013")
+kable(actividad_5paises_2014[0:5,c(2,5)], 
+      col.names = c("País","P.Diálisis/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes en Diálisis en 2014")
+```
+
+A continuación, se aprupa toda la información (P. Diálisis) por paises en una tabla:
+
+```{r}
+a1<-group_by(dia_tras_ratio_dia,GEO)#Se agrupa por paises
+#Se selecciona las variables Pais y Value (P.Diálisis/100000 hab)
+a2<-select(a1,GEO:Value)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Value)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","P.Diálisis/100000 habitantes"), 
+      caption = "Países con la mayor media de Pacientes en Diálisis en 2005-2014")
+```
+
+* **Pacientes Trasplantados**
+
+```{r}
+#########################################
+#Para "Pacientes en Diálisis"           #
+#########################################
+
+#Se filtra por Año
+y_2005<-filter(dia_tras_ratio_tras, TIME==2005)
+y_2006<-filter(dia_tras_ratio_tras, TIME==2006)
+y_2007<-filter(dia_tras_ratio_tras, TIME==2007)
+y_2008<-filter(dia_tras_ratio_tras, TIME==2008)
+y_2009<-filter(dia_tras_ratio_tras, TIME==2009)
+y_2010<-filter(dia_tras_ratio_tras, TIME==2010)
+y_2011<-filter(dia_tras_ratio_tras, TIME==2011)
+y_2012<-filter(dia_tras_ratio_tras, TIME==2012)
+y_2013<-filter(dia_tras_ratio_tras, TIME==2013)
+y_2014<-filter(dia_tras_ratio_tras, TIME==2014)
+
+#Se ordena por "Value"
+
+actividad_5paises_2005<-y_2005[with(y_2005, order(-y_2005$Value)),]
+actividad_5paises_2006<-y_2006[with(y_2006, order(-y_2006$Value)),]
+actividad_5paises_2007<-y_2007[with(y_2007, order(-y_2007$Value)),]
+actividad_5paises_2008<-y_2008[with(y_2008, order(-y_2008$Value)),]
+actividad_5paises_2009<-y_2009[with(y_2009, order(-y_2009$Value)),]
+actividad_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Value)),]
+actividad_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Value)),]
+actividad_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Value)),]
+actividad_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Value)),]
+actividad_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Value)),]
+
+
+#Se crea una tabla para cada año sobre las Actividades Sanitarias
+#(Pacientes en Diaísis) de los 5 Paises con un mayor número de ellos( por cada 100000 habitantes).
+
+kable(actividad_5paises_2005[0:5,c(2,5)], 
+      col.names = c("País","P.Trasplantados/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes trasplantados en 2005")
+kable(actividad_5paises_2006[0:5,c(2,5)], 
+      col.names = c("País","P.Trasplantados/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes trasplantados en 2006")
+kable(actividad_5paises_2007[0:5,c(2,5)], 
+      col.names = c("País","P.Trasplantados/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes trasplantados en 2007")
+kable(actividad_5paises_2008[0:5,c(2,5)], 
+      col.names = c("País","P.Trasplantados/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes trasplantados en 2008")
+kable(actividad_5paises_2009[0:5,c(2,5)], 
+      col.names = c("País","P.Trasplantados/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes trasplantados en 2009")
+kable(actividad_5paises_2010[0:5,c(2,5)], 
+      col.names = c("País","P.Trasplantados/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes trasplantados en 2010")
+kable(actividad_5paises_2011[0:5,c(2,5)], 
+      col.names = c("País","P.Trasplantados/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes trasplantados en 2011")
+kable(actividad_5paises_2012[0:5,c(2,5)], 
+      col.names = c("País","P.Trasplantados/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes trasplantados en 2012")
+kable(actividad_5paises_2013[0:5,c(2,5)], 
+      col.names = c("País","P.Trasplantados/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes trasplantados en 2013")
+kable(actividad_5paises_2014[0:5,c(2,5)], 
+      col.names = c("País","P.Trasplantados/100000 habitantes"), 
+      caption = "Países con mayor Número de Pacientes trasplantados en 2014")
+```
+
+A continuación, se aprupa toda la información (P. Trasplantados) por paises en una tabla:
+
+```{r}
+a1<-group_by(dia_tras_ratio_tras,GEO)#Se agrupa por paises
+#Se selecciona las variables Pais y Value (P.Trasplantados/100000 hab)
+a2<-select(a1,GEO:Value)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Value)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","P.Trasplantados/100000 habitantes"), 
+      caption = "Países con la mayor media de Pacientes Trasplantados en 2005-2014")
+```
+
+* **Ocupación de Cama Hospitalaria**
+
+```{r}
+#########################################
+#Para "Ocupación de Cama Hospitalaria"  #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(ocupacion_cama, TIME==2010)
+y_2011<-filter(ocupacion_cama, TIME==2011)
+y_2012<-filter(ocupacion_cama, TIME==2012)
+y_2013<-filter(ocupacion_cama, TIME==2013)
+y_2014<-filter(ocupacion_cama, TIME==2014)
+y_2015<-filter(ocupacion_cama, TIME==2015)
+y_2016<-filter(ocupacion_cama, TIME==2016)
+y_2017<-filter(ocupacion_cama, TIME==2017)
+y_2018<-filter(ocupacion_cama, TIME==2018)
+y_2019<-filter(ocupacion_cama, TIME==2019)
+
+#Se ordena por "Value"
+
+actividad_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Value)),]
+actividad_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Value)),]
+actividad_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Value)),]
+actividad_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Value)),]
+actividad_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Value)),]
+actividad_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Value)),]
+actividad_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Value)),]
+actividad_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Value)),]
+actividad_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Value)),]
+actividad_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Value)),]
+
+
+#Se crea una tabla para cada año sobre la Ocupación de Cama Hospitalaria de los 5 Paises con un mayor porcentaje.
+
+kable(actividad_5paises_2010[0:5,c(2,5)], col.names = c("País","O.Cama %"), 
+      caption = "Países con mayor % de Ocupación de Cama en 2010")
+kable(actividad_5paises_2011[0:5,c(2,5)], col.names = c("País","O.Cama %"), 
+      caption = "Países con mayor % de Ocupación de Camas en 2011")
+kable(actividad_5paises_2012[0:5,c(2,5)], col.names = c("País","O.Cama %"), 
+      caption = "Países con mayor % de Ocupación de Cama en 2012")
+kable(actividad_5paises_2013[0:5,c(2,5)], col.names = c("País","O.Cama %"), 
+      caption = "Países con mayor % de Ocupación de Cama en 2013")
+kable(actividad_5paises_2014[0:5,c(2,5)], col.names = c("País","O.Cama %"), 
+      caption = "Países con mayor % de Ocupación de Cama en 2014")
+kable(actividad_5paises_2015[0:5,c(2,5)], col.names = c("País","O.Cama %"), 
+      caption = "Países con mayor % de Ocupación de Cama en 2015")
+kable(actividad_5paises_2016[0:5,c(2,5)], col.names = c("País","O.Cama %"), 
+      caption = "Países con mayor % de Ocupación de Cama en 2016")
+kable(actividad_5paises_2017[0:5,c(2,5)], col.names = c("País","O.Cama %"), 
+      caption = "Países con mayor % de Ocupación de Cama en 2017")
+kable(actividad_5paises_2018[0:5,c(2,5)], col.names = c("País","O.Cama %"), 
+      caption = "Países con mayor % de Ocupación de Cama en 2018")
+kable(actividad_5paises_2019[0:5,c(2,5)], col.names = c("País","O.Cama %"), 
+      caption = "Países con mayor % de Ocupación de Cama en 2019")
+```
+
+A continuación, se aprupa toda la información (% Ocupación de Cama) por paises en una tabla:
+
+```{r}
+a1<-group_by(ocupacion_cama,GEO)#Se agrupa por paises
+#Se selecciona las variables Pais y Value
+a2<-select(a1,GEO:Value)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Value)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","O. Cama %"), 
+      caption = "Países con la mayor media en porcentaje de Ocupación de cama en 2010-2019")
+```
+
+  * **1.1.3 Normalidad de la variable "Value"**
+  
+Se comprueba con métodos visuales si la variable tiene una distribución normal.
+
+**PACIENTES EN DIÁLISIS**
+     
+```{r}
+par(mfrow=c(1,2))
+plot(density(dia_tras_ratio_dia$Value_norm) ,main="Density")
+qqnorm(dia_tras_ratio_dia$Value_norm)
+qqline(dia_tras_ratio_dia$Value_norm)
+
+
+```
+
+Para estudiar si una muestra proviene de una población con distribución normal, se disponen de tres herramientas:
+     
+  *  Histograma o Densidad
+  *  Gráficos cuantil cuantil (QQplot)
+  *  Pruebas de hipótesis.
+        
+Si en la prueba de Densidad se observa sesgo hacia uno de los lados de la gráfica, sería indicio de que la muestra no proviene de una población normal.Si por otra parte, sí se observa simetría, **NO** se garantiza que la muestra provenga de una población normal. En estos casos sería necesario utilizar otras herramientas como **QQplot y pruebas de hipótesis**.
+
+En la gráfica Densidad de la variable "Value", no se observa claramente sesgo hacia ningún lado, por lo que no se pyede descartar normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico. Si se tuviese una muestra distribuída normalmente, se esperaría que los puntos del gráfico quantil quantil estuviesen perfectamente alineados con la línea de referencia, y observamos que para este caso, "Value" no se alinea, tan solo un poco en el centro.
+
+
+Por otro lado, se realizan las pruebas de hipótesis:
+
+- $h_0: La muestra proviene de una población normal.
+- $h_1: La muestra NO proviene de una población normal.
+
+Se aplica la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(dia_tras_ratio_dia$Value_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+    
+**PACIENTES TRASPLANTADOS**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(dia_tras_ratio_tras$Value_norm) ,main="Density")
+qqnorm(dia_tras_ratio_tras$Value_norm)
+qqline(dia_tras_ratio_tras$Value_norm)
+```
+
+En la gráfica Densidad de la variable "Value" , se observa un cierto grado de sesgo hacia la derecha, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Value", tan solo un poco en la parte central.
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(dia_tras_ratio_tras$Value_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+**OCUPACIÓN DE CAMA %**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(ocupacion_cama$Value_norm) ,main="Density")
+qqnorm(ocupacion_cama$Value_norm)
+qqline(ocupacion_cama$Value_norm)
+```
+
+En la gráfica Densidad de la variable "Value" , no se observa sesgo hacia ningún lado , pero la forma de la gráfica no se acerca a lo que se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Value", tan solo un poco en la parte central.
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(ocupacion_cama$Value_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
