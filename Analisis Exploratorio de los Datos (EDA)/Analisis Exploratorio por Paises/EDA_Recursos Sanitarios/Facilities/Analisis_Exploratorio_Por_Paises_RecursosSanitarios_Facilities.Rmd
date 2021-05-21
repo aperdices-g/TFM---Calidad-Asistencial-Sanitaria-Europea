@@ -1,0 +1,1597 @@
+---
+title: "Análisis Exploratorio de los Datos \n RECURSOS SANITARIOS: Facilities"
+author: "Alicia Perdices Guerra"
+date: '`r format(Sys.Date(),"%e de %B, %Y")`'
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    number_sections: no
+    toc: yes
+---
+* **1.ANÁLISIS EXPLORATORIO POR PAISES.**
+
+  * 1.1 EN RELACIÓN CON LOS RECURSOS SANITARIOS
+    * 1.1.1 Análisis Descriptivo
+    * 1.1.2 Visualización y Distribución de la variable "Value"
+      * Facilities
+      
+    * 1.1.3 Normalidad de la variable "Value"
+      * Facilities
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(scales)
+library(ggplot2)
+library(gridExtra)
+require(knitr)
+```
+
+#### **1.ANÁLISIS EXPLORATORIO POR PAISES**
+
+Se procede en primer lugar a cargar todos los archivos para poder realizar el análisis.
+
+```{r}
+recursos_tec<-read.csv("C:/temp/RecursosTecnicos_hospitalarios_clean.csv",sep= ",")
+tecnologia<-read.csv("C:/temp/TecnologiaMedica_clean.csv",sep= ",")
+camas_t<-read.csv("C:/temp/TiposCamasHospitalarias_clean.csv",sep= ",")
+```
+
+**1.1.- EN RELACIÓN CON LOS RECURSOS SANITARIOS**
+
+  * **1.1.1 Análisis Descriptivo**
+
+  
+Se procede a realizar el análisis descriptivo:
+
+
+```{r}
+summary(recursos_tec)
+summary(tecnologia)
+summary(camas_t)
+```
+  
+Se filta el dataframe para que la variable GEO aparezcan solo los paises objeto de estudio.(Para cada archivo relacionado con los Recursos Sanitarios (Facilities) y unificamos la información en una variable, recursos).
+Además se selecciona la información relevante de las variables FACILITY,ICHA_HP(Lugar de uso del recurso tecnológico) y UNIT (Se selecciona "Number" y no ratio ya que no todos los archivos tienen la información de número de recursos tecnológicos por 100000 habitantes)
+
+```{r}
+#En relación con las Facilities
+#==============================
+
+#Recursos Tecnológicos
+#========================
+recursos_tec_paises<-filter(recursos_tec,(GEO!="European Union - 27 countries (from 2020)")&
+                            +(GEO!="European Union - 28 countries (2013-2020)")&
+                            +(GEO!="European Union - 27 countries (2007-2013)")&
+                            +(GEO!="European Union - 15 countries (1995-2004)")&
+                            +(GEO!="Euro area - 12 countries (2001-2006)")&
+                            +(GEO!="Euro area - 19 countries  (from 2015)")&
+                            +(GEO!="Euro area - 18 countries (2014)")&
+                            +(GEO!="Euro area - 12 countries (2001-2006)"))
+
+#Se selecciona todo lo relacionado con el tipo
+#de recurso tecnológico de la variable FACILITY.
+recursos_tec_paises_ot<-
+  filter(recursos_tec_paises,FACILITY=="Operation theatres in hospital")
+
+
+recursos_tec_paises_s<-
+  filter(recursos_tec_paises,FACILITY=="Surgical day care places")
+
+
+recursos_tec_paises_p<-
+  filter(recursos_tec_paises,FACILITY=="Psychiatric day care place")
+
+
+recursos_tec_paises_o<-
+  filter(recursos_tec_paises,FACILITY=="Oncological day care place")
+
+
+recursos_tec_paises_g<-
+  filter(recursos_tec_paises,FACILITY=="Geriatric day care places")
+
+
+#Tecnología Médica
+#========================
+tecnologia_paises<-filter(tecnologia,(GEO!="European Union - 27 countries (from 2020)")&
+                            +(GEO!="European Union - 28 countries (2013-2020)")&
+                            +(GEO!="European Union - 27 countries (2007-2013)")&
+                            +(GEO!="European Union - 15 countries (1995-2004)")&
+                            +(GEO!="Euro area - 12 countries (2001-2006)")&
+                            +(GEO!="Euro area - 19 countries  (from 2015)")&
+                            +(GEO!="Euro area - 18 countries (2014)")&
+                            +(GEO!="Euro area - 12 countries (2001-2006)"))
+
+#Se selecciona todo lo relacionado con el tipo
+#de tecnología médica de la variable FACILITY.
+tecnologia_paises_cts<-
+  filter(tecnologia_paises,FACILITY=="Computed Tomography Scanners")
+
+
+tecnologia_paises_gc<-
+  filter(tecnologia_paises,FACILITY=="Gamma cameras")
+
+
+tecnologia_paises_l<-
+  filter(tecnologia_paises,FACILITY=="Lithotriptors")
+
+
+tecnologia_paises_mr<-
+  filter(tecnologia_paises,FACILITY=="Magnetic Resonance Imaging Units")
+
+
+tecnologia_paises_a<-
+  filter(tecnologia_paises,FACILITY=="Angiography units")
+
+
+tecnologia_paises_cts<-filter(tecnologia_paises_cts,UNIT=="Number")
+tecnologia_paises_gc<-filter(tecnologia_paises_gc,UNIT=="Number")
+tecnologia_paises_l<-filter(tecnologia_paises_l,UNIT=="Number")
+tecnologia_paises_mr<-filter(tecnologia_paises_mr,UNIT=="Number")
+tecnologia_paises_a<-filter(tecnologia_paises_a,UNIT=="Number")
+
+
+
+#Camas Disponibles
+#========================
+camas_t_paises<-filter(camas_t,(GEO!="European Union - 27 countries (from 2020)")&
+                            +(GEO!="European Union - 28 countries (2013-2020)")&
+                            +(GEO!="European Union - 27 countries (2007-2013)")&
+                            +(GEO!="European Union - 15 countries (1995-2004)")&
+                            +(GEO!="Euro area - 12 countries (2001-2006)")&
+                            +(GEO!="Euro area - 19 countries  (from 2015)")&
+                            +(GEO!="Euro area - 18 countries (2014)")&
+                            +(GEO!="Euro area - 12 countries (2001-2006)"))
+
+#Se selecciona todo lo relacionado con el tipo
+#de camas en hospitales de la variable FACILITY.
+camas_t_paises_ca<-
+  filter(camas_t_paises,FACILITY=="Available beds in hospitals (HP.1)")
+
+
+# Se selecciona la unidad: "Number"
+camas_t_paises_ca<-filter(camas_t_paises_ca,UNIT=="Number")
+nrow(camas_t_paises_ca)
+
+```
+
+Tenemos 3 Dataframes (No se unifican debido a la estructura de cada uno (Diferentes filas):
+
+```{r}
+#Recursos Tecnologicos
+#=====================
+year<-(recursos_tec_paises_ot$TIME)#Columna Year
+GEO<-(recursos_tec_paises_ot$GEO)#Columna Paises
+recursos_tec_df=data.frame("TIME"=year,"Pais"=GEO,
+                     "Operation_theatres_in_hospital"=
+                       recursos_tec_paises_ot$Value,
+                     "Surgical_day_care_places"=
+                       recursos_tec_paises_s$Value,
+                     "Psychiatric_day_care_place"=
+                       recursos_tec_paises_p$Value,
+                     "Oncological_day_care_place"=
+                       recursos_tec_paises_o$Value,
+                     "Geriatric_day_care_places"=
+                       recursos_tec_paises_g$Value)
+head(recursos_tec_df)
+#Tecnología Médica
+#=================
+year<-(tecnologia_paises_cts$TIME)#Columna Year
+GEO<-(tecnologia_paises_cts$GEO)#Columna Paises
+tecnologia_medica_df=data.frame("TIME"=year,"Pais"=GEO,
+                     "Computed_Tomography_Scanners"=
+                       tecnologia_paises_cts$Value,
+                     "Gamma_cameras"=
+                       tecnologia_paises_gc$Value,
+                     "Lithotriptors"=
+                       tecnologia_paises_l$Value,
+                     "Magnetic_Resonance_Imaging_Units"=
+                       tecnologia_paises_mr$Value,
+                     "Angiography_units"=
+                      tecnologia_paises_a$Value)
+head(tecnologia_medica_df)
+#Camas Disponibles
+#=================
+camas_disponibles_df=camas_t_paises_ca
+head(camas_disponibles_df)
+
+#Generamos los ficheros filtrados para utilizarlos en el siguiente análisis.
+write.csv(recursos_tec_df, file="Recursos_Tecnologicos_Analisis.csv", row.names = FALSE)
+write.csv(tecnologia_medica_df, 
+          file="Tecnologia_Medica_Analisis.csv", row.names = FALSE)
+write.csv(camas_disponibles_df, 
+          file="Camas_Disponibles_Analisis.csv", row.names = FALSE) 
+```
+
+Se reescalan los datos:
+
+```{r}
+#Recursos Tecnológicos
+#=====================
+recursos_tec_df["Operation_theatres_in_hospital_norm"]<-
+  rescale(recursos_tec_paises_ot$Value, to=c(0,1))
+recursos_tec_df["Surgical_day_care_places_norm"]<-
+  rescale(recursos_tec_paises_s$Value, to=c(0,1))
+recursos_tec_df["Psychiatric_day_care_place_norm"]<-
+  rescale(recursos_tec_paises_p$Value, to=c(0,1))
+recursos_tec_df["Oncological_day_care_place_norm"]<-
+  rescale(recursos_tec_paises_o$Value, to=c(0,1))
+recursos_tec_df["Geriatric_day_care_places_norm"]<-
+  rescale(recursos_tec_paises_g$Value, to=c(0,1))
+
+#Tecnología Médica
+#=================
+tecnologia_medica_df["Computed_Tomography_Scanners_norm"]<-
+  rescale(tecnologia_paises_cts$Value, to=c(0,1))
+tecnologia_medica_df["Gamma_cameras_norm"]<-
+  rescale(tecnologia_paises_gc$Value, to=c(0,1))
+tecnologia_medica_df["Lithotriptors_norm"]<-
+  rescale(tecnologia_paises_l$Value, to=c(0,1))
+tecnologia_medica_df["Magnetic_Resonance_Imaging_Units_norm"]<-
+  rescale(tecnologia_paises_mr$Value, to=c(0,1))
+tecnologia_medica_df["Angiography_units_norm"]<-
+  rescale(tecnologia_paises_a$Value, to=c(0,1))
+
+#Camas Disponibles
+#=================
+camas_disponibles_df["Value_norm"]<-
+    rescale(camas_disponibles_df$Value, to=c(0,1))
+
+```
+
+  * **1.1.2 Visualización y Distribución de la variable "Value"**
+  
+Se visualiza la variable "Value" en función de TIME, y los distintos tipos de Facilities Sanitarias.
+
+```{r}
+#Recursos Sanitarios (Facilities)_ Recursos Sanitarios
+#======================================================
+
+#GRÁFICAS DE BARRAS
+#==================
+#Gráfica de barras del número de Quirófanos."
+plot1=ggplot(data=recursos_tec_df)+
+  geom_col(aes(x=TIME,y=Operation_theatres_in_hospital))+
+  theme(axis.text.x = element_text(angle = 45))+
+  scale_y_continuous(limit=c(0,100000))+
+  ggtitle("Quirófanos")+
+  theme (plot.title = element_text(size=rel(0.5), hjust = 0.5))
+
+#Gráfica de barras del número de salas de Cirugía hospitalaria diaria
+#por Años"  
+plot2=ggplot(data=recursos_tec_df)+
+  geom_col(aes(x=TIME,y=Surgical_day_care_places))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,100000))+
+  ggtitle("Cirugía \n Hospitalaria diaria")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de barras del número de Consultas de Psiquiatría por Años"  
+plot3=ggplot(data=recursos_tec_df)+
+  geom_col(aes(x=TIME,y=Psychiatric_day_care_place))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,200000))+
+  ggtitle("S.Consultas \n Psiquiatría")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de barras del número de Salas de consultas Oncológicas
+#por Años.
+plot4=ggplot(data=recursos_tec_df)+
+  geom_col(aes(x=TIME,y=Oncological_day_care_place))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,300000))+
+  ggtitle("S. Consultas \n Oncología")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))  
+
+#Gráfica de barras del número de Salas de Cuidados Geriátricos
+#por Años
+plot5=ggplot(data=recursos_tec_df)+
+  geom_col(aes(x=TIME,y=Geriatric_day_care_places))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,100000))+
+  ggtitle("S.Cuidados \n Geriátricos")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))  
+
+#Gráfica de barras del número de Escáners (Tomógrafos)
+plot6=ggplot(data=tecnologia_medica_df)+
+  geom_col(aes(x=TIME,y=Computed_Tomography_Scanners))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,100000))+
+  ggtitle("Escáners \n Tomógrafos")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))  
+
+#Gráfica de barras del número de Cámaras Gamma
+plot7=ggplot(data=tecnologia_medica_df)+
+  geom_col(aes(x=TIME,y=Gamma_cameras))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,100000))+
+  ggtitle("Cámaras\n Gamma")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))  
+
+#Gráfica de barras del número Litotriptores
+plot8=ggplot(data=tecnologia_medica_df)+
+  geom_col(aes(x=TIME,y=Lithotriptors))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,100000))+
+  ggtitle("Litotriptores")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))  
+
+#Gráfica de barras del número de Unidades de Resonancia Magnética
+plot9=ggplot(data=tecnologia_medica_df)+
+  geom_col(aes(x=TIME,y=Magnetic_Resonance_Imaging_Units))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,100000))+
+  ggtitle("Resonancia \n Magnética")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5)) 
+
+#Gráfica de barras del número de Unidades de Angiógrafía
+plot10=ggplot(data=tecnologia_medica_df)+
+  geom_col(aes(x=TIME,y=Angiography_units))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,100000))+
+  ggtitle("Unidades \n Angiógrafía")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de barras del número de Camas Hospitalarias Disponibles.
+plot11=ggplot(data=camas_disponibles_df)+
+  geom_col(aes(x=TIME,y=Value))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,4000000))+
+  ggtitle("Camas \n Disponibles")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5)) 
+
+
+```
+
+```{r}
+#GRÁFICAS DE PUNTOS
+#==================
+##Gráfica de puntos del número de Quirófanos por Países.""
+plot12=ggplot(data=recursos_tec_df)+
+  geom_point(aes(x=Pais,y=Operation_theatres_in_hospital))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,20000))+
+  ggtitle("Quirofanos")+
+  theme (plot.title = element_text(size=rel(0.5),hjust=0.5))
+
+#Gráfica de puntos del número del número de salas de Cirugía hospitalaria diaria
+#por Países"  " 
+plot13=ggplot(data=recursos_tec_df)+
+  geom_point(aes(x=Pais,y=Surgical_day_care_places))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,20000))+
+  ggtitle("S.Cirugía \n Hospitalaria Diaria")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número Consultas de Psiquiatría por Países"  
+plot14=ggplot(data=recursos_tec_df)+
+  geom_point(aes(x=Pais,y=Psychiatric_day_care_place))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,30000))+
+  ggtitle("S.Consulta \n Psiquiatría")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de Salas de consultas Oncológicas
+#por Países.
+plot15=ggplot(data=recursos_tec_df)+
+  geom_point(aes(x=Pais,y=Oncological_day_care_place))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,20000))+
+  ggtitle("S.Consultas \n Oncológicas")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de Salas de Cuidados Geriátricos
+#por Paises.
+plot16=ggplot(data=recursos_tec_df)+
+  geom_point(aes(x=Pais,y=Geriatric_day_care_places))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,20000))+
+  ggtitle("S.Cuidados \n Geriátricos")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de Escáners (Tomógrafos) por Países.
+plot17=ggplot(data=tecnologia_medica_df)+
+  geom_point(aes(x=Pais,y=Computed_Tomography_Scanners))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,20000))+
+  ggtitle("Escáners")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de Cámaras Gamma por Países.
+plot18=ggplot(data=tecnologia_medica_df)+
+  geom_point(aes(x=Pais,y=Gamma_cameras))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,20000))+
+  ggtitle("Cámaras Gamma")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número Litotriptores y Países
+plot19=ggplot(data=tecnologia_medica_df)+
+  geom_point(aes(x=Pais,y=Lithotriptors))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,20000))+
+  ggtitle("Litotriptores")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de Unidades de Resonancia Magnética
+plot20=ggplot(data=tecnologia_medica_df)+
+  geom_point(aes(x=Pais,y=Magnetic_Resonance_Imaging_Units))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,20000))+
+  ggtitle("Unidades\n R.Magnética")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de Unidades de Angiógrafía y Países
+plot21=ggplot(data=tecnologia_medica_df)+
+  geom_point(aes(x=Pais,y=Angiography_units))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,20000))+
+  ggtitle("Unidades\n Angiografía")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de Camas Hospitalarias Disponibles y Países
+plot22=ggplot(data=camas_disponibles_df)+
+  geom_point(aes(x=GEO,y=Value))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,1000000))+
+  ggtitle("Camas\n Disponibles")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+grid.arrange(plot1,plot12,widths=c(1,3), ncol=2)
+grid.arrange(plot2,plot13,widths=c(1,3), ncol=2)
+grid.arrange(plot3,plot14,widths=c(1,3), ncol=2)
+grid.arrange(plot4,plot15,widths=c(1,3), ncol=2)
+grid.arrange(plot5,plot16,widths=c(1,3), ncol=2)
+grid.arrange(plot6,plot17,widths=c(1,3), ncol=2)
+grid.arrange(plot7,plot18,widths=c(1,3), ncol=2)
+grid.arrange(plot8,plot19,widths=c(1,3), ncol=2)
+grid.arrange(plot9,plot20,widths=c(1,3), ncol=2)
+grid.arrange(plot10,plot21,widths=c(1,3), ncol=2)
+grid.arrange(plot11,plot22,widths=c(1,3), ncol=2)
+```
+
+Se obtienen los 5 países con mayor número de Recursos Sanitarios (Facilities), 
+por años y en cómputo global.
+
+* **Operation_theatres_in_hospital**
+
+```{r}
+#########################################
+#Para "Operation_theatres_in_hospital"  #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(recursos_tec_df, TIME==2010)
+y_2011<-filter(recursos_tec_df, TIME==2011)
+y_2012<-filter(recursos_tec_df, TIME==2012)
+y_2013<-filter(recursos_tec_df, TIME==2013)
+y_2014<-filter(recursos_tec_df, TIME==2014)
+y_2015<-filter(recursos_tec_df, TIME==2015)
+y_2016<-filter(recursos_tec_df, TIME==2016)
+y_2017<-filter(recursos_tec_df, TIME==2017)
+y_2018<-filter(recursos_tec_df, TIME==2018)
+y_2019<-filter(recursos_tec_df, TIME==2019)
+
+#Se ordena por "Operation_theatres_in_hospital"
+
+recursos_tec_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Operation_theatres_in_hospital)),]
+recursos_tec_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Operation_theatres_in_hospital)),]
+recursos_tec_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Operation_theatres_in_hospital)),]
+recursos_tec_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Operation_theatres_in_hospital)),]
+recursos_tec_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Operation_theatres_in_hospital)),]
+recursos_tec_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Operation_theatres_in_hospital)),]
+recursos_tec_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Operation_theatres_in_hospital)),]
+recursos_tec_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Operation_theatres_in_hospital)),]
+recursos_tec_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Operation_theatres_in_hospital)),]
+recursos_tec_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Operation_theatres_in_hospital)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Facilities:Quirófanos) de los 5 Paises con un mayor número de Quirófanos.
+
+kable(recursos_tec_5paises_2010[0:5,c(2,3)], col.names = c("País","Quirofanos"), 
+      caption = "Países con mayor Número de Quirofanos en 2010")
+kable(recursos_tec_5paises_2011[0:5,c(2,3)], col.names = c("País","Quirofanos"), 
+      caption = "Países con mayor Número de Quirofanos en 2011")
+kable(recursos_tec_5paises_2012[0:5,c(2,3)], col.names = c("País","Quirofanos"), 
+      caption = "Países con mayor Número de Quirofanos en 2012")
+kable(recursos_tec_5paises_2013[0:5,c(2,3)], col.names = c("País","Quirofanos"), 
+      caption = "Países con mayor Número de Quirofanos en 2013")
+kable(recursos_tec_5paises_2014[0:5,c(2,3)], col.names = c("País","Quirofanos"), 
+      caption = "Países con mayor Número de Quirofanos en 2014")
+kable(recursos_tec_5paises_2015[0:5,c(2,3)], col.names = c("País","Quirofanos"), 
+      caption = "Países con mayor Número de Quirofanos en 2015")
+kable(recursos_tec_5paises_2016[0:5,c(2,3)], col.names = c("País","Quirofanos"), 
+      caption = "Países con mayor Número de Quirofanos en 2016")
+kable(recursos_tec_5paises_2017[0:5,c(2,3)], col.names = c("País","Quirofanos"), 
+      caption = "Países con mayor Número de Quirofanos en 2017")
+kable(recursos_tec_5paises_2018[0:5,c(2,3)], col.names = c("País","Quirofanos"), 
+      caption = "Países con mayor Número de Quirofanos en 2018")
+kable(recursos_tec_5paises_2019[0:5,c(2,3)], col.names = c("País","Quirofanos"), 
+      caption = "Países con mayor Número de Quirofanos en 2019")
+```
+
+A continuación, se aprupa toda la información (Quirófanos) por paises en una tabla:
+
+```{r}
+a1<-group_by(recursos_tec_df,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y Operation_theatres_in_hospital
+a2<-select(a1,Pais:Operation_theatres_in_hospital)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Operation_theatres_in_hospital)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","Quirofanos"), 
+      caption = "Países con la mayor media Quirófanos en 2010-2019")
+```
+
+* **Surgical_day_care_places**
+
+```{r}
+#########################################
+#Para "Surgical_day_care_places"        #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(recursos_tec_df, TIME==2010)
+y_2011<-filter(recursos_tec_df, TIME==2011)
+y_2012<-filter(recursos_tec_df, TIME==2012)
+y_2013<-filter(recursos_tec_df, TIME==2013)
+y_2014<-filter(recursos_tec_df, TIME==2014)
+y_2015<-filter(recursos_tec_df, TIME==2015)
+y_2016<-filter(recursos_tec_df, TIME==2016)
+y_2017<-filter(recursos_tec_df, TIME==2017)
+y_2018<-filter(recursos_tec_df, TIME==2018)
+y_2019<-filter(recursos_tec_df, TIME==2019)
+
+#Se ordena por "Surgical_day_care_places"
+
+recursos_tec_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Surgical_day_care_places)),]
+recursos_tec_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Surgical_day_care_places)),]
+recursos_tec_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Surgical_day_care_places)),]
+recursos_tec_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Surgical_day_care_places)),]
+recursos_tec_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Surgical_day_care_places)),]
+recursos_tec_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Surgical_day_care_places)),]
+recursos_tec_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Surgical_day_care_places)),]
+recursos_tec_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Surgical_day_care_places)),]
+recursos_tec_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Surgical_day_care_places)),]
+recursos_tec_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Surgical_day_care_places)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Facilities:S. Quirúrgicas) de los 5 Paises con un mayor número de ellas.
+
+kable(recursos_tec_5paises_2010[0:5,c(2,4)], col.names = c("País","S Cirugía"), 
+      caption = "Países con mayor Número de Salas Quirúrgicas en 2010")
+kable(recursos_tec_5paises_2011[0:5,c(2,4)], col.names = c("País","S Cirugía"), 
+      caption = "Países con mayor Número de Salas Quirúrgicas en 2011")
+kable(recursos_tec_5paises_2012[0:5,c(2,4)], col.names = c("País","S Cirugía"), 
+      caption = "Países con mayor Número de Salas Quirúrgicas en 2012")
+kable(recursos_tec_5paises_2013[0:5,c(2,4)], col.names = c("País","S Cirugía"), 
+      caption = "Países con mayor Número de Salas Quirúrgicas en 2013")
+kable(recursos_tec_5paises_2014[0:5,c(2,4)], col.names = c("País","S Cirugía"), 
+      caption = "Países con mayor Número de Salas Quirúrgicas en 2014")
+kable(recursos_tec_5paises_2015[0:5,c(2,4)], col.names = c("País","S Cirugía"), 
+      caption = "Países con mayor Número de Salas Quirúrgicas en 2015")
+kable(recursos_tec_5paises_2016[0:5,c(2,4)], col.names = c("País","S Cirugía"), 
+      caption = "Países con mayor Número de Salas Quirúrgicas en 2016")
+kable(recursos_tec_5paises_2017[0:5,c(2,4)], col.names = c("País","S Cirugía"), 
+      caption = "Países con mayor Número de Salas Quirúrgicas en 2017")
+kable(recursos_tec_5paises_2018[0:5,c(2,4)], col.names = c("País","S Cirugía"), 
+      caption = "Países con mayor Número de Salas Quirúrgicas en 2018")
+kable(recursos_tec_5paises_2019[0:5,c(2,4)], col.names = c("País","S Cirugía"), 
+      caption = "Países con mayor Número de Salas Quirúrgicas en 2019")
+```
+
+A continuación, se aprupa toda la información (Salas Quirúrgicas) 
+por paises en una tabla:
+
+```{r}
+a1<-group_by(recursos_tec_df,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y Surgical_day_care_places
+a2<-select(a1,Pais:Surgical_day_care_places)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Surgical_day_care_places)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","S Cirugía"), 
+      caption = "Países con la mayor media en Salas Quirúrgicas en 2010-2019")
+```
+
+* **Psychiatric_day_care_place**
+
+```{r}
+#########################################
+#Para "Psychiatric_day_care_place"      #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(recursos_tec_df, TIME==2010)
+y_2011<-filter(recursos_tec_df, TIME==2011)
+y_2012<-filter(recursos_tec_df, TIME==2012)
+y_2013<-filter(recursos_tec_df, TIME==2013)
+y_2014<-filter(recursos_tec_df, TIME==2014)
+y_2015<-filter(recursos_tec_df, TIME==2015)
+y_2016<-filter(recursos_tec_df, TIME==2016)
+y_2017<-filter(recursos_tec_df, TIME==2017)
+y_2018<-filter(recursos_tec_df, TIME==2018)
+y_2019<-filter(recursos_tec_df, TIME==2019)
+
+#Se ordena por "Psychiatric_day_care_place"
+
+recursos_tec_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Psychiatric_day_care_place)),]
+recursos_tec_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Psychiatric_day_care_place)),]
+recursos_tec_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Psychiatric_day_care_place)),]
+recursos_tec_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Psychiatric_day_care_place)),]
+recursos_tec_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Psychiatric_day_care_place)),]
+recursos_tec_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Psychiatric_day_care_place)),]
+recursos_tec_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Psychiatric_day_care_place)),]
+recursos_tec_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Psychiatric_day_care_place)),]
+recursos_tec_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Psychiatric_day_care_place)),]
+recursos_tec_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Psychiatric_day_care_place)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Facilities:S.Psiquiatría) de los 5 Paises con un mayor número de ellas.
+
+kable(recursos_tec_5paises_2010[0:5,c(2,5)], col.names = c("País","S.Psiquiatría"), 
+      caption = "Países con mayor Número de Salas de Psiquiatría en 2010")
+kable(recursos_tec_5paises_2011[0:5,c(2,5)], col.names = c("País","S.Psiquiatría"), 
+      caption = "Países con mayor Número de Salas de Psiquiatría en 2011")
+kable(recursos_tec_5paises_2012[0:5,c(2,5)], col.names = c("País","S.Psiquiatría"), 
+      caption = "Países con mayor Número de Salas de Psiquiatría en 2012")
+kable(recursos_tec_5paises_2013[0:5,c(2,5)], col.names = c("País","S.Psiquiatría"), 
+      caption = "Países con mayor Número de Salas de Psiquiatría en 2013")
+kable(recursos_tec_5paises_2014[0:5,c(2,5)], col.names = c("País","S.Psiquiatría"), 
+      caption = "Países con mayor Número de Salas de Psiquiatría en 2014")
+kable(recursos_tec_5paises_2015[0:5,c(2,5)], col.names = c("País","S.Psiquiatría"), 
+      caption = "Países con mayor Número de Salas de Psiquiatría en 2015")
+kable(recursos_tec_5paises_2016[0:5,c(2,5)], col.names = c("País","S.Psiquiatría"), 
+      caption = "Países con mayor Número de Salas de Psiquiatría en 2016")
+kable(recursos_tec_5paises_2017[0:5,c(2,5)], col.names = c("País","S.Psiquiatría"), 
+      caption = "Países con mayor Número de Salas de Psiquiatría en 2017")
+kable(recursos_tec_5paises_2018[0:5,c(2,5)], col.names = c("País","S.Psiquiatría"), 
+      caption = "Países con mayor Número de Salas de Psiquiatría en 2018")
+kable(recursos_tec_5paises_2019[0:5,c(2,5)], col.names = c("País","S.Psiquiatría"), 
+      caption = "Países con mayor Número de Salas de Psiquiatría en 2019")
+```
+
+A continuación, se aprupa toda la información (Salas de Psiquiatría) 
+por paises en una tabla:
+
+```{r}
+a1<-group_by(recursos_tec_df,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y Psychiatric_day_care_place
+a2<-select(a1,Pais:Psychiatric_day_care_place)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Psychiatric_day_care_place)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","S Psiquiatría"), 
+      caption = "Países con la mayor media en Salas de Psiquiatría en 2010-2019")
+```
+
+* **Oncological_day_care_place**
+
+```{r}
+#########################################
+#Para "Oncological_day_care_place"      #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(recursos_tec_df, TIME==2010)
+y_2011<-filter(recursos_tec_df, TIME==2011)
+y_2012<-filter(recursos_tec_df, TIME==2012)
+y_2013<-filter(recursos_tec_df, TIME==2013)
+y_2014<-filter(recursos_tec_df, TIME==2014)
+y_2015<-filter(recursos_tec_df, TIME==2015)
+y_2016<-filter(recursos_tec_df, TIME==2016)
+y_2017<-filter(recursos_tec_df, TIME==2017)
+y_2018<-filter(recursos_tec_df, TIME==2018)
+y_2019<-filter(recursos_tec_df, TIME==2019)
+
+#Se ordena por "Oncological_day_care_place"
+
+recursos_tec_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Oncological_day_care_place)),]
+recursos_tec_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Oncological_day_care_place)),]
+recursos_tec_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Oncological_day_care_place)),]
+recursos_tec_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Oncological_day_care_place)),]
+recursos_tec_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Oncological_day_care_place)),]
+recursos_tec_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Oncological_day_care_place)),]
+recursos_tec_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Oncological_day_care_place)),]
+recursos_tec_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Oncological_day_care_place)),]
+recursos_tec_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Oncological_day_care_place)),]
+recursos_tec_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Oncological_day_care_place)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Facilities:S.Oncología) de los 5 Paises con un mayor número de ellas.
+
+kable(recursos_tec_5paises_2010[0:5,c(2,6)], col.names = c("País","S.Oncología"), 
+      caption = "Países con mayor Número de Salas de Oncología en 2010")
+kable(recursos_tec_5paises_2011[0:5,c(2,6)], col.names = c("País","S.Oncología"), 
+      caption = "Países con mayor Número de Salas de Oncología en 2011")
+kable(recursos_tec_5paises_2012[0:5,c(2,6)], col.names = c("País","S.Oncología"), 
+      caption = "Países con mayor Número de Salas de Oncología en 2012")
+kable(recursos_tec_5paises_2013[0:5,c(2,6)], col.names = c("País","S.Oncología"), 
+      caption = "Países con mayor Número de Salas de Oncología en 2013")
+kable(recursos_tec_5paises_2014[0:5,c(2,6)], col.names = c("País","S.Oncología"), 
+      caption = "Países con mayor Número de Salas de Oncología en 2014")
+kable(recursos_tec_5paises_2015[0:5,c(2,6)], col.names = c("País","S.Oncología"), 
+      caption = "Países con mayor Número de Salas de Oncología en 2015")
+kable(recursos_tec_5paises_2016[0:5,c(2,6)], col.names = c("País","S.Oncología"), 
+      caption = "Países con mayor Número de Salas de Oncología en 2016")
+kable(recursos_tec_5paises_2017[0:5,c(2,6)], col.names = c("País","S.Oncología"), 
+      caption = "Países con mayor Número de Salas de Oncología en 2017")
+kable(recursos_tec_5paises_2018[0:5,c(2,6)], col.names = c("País","S.Oncología"), 
+      caption = "Países con mayor Número de Salas de Oncología en 2018")
+kable(recursos_tec_5paises_2019[0:5,c(2,6)], col.names = c("País","S.Oncología"), 
+      caption = "Países con mayor Número de Salas de Oncología en 2019")
+```
+
+A continuación, se aprupa toda la información (Salas de Oncología) 
+por paises en una tabla:
+
+```{r}
+a1<-group_by(recursos_tec_df,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y Oncological_day_care_place
+a2<-select(a1,Pais:Oncological_day_care_place)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Oncological_day_care_place)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","S Oncología"), 
+      caption = "Países con la mayor media en Salas de Oncología en 2010-2019")
+```
+
+* **Geriatric_day_care_places**
+
+```{r}
+#########################################
+#Para "Geriatric_day_care_places"       #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(recursos_tec_df, TIME==2010)
+y_2011<-filter(recursos_tec_df, TIME==2011)
+y_2012<-filter(recursos_tec_df, TIME==2012)
+y_2013<-filter(recursos_tec_df, TIME==2013)
+y_2014<-filter(recursos_tec_df, TIME==2014)
+y_2015<-filter(recursos_tec_df, TIME==2015)
+y_2016<-filter(recursos_tec_df, TIME==2016)
+y_2017<-filter(recursos_tec_df, TIME==2017)
+y_2018<-filter(recursos_tec_df, TIME==2018)
+y_2019<-filter(recursos_tec_df, TIME==2019)
+
+#Se ordena por "Geriatric_day_care_places"
+
+recursos_tec_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Geriatric_day_care_places)),]
+recursos_tec_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Geriatric_day_care_places)),]
+recursos_tec_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Geriatric_day_care_places)),]
+recursos_tec_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Geriatric_day_care_places)),]
+recursos_tec_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Geriatric_day_care_places)),]
+recursos_tec_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Geriatric_day_care_places)),]
+recursos_tec_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Geriatric_day_care_places)),]
+recursos_tec_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Geriatric_day_care_places)),]
+recursos_tec_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Geriatric_day_care_places)),]
+recursos_tec_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Geriatric_day_care_places)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Facilities:S.Geriátricas) de los 5 Paises con un mayor número de ellas.
+
+kable(recursos_tec_5paises_2010[0:5,c(2,7)], col.names = c("País","S.Geriatría"), 
+      caption = "Países con mayor Número de Salas de Geriatría en 2010")
+kable(recursos_tec_5paises_2011[0:5,c(2,7)], col.names = c("País","S.Geriatría"), 
+      caption = "Países con mayor Número de Salas de Geriatría en 2011")
+kable(recursos_tec_5paises_2012[0:5,c(2,7)], col.names = c("País","S.Geriatría"), 
+      caption = "Países con mayor Número de Salas de Geriatría en 2012")
+kable(recursos_tec_5paises_2013[0:5,c(2,7)], col.names = c("País","S.Geriatría"), 
+      caption = "Países con mayor Número de Salas de Geriatría en 2013")
+kable(recursos_tec_5paises_2014[0:5,c(2,7)], col.names = c("País","S.Geriatría"), 
+      caption = "Países con mayor Número de Salas de Geriatría en 2014")
+kable(recursos_tec_5paises_2015[0:5,c(2,7)], col.names = c("País","S.Geriatría"), 
+      caption = "Países con mayor Número de Salas de Geriatría en 2015")
+kable(recursos_tec_5paises_2016[0:5,c(2,7)], col.names = c("País","S.Geriatría"), 
+      caption = "Países con mayor Número de Salas de Geriatría en 2016")
+kable(recursos_tec_5paises_2017[0:5,c(2,7)], col.names = c("País","S.Geriatría"), 
+      caption = "Países con mayor Número de Salas de Geriatría en 2017")
+kable(recursos_tec_5paises_2018[0:5,c(2,7)], col.names = c("País","S.Geriatría"), 
+      caption = "Países con mayor Número de Salas de Geriatría en 2018")
+kable(recursos_tec_5paises_2019[0:5,c(2,7)], col.names = c("País","S.Geriatría"), 
+      caption = "Países con mayor Número de Salas de Geriatría en 2019")
+```
+
+A continuación, se aprupa toda la información (Salas de Geriatría) 
+por paises en una tabla:
+
+```{r}
+a1<-group_by(recursos_tec_df,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y Geriatric_day_care_places
+a2<-select(a1,Pais:Geriatric_day_care_places)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Geriatric_day_care_places)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","S Geriatría"), 
+      caption = "Países con la mayor media en Salas de Geriatría en 2010-2019")
+```
+
+
+
+* **Computed_Tomography_Scanners**
+
+```{r}
+#########################################
+#Para "Computed_Tomography_Scanners"      #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(tecnologia_medica_df, TIME==2010)
+y_2011<-filter(tecnologia_medica_df, TIME==2011)
+y_2012<-filter(tecnologia_medica_df, TIME==2012)
+y_2013<-filter(tecnologia_medica_df, TIME==2013)
+y_2014<-filter(tecnologia_medica_df, TIME==2014)
+y_2015<-filter(tecnologia_medica_df, TIME==2015)
+y_2016<-filter(tecnologia_medica_df, TIME==2016)
+y_2017<-filter(tecnologia_medica_df, TIME==2017)
+y_2018<-filter(tecnologia_medica_df, TIME==2018)
+y_2019<-filter(tecnologia_medica_df, TIME==2019)
+
+#Se ordena por "Computed_Tomography_Scanners"
+
+recursos_tec_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Computed_Tomography_Scanners)),]
+recursos_tec_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Computed_Tomography_Scanners)),]
+recursos_tec_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Computed_Tomography_Scanners)),]
+recursos_tec_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Computed_Tomography_Scanners)),]
+recursos_tec_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Computed_Tomography_Scanners)),]
+recursos_tec_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Computed_Tomography_Scanners)),]
+recursos_tec_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Computed_Tomography_Scanners)),]
+recursos_tec_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Computed_Tomography_Scanners)),]
+recursos_tec_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Computed_Tomography_Scanners)),]
+recursos_tec_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Computed_Tomography_Scanners)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Facilities:Escáners) de los 5 Paises con un mayor número de ellos.
+
+kable(recursos_tec_5paises_2010[0:5,c(2,3)], col.names = c("País","Escáners"), 
+      caption = "Países con mayor Número de Escáners en 2010")
+kable(recursos_tec_5paises_2011[0:5,c(2,3)], col.names = c("País","Escáners"), 
+      caption = "Países con mayor Número de Escáners en 2011")
+kable(recursos_tec_5paises_2012[0:5,c(2,3)], col.names = c("País","Escáners"), 
+      caption = "Países con mayor Número  de Escáners en 2012")
+kable(recursos_tec_5paises_2013[0:5,c(2,3)], col.names = c("País","Escáners"), 
+      caption = "Países con mayor Número  de Escáners en 2013")
+kable(recursos_tec_5paises_2014[0:5,c(2,3)], col.names = c("País","Escáners"), 
+      caption = "Países con mayor Número  de Escáners en 2014")
+kable(recursos_tec_5paises_2015[0:5,c(2,3)], col.names = c("País","Escáners"), 
+      caption = "Países con mayor Número  de Escáners en 2015")
+kable(recursos_tec_5paises_2016[0:5,c(2,3)], col.names = c("País","Escáners"), 
+      caption = "Países con mayor Número  de Escáners en 2016")
+kable(recursos_tec_5paises_2017[0:5,c(2,3)], col.names = c("País","Escáners"), 
+      caption = "Países con mayor Número  de Escáners en 2017")
+kable(recursos_tec_5paises_2018[0:5,c(2,3)], col.names = c("País","Escáners"), 
+      caption = "Países con mayor Número  de Escáners en 2018")
+kable(recursos_tec_5paises_2019[0:5,c(2,3)], col.names = c("País","Escáners"), 
+      caption = "Países con mayor Número  de Escáners en 2019")
+```
+
+A continuación, se aprupa toda la información (Escáners) 
+por paises en una tabla:
+
+```{r}
+a1<-group_by(tecnologia_medica_df,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y Computed_Tomography_Scanners
+a2<-select(a1,Pais:Computed_Tomography_Scanners)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Computed_Tomography_Scanners)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","Escáners"), 
+      caption = "Países con la mayor media en Escáners en 2010-2019")
+```
+
+
+* **Gamma_cameras**
+
+```{r}
+#########################################
+#Para "Gamma_cameras"                   #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(tecnologia_medica_df, TIME==2010)
+y_2011<-filter(tecnologia_medica_df, TIME==2011)
+y_2012<-filter(tecnologia_medica_df, TIME==2012)
+y_2013<-filter(tecnologia_medica_df, TIME==2013)
+y_2014<-filter(tecnologia_medica_df, TIME==2014)
+y_2015<-filter(tecnologia_medica_df, TIME==2015)
+y_2016<-filter(tecnologia_medica_df, TIME==2016)
+y_2017<-filter(tecnologia_medica_df, TIME==2017)
+y_2018<-filter(tecnologia_medica_df, TIME==2018)
+y_2019<-filter(tecnologia_medica_df, TIME==2019)
+
+#Se ordena por "Gamma_cameras"
+
+recursos_tec_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Gamma_cameras)),]
+recursos_tec_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Gamma_cameras)),]
+recursos_tec_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Gamma_cameras)),]
+recursos_tec_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Gamma_cameras)),]
+recursos_tec_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Gamma_cameras)),]
+recursos_tec_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Gamma_cameras)),]
+recursos_tec_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Gamma_cameras)),]
+recursos_tec_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Gamma_cameras)),]
+recursos_tec_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Gamma_cameras)),]
+recursos_tec_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Gamma_cameras)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Facilities:Cámaras Gamma) de los 5 Paises con un mayor número de ellos.
+
+kable(recursos_tec_5paises_2010[0:5,c(2,4)], col.names = c("País","C. Gamma"), 
+      caption = "Países con mayor Número de C. Gamma en 2010")
+kable(recursos_tec_5paises_2011[0:5,c(2,4)], col.names = c("País","C. Gamma"), 
+      caption = "Países con mayor Número de C. Gamma en 2011")
+kable(recursos_tec_5paises_2012[0:5,c(2,4)], col.names = c("País","C. Gamma"), 
+      caption = "Países con mayor Número  de C. Gamma en 2012")
+kable(recursos_tec_5paises_2013[0:5,c(2,4)], col.names = c("País","C. Gamma"), 
+      caption = "Países con mayor Número  de C. Gamma en 2013")
+kable(recursos_tec_5paises_2014[0:5,c(2,4)], col.names = c("País","C. Gamma"), 
+      caption = "Países con mayor Número  de C. Gamma en 2014")
+kable(recursos_tec_5paises_2015[0:5,c(2,4)], col.names = c("País","C. Gamma"), 
+      caption = "Países con mayor Número  de C. Gamma en 2015")
+kable(recursos_tec_5paises_2016[0:5,c(2,4)], col.names = c("País","C. Gamma"), 
+      caption = "Países con mayor Número  de C. Gamma en 2016")
+kable(recursos_tec_5paises_2017[0:5,c(2,4)], col.names = c("País","C. Gamma"), 
+      caption = "Países con mayor Número  de C. Gamma en 2017")
+kable(recursos_tec_5paises_2018[0:5,c(2,4)], col.names = c("País","C. Gamma"), 
+      caption = "Países con mayor Número  de C. Gamma en 2018")
+kable(recursos_tec_5paises_2019[0:5,c(2,4)], col.names = c("País","C. Gamma"), 
+      caption = "Países con mayor Número  de C. Gamma en 2019")
+```
+
+A continuación, se aprupa toda la información (C. Gamma) 
+por paises en una tabla:
+
+```{r}
+a1<-group_by(tecnologia_medica_df,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y Gamma_cameras
+a2<-select(a1,Pais:Gamma_cameras)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Gamma_cameras)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","C. Gamma"), 
+      caption = "Países con la mayor media en C. Gamma en 2010-2019")
+```
+
+
+* **Lithotriptors**
+
+```{r}
+#########################################
+#Para "Lithotriptors"                   #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(tecnologia_medica_df, TIME==2010)
+y_2011<-filter(tecnologia_medica_df, TIME==2011)
+y_2012<-filter(tecnologia_medica_df, TIME==2012)
+y_2013<-filter(tecnologia_medica_df, TIME==2013)
+y_2014<-filter(tecnologia_medica_df, TIME==2014)
+y_2015<-filter(tecnologia_medica_df, TIME==2015)
+y_2016<-filter(tecnologia_medica_df, TIME==2016)
+y_2017<-filter(tecnologia_medica_df, TIME==2017)
+y_2018<-filter(tecnologia_medica_df, TIME==2018)
+y_2019<-filter(tecnologia_medica_df, TIME==2019)
+
+#Se ordena por "Lithotriptors"
+
+recursos_tec_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Lithotriptors)),]
+recursos_tec_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Lithotriptors)),]
+recursos_tec_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Lithotriptors)),]
+recursos_tec_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Lithotriptors)),]
+recursos_tec_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Lithotriptors)),]
+recursos_tec_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Lithotriptors)),]
+recursos_tec_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Lithotriptors)),]
+recursos_tec_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Lithotriptors)),]
+recursos_tec_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Lithotriptors)),]
+recursos_tec_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Lithotriptors)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Facilities:Litotriptores) de los 5 Paises con un mayor número de ellos.
+
+kable(recursos_tec_5paises_2010[0:5,c(2,5)], 
+      col.names = c("País","Lithotriptors"), 
+      caption = "Países con mayor Número de Lithotriptors en 2010")
+kable(recursos_tec_5paises_2011[0:5,c(2,5)],
+      col.names = c("País","Lithotriptors"), 
+      caption = "Países con mayor Número de Lithotriptors en 2011")
+kable(recursos_tec_5paises_2012[0:5,c(2,5)],
+      col.names = c("País","Lithotriptors"), 
+      caption = "Países con mayor Número  de Lithotriptors en 2012")
+kable(recursos_tec_5paises_2013[0:5,c(2,5)],
+      col.names = c("País","Lithotriptors"), 
+      caption = "Países con mayor Número  de Lithotriptors en 2013")
+kable(recursos_tec_5paises_2014[0:5,c(2,5)],
+      col.names = c("País","Lithotriptors"), 
+      caption = "Países con mayor Número  de Lithotriptors en 2014")
+kable(recursos_tec_5paises_2015[0:5,c(2,5)],
+      col.names = c("País","Lithotriptors"), 
+      caption = "Países con mayor Número  de Lithotriptors en 2015")
+kable(recursos_tec_5paises_2016[0:5,c(2,5)],
+      col.names = c("País","Lithotriptors"), 
+      caption = "Países con mayor Número  de Lithotriptors en 2016")
+kable(recursos_tec_5paises_2017[0:5,c(2,5)],
+      col.names = c("País","Lithotriptors"), 
+      caption = "Países con mayor Número  de Lithotriptors en 2017")
+kable(recursos_tec_5paises_2018[0:5,c(2,5)],
+      col.names = c("País","Lithotriptors"), 
+      caption = "Países con mayor Número  de Lithotriptors en 2018")
+kable(recursos_tec_5paises_2019[0:5,c(2,5)],
+      col.names = c("País","Lithotriptors"), 
+      caption = "Países con mayor Número  de Lithotriptors en 2019")
+```
+
+A continuación, se aprupa toda la información (Lithotriptors) 
+por paises en una tabla:
+
+```{r}
+a1<-group_by(tecnologia_medica_df,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y Lithotriptors
+a2<-select(a1,Pais:Lithotriptors)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Lithotriptors)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","Lithotriptors"), 
+      caption = "Países con la mayor media en Lithotriptors en 2010-2019")
+```
+
+
+* **Magnetic_Resonance_Imaging_Units**
+
+```{r}
+#########################################
+#Para "Magnetic_Resonance_Imaging_Units"#
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(tecnologia_medica_df, TIME==2010)
+y_2011<-filter(tecnologia_medica_df, TIME==2011)
+y_2012<-filter(tecnologia_medica_df, TIME==2012)
+y_2013<-filter(tecnologia_medica_df, TIME==2013)
+y_2014<-filter(tecnologia_medica_df, TIME==2014)
+y_2015<-filter(tecnologia_medica_df, TIME==2015)
+y_2016<-filter(tecnologia_medica_df, TIME==2016)
+y_2017<-filter(tecnologia_medica_df, TIME==2017)
+y_2018<-filter(tecnologia_medica_df, TIME==2018)
+y_2019<-filter(tecnologia_medica_df, TIME==2019)
+
+#Se ordena por "Magnetic_Resonance_Imaging_Units"
+
+recursos_tec_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Magnetic_Resonance_Imaging_Units)),]
+recursos_tec_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Magnetic_Resonance_Imaging_Units)),]
+recursos_tec_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Magnetic_Resonance_Imaging_Units)),]
+recursos_tec_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Magnetic_Resonance_Imaging_Units)),]
+recursos_tec_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Magnetic_Resonance_Imaging_Units)),]
+recursos_tec_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Magnetic_Resonance_Imaging_Units)),]
+recursos_tec_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Magnetic_Resonance_Imaging_Units)),]
+recursos_tec_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Magnetic_Resonance_Imaging_Units)),]
+recursos_tec_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Magnetic_Resonance_Imaging_Units)),]
+recursos_tec_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Magnetic_Resonance_Imaging_Units)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Facilities:R.Magnética) de los 5 Paises con un mayor número de ellos.
+
+kable(recursos_tec_5paises_2010[0:5,c(2,6)], 
+      col.names = c("País","R.Magnética"), 
+      caption = "Países con mayor Número de unidades en R.Magnética en 2010")
+kable(recursos_tec_5paises_2011[0:5,c(2,6)],
+      col.names = c("País","R.Magnética"), 
+      caption = "Países con mayor Número de unidades en R.Magnética en 2011")
+kable(recursos_tec_5paises_2012[0:5,c(2,6)],
+      col.names = c("País","R.Magnética"), 
+      caption = "Países con mayor Número  de unidades en R.Magnética en 2012")
+kable(recursos_tec_5paises_2013[0:5,c(2,6)],
+      col.names = c("País","R.Magnética"), 
+      caption = "Países con mayor Número  de unidades en R.Magnética en 2013")
+kable(recursos_tec_5paises_2014[0:5,c(2,6)],
+      col.names = c("País","R.Magnética"), 
+      caption = "Países con mayor Número  de unidades en R.Magnética en 2014")
+kable(recursos_tec_5paises_2015[0:5,c(2,6)],
+      col.names = c("País","R.Magnética"), 
+      caption = "Países con mayor Número  de unidades en R.Magnética en 2015")
+kable(recursos_tec_5paises_2016[0:5,c(2,6)],
+      col.names = c("País","R.Magnética"), 
+      caption = "Países con mayor Número  de unidades en R.Magnética en 2016")
+kable(recursos_tec_5paises_2017[0:5,c(2,6)],
+      col.names = c("País","R.Magnética"), 
+      caption = "Países con mayor Número  de unidades en R.Magnética en 2017")
+kable(recursos_tec_5paises_2018[0:5,c(2,6)],
+      col.names = c("País","R.Magnética"), 
+      caption = "Países con mayor Número  de unidades en R.Magnética en 2018")
+kable(recursos_tec_5paises_2019[0:5,c(2,6)],
+      col.names = c("País","R.Magnética"), 
+      caption = "Países con mayor Número  de unidades en R.Magnética en 2019")
+```
+
+A continuación, se aprupa toda la información (R.Magnética) 
+por paises en una tabla:
+
+```{r}
+a1<-group_by(tecnologia_medica_df,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y Magnetic_Resonance_Imaging_Units
+a2<-select(a1,Pais:Magnetic_Resonance_Imaging_Units)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Magnetic_Resonance_Imaging_Units)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","R.Magnética"), 
+      caption = "Países con la mayor media en unidades en R.Magnética en 2010-2019")
+```
+
+
+* **Angiography_units**
+
+```{r}
+#########################################
+#Para "Angiography_units"               #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(tecnologia_medica_df, TIME==2010)
+y_2011<-filter(tecnologia_medica_df, TIME==2011)
+y_2012<-filter(tecnologia_medica_df, TIME==2012)
+y_2013<-filter(tecnologia_medica_df, TIME==2013)
+y_2014<-filter(tecnologia_medica_df, TIME==2014)
+y_2015<-filter(tecnologia_medica_df, TIME==2015)
+y_2016<-filter(tecnologia_medica_df, TIME==2016)
+y_2017<-filter(tecnologia_medica_df, TIME==2017)
+y_2018<-filter(tecnologia_medica_df, TIME==2018)
+y_2019<-filter(tecnologia_medica_df, TIME==2019)
+
+#Se ordena por "Angiography_units"
+
+recursos_tec_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Angiography_units)),]
+recursos_tec_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Angiography_units)),]
+recursos_tec_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Angiography_units)),]
+recursos_tec_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Angiography_units)),]
+recursos_tec_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Angiography_units)),]
+recursos_tec_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Angiography_units)),]
+recursos_tec_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Angiography_units)),]
+recursos_tec_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Angiography_units)),]
+recursos_tec_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Angiography_units)),]
+recursos_tec_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Angiography_units)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Facilities:U.Angiografía) de los 5 Paises con un mayor número de ellos.
+
+kable(recursos_tec_5paises_2010[0:5,c(2,7)], 
+      col.names = c("País","U.Angiografía"), 
+      caption = "Países con mayor Número de unidades en Angiografía en 2010")
+kable(recursos_tec_5paises_2011[0:5,c(2,7)],
+      col.names = c("País","U.Angiografía"), 
+      caption = "Países con mayor Número de unidades en Angiografía en 2011")
+kable(recursos_tec_5paises_2012[0:5,c(2,7)],
+      col.names = c("País","U.Angiografía"), 
+      caption = "Países con mayor Número  de unidades en Angiografía en 2012")
+kable(recursos_tec_5paises_2013[0:5,c(2,7)],
+      col.names = c("País","U.Angiografía"), 
+      caption = "Países con mayor Número  de unidades en Angiografía en 2013")
+kable(recursos_tec_5paises_2014[0:5,c(2,7)],
+      col.names = c("País","U.Angiometría"), 
+      caption = "Países con mayor Número  de unidades en Angiografía en 2014")
+kable(recursos_tec_5paises_2015[0:5,c(2,7)],
+      col.names = c("País","U.Angiografía"), 
+      caption = "Países con mayor Número  de unidades en Angiografía en 2015")
+kable(recursos_tec_5paises_2016[0:5,c(2,7)],
+      col.names = c("País","R.Magnética"), 
+      caption = "Países con mayor Número  de unidades en Angiografía en 2016")
+kable(recursos_tec_5paises_2017[0:5,c(2,7)],
+      col.names = c("País","U.Angiografía"), 
+      caption = "Países con mayor Número  de unidades en Angiografía en 2017")
+kable(recursos_tec_5paises_2018[0:5,c(2,7)],
+      col.names = c("País","U.Angiografía"), 
+      caption = "Países con mayor Número  de unidades en Angiografía en 2018")
+kable(recursos_tec_5paises_2019[0:5,c(2,7)],
+      col.names = c("País","U.Angiografía"), 
+      caption = "Países con mayor Número  de unidades en Angiografía en 2019")
+```
+
+A continuación, se aprupa toda la información (R.Magnética) 
+por paises en una tabla:
+
+```{r}
+a1<-group_by(tecnologia_medica_df,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y Angiography_units
+a2<-select(a1,Pais:Angiography_units)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Angiography_units)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","U. Angiografía"), 
+      caption = "Países con la mayor media en unidades en Angiografía en 2010-2019")
+```
+
+
+* **Camas Disponibles_  Value**
+
+```{r}
+#########################################
+#Para "Camas Disponibles_  Value"       #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(camas_disponibles_df, TIME==2010)
+y_2011<-filter(camas_disponibles_df, TIME==2011)
+y_2012<-filter(camas_disponibles_df, TIME==2012)
+y_2013<-filter(camas_disponibles_df, TIME==2013)
+y_2014<-filter(camas_disponibles_df, TIME==2014)
+y_2015<-filter(camas_disponibles_df, TIME==2015)
+y_2016<-filter(camas_disponibles_df, TIME==2016)
+y_2017<-filter(camas_disponibles_df, TIME==2017)
+y_2018<-filter(camas_disponibles_df, TIME==2018)
+y_2019<-filter(camas_disponibles_df, TIME==2019)
+
+#Se ordena por "Camas Disponibles_Value"
+
+recursos_tec_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Value)),]
+recursos_tec_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Value)),]
+recursos_tec_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Value)),]
+recursos_tec_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Value)),]
+recursos_tec_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Value)),]
+recursos_tec_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Value)),]
+recursos_tec_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Value)),]
+recursos_tec_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Value)),]
+recursos_tec_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Value)),]
+recursos_tec_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Value)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Facilities:Camas Disponibles) de los 5 Paises con un mayor número de ellas.
+
+kable(recursos_tec_5paises_2010[0:5,c(2,5)], 
+      col.names = c("País","Camas"), 
+      caption = "Países con mayor Número de Camas Disponibles en 2010")
+kable(recursos_tec_5paises_2011[0:5,c(2,5)],
+      col.names = c("País","Camas"), 
+      caption = "Países con mayor Número de Camas Disponibles en 2011")
+kable(recursos_tec_5paises_2012[0:5,c(2,5)],
+      col.names = c("País","Camas"), 
+      caption = "Países con mayor Número  de Camas Disponibles en 2012")
+kable(recursos_tec_5paises_2013[0:5,c(2,5)],
+      col.names = c("País","Camas"), 
+      caption = "Países con mayor Número  de Camas Disponibles en 2013")
+kable(recursos_tec_5paises_2014[0:5,c(2,5)],
+      col.names = c("País","Camas"), 
+      caption = "Países con mayor Número  de Camas Disponibles en 2014")
+kable(recursos_tec_5paises_2015[0:5,c(2,5)],
+      col.names = c("País","Camas"), 
+      caption = "Países con mayor Número  de Camas Disponibles en 2015")
+kable(recursos_tec_5paises_2016[0:5,c(2,5)],
+      col.names = c("País","Camas"), 
+      caption = "Países con mayor Número  de Camas Disponibles en 2016")
+kable(recursos_tec_5paises_2017[0:5,c(2,5)],
+      col.names = c("País","Camas"), 
+      caption = "Países con mayor Número  de Camas Disponibles en 2017")
+kable(recursos_tec_5paises_2018[0:5,c(2,5)],
+      col.names = c("País","Camas"), 
+      caption = "Países con mayor Número  de Camas Disponibles en 2018")
+kable(recursos_tec_5paises_2019[0:5,c(2,5)],
+      col.names = c("País","Camas"), 
+      caption = "Países con mayor Número  de Camas Disponibles en 2019")
+```
+
+A continuación, se aprupa toda la información (Camas Disponibles) 
+por paises en una tabla:
+
+```{r}
+a1<-group_by(camas_disponibles_df,GEO)#Se agrupa por paises
+#Se selecciona las variables Pais y Camas Disponibles
+a2<-select(a1,GEO:Value)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Value)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","Camas Disponibles"), 
+      caption = "Países con la mayor media en Camas Disponibles en 2010-2019")
+```
+
+  * **1.1.3 Normalidad de la variable "Value"**
+  
+Se comprueba con métodos visuales si la variable tiene una distribución normal.
+
+**QUIRÓFANOS**
+     
+```{r}
+par(mfrow=c(1,2))
+plot(density(recursos_tec_df$Operation_theatres_in_hospital_norm) ,main="Density")
+qqnorm(recursos_tec_df$Operation_theatres_in_hospital_norm)
+qqline(recursos_tec_df$Operation_theatres_in_hospital_norm)
+
+
+```
+
+Para estudiar si una muestra proviene de una población con distribución normal, se disponen de tres herramientas:
+     
+  *  Histograma o Densidad
+  *  Gráficos cuantil cuantil (QQplot)
+  *  Pruebas de hipótesis.
+        
+Si en la prueba de Densidad se observa sesgo hacia uno de los lados de la gráfica, sería indicio de que la muestra no proviene de una población normal.Si por otra parte, sí se observa simetría, **NO** se garantiza que la muestra provenga de una población normal. En estos casos sería necesario utilizar otras herramientas como **QQplot y pruebas de hipótesis**.
+
+En la gráfica Densidad de la variable "Operation_theatres_in_hospital_norm", se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico. Si se tuviese una muestra distribuída normalmente, se esperaría que los puntos del gráfico quantil quantil estuviesen perfectamente alineados con la línea de referencia, y observamos que para este caso, "Operation_theatres_in_hospital_norm" no se alinea.
+Confirmaría los resultados del gráfico de densidad.
+
+Por otro lado, se realizan las pruebas de hipótesis:
+
+- $h_0: La muestra proviene de una población normal.
+- $h_1: La muestra NO proviene de una población normal.
+
+Se aplica la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(recursos_tec_df$Operation_theatres_in_hospital_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+    
+**SALAS DE CIRUGÍA**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(recursos_tec_df$Surgical_day_care_places_norm) ,main="Density")
+qqnorm(recursos_tec_df$Surgical_day_care_places_norm)
+qqline(recursos_tec_df$Surgical_day_care_places_norm)
+```
+
+En la gráfica Densidad de la variable "Surgical_day_care_places_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Surgical_day_care_places_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(recursos_tec_df$Surgical_day_care_places_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+**SALAS PSIQUIÁTRICAS**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(recursos_tec_df$Psychiatric_day_care_place_norm) ,main="Density")
+qqnorm(recursos_tec_df$Psychiatric_day_care_place_norm)
+qqline(recursos_tec_df$Psychiatric_day_care_place_norm)
+```
+
+En la gráfica Densidad de la variable "Psychiatric_day_care_place_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Psychiatric_day_care_place_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(recursos_tec_df$Psychiatric_day_care_place_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+**CONSULTAS ONCOLÓGICAS**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(recursos_tec_df$Oncological_day_care_place_norm) ,main="Density")
+qqnorm(recursos_tec_df$Oncological_day_care_place_norm)
+qqline(recursos_tec_df$Oncological_day_care_place_norm)
+```
+
+En la gráfica Densidad de la variable "Oncological_day_care_place_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Oncological_day_care_place_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(recursos_tec_df$Oncological_day_care_place_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+
+**CONSULTAS GERIÁTRICAS**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(recursos_tec_df$Geriatric_day_care_places_norm) ,main="Density")
+qqnorm(recursos_tec_df$Geriatric_day_care_places_norm)
+qqline(recursos_tec_df$Geriatric_day_care_places_norm)
+```
+
+En la gráfica Densidad de la variable "Geriatric_day_care_places_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Geriatric_day_care_places_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(recursos_tec_df$Geriatric_day_care_places_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+
+**ESCÁNERS**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(tecnologia_medica_df$Computed_Tomography_Scanners_norm) ,main="Density")
+qqnorm(tecnologia_medica_df$Computed_Tomography_Scanners_norm)
+qqline(tecnologia_medica_df$Computed_Tomography_Scanners_norm)
+```
+
+En la gráfica Densidad de la variable "Computed_Tomography_Scanners_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Computed_Tomography_Scanners_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(tecnologia_medica_df$Computed_Tomography_Scanners_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+
+**CÁMARAS GAMMA**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(tecnologia_medica_df$Gamma_cameras_norm) ,main="Density")
+qqnorm(tecnologia_medica_df$Gamma_cameras_norm)
+qqline(tecnologia_medica_df$Gamma_cameras_norm)
+```
+
+En la gráfica Densidad de la variable "Gamma_cameras_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Gamma_cameras_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(tecnologia_medica_df$Gamma_cameras_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+**LITOTRIPTORES**
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(tecnologia_medica_df$Lithotriptors_norm) ,main="Density")
+qqnorm(tecnologia_medica_df$Lithotriptors_norm)
+qqline(tecnologia_medica_df$Lithotriptors_norm)
+```
+
+En la gráfica Densidad de la variable "Lithotriptors_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Lithotriptors_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(tecnologia_medica_df$Lithotriptors_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+**UNIDADES DE RESONANCIA MAGNÉTICA**
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(tecnologia_medica_df$Magnetic_Resonance_Imaging_Units_norm) ,main="Density")
+qqnorm(tecnologia_medica_df$Magnetic_Resonance_Imaging_Units_norm)
+qqline(tecnologia_medica_df$Magnetic_Resonance_Imaging_Units_norm)
+```
+
+En la gráfica Densidad de la variable "Magnetic_Resonance_Imaging_Units" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Magnetic_Resonance_Imaging_Units".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(tecnologia_medica_df$Magnetic_Resonance_Imaging_Units_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+**UNIDADES DE ANGIOGRAFÍA**
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(tecnologia_medica_df$Angiography_units_norm) ,main="Density")
+qqnorm(tecnologia_medica_df$Angiography_units_norm)
+qqline(tecnologia_medica_df$Angiography_units_norm)
+```
+
+En la gráfica Densidad de la variable "Angiography_units" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Angiography_units".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(tecnologia_medica_df$Angiography_units_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+**CAMAS DISPONIBLES**
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(camas_disponibles_df$Value_norm) ,main="Density")
+qqnorm(camas_disponibles_df$Value_norm)
+qqline(camas_disponibles_df$Value_norm)
+```
+
+En la gráfica Densidad de la variable "Value_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Value_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(camas_disponibles_df$Value_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
