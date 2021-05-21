@@ -20,4 +20,4 @@
        2.2.2 Se realizan las predicciones de los modelos generados con intervalos de confianza para valorar el error de las predicciones.
     
 
-3.MODELIZACIÓN DE LOS DATOS.** 
+
