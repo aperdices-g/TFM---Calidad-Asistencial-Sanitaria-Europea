@@ -1,0 +1,1170 @@
+---
+title: "Análisis Exploratorio de los Datos \n RECURSOS SANITARIOS: Staff"
+author: "Alicia Perdices Guerra"
+date: '`r format(Sys.Date(),"%e de %B, %Y")`'
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    number_sections: no
+    toc: yes
+---
+* **1.ANÁLISIS EXPLORATORIO POR PAISES.**
+
+  * 1.1 EN RELACIÓN CON LOS RECURSOS SANITARIOS
+    * 1.1.1 Análisis Descriptivo
+    * 1.1.2 Visualización y Distribución de la variable "Value"
+      * Staff
+      
+    * 1.1.3 Normalidad de la variable "Value"
+      * Staff
+     
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(scales)
+library(ggplot2)
+library(gridExtra)
+require(knitr)
+```
+
+
+#### **1.ANÁLISIS EXPLORATORIO POR PAISES**
+
+Se procede en primer lugar a cargar todos los archivos para poder realizar el análisis.
+
+```{r}
+#En relación con la información del Personal Hospitalario (STAFF)
+medicos_p<-read.csv("C:/temp/Medicos_Por_Paises_clean.csv",sep= ",")
+medicos_e<-read.csv("C:/temp/Medicos_x_especialidad_clean.csv",sep= ",")
+enfermeria<-read.csv("C:/temp/Personal_Enfermeria_Cuidados_clean.csv",sep= ",")
+personal_ne<-read.csv("C:/temp/PersonalSanitario_No_enfermeria_clean.csv",sep= ",")
+
+```
+
+
+**1.1.- EN RELACIÓN CON LOS RECURSOS SANITARIOS _ STAFF**
+
+  * **1.1.1 Análisis Descriptivo**
+
+  
+Se procede a realizar el análisis descriptivo:
+
+
+```{r}
+summary(medicos_p)
+summary(medicos_e)
+summary(enfermeria)
+summary(personal_ne)
+```
+    
+    
+Se filta el dataframe para que la variable GEO aparezcan solo los paises objeto de estudio.(Para cada archivo relacionado con los Recursos Sanitarios y unificamos la información en dos variables, medicos y personal_sanitario_no_medicos).
+Además se selecciona la información relevante de las variables MED_SPEC,ISCO08 y WSTATUS (En relación con las especialidades y estatus de personal hospitalario):
+
+```{r}
+#En relación con el Staff
+#==============================
+
+#Médicos por Especialidad
+#========================
+medicos_e_paises<-filter(medicos_e,(GEO!="European Union - 27 countries (from 2020)")&
+                              +(GEO!="European Union - 28 countries (2013-2020)")&
+                              +(GEO!="European Union - 27 countries (2007-2013)")&
+                              +(GEO!="European Union - 15 countries (1995-2004)")&
+                              +(GEO!="Euro area - 12 countries (2001-2006)")&
+                              +(GEO!="Euro area - 19 countries  (from 2015)")&
+                              +(GEO!="Euro area - 18 countries (2014)")&
+                              +(GEO!="Euro area - 12 countries (2001-2006)"))
+#Se selecciona todo lo relacionado con los Médicos  
+#por Especialidad.
+medicos_e_paises_gm<-
+  filter(medicos_e_paises,MED_SPEC=="Generalist medical practitioners")
+
+
+medicos_e_paises_sm<-
+  filter(medicos_e_paises,MED_SPEC=="Specialist medical practitioners")
+
+
+medicos_e_paises_gp<-
+  filter(medicos_e_paises,MED_SPEC=="General paediatricians")
+
+
+#Médicos por Países y Edad
+#=========================
+medicos_p_paises<-filter(medicos_p,(GEO!="European Union - 27 countries (from 2020)")&
+                              +(GEO!="European Union - 28 countries (2013-2020)")&
+                              +(GEO!="European Union - 27 countries (2007-2013)")&
+                              +(GEO!="European Union - 15 countries (1995-2004)")&
+                              +(GEO!="Euro area - 12 countries (2001-2006)")&
+                              +(GEO!="Euro area - 19 countries  (from 2015)")&
+                              +(GEO!="Euro area - 18 countries (2014)")&
+                              +(GEO!="Euro area - 12 countries (2001-2006)"))
+
+#Se selecciona todo lo relacionado con los Médicos  
+#por edad.
+medicos_p_paises_tot<-
+  filter(medicos_p_paises,AGE=="Total")
+
+
+medicos_p_paises_35<-
+  filter(medicos_p_paises,AGE=="Less than 35 years")
+
+
+medicos_p_paises_35_44<-
+  filter(medicos_p_paises,AGE=="From 35 to 44 years")
+
+
+medicos_p_paises_45_54<-
+  filter(medicos_p_paises,AGE=="From 45 to 54 years")
+
+
+medicos_p_paises_55_64<-
+  filter(medicos_p_paises,AGE=="From 55 to 64 years")
+
+
+
+#Personal de Enfermería, Matronas y Cuidados.
+#===========================================
+enfermeria_paises<-filter(enfermeria,(GEO!="European Union - 27 countries (from 2020)")&
+                              +(GEO!="European Union - 28 countries (2013-2020)")&
+                              +(GEO!="European Union - 27 countries (2007-2013)")&
+                              +(GEO!="European Union - 15 countries (1995-2004)")&
+                              +(GEO!="Euro area - 12 countries (2001-2006)")&
+                              +(GEO!="Euro area - 19 countries  (from 2015)")&
+                              +(GEO!="Euro area - 18 countries (2014)")&
+                              +(GEO!="Euro area - 12 countries (2001-2006)"))
+
+#Se selecciona todo lo relacionado con el personal de  
+#enfermería, con un status de "Profesionalmente activo",
+#Número de profesionales en Unidades y agrupación de personal
+#por: Enfermeros/as,Matronas,asistentes de salud y asistentes 
+#domiciliarios.
+enfermeria_paises_tot<-filter(enfermeria_paises,UNIT=="Number",
+                              WSTATUS=="Professionally active",
+ISCO08=="Nurses, midewives, health care assistants and home-based personal care workers")
+
+
+
+#Personal Sanitario (Excluyendo Enfermería)
+#===========================================
+personal_ne_paises<-filter(personal_ne,(GEO!="European Union - 27 countries (from 2020)")&
+                              +(GEO!="European Union - 28 countries (2013-2020)")&
+                              +(GEO!="European Union - 27 countries (2007-2013)")&
+                              +(GEO!="European Union - 15 countries (1995-2004)")&
+                              +(GEO!="Euro area - 12 countries (2001-2006)")&
+                              +(GEO!="Euro area - 19 countries  (from 2015)")&
+                              +(GEO!="Euro area - 18 countries (2014)")&
+                              +(GEO!="Euro area - 12 countries (2001-2006)"))
+
+
+#Se selecciona todo lo relacionado con los tipos
+#de personal sanitario excluyendo enfermería.
+personal_ne_paises_Medical_Doctors<-
+  filter(personal_ne_paises,ISCO08=="Medical doctors")
+
+
+personal_ne_paises_Dentists<-
+  filter(personal_ne_paises,ISCO08=="Dentists")
+
+
+personal_ne_paises_Pharmacists<-
+  filter(personal_ne_paises,ISCO08=="Pharmacists")
+
+
+personal_ne_paises_Physiotherapists<-
+  filter(personal_ne_paises,ISCO08=="Physiotherapists")
+
+
+```
+
+Se crea un Dataframe con toda la información:
+
+```{r}
+year<-(medicos_e_paises_gm$TIME)#Columna Year
+country<-(medicos_e_paises_gm$GEO)#Columna Paises
+
+
+#Dataframe con toda la información de los recursos Sanitarios 
+#en relación con el Personal(STAFF), Médicos y Resto
+medicos<-data.frame("TIME"=year,"Pais"=country,
+                     "Generalist_medical_practitioners"=
+                       medicos_e_paises_gm$Value,
+                     "Specialist_medical_practitioners"=
+                       medicos_e_paises_sm$Value,
+                     "General_paediatricians"=
+                       medicos_e_paises_gp$Value,
+                     "AGE_Total"=medicos_p_paises_tot$Value,
+                     "AGE_Less_35"=
+                       medicos_p_paises_35$Value,
+                     "AGE_35_44"=
+                       medicos_p_paises_35_44$Value,
+                     "AGE_45_54"=
+                       medicos_p_paises_45_54$Value,
+                     "AGE_55_64"=
+                       medicos_p_paises_55_64$Value)
+year_nm=enfermeria_paises_tot$TIME
+country_nm=enfermeria_paises_tot$GEO
+personal_sanitario_no_medicos=data.frame("TIME_nm"=year_nm,
+                                         "Country_nm"=country_nm,
+                    "Enfermeria_Matronas_Assitentes"=
+                       enfermeria_paises_tot$Value,
+                     "Dentistas"=
+                       personal_ne_paises_Dentists$Value,
+                     "Farmaceuticos"=
+                       personal_ne_paises_Pharmacists$Value,
+                     "Fisioterapeutas"=
+                       personal_ne_paises_Physiotherapists$Value)
+                       
+
+#Generamos los ficheros filtrados para utilizarlos en el siguiente análisis.
+write.csv(medicos, file="Medicos_Analisis.csv", row.names = FALSE)
+write.csv(personal_sanitario_no_medicos, 
+          file="PersonalSanitarioNoMedicos_Analisis.csv", row.names = FALSE)                      
+                       
+```
+
+Se reescalan los datos:
+
+```{r}
+medicos["Generalist_medical_practitioners_norm"]<-
+  rescale(medicos_e_paises_gm$Value, to=c(0,1))
+medicos["Specialist_medical_practitioners_norm"]<-
+  rescale(medicos_e_paises_sm$Value, to=c(0,1))
+medicos["General paediatricians_norm"]<-
+  rescale(medicos_e_paises_gp$Value, to=c(0,1))
+medicos["AGE_Total_norm"]<-
+  rescale(medicos_p_paises_tot$Value, to=c(0,1))
+medicos["AGE_Less_35_norm"]<-
+  rescale(medicos_p_paises_35$Value, to=c(0,1))
+medicos["AGE_35_44_norm"]<-
+  rescale(medicos_p_paises_35_44$Value, to=c(0,1))
+medicos["AGE_45_54_norm"]<-
+  rescale(medicos_p_paises_45_54$Value, to=c(0,1))
+medicos["AGE_55_64_norm"]<-
+  rescale(medicos_p_paises_55_64$Value, to=c(0,1))
+
+personal_sanitario_no_medicos["Enfermeria_Matronas_Assitentes_norm"]<-
+  rescale(enfermeria_paises_tot$Value, to=c(0,1))
+personal_sanitario_no_medicos["Dentistas_norm"]<-
+  rescale(personal_ne_paises_Dentists$Value, to=c(0,1))
+personal_sanitario_no_medicos["Farmaceuticos_norm"]<-
+  rescale(personal_ne_paises_Pharmacists$Value, to=c(0,1))
+personal_sanitario_no_medicos["Fisioterapeutas_norm"]<-
+  rescale(personal_ne_paises_Physiotherapists$Value, to=c(0,1))
+
+```
+
+  * **1.1.2 Visualización y Distribución de la variable "Value"**
+
+Se visualiza la variable "Value" en función de TIME, y País de los Recursos Sanitarios.
+
+```{r}
+#Recursos Sanitarios (Staff)_ Médicos
+#=============================================================================
+#Gráfica de barras del número de Medicos por Años con Especialidad "General"
+plot1=ggplot(data=medicos)+
+  geom_col(aes(x=TIME,y=Generalist_medical_practitioners))+
+  theme(axis.text.x = element_text(angle = 45))+
+  scale_y_continuous(limit=c(0,3000000))+
+  ggtitle("Generalist Medical \n y practitioners")+
+  theme (plot.title = element_text(size=rel(0.5), hjust = 0.5))
+
+#Gráfica de barras del número de Médicos por Años con Especialidad "Especial"  
+plot2=ggplot(data=medicos)+
+  geom_col(aes(x=TIME,y=Specialist_medical_practitioners))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,3000000))+
+  ggtitle("Specialist Medical \n y practitioners")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de barras del número de Pediatras por Años"  
+plot3=ggplot(data=medicos)+
+  geom_col(aes(x=TIME,y=General_paediatricians))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,3000000))+
+  ggtitle("General \n Paediatricians")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de barras del número de médicos por Edad y Años
+plot4=ggplot(data=medicos)+
+  geom_col(aes(x=TIME,y=AGE_Total))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,3000000))+
+  ggtitle("Medicos X \n Edad_Total")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))  
+
+#Gráfica de barras del número de médicos por Edad y Años (<35)
+plot5=ggplot(data=medicos)+
+  geom_col(aes(x=TIME,y=AGE_Less_35))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,3000000))+
+  ggtitle("Medicos X \n Edad<35")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))  
+
+#Gráfica de barras del número de médicos por Edad y Años (35-44)
+plot6=ggplot(data=medicos)+
+  geom_col(aes(x=TIME,y=AGE_35_44))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,3000000))+
+  ggtitle("Medicos X \n Edad 35_44")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))  
+
+#Gráfica de barras del número de médicos por Edad y Años (45-54)
+plot7=ggplot(data=medicos)+
+  geom_col(aes(x=TIME,y=AGE_45_54))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,3000000))+
+  ggtitle("Medicos X \n Edad 45_54")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))  
+
+#Gráfica de barras del número de médicos por Edad y Años (55-64)
+plot8=ggplot(data=medicos)+
+  geom_col(aes(x=TIME,y=AGE_55_64))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,3000000))+
+  ggtitle("Medicos X \n Edad 55_64")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))  
+
+#Gráfica de puntos del número de Medicos por Países con Especialidad "General"
+plot9=ggplot(data=medicos)+
+  geom_point(aes(x=Pais,y=Generalist_medical_practitioners))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,400000))+
+  ggtitle("Generalist Medical \n y practitioners")+
+  theme (plot.title = element_text(size=rel(0.5),hjust=0.5))
+
+#Gráfica de puntos del número de Médicos por Países con Especialidad "Especial" 
+plot10=ggplot(data=medicos)+
+  geom_point(aes(x=Pais,y=Specialist_medical_practitioners))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,400000))+
+  ggtitle("Specialist Medical \n y practitioners")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de Pediatras por Países"  
+plot11=ggplot(data=medicos)+
+  geom_point(aes(x=Pais,y=General_paediatricians))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,400000))+
+  ggtitle("General \n Paediatricians")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de médicos por Edad y Países
+plot12=ggplot(data=medicos)+
+  geom_point(aes(x=Pais,y=AGE_Total))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,400000))+
+  ggtitle("Medicos X \n Edad_Total")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de médicos por Edad(<35) y Países
+plot13=ggplot(data=medicos)+
+  geom_point(aes(x=Pais,y=AGE_Less_35))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,400000))+
+  ggtitle("Medicos X \n Edad<35")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de médicos por Edad(35-44) y Países
+plot14=ggplot(data=medicos)+
+  geom_point(aes(x=Pais,y=AGE_35_44))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,400000))+
+  ggtitle("Medicos X \n Edad 35_44")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de médicos por Edad(45-54) y Países
+plot15=ggplot(data=medicos)+
+  geom_point(aes(x=Pais,y=AGE_45_54))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,400000))+
+  ggtitle("Medicos X \n Edad 45_54")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos del número de médicos por Edad (55-64) y Países
+plot16=ggplot(data=medicos)+
+  geom_point(aes(x=Pais,y=AGE_55_64))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,400000))+
+  ggtitle("Medicos X \n Edad 55_64")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+
+
+grid.arrange(plot1,plot9,widths=c(1,3),  ncol=2)
+grid.arrange(plot2,plot10,widths=c(1,3), ncol=2)
+grid.arrange(plot3,plot11,widths=c(1,3), ncol=2)
+grid.arrange(plot4,plot12,widths=c(1,3), ncol=2)
+grid.arrange(plot5,plot13,widths=c(1,3), ncol=2)
+grid.arrange(plot6,plot14,widths=c(1,3), ncol=2)
+grid.arrange(plot7,plot15,widths=c(1,3), ncol=2)
+grid.arrange(plot8,plot16,widths=c(1,3), ncol=2)
+```
+
+
+Se grafica la información de la variable "Value" en función de TIME, y los
+recursos sanitarios en función de presonal sanitario excepto Médicos.
+
+
+```{r}
+#Recursos Sanitarios (Staff)_ Personal Sanitario_Excepto Médicos.
+#=============================================================================
+#Gráfica de barras de Personal de Enfermería por Años.
+plot17=ggplot(data=personal_sanitario_no_medicos)+
+  geom_col(aes(x=TIME_nm,y=Enfermeria_Matronas_Assitentes))+
+  theme(axis.text.x = element_text(angle = 45))+
+  scale_y_continuous(limit=c(0,24000000))+
+  ggtitle("Personal \n Enfermería")+
+  theme (plot.title = element_text(size=rel(0.5), hjust = 0.5))
+
+#Gráfica de barras del número de Dentistas por años.
+plot18=ggplot(data=personal_sanitario_no_medicos)+
+  geom_col(aes(x=TIME_nm,y=Dentistas))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,5000000))+
+  ggtitle("Dentistas")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de barras del número de Farmacéuticos por años.
+plot19=ggplot(data=personal_sanitario_no_medicos)+
+  geom_col(aes(x=TIME_nm,y=Farmaceuticos))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,5000000))+
+  ggtitle("Farmacéuticos")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+  
+#Gráfica de barras del número de Fisioterapuetas por años.
+plot20=ggplot(data=personal_sanitario_no_medicos)+
+  geom_col(aes(x=TIME_nm,y=Fisioterapeutas))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,5000000))+
+  ggtitle("Fisioterapeutas")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de puntos de Personal de Enfermería por Paises.
+plot21=ggplot(data=personal_sanitario_no_medicos)+
+  geom_point(aes(x=Country_nm,y=Enfermeria_Matronas_Assitentes))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,2000000))+
+  ggtitle("Personal \n Enfermería")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+#Gráfica de barras del número de Dentistas por años.
+plot22=ggplot(data=personal_sanitario_no_medicos)+
+  geom_point(aes(x=Country_nm,y=Dentistas))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,2000000))+
+  ggtitle("Dentistas")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+plot23=ggplot(data=personal_sanitario_no_medicos)+
+  geom_point(aes(x=Country_nm,y=Farmaceuticos))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,2000000))+
+  ggtitle("Farmaceuticos")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+plot24=ggplot(data=personal_sanitario_no_medicos)+
+  geom_point(aes(x=Country_nm,y=Fisioterapeutas))+
+  theme(axis.text.x = element_text(size= 5,angle = 30,vjust=1,hjust = 1))+
+  scale_y_continuous(limit=c(0,2000000))+
+  ggtitle("Fisioterapeutas")+
+  theme (plot.title = element_text(size=rel(0.5),hjust = 0.5))
+
+grid.arrange(plot17,plot21,widths=c(1,3), ncol=2)
+grid.arrange(plot18,plot22,widths=c(1,3), ncol=2)
+grid.arrange(plot19,plot23,widths=c(1,3), ncol=2)
+grid.arrange(plot20,plot24,widths=c(1,3), ncol=2)
+
+```
+
+Se obtienen los 5 países con mayor Recursos Sanitarios (Personal), por años y 
+en cómputo global.
+
+* **Generalist_medical_practitioners**
+
+```{r}
+#########################################
+#Para "Generalist_medical_practitioners"#
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(medicos, TIME==2010)
+y_2011<-filter(medicos, TIME==2011)
+y_2012<-filter(medicos, TIME==2012)
+y_2013<-filter(medicos, TIME==2013)
+y_2014<-filter(medicos, TIME==2014)
+y_2015<-filter(medicos, TIME==2015)
+y_2016<-filter(medicos, TIME==2016)
+y_2017<-filter(medicos, TIME==2017)
+y_2018<-filter(medicos, TIME==2018)
+y_2019<-filter(medicos, TIME==2019)
+
+#Se ordena por "Generalist_medical_practitioners"
+
+medicos_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Generalist_medical_practitioners)),]
+medicos_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Generalist_medical_practitioners)),]
+medicos_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Generalist_medical_practitioners)),]
+medicos_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Generalist_medical_practitioners)),]
+medicos_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Generalist_medical_practitioners)),]
+medicos_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Generalist_medical_practitioners)),]
+medicos_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Generalist_medical_practitioners)),]
+medicos_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Generalist_medical_practitioners)),]
+medicos_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Generalist_medical_practitioners)),]
+medicos_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Generalist_medical_practitioners)),]
+medicos_5paises_2019
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Staff=Medicos) de los 5 Paises con un valor más alto en 
+#Médicos de Medicina General.
+
+kable(medicos_5paises_2010[0:5,c(2,3)], col.names = c("País","Medicos G"), 
+      caption = "Países con mayor Número de Médicos en M.General en 2010")
+kable(medicos_5paises_2011[0:5,c(2,3)], col.names = c("País","Medicos G"), 
+      caption = "Países con mayor Número de Médicos en M.General en 2011")
+kable(medicos_5paises_2012[0:5,c(2,3)], col.names = c("País","Medicos G"), 
+      caption = "Países con mayor Número de Médicos en M.General en 2012")
+kable(medicos_5paises_2013[0:5,c(2,3)], col.names = c("País","Medicos G"), 
+      caption = "Países con mayor Número de Médicos en M.General en 2013")
+kable(medicos_5paises_2014[0:5,c(2,3)], col.names = c("País","Medicos G"), 
+      caption = "Países con mayor Número de Médicos en M.General en 2014")
+kable(medicos_5paises_2015[0:5,c(2,3)], col.names = c("País","Medicos G"), 
+      caption = "Países con mayor Número de Médicos en M.General en 2015")
+kable(medicos_5paises_2016[0:5,c(2,3)], col.names = c("País","Medicos G"), 
+      caption = "Países con mayor Número de Médicos en M.General en 2016")
+kable(medicos_5paises_2017[0:5,c(2,3)], col.names = c("País","Medicos G"), 
+      caption = "Países con mayor Número de Médicos en M.General en 2017")
+kable(medicos_5paises_2018[0:5,c(2,3)], col.names = c("País","Medicos G"), 
+      caption = "Países con mayor Número de Médicos en M.General en 2018")
+kable(medicos_5paises_2019[0:5,c(2,3)], col.names = c("País","Medicos G"), 
+      caption = "Países Países con la mayor media de Médicos en M.General en 2019")
+```
+
+A continuación, se aprupa toda la información (Médicos de Medicina General) por paises en una tabla:
+
+```{r}
+a1<-group_by(medicos,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y Generalist_medical_practitioners
+a2<-select(a1,Pais:Generalist_medical_practitioners)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Generalist_medical_practitioners)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","Generalist_medical_practitioners"), 
+      caption = "Países Países con la mayor media de Médicos en Medicina General en 2010-2019")
+```
+
+* **Specialist_medical_practitioners**
+
+```{r}
+#########################################
+#Para "Specialist_medical_practitioners"#
+#########################################
+
+
+#Se ordena por "Specialist_medical_practitioners"
+
+medicos_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Specialist_medical_practitioners)),]
+medicos_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Specialist_medical_practitioners)),]
+medicos_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Specialist_medical_practitioners)),]
+medicos_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Specialist_medical_practitioners)),]
+medicos_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Specialist_medical_practitioners)),]
+medicos_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Specialist_medical_practitioners)),]
+medicos_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Specialist_medical_practitioners)),]
+medicos_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Specialist_medical_practitioners)),]
+medicos_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Specialist_medical_practitioners)),]
+medicos_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Specialist_medical_practitioners)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Staff=Medicos) de los 5 Paises con un valor más alto en 
+#Médicos Especialistas.
+
+kable(medicos_5paises_2010[0:5,c(2,4)], col.names = c("País","Médicos S"), 
+      caption = "Países con mayor Número de Médicos Especialistas en 2010")
+kable(medicos_5paises_2011[0:5,c(2,4)], col.names = c("País","Médicos S"), 
+      caption = "Países con mayor Número de Médicos Especialistas en 2011")
+kable(medicos_5paises_2012[0:5,c(2,4)], col.names = c("País","Médicos S"), 
+      caption = "Países con mayor Número de Médicos Especialistas en 2012")
+kable(medicos_5paises_2013[0:5,c(2,4)], col.names = c("País","Médicos S"), 
+      caption = "Países con mayor Número de Médicos Especialistas en 2013")
+kable(medicos_5paises_2014[0:5,c(2,4)], col.names = c("País","Médicos S"), 
+      caption = "Países con mayor Número de Médicos Especialistas en 2014")
+kable(medicos_5paises_2015[0:5,c(2,4)], col.names = c("País","Médicos S"), 
+      caption = "Países con mayor Número de Médicos Especialistas en 2015")
+kable(medicos_5paises_2016[0:5,c(2,4)], col.names = c("País","Médicos S"), 
+      caption = "Países con mayor Número de Médicos Especialistas en 2016")
+kable(medicos_5paises_2017[0:5,c(2,4)], col.names = c("País","Médicos S"), 
+      caption = "Países con mayor Número de Médicos Especialistas en 2017")
+kable(medicos_5paises_2018[0:5,c(2,4)], col.names = c("País","Médicos S"), 
+      caption = "Países con mayor Número de Médicos Especialistas en 2018")
+kable(medicos_5paises_2019[0:5,c(2,4)], col.names = c("País","Médicos S"), 
+      caption = "Países con mayor Número de Médicos Especialistas en 2019")
+```
+
+A continuación, se aprupa toda la información (Médicos Especialistas) por países en una tabla:
+
+```{r}
+a1<-group_by(medicos,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y Specialist_medical_practitioners
+a2<-select(a1,Pais:Specialist_medical_practitioners)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Specialist_medical_practitioners)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","Specialist_medical_practitioners"), 
+      caption = "Países Países con la mayor media de Médicos Especialistas en 2010-2019")
+```
+
+* **General_paediatricians**
+
+```{r}
+#########################################
+#Para "General_paediatricians"#
+#########################################
+
+
+#Se ordena por "General_paediatricians"
+
+medicos_5paises_2010<-y_2010[with(y_2010, order(-y_2010$General_paediatricians)),]
+medicos_5paises_2011<-y_2011[with(y_2011, order(-y_2011$General_paediatricians)),]
+medicos_5paises_2012<-y_2012[with(y_2012, order(-y_2012$General_paediatricians)),]
+medicos_5paises_2013<-y_2013[with(y_2013, order(-y_2013$General_paediatricians)),]
+medicos_5paises_2014<-y_2014[with(y_2014, order(-y_2014$General_paediatricians)),]
+medicos_5paises_2015<-y_2015[with(y_2015, order(-y_2015$General_paediatricians)),]
+medicos_5paises_2016<-y_2016[with(y_2016, order(-y_2016$General_paediatricians)),]
+medicos_5paises_2017<-y_2017[with(y_2017, order(-y_2017$General_paediatricians)),]
+medicos_5paises_2018<-y_2018[with(y_2018, order(-y_2018$General_paediatricians)),]
+medicos_5paises_2019<-y_2019[with(y_2019, order(-y_2019$General_paediatricians)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Staff=Medicos) de los 5 Paises con un valor más alto en 
+#Pediatras.
+
+kable(medicos_5paises_2010[0:5,c(2,5)], col.names = c("País","Médicos P"), 
+      caption = "Países con mayor Número de Médicos Pediatras en 2010")
+kable(medicos_5paises_2011[0:5,c(2,5)], col.names = c("País","Médicos P"), 
+      caption = "Países con mayor Número de Médicos Pediatras en 2011")
+kable(medicos_5paises_2012[0:5,c(2,5)], col.names = c("País","Médicos P"), 
+      caption = "Países con mayor Número de Médicos Pediatras en 2012")
+kable(medicos_5paises_2013[0:5,c(2,5)], col.names = c("País","Médicos P"), 
+      caption = "Países con mayor Número de Médicos Pediatras en 2013")
+kable(medicos_5paises_2014[0:5,c(2,5)], col.names = c("País","Médicos P"), 
+      caption = "Países con mayor Número de Médicos Pediatras en 2014")
+kable(medicos_5paises_2015[0:5,c(2,5)], col.names = c("País","Médicos P"), 
+      caption = "Países con mayor Número de Médicos Pediatras en 2015")
+kable(medicos_5paises_2016[0:5,c(2,5)], col.names = c("País","Médicos P"), 
+      caption = "Países con mayor Número de Médicos Pediatras en 2016")
+kable(medicos_5paises_2017[0:5,c(2,5)], col.names = c("País","Médicos P"), 
+      caption = "Países con mayor Número de Médicos Pediatras en 2017")
+kable(medicos_5paises_2018[0:5,c(2,5)], col.names = c("País","Médicos P"), 
+      caption = "Países con mayor Número de Médicos Pediatras en 2018")
+kable(medicos_5paises_2019[0:5,c(2,3)], col.names = c("País","Médicos P"), 
+      caption = "Países con mayor Número de Médicos Pediatras en 2019")
+```
+
+A continuación, se aprupa toda la información (Médicos Pediatras) por países en una tabla:
+
+```{r}
+a1<-group_by(medicos,Pais)#Se agrupa por paises
+#Se selecciona las variables Pais y General_paediatricians
+a2<-select(a1,Pais:General_paediatricians)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(General_paediatricians)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","General_paediatricians"), 
+      caption = "Países Países con la mayor media de Médicos Pediatras en 2010-2019")
+```
+
+* **Personal de Enfermería**
+
+```{r}
+#########################################
+#Para "Enfermeria_Matronas_Assitentes"#
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(personal_sanitario_no_medicos, TIME_nm==2010)
+y_2011<-filter(personal_sanitario_no_medicos, TIME_nm==2011)
+y_2012<-filter(personal_sanitario_no_medicos, TIME_nm==2012)
+y_2013<-filter(personal_sanitario_no_medicos, TIME_nm==2013)
+y_2014<-filter(personal_sanitario_no_medicos, TIME_nm==2014)
+y_2015<-filter(personal_sanitario_no_medicos, TIME_nm==2015)
+y_2016<-filter(personal_sanitario_no_medicos, TIME_nm==2016)
+y_2017<-filter(personal_sanitario_no_medicos, TIME_nm==2017)
+y_2018<-filter(personal_sanitario_no_medicos, TIME_nm==2018)
+y_2019<-filter(personal_sanitario_no_medicos, TIME_nm==2019)
+
+#Se ordena por "Enfermeria_Matronas_Assitentes"
+
+staff_nm_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Enfermeria_Matronas_Assitentes)),]
+staff_nm_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Enfermeria_Matronas_Assitentes)),]
+staff_nm_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Enfermeria_Matronas_Assitentes)),]
+staff_nm_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Enfermeria_Matronas_Assitentes)),]
+staff_nm_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Enfermeria_Matronas_Assitentes)),]
+staff_nm_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Enfermeria_Matronas_Assitentes)),]
+staff_nm_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Enfermeria_Matronas_Assitentes)),]
+staff_nm_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Enfermeria_Matronas_Assitentes)),]
+staff_nm_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Enfermeria_Matronas_Assitentes)),]
+staff_nm_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Enfermeria_Matronas_Assitentes)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Staff=Personal Sanitario no Médicos: P de Enfermería) 
+#de los 5 Paises con un valor más alto.
+
+kable(staff_nm_5paises_2010[0:5,c(2,3)], col.names = c("País","P.Enfermeria"), 
+      caption = "Países con un mayor Personal en Enfermería en 2010")
+kable(staff_nm_5paises_2011[0:5,c(2,3)], col.names = c("País","P.Enfermeria"), 
+      caption = "Países con un mayor Personal en Enfermería en 2011")
+kable(staff_nm_5paises_2012[0:5,c(2,3)], col.names = c("País","P.Enfermeria"), 
+      caption = "Países con un mayor Personal en Enfermería en 2012")
+kable(staff_nm_5paises_2013[0:5,c(2,3)], col.names = c("País","P.Enfermeria"), 
+      caption = "Países con un mayor Personal en Enfermería en 2013")
+kable(staff_nm_5paises_2014[0:5,c(2,3)], col.names = c("País","P.Enfermeria"), 
+      caption = "Países con un mayor Personal en Enfermería en 2014")
+kable(staff_nm_5paises_2015[0:5,c(2,3)], col.names = c("País","P.Enfermeria"), 
+      caption = "Países con un mayor Personal en Enfermería en 2015")
+kable(staff_nm_5paises_2016[0:5,c(2,3)], col.names = c("País","P.Enfermeria"), 
+      caption = "Países con un mayor Personal en Enfermería en 2016")
+kable(staff_nm_5paises_2017[0:5,c(2,3)], col.names = c("País","P.Enfermeria"), 
+      caption = "Países con un mayor Personal en Enfermería en 2017")
+kable(staff_nm_5paises_2018[0:5,c(2,3)], col.names = c("País","P.Enfermeria"), 
+      caption = "Países con un mayor Personal en Enfermería en 2018")
+kable(staff_nm_5paises_2019[0:5,c(2,3)], col.names = c("País","P.Enfermeria"), 
+      caption = "Países con un mayor Personal en Enfermería en 2019")
+```
+
+A continuación, se aprupa toda la información (Personal de Enfermería) por países en una tabla:
+
+```{r}
+a1<-group_by(personal_sanitario_no_medicos,Country_nm)#Se agrupa por paises
+#Se selecciona las variables Pais y Enfermeria_Matronas_Assitentes
+a2<-select(a1,Country_nm:Enfermeria_Matronas_Assitentes)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Enfermeria_Matronas_Assitentes)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","Enfermeria_Matronas_Assitentes"), 
+      caption = "Países Países con la mayor media en Enfermería en 2010-2019")
+```
+
+
+* **Dentistas**
+
+```{r}
+#########################################
+#Para Dentistas                         #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(personal_sanitario_no_medicos, TIME_nm==2010)
+y_2011<-filter(personal_sanitario_no_medicos, TIME_nm==2011)
+y_2012<-filter(personal_sanitario_no_medicos, TIME_nm==2012)
+y_2013<-filter(personal_sanitario_no_medicos, TIME_nm==2013)
+y_2014<-filter(personal_sanitario_no_medicos, TIME_nm==2014)
+y_2015<-filter(personal_sanitario_no_medicos, TIME_nm==2015)
+y_2016<-filter(personal_sanitario_no_medicos, TIME_nm==2016)
+y_2017<-filter(personal_sanitario_no_medicos, TIME_nm==2017)
+y_2018<-filter(personal_sanitario_no_medicos, TIME_nm==2018)
+y_2019<-filter(personal_sanitario_no_medicos, TIME_nm==2019)
+
+#Se ordena por "Dentistas"
+
+staff_nm_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Dentistas)),]
+staff_nm_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Dentistas)),]
+staff_nm_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Dentistas)),]
+staff_nm_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Dentistas)),]
+staff_nm_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Dentistas)),]
+staff_nm_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Dentistas)),]
+staff_nm_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Dentistas)),]
+staff_nm_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Dentistas)),]
+staff_nm_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Dentistas)),]
+staff_nm_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Dentistas)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Staff=Personal Sanitario no Médicos: Dentistas) 
+#de los 5 Paises con un valor más alto.
+
+kable(staff_nm_5paises_2010[0:5,c(2,4)], col.names = c("País","Dentistas"), 
+      caption = "Países con un mayor Personal en Enfermería en 2010")
+kable(staff_nm_5paises_2011[0:5,c(2,4)], col.names = c("País","Dentistas"), 
+      caption = "Países con un mayor Personal en Enfermería en 2011")
+kable(staff_nm_5paises_2012[0:5,c(2,4)], col.names = c("País","Dentistas"), 
+      caption = "Países con un mayor Personal en Enfermería en 2012")
+kable(staff_nm_5paises_2013[0:5,c(2,4)], col.names = c("País","Dentistas"), 
+      caption = "Países con un mayor Personal en Enfermería en 2013")
+kable(staff_nm_5paises_2014[0:5,c(2,4)], col.names = c("País","Dentistas"), 
+      caption = "Países con un mayor Personal en Enfermería en 2014")
+kable(staff_nm_5paises_2015[0:5,c(2,4)], col.names = c("País","Dentistas"), 
+      caption = "Países con un mayor Personal en Enfermería en 2015")
+kable(staff_nm_5paises_2016[0:5,c(2,4)], col.names = c("País","Dentistas"), 
+      caption = "Países con un mayor Personal en Enfermería en 2016")
+kable(staff_nm_5paises_2017[0:5,c(2,4)], col.names = c("País","Dentistas"), 
+      caption = "Países con un mayor Personal en Enfermería en 2017")
+kable(staff_nm_5paises_2018[0:5,c(2,4)], col.names = c("País","Dentistas"), 
+      caption = "Países con un mayor Personal en Enfermería en 2018")
+kable(staff_nm_5paises_2019[0:5,c(2,4)], col.names = c("País","Dentistas"), 
+      caption = "Países con un mayor Personal en Enfermería en 2019")
+```
+
+A continuación, se aprupa toda la información (Dentistas) por países en una tabla:
+
+```{r}
+a1<-group_by(personal_sanitario_no_medicos,Country_nm)#Se agrupa por paises
+#Se selecciona las variables Pais y Dentistas
+a2<-select(a1,Country_nm:Dentistas)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Dentistas)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","Dentistas"), 
+      caption = "Países Países con la mayor media de Dentistas en 2010-2019")
+```
+
+* **Farmacéuticos**
+
+```{r}
+#########################################
+#Para "Farmacéuticos"#
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(personal_sanitario_no_medicos, TIME_nm==2010)
+y_2011<-filter(personal_sanitario_no_medicos, TIME_nm==2011)
+y_2012<-filter(personal_sanitario_no_medicos, TIME_nm==2012)
+y_2013<-filter(personal_sanitario_no_medicos, TIME_nm==2013)
+y_2014<-filter(personal_sanitario_no_medicos, TIME_nm==2014)
+y_2015<-filter(personal_sanitario_no_medicos, TIME_nm==2015)
+y_2016<-filter(personal_sanitario_no_medicos, TIME_nm==2016)
+y_2017<-filter(personal_sanitario_no_medicos, TIME_nm==2017)
+y_2018<-filter(personal_sanitario_no_medicos, TIME_nm==2018)
+y_2019<-filter(personal_sanitario_no_medicos, TIME_nm==2019)
+
+#Se ordena por "Farmaceuticos"
+
+staff_nm_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Farmaceuticos)),]
+staff_nm_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Farmaceuticos)),]
+staff_nm_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Farmaceuticos)),]
+staff_nm_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Farmaceuticos)),]
+staff_nm_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Farmaceuticos)),]
+staff_nm_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Farmaceuticos)),]
+staff_nm_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Farmaceuticos)),]
+staff_nm_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Farmaceuticos)),]
+staff_nm_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Farmaceuticos)),]
+staff_nm_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Farmaceuticos)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Staff=Personal Sanitario no Médicos: Farmaceuticos) 
+#de los 5 Paises con un valor más alto.
+
+kable(staff_nm_5paises_2010[0:5,c(2,5)], col.names = c("País","Farmaceuticos"), 
+      caption = "Países con un mayor número de Farmacéuticos en 2010")
+kable(staff_nm_5paises_2011[0:5,c(2,5)], col.names = c("País","Farmaceuticos"), 
+      caption = "Países con un mayor número de Farmacéuticos en 2011")
+kable(staff_nm_5paises_2012[0:5,c(2,5)], col.names = c("País","Farmaceuticos"), 
+      caption = "Países con un mayor número de Farmacéuticos en 2012")
+kable(staff_nm_5paises_2013[0:5,c(2,5)], col.names = c("País","Farmaceuticos"), 
+      caption = "Países con un mayor número de Farmacéuticos en 2013")
+kable(staff_nm_5paises_2014[0:5,c(2,5)], col.names = c("País","Farmaceuticos"), 
+      caption = "Países con un mayor número de Farmacéuticos en 2014")
+kable(staff_nm_5paises_2015[0:5,c(2,5)], col.names = c("País","Farmaceuticos"), 
+      caption = "Países con un mayor número de Farmacéuticos en 2015")
+kable(staff_nm_5paises_2016[0:5,c(2,5)], col.names = c("País","Farmaceuticos"), 
+      caption = "Países con un mayor número de Farmacéuticos en 2016")
+kable(staff_nm_5paises_2017[0:5,c(2,5)], col.names = c("País","Farmaceuticos"), 
+      caption = "Países con un mayor número de Farmacéuticos en 2017")
+kable(staff_nm_5paises_2018[0:5,c(2,5)], col.names = c("País","Farmaceuticos"), 
+      caption = "Países con un mayor número de Farmacéuticos en 2018")
+kable(staff_nm_5paises_2019[0:5,c(2,5)], col.names = c("País","Farmaceuticos"), 
+      caption = "Países con un mayor número de Farmacéuticos en 2019")
+```
+
+A continuación, se aprupa toda la información (Farmacéuticos) por países en una tabla:
+
+```{r}
+a1<-group_by(personal_sanitario_no_medicos,Country_nm)#Se agrupa por paises
+#Se selecciona las variables Pais y Farmaceuticos
+a2<-select(a1,Country_nm:Farmaceuticos)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Farmaceuticos)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","Farmaceuticos"), 
+      caption = "Países con la mayor media de Farmacéuticos en 2010-2019")
+```
+
+* **Fisioterapeutas**
+
+```{r}
+#########################################
+#Para "Fisioterapeutas"                 #
+#########################################
+
+#Se filtra por Año
+y_2010<-filter(personal_sanitario_no_medicos, TIME_nm==2010)
+y_2011<-filter(personal_sanitario_no_medicos, TIME_nm==2011)
+y_2012<-filter(personal_sanitario_no_medicos, TIME_nm==2012)
+y_2013<-filter(personal_sanitario_no_medicos, TIME_nm==2013)
+y_2014<-filter(personal_sanitario_no_medicos, TIME_nm==2014)
+y_2015<-filter(personal_sanitario_no_medicos, TIME_nm==2015)
+y_2016<-filter(personal_sanitario_no_medicos, TIME_nm==2016)
+y_2017<-filter(personal_sanitario_no_medicos, TIME_nm==2017)
+y_2018<-filter(personal_sanitario_no_medicos, TIME_nm==2018)
+y_2019<-filter(personal_sanitario_no_medicos, TIME_nm==2019)
+
+#Se ordena por "Fisioterapeutas"
+
+staff_nm_5paises_2010<-y_2010[with(y_2010, order(-y_2010$Fisioterapeutas)),]
+staff_nm_5paises_2011<-y_2011[with(y_2011, order(-y_2011$Fisioterapeutas)),]
+staff_nm_5paises_2012<-y_2012[with(y_2012, order(-y_2012$Fisioterapeutas)),]
+staff_nm_5paises_2013<-y_2013[with(y_2013, order(-y_2013$Fisioterapeutas)),]
+staff_nm_5paises_2014<-y_2014[with(y_2014, order(-y_2014$Fisioterapeutas)),]
+staff_nm_5paises_2015<-y_2015[with(y_2015, order(-y_2015$Fisioterapeutas)),]
+staff_nm_5paises_2016<-y_2016[with(y_2016, order(-y_2016$Fisioterapeutas)),]
+staff_nm_5paises_2017<-y_2017[with(y_2017, order(-y_2017$Fisioterapeutas)),]
+staff_nm_5paises_2018<-y_2018[with(y_2018, order(-y_2018$Fisioterapeutas)),]
+staff_nm_5paises_2019<-y_2019[with(y_2019, order(-y_2019$Fisioterapeutas)),]
+
+
+#Se crea una tabla para cada año sobre los Recursos Sanitarios 
+#(Staff=Personal Sanitario no Médicos: Fisioterapeutas) 
+#de los 5 Paises con un valor más alto.
+
+kable(staff_nm_5paises_2010[0:5,c(2,6)], col.names = c("País","Fisioterapeutas"), 
+      caption = "Países con un mayor número de Fisioterapeutas en 2010")
+kable(staff_nm_5paises_2011[0:5,c(2,6)], col.names = c("País","Fisioterapeutas"), 
+      caption = "Países con un mayor número de Fisioterapeutas en 2011")
+kable(staff_nm_5paises_2012[0:5,c(2,6)], col.names = c("País","Fisioterapeutas"), 
+      caption = "Países con un mayor número de Fisioterapeutas en 2012")
+kable(staff_nm_5paises_2013[0:5,c(2,6)], col.names = c("País","Fisioterapeutas"), 
+      caption = "Países con un mayor número de Fisioterapeutas en 2013")
+kable(staff_nm_5paises_2014[0:5,c(2,6)], col.names = c("País","Fisioterapeutas"), 
+      caption = "Países con un mayor número de Fisioterapeutas en 2014")
+kable(staff_nm_5paises_2015[0:5,c(2,6)], col.names = c("País","Fisioterapeutas"), 
+      caption = "Países con un mayor número de Fisioterapeutas en 2015")
+kable(staff_nm_5paises_2016[0:5,c(2,6)], col.names = c("País","Fisioterapeutas"), 
+      caption = "Países con un mayor número de Fisioterapeutas en 2016")
+kable(staff_nm_5paises_2017[0:5,c(2,6)], col.names = c("País","Fisioterapeutas"), 
+      caption = "Países con un mayor número de Fisioterapeutas en 2017")
+kable(staff_nm_5paises_2018[0:5,c(2,6)], col.names = c("País","Fisioterapeutas"), 
+      caption = "Países con un mayor número de Fisioterapeutas en 2018")
+kable(staff_nm_5paises_2019[0:5,c(2,6)], col.names = c("País","Fisioterapeutas"), 
+      caption = "Países con un mayor número de Fisioterapeutas en 2019")
+```
+
+A continuación, se aprupa toda la información (Fisioterapeutas) por países en una tabla:
+
+```{r}
+a1<-group_by(personal_sanitario_no_medicos,Country_nm)#Se agrupa por paises
+#Se selecciona las variables Pais y Fisioterapeutas
+a2<-select(a1,Country_nm:Fisioterapeutas)
+#Se muestra la información por cada país, con Value=suma de 
+#los valores de cada país en los 10 años.
+a3<-(summarize(a2,suma=sum(Fisioterapeutas)/10))
+a4<-data.frame(a3)#Se convierte la información en un dataframe.
+#Se ordena el DataFrame por la variable Suma de forma descendente.
+a5<-a4[with(a4,order(-a4$suma)),]
+
+#Se crea una tabla con toda la informacion
+kable(a5[0:5,c(1,2)], 
+      col.names = c("País","Fisioterapeutas"), 
+      caption = "Países con la mayor media de Fisioterapeutas en 2010-2019")
+```
+
+  * **1.1.3 Normalidad de la variable "Value"**
+  
+Se comprueba con métodos visuales si la variable tiene una distribución normal.
+
+**MÉDICOS EN MEDICINA GENERAL**
+     
+```{r}
+par(mfrow=c(1,2))
+plot(density(medicos$Generalist_medical_practitioners_norm) ,main="Density")
+qqnorm(medicos$Generalist_medical_practitioners_norm)
+qqline(medicos$Generalist_medical_practitioners_norm)
+
+
+```
+
+Para estudiar si una muestra proviene de una población con distribución normal, se disponen de tres herramientas:
+     
+  *  Histograma o Densidad
+  *  Gráficos cuantil cuantil (QQplot)
+  *  Pruebas de hipótesis.
+        
+Si en la prueba de Densidad se observa sesgo hacia uno de los lados de la gráfica, sería indicio de que la muestra no proviene de una población normal.Si por otra parte, sí se observa simetría, **NO** se garantiza que la muestra provenga de una población normal. En estos casos sería necesario utilizar otras herramientas como **QQplot y pruebas de hipótesis**.
+
+En la gráfica Densidad de la variable "Generalist_medical_practitioners_norm", se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico. Si se tuviese una muestra distribuída normalmente, se esperaría que los puntos del gráfico quantil quantil estuviesen perfectamente alineados con la línea de referencia, y observamos que para este caso, "Generalist_medical_practitioners_norm" no se alinea.
+Confirmaría los resultados del gráfico de densidad.
+
+Por otro lado, se realizan las pruebas de hipótesis:
+
+- $h_0: La muestra proviene de una población normal.
+- $h_1: La muestra NO proviene de una población normal.
+
+Se aplica la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(medicos$Generalist_medical_practitioners_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+    
+**MÉDICOS ESPECIALISTAS**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(medicos$Specialist_medical_practitioners_norm) ,main="Density")
+qqnorm(medicos$Specialist_medical_practitioners_norm)
+qqline(medicos$Specialist_medical_practitioners_norm)
+```
+
+En la gráfica Densidad de la variable "Specialist_medical_practitioners_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Specialist_medical_practitioners_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(medicos$Specialist_medical_practitioners_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+**PEDIATRAS**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(medicos$Specialist_medical_practitioners_norm) ,main="Density")
+qqnorm(medicos$Specialist_medical_practitioners_norm)
+qqline(medicos$Specialist_medical_practitioners_norm)
+```
+
+En la gráfica Densidad de la variable "Specialist_medical_practitioners_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Specialist_medical_practitioners_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(medicos$Specialist_medical_practitioners_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+
+**PERSONAL DE ENFERMERÍA**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(personal_sanitario_no_medicos$Enfermeria_Matronas_Assitentes_norm) ,main="Density")
+qqnorm(personal_sanitario_no_medicos$Enfermeria_Matronas_Assitentes_norm)
+qqline(personal_sanitario_no_medicos$Enfermeria_Matronas_Assitentes_norm)
+```
+
+En la gráfica Densidad de la variable "Enfermeria_Matronas_Assitentes_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Enfermeria_Matronas_Assitentes_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(personal_sanitario_no_medicos$Enfermeria_Matronas_Assitentes_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+**DENTISTAS**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(personal_sanitario_no_medicos$Dentistas_norm) ,main="Density")
+qqnorm(personal_sanitario_no_medicos$Dentistas_norm)
+qqline(personal_sanitario_no_medicos$Dentistas_norm)
+```
+
+En la gráfica Densidad de la variable "Dentistas_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Dentistas_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(personal_sanitario_no_medicos$Dentistas_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+
+**FARMACÉUTICOS**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(personal_sanitario_no_medicos$Farmaceuticos_norm) ,main="Density")
+qqnorm(personal_sanitario_no_medicos$Farmaceuticos_norm)
+qqline(personal_sanitario_no_medicos$Farmaceuticos_norm)
+```
+
+En la gráfica Densidad de la variable "Farmaceuticos_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Farmaceuticos_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(personal_sanitario_no_medicos$Farmaceuticos_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
+
+
+**FISIOTERAPEUTAS**
+
+
+```{r}
+par(mfrow=c(1,2))
+plot(density(personal_sanitario_no_medicos$Fisioterapeutas_norm) ,main="Density")
+qqnorm(personal_sanitario_no_medicos$Fisioterapeutas_norm)
+qqline(personal_sanitario_no_medicos$Fisioterapeutas_norm)
+```
+
+En la gráfica Densidad de la variable "Fisioterapeutas_norm" , se observa claramente sesgo hacia la izquierda, por lo que no se considera normalidad. Se puede confirmar observando la gráfica QQplot en la que la línea que grafica qqline sirve de referencia para interpretar el gráfico, no se alinea con los puntos de los valores de la variable "Fisioterapeutas_norm".
+ 
+Tras aplicar la prueba Shapiro-Wilk:
+
+```{r}
+shapiro.test(personal_sanitario_no_medicos$Fisioterapeutas_norm)
+```
+
+Se observa un p-value muy pequeño, mucho más pequeño que cualquier nivel de significación ($alpha$=0.5) por lo que se rechaza la hipótesis nula y asumimos **No normalidad** en la muestra.
