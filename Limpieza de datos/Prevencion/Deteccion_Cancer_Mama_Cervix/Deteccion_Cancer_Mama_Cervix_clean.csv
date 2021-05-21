@@ -1,0 +1,1441 @@
+"TIME","GEO","UNIT","SOURCE","ICD10","Value","Value_imp"
+2010,"Belgium","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2010,"Belgium","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2010,"Belgium","Percentage","Programme data","Malignant neoplasm of breast",61.8,FALSE
+2010,"Belgium","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.39,FALSE
+2010,"Bulgaria","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"Bulgaria","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Bulgaria","Percentage","Programme data","Malignant neoplasm of breast",20.55,TRUE
+2010,"Bulgaria","Percentage","Programme data","Malignant neoplasm of cervix uteri",13.35,TRUE
+2010,"Czechia","Percentage","Survey data","Malignant neoplasm of breast",75.4,TRUE
+2010,"Czechia","Percentage","Survey data","Malignant neoplasm of cervix uteri",76,TRUE
+2010,"Czechia","Percentage","Programme data","Malignant neoplasm of breast",49.5,FALSE
+2010,"Czechia","Percentage","Programme data","Malignant neoplasm of cervix uteri",74.72,TRUE
+2010,"Denmark","Percentage","Survey data","Malignant neoplasm of breast",75.4,TRUE
+2010,"Denmark","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Denmark","Percentage","Programme data","Malignant neoplasm of breast",77.4,FALSE
+2010,"Denmark","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.9,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2010,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of cervix uteri",76,TRUE
+2010,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of breast",53.7,FALSE
+2010,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.39,TRUE
+2010,"Estonia","Percentage","Survey data","Malignant neoplasm of breast",62,TRUE
+2010,"Estonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",57.7,TRUE
+2010,"Estonia","Percentage","Programme data","Malignant neoplasm of breast",62,FALSE
+2010,"Estonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",44,FALSE
+2010,"Ireland","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2010,"Ireland","Percentage","Survey data","Malignant neoplasm of cervix uteri",76,TRUE
+2010,"Ireland","Percentage","Programme data","Malignant neoplasm of breast",73.9,FALSE
+2010,"Ireland","Percentage","Programme data","Malignant neoplasm of cervix uteri",67.9,TRUE
+2010,"Greece","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"Greece","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.52,TRUE
+2010,"Greece","Percentage","Programme data","Malignant neoplasm of breast",61.8,TRUE
+2010,"Greece","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.39,TRUE
+2010,"Spain","Percentage","Survey data","Malignant neoplasm of breast",79.8,TRUE
+2010,"Spain","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.66,TRUE
+2010,"Spain","Percentage","Programme data","Malignant neoplasm of breast",61.8,TRUE
+2010,"Spain","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.39,TRUE
+2010,"France","Percentage","Survey data","Malignant neoplasm of breast",75.4,FALSE
+2010,"France","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,FALSE
+2010,"France","Percentage","Programme data","Malignant neoplasm of breast",52.7,FALSE
+2010,"France","Percentage","Programme data","Malignant neoplasm of cervix uteri",59,TRUE
+2010,"Croatia","Percentage","Survey data","Malignant neoplasm of breast",67.4,TRUE
+2010,"Croatia","Percentage","Survey data","Malignant neoplasm of cervix uteri",76,TRUE
+2010,"Croatia","Percentage","Programme data","Malignant neoplasm of breast",57,FALSE
+2010,"Croatia","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.39,TRUE
+2010,"Italy","Percentage","Survey data","Malignant neoplasm of breast",70,FALSE
+2010,"Italy","Percentage","Survey data","Malignant neoplasm of cervix uteri",76,FALSE
+2010,"Italy","Percentage","Programme data","Malignant neoplasm of breast",59.2,FALSE
+2010,"Italy","Percentage","Programme data","Malignant neoplasm of cervix uteri",40,FALSE
+2010,"Cyprus","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"Cyprus","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Cyprus","Percentage","Programme data","Malignant neoplasm of breast",31.28,TRUE
+2010,"Cyprus","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.39,TRUE
+2010,"Latvia","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"Latvia","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Latvia","Percentage","Programme data","Malignant neoplasm of breast",19.4,FALSE
+2010,"Latvia","Percentage","Programme data","Malignant neoplasm of cervix uteri",15.3,FALSE
+2010,"Lithuania","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"Lithuania","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Lithuania","Percentage","Programme data","Malignant neoplasm of breast",28.6,FALSE
+2010,"Lithuania","Percentage","Programme data","Malignant neoplasm of cervix uteri",43.2,FALSE
+2010,"Luxembourg","Percentage","Survey data","Malignant neoplasm of breast",75.4,TRUE
+2010,"Luxembourg","Percentage","Survey data","Malignant neoplasm of cervix uteri",76,TRUE
+2010,"Luxembourg","Percentage","Programme data","Malignant neoplasm of breast",62,FALSE
+2010,"Luxembourg","Percentage","Programme data","Malignant neoplasm of cervix uteri",67.75,TRUE
+2010,"Hungary","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"Hungary","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Hungary","Percentage","Programme data","Malignant neoplasm of breast",47.13,FALSE
+2010,"Hungary","Percentage","Programme data","Malignant neoplasm of cervix uteri",38.68,FALSE
+2010,"Malta","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"Malta","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Malta","Percentage","Programme data","Malignant neoplasm of breast",47.4,FALSE
+2010,"Malta","Percentage","Programme data","Malignant neoplasm of cervix uteri",24,TRUE
+2010,"Netherlands","Percentage","Survey data","Malignant neoplasm of breast",87.6,FALSE
+2010,"Netherlands","Percentage","Survey data","Malignant neoplasm of cervix uteri",65.7,FALSE
+2010,"Netherlands","Percentage","Programme data","Malignant neoplasm of breast",81.5,FALSE
+2010,"Netherlands","Percentage","Programme data","Malignant neoplasm of cervix uteri",65.5,FALSE
+2010,"Austria","Percentage","Survey data","Malignant neoplasm of breast",72.7,TRUE
+2010,"Austria","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Austria","Percentage","Programme data","Malignant neoplasm of breast",61.8,TRUE
+2010,"Austria","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.39,TRUE
+2010,"Poland","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"Poland","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.7,TRUE
+2010,"Poland","Percentage","Programme data","Malignant neoplasm of breast",61.8,TRUE
+2010,"Poland","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.39,TRUE
+2010,"Portugal","Percentage","Survey data","Malignant neoplasm of breast",75.4,TRUE
+2010,"Portugal","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Portugal","Percentage","Programme data","Malignant neoplasm of breast",61.8,TRUE
+2010,"Portugal","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.39,TRUE
+2010,"Romania","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"Romania","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Romania","Percentage","Programme data","Malignant neoplasm of breast",0.2,TRUE
+2010,"Romania","Percentage","Programme data","Malignant neoplasm of cervix uteri",2.3,TRUE
+2010,"Slovenia","Percentage","Survey data","Malignant neoplasm of breast",72.1,TRUE
+2010,"Slovenia","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Slovenia","Percentage","Programme data","Malignant neoplasm of breast",85.1,FALSE
+2010,"Slovenia","Percentage","Programme data","Malignant neoplasm of cervix uteri",71.4,FALSE
+2010,"Slovakia","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"Slovakia","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Slovakia","Percentage","Programme data","Malignant neoplasm of breast",32.66,FALSE
+2010,"Slovakia","Percentage","Programme data","Malignant neoplasm of cervix uteri",48.51,FALSE
+2010,"Finland","Percentage","Survey data","Malignant neoplasm of breast",75.4,TRUE
+2010,"Finland","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Finland","Percentage","Programme data","Malignant neoplasm of breast",84.8,FALSE
+2010,"Finland","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.7,FALSE
+2010,"Sweden","Percentage","Survey data","Malignant neoplasm of breast",75.4,TRUE
+2010,"Sweden","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Sweden","Percentage","Programme data","Malignant neoplasm of breast",61.8,TRUE
+2010,"Sweden","Percentage","Programme data","Malignant neoplasm of cervix uteri",80.1,FALSE
+2010,"Iceland","Percentage","Survey data","Malignant neoplasm of breast",75.4,TRUE
+2010,"Iceland","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Iceland","Percentage","Programme data","Malignant neoplasm of breast",59,FALSE
+2010,"Iceland","Percentage","Programme data","Malignant neoplasm of cervix uteri",65,FALSE
+2010,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of breast",30.5,FALSE
+2010,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of cervix uteri",30.54,TRUE
+2010,"Norway","Percentage","Survey data","Malignant neoplasm of breast",75.4,TRUE
+2010,"Norway","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Norway","Percentage","Programme data","Malignant neoplasm of breast",72.6,FALSE
+2010,"Norway","Percentage","Programme data","Malignant neoplasm of cervix uteri",76.7,FALSE
+2010,"Switzerland","Percentage","Survey data","Malignant neoplasm of breast",49,TRUE
+2010,"Switzerland","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.6,TRUE
+2010,"Switzerland","Percentage","Programme data","Malignant neoplasm of breast",61.8,TRUE
+2010,"Switzerland","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.39,TRUE
+2010,"United Kingdom","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"United Kingdom","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"United Kingdom","Percentage","Programme data","Malignant neoplasm of breast",76.95,FALSE
+2010,"United Kingdom","Percentage","Programme data","Malignant neoplasm of cervix uteri",78.91,FALSE
+2010,"Montenegro","Percentage","Survey data","Malignant neoplasm of breast",75.4,TRUE
+2010,"Montenegro","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Montenegro","Percentage","Programme data","Malignant neoplasm of breast",49.5,TRUE
+2010,"Montenegro","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.39,TRUE
+2010,"North Macedonia","Percentage","Survey data","Malignant neoplasm of breast",75.4,TRUE
+2010,"North Macedonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"North Macedonia","Percentage","Programme data","Malignant neoplasm of breast",61.8,TRUE
+2010,"North Macedonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",14.6,TRUE
+2010,"Serbia","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2010,"Serbia","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.13,TRUE
+2010,"Serbia","Percentage","Programme data","Malignant neoplasm of breast",7.6,TRUE
+2010,"Serbia","Percentage","Programme data","Malignant neoplasm of cervix uteri",6,TRUE
+2010,"Turkey","Percentage","Survey data","Malignant neoplasm of breast",28.1,TRUE
+2010,"Turkey","Percentage","Survey data","Malignant neoplasm of cervix uteri",26.3,TRUE
+2010,"Turkey","Percentage","Programme data","Malignant neoplasm of breast",30.82,TRUE
+2010,"Turkey","Percentage","Programme data","Malignant neoplasm of cervix uteri",36.79,FALSE
+2011,"Belgium","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2011,"Belgium","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2011,"Belgium","Percentage","Programme data","Malignant neoplasm of breast",62.7,FALSE
+2011,"Belgium","Percentage","Programme data","Malignant neoplasm of cervix uteri",61.6,FALSE
+2011,"Bulgaria","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"Bulgaria","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Bulgaria","Percentage","Programme data","Malignant neoplasm of breast",20.55,TRUE
+2011,"Bulgaria","Percentage","Programme data","Malignant neoplasm of cervix uteri",13.35,TRUE
+2011,"Czechia","Percentage","Survey data","Malignant neoplasm of breast",76.7,TRUE
+2011,"Czechia","Percentage","Survey data","Malignant neoplasm of cervix uteri",76.9,TRUE
+2011,"Czechia","Percentage","Programme data","Malignant neoplasm of breast",52.7,FALSE
+2011,"Czechia","Percentage","Programme data","Malignant neoplasm of cervix uteri",74.72,TRUE
+2011,"Denmark","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2011,"Denmark","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Denmark","Percentage","Programme data","Malignant neoplasm of breast",83,TRUE
+2011,"Denmark","Percentage","Programme data","Malignant neoplasm of cervix uteri",65.6,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2011,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of cervix uteri",76.9,TRUE
+2011,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of breast",55.9,FALSE
+2011,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of cervix uteri",61.6,TRUE
+2011,"Estonia","Percentage","Survey data","Malignant neoplasm of breast",51,TRUE
+2011,"Estonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",57.7,TRUE
+2011,"Estonia","Percentage","Programme data","Malignant neoplasm of breast",51,FALSE
+2011,"Estonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",53,FALSE
+2011,"Ireland","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2011,"Ireland","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Ireland","Percentage","Programme data","Malignant neoplasm of breast",74.5,FALSE
+2011,"Ireland","Percentage","Programme data","Malignant neoplasm of cervix uteri",60.9,FALSE
+2011,"Greece","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"Greece","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.52,TRUE
+2011,"Greece","Percentage","Programme data","Malignant neoplasm of breast",55.9,TRUE
+2011,"Greece","Percentage","Programme data","Malignant neoplasm of cervix uteri",61.6,TRUE
+2011,"Spain","Percentage","Survey data","Malignant neoplasm of breast",77.1,FALSE
+2011,"Spain","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,FALSE
+2011,"Spain","Percentage","Programme data","Malignant neoplasm of breast",55.9,TRUE
+2011,"Spain","Percentage","Programme data","Malignant neoplasm of cervix uteri",61.6,TRUE
+2011,"France","Percentage","Survey data","Malignant neoplasm of breast",75.4,TRUE
+2011,"France","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2011,"France","Percentage","Programme data","Malignant neoplasm of breast",53.5,FALSE
+2011,"France","Percentage","Programme data","Malignant neoplasm of cervix uteri",59,TRUE
+2011,"Croatia","Percentage","Survey data","Malignant neoplasm of breast",67.4,TRUE
+2011,"Croatia","Percentage","Survey data","Malignant neoplasm of cervix uteri",76.9,TRUE
+2011,"Croatia","Percentage","Programme data","Malignant neoplasm of breast",57,FALSE
+2011,"Croatia","Percentage","Programme data","Malignant neoplasm of cervix uteri",61.6,TRUE
+2011,"Italy","Percentage","Survey data","Malignant neoplasm of breast",70.1,FALSE
+2011,"Italy","Percentage","Survey data","Malignant neoplasm of cervix uteri",76.9,FALSE
+2011,"Italy","Percentage","Programme data","Malignant neoplasm of breast",59.6,FALSE
+2011,"Italy","Percentage","Programme data","Malignant neoplasm of cervix uteri",41.2,FALSE
+2011,"Cyprus","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"Cyprus","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Cyprus","Percentage","Programme data","Malignant neoplasm of breast",31.28,FALSE
+2011,"Cyprus","Percentage","Programme data","Malignant neoplasm of cervix uteri",61.6,TRUE
+2011,"Latvia","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"Latvia","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Latvia","Percentage","Programme data","Malignant neoplasm of breast",33.8,FALSE
+2011,"Latvia","Percentage","Programme data","Malignant neoplasm of cervix uteri",34.5,FALSE
+2011,"Lithuania","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"Lithuania","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Lithuania","Percentage","Programme data","Malignant neoplasm of breast",32.6,FALSE
+2011,"Lithuania","Percentage","Programme data","Malignant neoplasm of cervix uteri",42.7,FALSE
+2011,"Luxembourg","Percentage","Survey data","Malignant neoplasm of breast",77.1,TRUE
+2011,"Luxembourg","Percentage","Survey data","Malignant neoplasm of cervix uteri",76.9,TRUE
+2011,"Luxembourg","Percentage","Programme data","Malignant neoplasm of breast",55.9,FALSE
+2011,"Luxembourg","Percentage","Programme data","Malignant neoplasm of cervix uteri",67.75,TRUE
+2011,"Hungary","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"Hungary","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Hungary","Percentage","Programme data","Malignant neoplasm of breast",46.06,FALSE
+2011,"Hungary","Percentage","Programme data","Malignant neoplasm of cervix uteri",38.33,FALSE
+2011,"Malta","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"Malta","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Malta","Percentage","Programme data","Malignant neoplasm of breast",50.9,FALSE
+2011,"Malta","Percentage","Programme data","Malignant neoplasm of cervix uteri",24,TRUE
+2011,"Netherlands","Percentage","Survey data","Malignant neoplasm of breast",85.6,FALSE
+2011,"Netherlands","Percentage","Survey data","Malignant neoplasm of cervix uteri",64.8,FALSE
+2011,"Netherlands","Percentage","Programme data","Malignant neoplasm of breast",80.8,FALSE
+2011,"Netherlands","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.2,FALSE
+2011,"Austria","Percentage","Survey data","Malignant neoplasm of breast",72.7,TRUE
+2011,"Austria","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Austria","Percentage","Programme data","Malignant neoplasm of breast",55.9,TRUE
+2011,"Austria","Percentage","Programme data","Malignant neoplasm of cervix uteri",61.6,TRUE
+2011,"Poland","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"Poland","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.7,TRUE
+2011,"Poland","Percentage","Programme data","Malignant neoplasm of breast",55.9,TRUE
+2011,"Poland","Percentage","Programme data","Malignant neoplasm of cervix uteri",61.6,TRUE
+2011,"Portugal","Percentage","Survey data","Malignant neoplasm of breast",77.1,TRUE
+2011,"Portugal","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,TRUE
+2011,"Portugal","Percentage","Programme data","Malignant neoplasm of breast",55.9,TRUE
+2011,"Portugal","Percentage","Programme data","Malignant neoplasm of cervix uteri",61.6,TRUE
+2011,"Romania","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"Romania","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Romania","Percentage","Programme data","Malignant neoplasm of breast",0.2,TRUE
+2011,"Romania","Percentage","Programme data","Malignant neoplasm of cervix uteri",2.3,TRUE
+2011,"Slovenia","Percentage","Survey data","Malignant neoplasm of breast",72.1,TRUE
+2011,"Slovenia","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,TRUE
+2011,"Slovenia","Percentage","Programme data","Malignant neoplasm of breast",72.8,FALSE
+2011,"Slovenia","Percentage","Programme data","Malignant neoplasm of cervix uteri",71.5,FALSE
+2011,"Slovakia","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"Slovakia","Percentage","Survey data","Malignant neoplasm of cervix uteri",69,TRUE
+2011,"Slovakia","Percentage","Programme data","Malignant neoplasm of breast",31.06,FALSE
+2011,"Slovakia","Percentage","Programme data","Malignant neoplasm of cervix uteri",47.51,FALSE
+2011,"Finland","Percentage","Survey data","Malignant neoplasm of breast",77.1,TRUE
+2011,"Finland","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Finland","Percentage","Programme data","Malignant neoplasm of breast",84.8,FALSE
+2011,"Finland","Percentage","Programme data","Malignant neoplasm of cervix uteri",67.9,FALSE
+2011,"Sweden","Percentage","Survey data","Malignant neoplasm of breast",77.1,TRUE
+2011,"Sweden","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Sweden","Percentage","Programme data","Malignant neoplasm of breast",55.9,TRUE
+2011,"Sweden","Percentage","Programme data","Malignant neoplasm of cervix uteri",79.2,FALSE
+2011,"Iceland","Percentage","Survey data","Malignant neoplasm of breast",77.1,TRUE
+2011,"Iceland","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Iceland","Percentage","Programme data","Malignant neoplasm of breast",58,FALSE
+2011,"Iceland","Percentage","Programme data","Malignant neoplasm of cervix uteri",61,FALSE
+2011,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of breast",47.5,FALSE
+2011,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of cervix uteri",30.54,TRUE
+2011,"Norway","Percentage","Survey data","Malignant neoplasm of breast",77.1,TRUE
+2011,"Norway","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Norway","Percentage","Programme data","Malignant neoplasm of breast",74.6,FALSE
+2011,"Norway","Percentage","Programme data","Malignant neoplasm of cervix uteri",76.2,FALSE
+2011,"Switzerland","Percentage","Survey data","Malignant neoplasm of breast",49,TRUE
+2011,"Switzerland","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.6,TRUE
+2011,"Switzerland","Percentage","Programme data","Malignant neoplasm of breast",55.9,TRUE
+2011,"Switzerland","Percentage","Programme data","Malignant neoplasm of cervix uteri",61.6,TRUE
+2011,"United Kingdom","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"United Kingdom","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"United Kingdom","Percentage","Programme data","Malignant neoplasm of breast",77.2,FALSE
+2011,"United Kingdom","Percentage","Programme data","Malignant neoplasm of cervix uteri",78.65,FALSE
+2011,"Montenegro","Percentage","Survey data","Malignant neoplasm of breast",77.1,TRUE
+2011,"Montenegro","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Montenegro","Percentage","Programme data","Malignant neoplasm of breast",52.7,TRUE
+2011,"Montenegro","Percentage","Programme data","Malignant neoplasm of cervix uteri",61.6,TRUE
+2011,"North Macedonia","Percentage","Survey data","Malignant neoplasm of breast",77.1,TRUE
+2011,"North Macedonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"North Macedonia","Percentage","Programme data","Malignant neoplasm of breast",55.9,TRUE
+2011,"North Macedonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",14.6,TRUE
+2011,"Serbia","Percentage","Survey data","Malignant neoplasm of breast",70.1,TRUE
+2011,"Serbia","Percentage","Survey data","Malignant neoplasm of cervix uteri",67.7,TRUE
+2011,"Serbia","Percentage","Programme data","Malignant neoplasm of breast",7.6,TRUE
+2011,"Serbia","Percentage","Programme data","Malignant neoplasm of cervix uteri",6,TRUE
+2011,"Turkey","Percentage","Survey data","Malignant neoplasm of breast",28.1,TRUE
+2011,"Turkey","Percentage","Survey data","Malignant neoplasm of cervix uteri",26.3,TRUE
+2011,"Turkey","Percentage","Programme data","Malignant neoplasm of breast",30.82,TRUE
+2011,"Turkey","Percentage","Programme data","Malignant neoplasm of cervix uteri",41,FALSE
+2012,"Belgium","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2012,"Belgium","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2012,"Belgium","Percentage","Programme data","Malignant neoplasm of breast",62.7,FALSE
+2012,"Belgium","Percentage","Programme data","Malignant neoplasm of cervix uteri",59.71,FALSE
+2012,"Bulgaria","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2012,"Bulgaria","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Bulgaria","Percentage","Programme data","Malignant neoplasm of breast",20.55,TRUE
+2012,"Bulgaria","Percentage","Programme data","Malignant neoplasm of cervix uteri",13.35,TRUE
+2012,"Czechia","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2012,"Czechia","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Czechia","Percentage","Programme data","Malignant neoplasm of breast",54.9,FALSE
+2012,"Czechia","Percentage","Programme data","Malignant neoplasm of cervix uteri",73.49,FALSE
+2012,"Denmark","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2012,"Denmark","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Denmark","Percentage","Programme data","Malignant neoplasm of breast",83,FALSE
+2012,"Denmark","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.2,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of breast",71.3,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of breast",56.3,FALSE
+2012,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.2,TRUE
+2012,"Estonia","Percentage","Survey data","Malignant neoplasm of breast",52,TRUE
+2012,"Estonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",57.7,TRUE
+2012,"Estonia","Percentage","Programme data","Malignant neoplasm of breast",52,FALSE
+2012,"Estonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",50,FALSE
+2012,"Ireland","Percentage","Survey data","Malignant neoplasm of breast",71.4,TRUE
+2012,"Ireland","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Ireland","Percentage","Programme data","Malignant neoplasm of breast",71.4,FALSE
+2012,"Ireland","Percentage","Programme data","Malignant neoplasm of cervix uteri",67.9,FALSE
+2012,"Greece","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2012,"Greece","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.52,TRUE
+2012,"Greece","Percentage","Programme data","Malignant neoplasm of breast",62.7,TRUE
+2012,"Greece","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.2,TRUE
+2012,"Spain","Percentage","Survey data","Malignant neoplasm of breast",79.8,TRUE
+2012,"Spain","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.66,TRUE
+2012,"Spain","Percentage","Programme data","Malignant neoplasm of breast",62.7,TRUE
+2012,"Spain","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.2,TRUE
+2012,"France","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2012,"France","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,FALSE
+2012,"France","Percentage","Programme data","Malignant neoplasm of breast",53.3,FALSE
+2012,"France","Percentage","Programme data","Malignant neoplasm of cervix uteri",59,TRUE
+2012,"Croatia","Percentage","Survey data","Malignant neoplasm of breast",67.4,TRUE
+2012,"Croatia","Percentage","Survey data","Malignant neoplasm of cervix uteri",77,TRUE
+2012,"Croatia","Percentage","Programme data","Malignant neoplasm of breast",60,FALSE
+2012,"Croatia","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.2,TRUE
+2012,"Italy","Percentage","Survey data","Malignant neoplasm of breast",70,FALSE
+2012,"Italy","Percentage","Survey data","Malignant neoplasm of cervix uteri",77,FALSE
+2012,"Italy","Percentage","Programme data","Malignant neoplasm of breast",57.5,FALSE
+2012,"Italy","Percentage","Programme data","Malignant neoplasm of cervix uteri",41,FALSE
+2012,"Cyprus","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2012,"Cyprus","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Cyprus","Percentage","Programme data","Malignant neoplasm of breast",31.28,FALSE
+2012,"Cyprus","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.2,TRUE
+2012,"Latvia","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2012,"Latvia","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Latvia","Percentage","Programme data","Malignant neoplasm of breast",32.7,FALSE
+2012,"Latvia","Percentage","Programme data","Malignant neoplasm of cervix uteri",26.7,FALSE
+2012,"Lithuania","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2012,"Lithuania","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Lithuania","Percentage","Programme data","Malignant neoplasm of breast",37.5,FALSE
+2012,"Lithuania","Percentage","Programme data","Malignant neoplasm of cervix uteri",43.8,FALSE
+2012,"Luxembourg","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2012,"Luxembourg","Percentage","Survey data","Malignant neoplasm of cervix uteri",77,TRUE
+2012,"Luxembourg","Percentage","Programme data","Malignant neoplasm of breast",64.7,FALSE
+2012,"Luxembourg","Percentage","Programme data","Malignant neoplasm of cervix uteri",67.75,TRUE
+2012,"Hungary","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2012,"Hungary","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Hungary","Percentage","Programme data","Malignant neoplasm of breast",44.27,FALSE
+2012,"Hungary","Percentage","Programme data","Malignant neoplasm of cervix uteri",37.53,FALSE
+2012,"Malta","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2012,"Malta","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Malta","Percentage","Programme data","Malignant neoplasm of breast",53.5,FALSE
+2012,"Malta","Percentage","Programme data","Malignant neoplasm of cervix uteri",24,TRUE
+2012,"Netherlands","Percentage","Survey data","Malignant neoplasm of breast",87.3,FALSE
+2012,"Netherlands","Percentage","Survey data","Malignant neoplasm of cervix uteri",64.9,FALSE
+2012,"Netherlands","Percentage","Programme data","Malignant neoplasm of breast",80.3,FALSE
+2012,"Netherlands","Percentage","Programme data","Malignant neoplasm of cervix uteri",65.2,FALSE
+2012,"Austria","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2012,"Austria","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Austria","Percentage","Programme data","Malignant neoplasm of breast",62.7,TRUE
+2012,"Austria","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.2,TRUE
+2012,"Poland","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2012,"Poland","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Poland","Percentage","Programme data","Malignant neoplasm of breast",62.7,TRUE
+2012,"Poland","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.2,TRUE
+2012,"Portugal","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2012,"Portugal","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Portugal","Percentage","Programme data","Malignant neoplasm of breast",62.7,TRUE
+2012,"Portugal","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.2,TRUE
+2012,"Romania","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2012,"Romania","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Romania","Percentage","Programme data","Malignant neoplasm of breast",0.2,TRUE
+2012,"Romania","Percentage","Programme data","Malignant neoplasm of cervix uteri",1.2,FALSE
+2012,"Slovenia","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2012,"Slovenia","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Slovenia","Percentage","Programme data","Malignant neoplasm of breast",69.8,FALSE
+2012,"Slovenia","Percentage","Programme data","Malignant neoplasm of cervix uteri",71.3,FALSE
+2012,"Slovakia","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2012,"Slovakia","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Slovakia","Percentage","Programme data","Malignant neoplasm of breast",31.64,FALSE
+2012,"Slovakia","Percentage","Programme data","Malignant neoplasm of cervix uteri",47.45,FALSE
+2012,"Finland","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2012,"Finland","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Finland","Percentage","Programme data","Malignant neoplasm of breast",83,FALSE
+2012,"Finland","Percentage","Programme data","Malignant neoplasm of cervix uteri",67.4,FALSE
+2012,"Sweden","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2012,"Sweden","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Sweden","Percentage","Programme data","Malignant neoplasm of breast",62.7,TRUE
+2012,"Sweden","Percentage","Programme data","Malignant neoplasm of cervix uteri",79.7,FALSE
+2012,"Iceland","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2012,"Iceland","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Iceland","Percentage","Programme data","Malignant neoplasm of breast",59,FALSE
+2012,"Iceland","Percentage","Programme data","Malignant neoplasm of cervix uteri",64,FALSE
+2012,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of breast",37,FALSE
+2012,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of cervix uteri",50.3,FALSE
+2012,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of breast",30.5,TRUE
+2012,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of cervix uteri",30.54,TRUE
+2012,"Norway","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2012,"Norway","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Norway","Percentage","Programme data","Malignant neoplasm of breast",73.1,FALSE
+2012,"Norway","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.9,FALSE
+2012,"Switzerland","Percentage","Survey data","Malignant neoplasm of breast",47.4,FALSE
+2012,"Switzerland","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.6,FALSE
+2012,"Switzerland","Percentage","Programme data","Malignant neoplasm of breast",62.7,TRUE
+2012,"Switzerland","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.2,TRUE
+2012,"United Kingdom","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2012,"United Kingdom","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"United Kingdom","Percentage","Programme data","Malignant neoplasm of breast",76.73,FALSE
+2012,"United Kingdom","Percentage","Programme data","Malignant neoplasm of cervix uteri",78.67,FALSE
+2012,"Montenegro","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2012,"Montenegro","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Montenegro","Percentage","Programme data","Malignant neoplasm of breast",54.9,TRUE
+2012,"Montenegro","Percentage","Programme data","Malignant neoplasm of cervix uteri",59.71,TRUE
+2012,"North Macedonia","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2012,"North Macedonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"North Macedonia","Percentage","Programme data","Malignant neoplasm of breast",62.7,TRUE
+2012,"North Macedonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",14.6,TRUE
+2012,"Serbia","Percentage","Survey data","Malignant neoplasm of breast",70,TRUE
+2012,"Serbia","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2012,"Serbia","Percentage","Programme data","Malignant neoplasm of breast",7.6,TRUE
+2012,"Serbia","Percentage","Programme data","Malignant neoplasm of cervix uteri",6,TRUE
+2012,"Turkey","Percentage","Survey data","Malignant neoplasm of breast",28.1,TRUE
+2012,"Turkey","Percentage","Survey data","Malignant neoplasm of cervix uteri",26.3,TRUE
+2012,"Turkey","Percentage","Programme data","Malignant neoplasm of breast",30.82,TRUE
+2012,"Turkey","Percentage","Programme data","Malignant neoplasm of cervix uteri",40.01,FALSE
+2013,"Belgium","Percentage","Survey data","Malignant neoplasm of breast",75.5,FALSE
+2013,"Belgium","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,FALSE
+2013,"Belgium","Percentage","Programme data","Malignant neoplasm of breast",62.3,FALSE
+2013,"Belgium","Percentage","Programme data","Malignant neoplasm of cervix uteri",59.66,FALSE
+2013,"Bulgaria","Percentage","Survey data","Malignant neoplasm of breast",70.2,TRUE
+2013,"Bulgaria","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Bulgaria","Percentage","Programme data","Malignant neoplasm of breast",20.55,TRUE
+2013,"Bulgaria","Percentage","Programme data","Malignant neoplasm of cervix uteri",13.35,TRUE
+2013,"Czechia","Percentage","Survey data","Malignant neoplasm of breast",75.5,TRUE
+2013,"Czechia","Percentage","Survey data","Malignant neoplasm of cervix uteri",74.72,TRUE
+2013,"Czechia","Percentage","Programme data","Malignant neoplasm of breast",58,FALSE
+2013,"Czechia","Percentage","Programme data","Malignant neoplasm of cervix uteri",74.72,FALSE
+2013,"Denmark","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2013,"Denmark","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Denmark","Percentage","Programme data","Malignant neoplasm of breast",83,TRUE
+2013,"Denmark","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.2,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of breast",73.5,TRUE
+2013,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of cervix uteri",77,TRUE
+2013,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of breast",56.6,FALSE
+2013,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.2,TRUE
+2013,"Estonia","Percentage","Survey data","Malignant neoplasm of breast",53.4,TRUE
+2013,"Estonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",57.7,TRUE
+2013,"Estonia","Percentage","Programme data","Malignant neoplasm of breast",53.4,FALSE
+2013,"Estonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",49.2,FALSE
+2013,"Ireland","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2013,"Ireland","Percentage","Survey data","Malignant neoplasm of cervix uteri",74.7,TRUE
+2013,"Ireland","Percentage","Programme data","Malignant neoplasm of breast",70.2,FALSE
+2013,"Ireland","Percentage","Programme data","Malignant neoplasm of cervix uteri",74.7,FALSE
+2013,"Greece","Percentage","Survey data","Malignant neoplasm of breast",70.2,TRUE
+2013,"Greece","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.52,TRUE
+2013,"Greece","Percentage","Programme data","Malignant neoplasm of breast",58,TRUE
+2013,"Greece","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.2,TRUE
+2013,"Spain","Percentage","Survey data","Malignant neoplasm of breast",79.8,TRUE
+2013,"Spain","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.66,TRUE
+2013,"Spain","Percentage","Programme data","Malignant neoplasm of breast",58,TRUE
+2013,"Spain","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.2,TRUE
+2013,"France","Percentage","Survey data","Malignant neoplasm of breast",75.4,TRUE
+2013,"France","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2013,"France","Percentage","Programme data","Malignant neoplasm of breast",52.1,FALSE
+2013,"France","Percentage","Programme data","Malignant neoplasm of cervix uteri",59,TRUE
+2013,"Croatia","Percentage","Survey data","Malignant neoplasm of breast",67.4,TRUE
+2013,"Croatia","Percentage","Survey data","Malignant neoplasm of cervix uteri",77,TRUE
+2013,"Croatia","Percentage","Programme data","Malignant neoplasm of breast",60,FALSE
+2013,"Croatia","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.2,TRUE
+2013,"Italy","Percentage","Survey data","Malignant neoplasm of breast",70.2,FALSE
+2013,"Italy","Percentage","Survey data","Malignant neoplasm of cervix uteri",77,FALSE
+2013,"Italy","Percentage","Programme data","Malignant neoplasm of breast",62.2,FALSE
+2013,"Italy","Percentage","Programme data","Malignant neoplasm of cervix uteri",41.5,FALSE
+2013,"Cyprus","Percentage","Survey data","Malignant neoplasm of breast",70.2,TRUE
+2013,"Cyprus","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Cyprus","Percentage","Programme data","Malignant neoplasm of breast",31.72,FALSE
+2013,"Cyprus","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.2,TRUE
+2013,"Latvia","Percentage","Survey data","Malignant neoplasm of breast",70.2,TRUE
+2013,"Latvia","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Latvia","Percentage","Programme data","Malignant neoplasm of breast",34.2,FALSE
+2013,"Latvia","Percentage","Programme data","Malignant neoplasm of cervix uteri",27.4,FALSE
+2013,"Lithuania","Percentage","Survey data","Malignant neoplasm of breast",70.2,TRUE
+2013,"Lithuania","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Lithuania","Percentage","Programme data","Malignant neoplasm of breast",38.4,FALSE
+2013,"Lithuania","Percentage","Programme data","Malignant neoplasm of cervix uteri",45.6,FALSE
+2013,"Luxembourg","Percentage","Survey data","Malignant neoplasm of breast",75.5,TRUE
+2013,"Luxembourg","Percentage","Survey data","Malignant neoplasm of cervix uteri",77,TRUE
+2013,"Luxembourg","Percentage","Programme data","Malignant neoplasm of breast",56.6,FALSE
+2013,"Luxembourg","Percentage","Programme data","Malignant neoplasm of cervix uteri",50.8,FALSE
+2013,"Hungary","Percentage","Survey data","Malignant neoplasm of breast",70.2,TRUE
+2013,"Hungary","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Hungary","Percentage","Programme data","Malignant neoplasm of breast",43.19,FALSE
+2013,"Hungary","Percentage","Programme data","Malignant neoplasm of cervix uteri",36.6,FALSE
+2013,"Malta","Percentage","Survey data","Malignant neoplasm of breast",70.2,TRUE
+2013,"Malta","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Malta","Percentage","Programme data","Malignant neoplasm of breast",53.9,FALSE
+2013,"Malta","Percentage","Programme data","Malignant neoplasm of cervix uteri",24,TRUE
+2013,"Netherlands","Percentage","Survey data","Malignant neoplasm of breast",85.3,FALSE
+2013,"Netherlands","Percentage","Survey data","Malignant neoplasm of cervix uteri",65.1,FALSE
+2013,"Netherlands","Percentage","Programme data","Malignant neoplasm of breast",80.1,FALSE
+2013,"Netherlands","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.2,FALSE
+2013,"Austria","Percentage","Survey data","Malignant neoplasm of breast",72.7,TRUE
+2013,"Austria","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Austria","Percentage","Programme data","Malignant neoplasm of breast",58,TRUE
+2013,"Austria","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.2,TRUE
+2013,"Poland","Percentage","Survey data","Malignant neoplasm of breast",70.2,TRUE
+2013,"Poland","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.7,TRUE
+2013,"Poland","Percentage","Programme data","Malignant neoplasm of breast",58,TRUE
+2013,"Poland","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.2,TRUE
+2013,"Portugal","Percentage","Survey data","Malignant neoplasm of breast",75.5,TRUE
+2013,"Portugal","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,TRUE
+2013,"Portugal","Percentage","Programme data","Malignant neoplasm of breast",58,TRUE
+2013,"Portugal","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.2,TRUE
+2013,"Romania","Percentage","Survey data","Malignant neoplasm of breast",70.2,TRUE
+2013,"Romania","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Romania","Percentage","Programme data","Malignant neoplasm of breast",0.2,TRUE
+2013,"Romania","Percentage","Programme data","Malignant neoplasm of cervix uteri",4.1,FALSE
+2013,"Slovenia","Percentage","Survey data","Malignant neoplasm of breast",72.1,TRUE
+2013,"Slovenia","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,TRUE
+2013,"Slovenia","Percentage","Programme data","Malignant neoplasm of breast",82.6,FALSE
+2013,"Slovenia","Percentage","Programme data","Malignant neoplasm of cervix uteri",71.5,FALSE
+2013,"Slovakia","Percentage","Survey data","Malignant neoplasm of breast",70.2,TRUE
+2013,"Slovakia","Percentage","Survey data","Malignant neoplasm of cervix uteri",69,TRUE
+2013,"Slovakia","Percentage","Programme data","Malignant neoplasm of breast",30.54,FALSE
+2013,"Slovakia","Percentage","Programme data","Malignant neoplasm of cervix uteri",47.24,FALSE
+2013,"Finland","Percentage","Survey data","Malignant neoplasm of breast",75.5,TRUE
+2013,"Finland","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Finland","Percentage","Programme data","Malignant neoplasm of breast",82.5,FALSE
+2013,"Finland","Percentage","Programme data","Malignant neoplasm of cervix uteri",70.9,FALSE
+2013,"Sweden","Percentage","Survey data","Malignant neoplasm of breast",75.5,TRUE
+2013,"Sweden","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Sweden","Percentage","Programme data","Malignant neoplasm of breast",58,TRUE
+2013,"Sweden","Percentage","Programme data","Malignant neoplasm of cervix uteri",80.5,FALSE
+2013,"Iceland","Percentage","Survey data","Malignant neoplasm of breast",75.5,TRUE
+2013,"Iceland","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Iceland","Percentage","Programme data","Malignant neoplasm of breast",59,FALSE
+2013,"Iceland","Percentage","Programme data","Malignant neoplasm of cervix uteri",64,FALSE
+2013,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of breast",70.2,TRUE
+2013,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of breast",14.43,TRUE
+2013,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of cervix uteri",30.54,TRUE
+2013,"Norway","Percentage","Survey data","Malignant neoplasm of breast",75.5,TRUE
+2013,"Norway","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Norway","Percentage","Programme data","Malignant neoplasm of breast",74.7,FALSE
+2013,"Norway","Percentage","Programme data","Malignant neoplasm of cervix uteri",74.1,FALSE
+2013,"Switzerland","Percentage","Survey data","Malignant neoplasm of breast",49,TRUE
+2013,"Switzerland","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.6,TRUE
+2013,"Switzerland","Percentage","Programme data","Malignant neoplasm of breast",58,TRUE
+2013,"Switzerland","Percentage","Programme data","Malignant neoplasm of cervix uteri",66.2,TRUE
+2013,"United Kingdom","Percentage","Survey data","Malignant neoplasm of breast",70.2,TRUE
+2013,"United Kingdom","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"United Kingdom","Percentage","Programme data","Malignant neoplasm of breast",75.86,FALSE
+2013,"United Kingdom","Percentage","Programme data","Malignant neoplasm of cervix uteri",78.34,FALSE
+2013,"Montenegro","Percentage","Survey data","Malignant neoplasm of breast",75.5,TRUE
+2013,"Montenegro","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"Montenegro","Percentage","Programme data","Malignant neoplasm of breast",58,TRUE
+2013,"Montenegro","Percentage","Programme data","Malignant neoplasm of cervix uteri",59.66,TRUE
+2013,"North Macedonia","Percentage","Survey data","Malignant neoplasm of breast",75.5,TRUE
+2013,"North Macedonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.7,TRUE
+2013,"North Macedonia","Percentage","Programme data","Malignant neoplasm of breast",58,TRUE
+2013,"North Macedonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",14.6,TRUE
+2013,"Serbia","Percentage","Survey data","Malignant neoplasm of breast",22.7,FALSE
+2013,"Serbia","Percentage","Survey data","Malignant neoplasm of cervix uteri",59.7,FALSE
+2013,"Serbia","Percentage","Programme data","Malignant neoplasm of breast",3.3,FALSE
+2013,"Serbia","Percentage","Programme data","Malignant neoplasm of cervix uteri",2.4,FALSE
+2013,"Turkey","Percentage","Survey data","Malignant neoplasm of breast",28.1,TRUE
+2013,"Turkey","Percentage","Survey data","Malignant neoplasm of cervix uteri",26.3,TRUE
+2013,"Turkey","Percentage","Programme data","Malignant neoplasm of breast",30.17,FALSE
+2013,"Turkey","Percentage","Programme data","Malignant neoplasm of cervix uteri",41.19,FALSE
+2014,"Belgium","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2014,"Belgium","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2014,"Belgium","Percentage","Programme data","Malignant neoplasm of breast",61.9,FALSE
+2014,"Belgium","Percentage","Programme data","Malignant neoplasm of cervix uteri",54.15,FALSE
+2014,"Bulgaria","Percentage","Survey data","Malignant neoplasm of breast",31.8,FALSE
+2014,"Bulgaria","Percentage","Survey data","Malignant neoplasm of cervix uteri",52.2,FALSE
+2014,"Bulgaria","Percentage","Programme data","Malignant neoplasm of breast",20.55,TRUE
+2014,"Bulgaria","Percentage","Programme data","Malignant neoplasm of cervix uteri",13.35,TRUE
+2014,"Czechia","Percentage","Survey data","Malignant neoplasm of breast",76.7,FALSE
+2014,"Czechia","Percentage","Survey data","Malignant neoplasm of cervix uteri",87.2,FALSE
+2014,"Czechia","Percentage","Programme data","Malignant neoplasm of breast",60.8,FALSE
+2014,"Czechia","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.67,FALSE
+2014,"Denmark","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2014,"Denmark","Percentage","Survey data","Malignant neoplasm of cervix uteri",66,TRUE
+2014,"Denmark","Percentage","Programme data","Malignant neoplasm of breast",84.3,FALSE
+2014,"Denmark","Percentage","Programme data","Malignant neoplasm of cervix uteri",66,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of breast",73.5,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of cervix uteri",80.4,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of breast",54.3,FALSE
+2014,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of cervix uteri",66,TRUE
+2014,"Estonia","Percentage","Survey data","Malignant neoplasm of breast",39,FALSE
+2014,"Estonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",57.7,FALSE
+2014,"Estonia","Percentage","Programme data","Malignant neoplasm of breast",58,FALSE
+2014,"Estonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",50,FALSE
+2014,"Ireland","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2014,"Ireland","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2014,"Ireland","Percentage","Programme data","Malignant neoplasm of breast",76.5,FALSE
+2014,"Ireland","Percentage","Programme data","Malignant neoplasm of cervix uteri",77,FALSE
+2014,"Greece","Percentage","Survey data","Malignant neoplasm of breast",59.61,FALSE
+2014,"Greece","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.52,FALSE
+2014,"Greece","Percentage","Programme data","Malignant neoplasm of breast",61.9,TRUE
+2014,"Greece","Percentage","Programme data","Malignant neoplasm of cervix uteri",66,TRUE
+2014,"Spain","Percentage","Survey data","Malignant neoplasm of breast",79.8,FALSE
+2014,"Spain","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.66,FALSE
+2014,"Spain","Percentage","Programme data","Malignant neoplasm of breast",61.9,TRUE
+2014,"Spain","Percentage","Programme data","Malignant neoplasm of cervix uteri",66,TRUE
+2014,"France","Percentage","Survey data","Malignant neoplasm of breast",75,FALSE
+2014,"France","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.39,FALSE
+2014,"France","Percentage","Programme data","Malignant neoplasm of breast",52.5,FALSE
+2014,"France","Percentage","Programme data","Malignant neoplasm of cervix uteri",58.7,FALSE
+2014,"Croatia","Percentage","Survey data","Malignant neoplasm of breast",67.4,FALSE
+2014,"Croatia","Percentage","Survey data","Malignant neoplasm of cervix uteri",77.1,FALSE
+2014,"Croatia","Percentage","Programme data","Malignant neoplasm of breast",60,FALSE
+2014,"Croatia","Percentage","Programme data","Malignant neoplasm of cervix uteri",66,TRUE
+2014,"Italy","Percentage","Survey data","Malignant neoplasm of breast",71,FALSE
+2014,"Italy","Percentage","Survey data","Malignant neoplasm of cervix uteri",79,FALSE
+2014,"Italy","Percentage","Programme data","Malignant neoplasm of breast",57,FALSE
+2014,"Italy","Percentage","Programme data","Malignant neoplasm of cervix uteri",40.5,FALSE
+2014,"Cyprus","Percentage","Survey data","Malignant neoplasm of breast",65.7,FALSE
+2014,"Cyprus","Percentage","Survey data","Malignant neoplasm of cervix uteri",64.64,FALSE
+2014,"Cyprus","Percentage","Programme data","Malignant neoplasm of breast",33.64,FALSE
+2014,"Cyprus","Percentage","Programme data","Malignant neoplasm of cervix uteri",66,TRUE
+2014,"Latvia","Percentage","Survey data","Malignant neoplasm of breast",73.5,TRUE
+2014,"Latvia","Percentage","Survey data","Malignant neoplasm of cervix uteri",80.4,TRUE
+2014,"Latvia","Percentage","Programme data","Malignant neoplasm of breast",35.9,FALSE
+2014,"Latvia","Percentage","Programme data","Malignant neoplasm of cervix uteri",27.8,FALSE
+2014,"Lithuania","Percentage","Survey data","Malignant neoplasm of breast",46.5,FALSE
+2014,"Lithuania","Percentage","Survey data","Malignant neoplasm of cervix uteri",53,FALSE
+2014,"Lithuania","Percentage","Programme data","Malignant neoplasm of breast",40.8,FALSE
+2014,"Lithuania","Percentage","Programme data","Malignant neoplasm of cervix uteri",46.7,FALSE
+2014,"Luxembourg","Percentage","Survey data","Malignant neoplasm of breast",81.02,FALSE
+2014,"Luxembourg","Percentage","Survey data","Malignant neoplasm of cervix uteri",83.6,FALSE
+2014,"Luxembourg","Percentage","Programme data","Malignant neoplasm of breast",61,FALSE
+2014,"Luxembourg","Percentage","Programme data","Malignant neoplasm of cervix uteri",67.75,FALSE
+2014,"Hungary","Percentage","Survey data","Malignant neoplasm of breast",64.9,FALSE
+2014,"Hungary","Percentage","Survey data","Malignant neoplasm of cervix uteri",59.6,FALSE
+2014,"Hungary","Percentage","Programme data","Malignant neoplasm of breast",42.08,FALSE
+2014,"Hungary","Percentage","Programme data","Malignant neoplasm of cervix uteri",35.63,FALSE
+2014,"Malta","Percentage","Survey data","Malignant neoplasm of breast",68,FALSE
+2014,"Malta","Percentage","Survey data","Malignant neoplasm of cervix uteri",61.6,FALSE
+2014,"Malta","Percentage","Programme data","Malignant neoplasm of breast",55.9,FALSE
+2014,"Malta","Percentage","Programme data","Malignant neoplasm of cervix uteri",24,TRUE
+2014,"Netherlands","Percentage","Survey data","Malignant neoplasm of breast",79.8,FALSE
+2014,"Netherlands","Percentage","Survey data","Malignant neoplasm of cervix uteri",62.9,FALSE
+2014,"Netherlands","Percentage","Programme data","Malignant neoplasm of breast",79.4,FALSE
+2014,"Netherlands","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.6,FALSE
+2014,"Austria","Percentage","Survey data","Malignant neoplasm of breast",72.7,FALSE
+2014,"Austria","Percentage","Survey data","Malignant neoplasm of cervix uteri",80.4,TRUE
+2014,"Austria","Percentage","Programme data","Malignant neoplasm of breast",61.9,TRUE
+2014,"Austria","Percentage","Programme data","Malignant neoplasm of cervix uteri",66,TRUE
+2014,"Poland","Percentage","Survey data","Malignant neoplasm of breast",58.6,FALSE
+2014,"Poland","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.7,FALSE
+2014,"Poland","Percentage","Programme data","Malignant neoplasm of breast",61.9,TRUE
+2014,"Poland","Percentage","Programme data","Malignant neoplasm of cervix uteri",66,TRUE
+2014,"Portugal","Percentage","Survey data","Malignant neoplasm of breast",84.2,FALSE
+2014,"Portugal","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,FALSE
+2014,"Portugal","Percentage","Programme data","Malignant neoplasm of breast",61.9,TRUE
+2014,"Portugal","Percentage","Programme data","Malignant neoplasm of cervix uteri",66,TRUE
+2014,"Romania","Percentage","Survey data","Malignant neoplasm of breast",6.4,FALSE
+2014,"Romania","Percentage","Survey data","Malignant neoplasm of cervix uteri",25.9,FALSE
+2014,"Romania","Percentage","Programme data","Malignant neoplasm of breast",0.04,FALSE
+2014,"Romania","Percentage","Programme data","Malignant neoplasm of cervix uteri",2.3,FALSE
+2014,"Slovenia","Percentage","Survey data","Malignant neoplasm of breast",72.1,FALSE
+2014,"Slovenia","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,FALSE
+2014,"Slovenia","Percentage","Programme data","Malignant neoplasm of breast",78.5,FALSE
+2014,"Slovenia","Percentage","Programme data","Malignant neoplasm of cervix uteri",71.3,FALSE
+2014,"Slovakia","Percentage","Survey data","Malignant neoplasm of breast",54.1,FALSE
+2014,"Slovakia","Percentage","Survey data","Malignant neoplasm of cervix uteri",69,FALSE
+2014,"Slovakia","Percentage","Programme data","Malignant neoplasm of breast",30.05,FALSE
+2014,"Slovakia","Percentage","Programme data","Malignant neoplasm of cervix uteri",46.94,FALSE
+2014,"Finland","Percentage","Survey data","Malignant neoplasm of breast",73.5,TRUE
+2014,"Finland","Percentage","Survey data","Malignant neoplasm of cervix uteri",80.4,TRUE
+2014,"Finland","Percentage","Programme data","Malignant neoplasm of breast",82.8,FALSE
+2014,"Finland","Percentage","Programme data","Malignant neoplasm of cervix uteri",70.1,FALSE
+2014,"Sweden","Percentage","Survey data","Malignant neoplasm of breast",90.4,FALSE
+2014,"Sweden","Percentage","Survey data","Malignant neoplasm of cervix uteri",80.4,TRUE
+2014,"Sweden","Percentage","Programme data","Malignant neoplasm of breast",61.9,TRUE
+2014,"Sweden","Percentage","Programme data","Malignant neoplasm of cervix uteri",81.4,FALSE
+2014,"Iceland","Percentage","Survey data","Malignant neoplasm of breast",73.5,TRUE
+2014,"Iceland","Percentage","Survey data","Malignant neoplasm of cervix uteri",80.4,TRUE
+2014,"Iceland","Percentage","Programme data","Malignant neoplasm of breast",59,FALSE
+2014,"Iceland","Percentage","Programme data","Malignant neoplasm of cervix uteri",73,FALSE
+2014,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of breast",37,TRUE
+2014,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of cervix uteri",52.2,TRUE
+2014,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of breast",11.65,FALSE
+2014,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of cervix uteri",30.54,FALSE
+2014,"Norway","Percentage","Survey data","Malignant neoplasm of breast",73.5,TRUE
+2014,"Norway","Percentage","Survey data","Malignant neoplasm of cervix uteri",80.4,TRUE
+2014,"Norway","Percentage","Programme data","Malignant neoplasm of breast",74.9,FALSE
+2014,"Norway","Percentage","Programme data","Malignant neoplasm of cervix uteri",73.5,FALSE
+2014,"Switzerland","Percentage","Survey data","Malignant neoplasm of breast",47.4,TRUE
+2014,"Switzerland","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.6,TRUE
+2014,"Switzerland","Percentage","Programme data","Malignant neoplasm of breast",61.9,TRUE
+2014,"Switzerland","Percentage","Programme data","Malignant neoplasm of cervix uteri",66,TRUE
+2014,"United Kingdom","Percentage","Survey data","Malignant neoplasm of breast",57.9,FALSE
+2014,"United Kingdom","Percentage","Survey data","Malignant neoplasm of cervix uteri",62.8,FALSE
+2014,"United Kingdom","Percentage","Programme data","Malignant neoplasm of breast",75.32,FALSE
+2014,"United Kingdom","Percentage","Programme data","Malignant neoplasm of cervix uteri",77.78,FALSE
+2014,"Montenegro","Percentage","Survey data","Malignant neoplasm of breast",73.5,TRUE
+2014,"Montenegro","Percentage","Survey data","Malignant neoplasm of cervix uteri",80.4,TRUE
+2014,"Montenegro","Percentage","Programme data","Malignant neoplasm of breast",60.8,TRUE
+2014,"Montenegro","Percentage","Programme data","Malignant neoplasm of cervix uteri",54.15,TRUE
+2014,"North Macedonia","Percentage","Survey data","Malignant neoplasm of breast",73.5,TRUE
+2014,"North Macedonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",80.4,TRUE
+2014,"North Macedonia","Percentage","Programme data","Malignant neoplasm of breast",61.9,TRUE
+2014,"North Macedonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",17.4,FALSE
+2014,"Serbia","Percentage","Survey data","Malignant neoplasm of breast",31.8,TRUE
+2014,"Serbia","Percentage","Survey data","Malignant neoplasm of cervix uteri",59.7,TRUE
+2014,"Serbia","Percentage","Programme data","Malignant neoplasm of breast",7.6,FALSE
+2014,"Serbia","Percentage","Programme data","Malignant neoplasm of cervix uteri",6,FALSE
+2014,"Turkey","Percentage","Survey data","Malignant neoplasm of breast",24.7,FALSE
+2014,"Turkey","Percentage","Survey data","Malignant neoplasm of cervix uteri",23.4,FALSE
+2014,"Turkey","Percentage","Programme data","Malignant neoplasm of breast",30.82,FALSE
+2014,"Turkey","Percentage","Programme data","Malignant neoplasm of cervix uteri",42.29,FALSE
+2015,"Belgium","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2015,"Belgium","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2015,"Belgium","Percentage","Programme data","Malignant neoplasm of breast",61.6,FALSE
+2015,"Belgium","Percentage","Programme data","Malignant neoplasm of cervix uteri",51.38,FALSE
+2015,"Bulgaria","Percentage","Survey data","Malignant neoplasm of breast",31.8,TRUE
+2015,"Bulgaria","Percentage","Survey data","Malignant neoplasm of cervix uteri",52.2,TRUE
+2015,"Bulgaria","Percentage","Programme data","Malignant neoplasm of breast",13.7,FALSE
+2015,"Bulgaria","Percentage","Programme data","Malignant neoplasm of cervix uteri",8.6,FALSE
+2015,"Czechia","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2015,"Czechia","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Czechia","Percentage","Programme data","Malignant neoplasm of breast",61.5,FALSE
+2015,"Czechia","Percentage","Programme data","Malignant neoplasm of cervix uteri",76.22,FALSE
+2015,"Denmark","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2015,"Denmark","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Denmark","Percentage","Programme data","Malignant neoplasm of breast",83,TRUE
+2015,"Denmark","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.8,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2015,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of cervix uteri",79,TRUE
+2015,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of breast",51.6,FALSE
+2015,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of cervix uteri",51.38,TRUE
+2015,"Estonia","Percentage","Survey data","Malignant neoplasm of breast",50.8,TRUE
+2015,"Estonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",57.7,TRUE
+2015,"Estonia","Percentage","Programme data","Malignant neoplasm of breast",50.8,FALSE
+2015,"Estonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",45.9,FALSE
+2015,"Ireland","Percentage","Survey data","Malignant neoplasm of breast",74.9,FALSE
+2015,"Ireland","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,FALSE
+2015,"Ireland","Percentage","Programme data","Malignant neoplasm of breast",74.7,FALSE
+2015,"Ireland","Percentage","Programme data","Malignant neoplasm of cervix uteri",78.7,FALSE
+2015,"Greece","Percentage","Survey data","Malignant neoplasm of breast",72,TRUE
+2015,"Greece","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Greece","Percentage","Programme data","Malignant neoplasm of breast",61.5,TRUE
+2015,"Greece","Percentage","Programme data","Malignant neoplasm of cervix uteri",51.38,TRUE
+2015,"Spain","Percentage","Survey data","Malignant neoplasm of breast",79.8,TRUE
+2015,"Spain","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.66,TRUE
+2015,"Spain","Percentage","Programme data","Malignant neoplasm of breast",61.5,TRUE
+2015,"Spain","Percentage","Programme data","Malignant neoplasm of cervix uteri",51.38,TRUE
+2015,"France","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2015,"France","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2015,"France","Percentage","Programme data","Malignant neoplasm of breast",51.9,FALSE
+2015,"France","Percentage","Programme data","Malignant neoplasm of cervix uteri",59.1,FALSE
+2015,"Croatia","Percentage","Survey data","Malignant neoplasm of breast",67.4,TRUE
+2015,"Croatia","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Croatia","Percentage","Programme data","Malignant neoplasm of breast",60,FALSE
+2015,"Croatia","Percentage","Programme data","Malignant neoplasm of cervix uteri",51.38,TRUE
+2015,"Italy","Percentage","Survey data","Malignant neoplasm of breast",72,FALSE
+2015,"Italy","Percentage","Survey data","Malignant neoplasm of cervix uteri",79,FALSE
+2015,"Italy","Percentage","Programme data","Malignant neoplasm of breast",55,FALSE
+2015,"Italy","Percentage","Programme data","Malignant neoplasm of cervix uteri",39.8,FALSE
+2015,"Cyprus","Percentage","Survey data","Malignant neoplasm of breast",72,TRUE
+2015,"Cyprus","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Cyprus","Percentage","Programme data","Malignant neoplasm of breast",35.48,FALSE
+2015,"Cyprus","Percentage","Programme data","Malignant neoplasm of cervix uteri",51.38,TRUE
+2015,"Latvia","Percentage","Survey data","Malignant neoplasm of breast",72,TRUE
+2015,"Latvia","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Latvia","Percentage","Programme data","Malignant neoplasm of breast",34.9,FALSE
+2015,"Latvia","Percentage","Programme data","Malignant neoplasm of cervix uteri",25,FALSE
+2015,"Lithuania","Percentage","Survey data","Malignant neoplasm of breast",72,TRUE
+2015,"Lithuania","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Lithuania","Percentage","Programme data","Malignant neoplasm of breast",44.8,FALSE
+2015,"Lithuania","Percentage","Programme data","Malignant neoplasm of cervix uteri",47.7,FALSE
+2015,"Luxembourg","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2015,"Luxembourg","Percentage","Survey data","Malignant neoplasm of cervix uteri",79,TRUE
+2015,"Luxembourg","Percentage","Programme data","Malignant neoplasm of breast",58.6,FALSE
+2015,"Luxembourg","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.4,FALSE
+2015,"Hungary","Percentage","Survey data","Malignant neoplasm of breast",72,TRUE
+2015,"Hungary","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Hungary","Percentage","Programme data","Malignant neoplasm of breast",42.27,FALSE
+2015,"Hungary","Percentage","Programme data","Malignant neoplasm of cervix uteri",35.3,FALSE
+2015,"Malta","Percentage","Survey data","Malignant neoplasm of breast",72,TRUE
+2015,"Malta","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Malta","Percentage","Programme data","Malignant neoplasm of breast",60.6,FALSE
+2015,"Malta","Percentage","Programme data","Malignant neoplasm of cervix uteri",24,TRUE
+2015,"Netherlands","Percentage","Survey data","Malignant neoplasm of breast",79.6,FALSE
+2015,"Netherlands","Percentage","Survey data","Malignant neoplasm of cervix uteri",63.7,FALSE
+2015,"Netherlands","Percentage","Programme data","Malignant neoplasm of breast",78.2,FALSE
+2015,"Netherlands","Percentage","Programme data","Malignant neoplasm of cervix uteri",64.4,FALSE
+2015,"Austria","Percentage","Survey data","Malignant neoplasm of breast",72.7,TRUE
+2015,"Austria","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Austria","Percentage","Programme data","Malignant neoplasm of breast",61.5,TRUE
+2015,"Austria","Percentage","Programme data","Malignant neoplasm of cervix uteri",51.38,TRUE
+2015,"Poland","Percentage","Survey data","Malignant neoplasm of breast",72,TRUE
+2015,"Poland","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Poland","Percentage","Programme data","Malignant neoplasm of breast",61.5,TRUE
+2015,"Poland","Percentage","Programme data","Malignant neoplasm of cervix uteri",51.38,TRUE
+2015,"Portugal","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2015,"Portugal","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Portugal","Percentage","Programme data","Malignant neoplasm of breast",61.5,TRUE
+2015,"Portugal","Percentage","Programme data","Malignant neoplasm of cervix uteri",51.38,TRUE
+2015,"Romania","Percentage","Survey data","Malignant neoplasm of breast",72,TRUE
+2015,"Romania","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Romania","Percentage","Programme data","Malignant neoplasm of breast",0.2,FALSE
+2015,"Romania","Percentage","Programme data","Malignant neoplasm of cervix uteri",1.1,FALSE
+2015,"Slovenia","Percentage","Survey data","Malignant neoplasm of breast",72.1,TRUE
+2015,"Slovenia","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Slovenia","Percentage","Programme data","Malignant neoplasm of breast",81.4,FALSE
+2015,"Slovenia","Percentage","Programme data","Malignant neoplasm of cervix uteri",71.5,FALSE
+2015,"Slovakia","Percentage","Survey data","Malignant neoplasm of breast",72,TRUE
+2015,"Slovakia","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Slovakia","Percentage","Programme data","Malignant neoplasm of breast",30.41,FALSE
+2015,"Slovakia","Percentage","Programme data","Malignant neoplasm of cervix uteri",48.33,FALSE
+2015,"Finland","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2015,"Finland","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Finland","Percentage","Programme data","Malignant neoplasm of breast",82.7,FALSE
+2015,"Finland","Percentage","Programme data","Malignant neoplasm of cervix uteri",69.5,FALSE
+2015,"Sweden","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2015,"Sweden","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Sweden","Percentage","Programme data","Malignant neoplasm of breast",61.5,TRUE
+2015,"Sweden","Percentage","Programme data","Malignant neoplasm of cervix uteri",81.7,FALSE
+2015,"Iceland","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2015,"Iceland","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Iceland","Percentage","Programme data","Malignant neoplasm of breast",58,FALSE
+2015,"Iceland","Percentage","Programme data","Malignant neoplasm of cervix uteri",71,FALSE
+2015,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of breast",72,TRUE
+2015,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of breast",14.43,FALSE
+2015,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of cervix uteri",27.23,FALSE
+2015,"Norway","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2015,"Norway","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Norway","Percentage","Programme data","Malignant neoplasm of breast",75.3,FALSE
+2015,"Norway","Percentage","Programme data","Malignant neoplasm of cervix uteri",74.1,FALSE
+2015,"Switzerland","Percentage","Survey data","Malignant neoplasm of breast",49,TRUE
+2015,"Switzerland","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.5,TRUE
+2015,"Switzerland","Percentage","Programme data","Malignant neoplasm of breast",61.5,TRUE
+2015,"Switzerland","Percentage","Programme data","Malignant neoplasm of cervix uteri",51.38,TRUE
+2015,"United Kingdom","Percentage","Survey data","Malignant neoplasm of breast",72,TRUE
+2015,"United Kingdom","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"United Kingdom","Percentage","Programme data","Malignant neoplasm of breast",75.08,FALSE
+2015,"United Kingdom","Percentage","Programme data","Malignant neoplasm of cervix uteri",77.19,FALSE
+2015,"Montenegro","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2015,"Montenegro","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Montenegro","Percentage","Programme data","Malignant neoplasm of breast",27.4,TRUE
+2015,"Montenegro","Percentage","Programme data","Malignant neoplasm of cervix uteri",32.5,TRUE
+2015,"North Macedonia","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2015,"North Macedonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"North Macedonia","Percentage","Programme data","Malignant neoplasm of breast",61.5,TRUE
+2015,"North Macedonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",14.6,FALSE
+2015,"Serbia","Percentage","Survey data","Malignant neoplasm of breast",72,TRUE
+2015,"Serbia","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2015,"Serbia","Percentage","Programme data","Malignant neoplasm of breast",10,FALSE
+2015,"Serbia","Percentage","Programme data","Malignant neoplasm of cervix uteri",9.3,FALSE
+2015,"Turkey","Percentage","Survey data","Malignant neoplasm of breast",28.1,TRUE
+2015,"Turkey","Percentage","Survey data","Malignant neoplasm of cervix uteri",26.3,TRUE
+2015,"Turkey","Percentage","Programme data","Malignant neoplasm of breast",30.95,FALSE
+2015,"Turkey","Percentage","Programme data","Malignant neoplasm of cervix uteri",46.51,FALSE
+2016,"Belgium","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2016,"Belgium","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2016,"Belgium","Percentage","Programme data","Malignant neoplasm of breast",61.8,FALSE
+2016,"Belgium","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.31,FALSE
+2016,"Bulgaria","Percentage","Survey data","Malignant neoplasm of breast",31.8,TRUE
+2016,"Bulgaria","Percentage","Survey data","Malignant neoplasm of cervix uteri",52.2,TRUE
+2016,"Bulgaria","Percentage","Programme data","Malignant neoplasm of breast",21.2,FALSE
+2016,"Bulgaria","Percentage","Programme data","Malignant neoplasm of cervix uteri",34.4,FALSE
+2016,"Czechia","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Czechia","Percentage","Survey data","Malignant neoplasm of cervix uteri",80,TRUE
+2016,"Czechia","Percentage","Programme data","Malignant neoplasm of breast",61.4,FALSE
+2016,"Czechia","Percentage","Programme data","Malignant neoplasm of cervix uteri",76.23,FALSE
+2016,"Denmark","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2016,"Denmark","Percentage","Survey data","Malignant neoplasm of cervix uteri",63.5,TRUE
+2016,"Denmark","Percentage","Programme data","Malignant neoplasm of breast",82.1,FALSE
+2016,"Denmark","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.5,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2016,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of cervix uteri",80,TRUE
+2016,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of breast",51,FALSE
+2016,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.31,TRUE
+2016,"Estonia","Percentage","Survey data","Malignant neoplasm of breast",56.3,TRUE
+2016,"Estonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",57.7,TRUE
+2016,"Estonia","Percentage","Programme data","Malignant neoplasm of breast",56.3,FALSE
+2016,"Estonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",45.9,FALSE
+2016,"Ireland","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2016,"Ireland","Percentage","Survey data","Malignant neoplasm of cervix uteri",79.7,TRUE
+2016,"Ireland","Percentage","Programme data","Malignant neoplasm of breast",75.1,FALSE
+2016,"Ireland","Percentage","Programme data","Malignant neoplasm of cervix uteri",79.7,FALSE
+2016,"Greece","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Greece","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.52,TRUE
+2016,"Greece","Percentage","Programme data","Malignant neoplasm of breast",61.4,TRUE
+2016,"Greece","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.31,TRUE
+2016,"Spain","Percentage","Survey data","Malignant neoplasm of breast",79.8,TRUE
+2016,"Spain","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.66,TRUE
+2016,"Spain","Percentage","Programme data","Malignant neoplasm of breast",61.4,TRUE
+2016,"Spain","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.31,TRUE
+2016,"France","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2016,"France","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2016,"France","Percentage","Programme data","Malignant neoplasm of breast",50.7,FALSE
+2016,"France","Percentage","Programme data","Malignant neoplasm of cervix uteri",59,FALSE
+2016,"Croatia","Percentage","Survey data","Malignant neoplasm of breast",67.4,TRUE
+2016,"Croatia","Percentage","Survey data","Malignant neoplasm of cervix uteri",77.1,TRUE
+2016,"Croatia","Percentage","Programme data","Malignant neoplasm of breast",60,FALSE
+2016,"Croatia","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.31,TRUE
+2016,"Italy","Percentage","Survey data","Malignant neoplasm of breast",73,FALSE
+2016,"Italy","Percentage","Survey data","Malignant neoplasm of cervix uteri",80,FALSE
+2016,"Italy","Percentage","Programme data","Malignant neoplasm of breast",60,FALSE
+2016,"Italy","Percentage","Programme data","Malignant neoplasm of cervix uteri",40.9,FALSE
+2016,"Cyprus","Percentage","Survey data","Malignant neoplasm of breast",65.7,TRUE
+2016,"Cyprus","Percentage","Survey data","Malignant neoplasm of cervix uteri",64.64,TRUE
+2016,"Cyprus","Percentage","Programme data","Malignant neoplasm of breast",35.15,FALSE
+2016,"Cyprus","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.31,TRUE
+2016,"Latvia","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Latvia","Percentage","Survey data","Malignant neoplasm of cervix uteri",60.8,TRUE
+2016,"Latvia","Percentage","Programme data","Malignant neoplasm of breast",27.4,FALSE
+2016,"Latvia","Percentage","Programme data","Malignant neoplasm of cervix uteri",25.2,FALSE
+2016,"Lithuania","Percentage","Survey data","Malignant neoplasm of breast",46.5,TRUE
+2016,"Lithuania","Percentage","Survey data","Malignant neoplasm of cervix uteri",53,TRUE
+2016,"Lithuania","Percentage","Programme data","Malignant neoplasm of breast",46.2,FALSE
+2016,"Lithuania","Percentage","Programme data","Malignant neoplasm of cervix uteri",50.1,FALSE
+2016,"Luxembourg","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Luxembourg","Percentage","Survey data","Malignant neoplasm of cervix uteri",80,TRUE
+2016,"Luxembourg","Percentage","Programme data","Malignant neoplasm of breast",58.6,FALSE
+2016,"Luxembourg","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.96,FALSE
+2016,"Hungary","Percentage","Survey data","Malignant neoplasm of breast",64.9,TRUE
+2016,"Hungary","Percentage","Survey data","Malignant neoplasm of cervix uteri",59.6,TRUE
+2016,"Hungary","Percentage","Programme data","Malignant neoplasm of breast",41.98,FALSE
+2016,"Hungary","Percentage","Programme data","Malignant neoplasm of cervix uteri",35.06,FALSE
+2016,"Malta","Percentage","Survey data","Malignant neoplasm of breast",68,TRUE
+2016,"Malta","Percentage","Survey data","Malignant neoplasm of cervix uteri",61.6,TRUE
+2016,"Malta","Percentage","Programme data","Malignant neoplasm of breast",51.5,FALSE
+2016,"Malta","Percentage","Programme data","Malignant neoplasm of cervix uteri",18,FALSE
+2016,"Netherlands","Percentage","Survey data","Malignant neoplasm of breast",77.9,FALSE
+2016,"Netherlands","Percentage","Survey data","Malignant neoplasm of cervix uteri",60.8,FALSE
+2016,"Netherlands","Percentage","Programme data","Malignant neoplasm of breast",77.8,FALSE
+2016,"Netherlands","Percentage","Programme data","Malignant neoplasm of cervix uteri",60.3,FALSE
+2016,"Austria","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Austria","Percentage","Survey data","Malignant neoplasm of cervix uteri",60.8,TRUE
+2016,"Austria","Percentage","Programme data","Malignant neoplasm of breast",61.4,TRUE
+2016,"Austria","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.31,TRUE
+2016,"Poland","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Poland","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.7,TRUE
+2016,"Poland","Percentage","Programme data","Malignant neoplasm of breast",61.4,TRUE
+2016,"Poland","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.31,TRUE
+2016,"Portugal","Percentage","Survey data","Malignant neoplasm of breast",77.9,TRUE
+2016,"Portugal","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,TRUE
+2016,"Portugal","Percentage","Programme data","Malignant neoplasm of breast",61.4,TRUE
+2016,"Portugal","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.31,TRUE
+2016,"Romania","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Romania","Percentage","Survey data","Malignant neoplasm of cervix uteri",60.8,TRUE
+2016,"Romania","Percentage","Programme data","Malignant neoplasm of breast",0.2,TRUE
+2016,"Romania","Percentage","Programme data","Malignant neoplasm of cervix uteri",0.9,FALSE
+2016,"Slovenia","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Slovenia","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,TRUE
+2016,"Slovenia","Percentage","Programme data","Malignant neoplasm of breast",76.8,FALSE
+2016,"Slovenia","Percentage","Programme data","Malignant neoplasm of cervix uteri",71.9,FALSE
+2016,"Slovakia","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Slovakia","Percentage","Survey data","Malignant neoplasm of cervix uteri",69,TRUE
+2016,"Slovakia","Percentage","Programme data","Malignant neoplasm of breast",30.79,FALSE
+2016,"Slovakia","Percentage","Programme data","Malignant neoplasm of cervix uteri",46,FALSE
+2016,"Finland","Percentage","Survey data","Malignant neoplasm of breast",77.9,TRUE
+2016,"Finland","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.5,TRUE
+2016,"Finland","Percentage","Programme data","Malignant neoplasm of breast",82.6,FALSE
+2016,"Finland","Percentage","Programme data","Malignant neoplasm of cervix uteri",70.5,FALSE
+2016,"Sweden","Percentage","Survey data","Malignant neoplasm of breast",77.9,TRUE
+2016,"Sweden","Percentage","Survey data","Malignant neoplasm of cervix uteri",72.5,TRUE
+2016,"Sweden","Percentage","Programme data","Malignant neoplasm of breast",61.4,TRUE
+2016,"Sweden","Percentage","Programme data","Malignant neoplasm of cervix uteri",72.5,FALSE
+2016,"Iceland","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Iceland","Percentage","Survey data","Malignant neoplasm of cervix uteri",68,TRUE
+2016,"Iceland","Percentage","Programme data","Malignant neoplasm of breast",55,FALSE
+2016,"Iceland","Percentage","Programme data","Malignant neoplasm of cervix uteri",68,FALSE
+2016,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of cervix uteri",60.8,TRUE
+2016,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of breast",8.5,FALSE
+2016,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of cervix uteri",31.2,FALSE
+2016,"Norway","Percentage","Survey data","Malignant neoplasm of breast",74.8,TRUE
+2016,"Norway","Percentage","Survey data","Malignant neoplasm of cervix uteri",74.4,TRUE
+2016,"Norway","Percentage","Programme data","Malignant neoplasm of breast",74.8,FALSE
+2016,"Norway","Percentage","Programme data","Malignant neoplasm of cervix uteri",74.4,FALSE
+2016,"Switzerland","Percentage","Survey data","Malignant neoplasm of breast",49,TRUE
+2016,"Switzerland","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.5,TRUE
+2016,"Switzerland","Percentage","Programme data","Malignant neoplasm of breast",61.4,TRUE
+2016,"Switzerland","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.31,TRUE
+2016,"United Kingdom","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"United Kingdom","Percentage","Survey data","Malignant neoplasm of cervix uteri",62.8,TRUE
+2016,"United Kingdom","Percentage","Programme data","Malignant neoplasm of breast",75.38,FALSE
+2016,"United Kingdom","Percentage","Programme data","Malignant neoplasm of cervix uteri",76.51,FALSE
+2016,"Montenegro","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Montenegro","Percentage","Survey data","Malignant neoplasm of cervix uteri",60.8,TRUE
+2016,"Montenegro","Percentage","Programme data","Malignant neoplasm of breast",27.4,TRUE
+2016,"Montenegro","Percentage","Programme data","Malignant neoplasm of cervix uteri",34.4,TRUE
+2016,"North Macedonia","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"North Macedonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",60.8,TRUE
+2016,"North Macedonia","Percentage","Programme data","Malignant neoplasm of breast",61.4,TRUE
+2016,"North Macedonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",5.3,FALSE
+2016,"Serbia","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2016,"Serbia","Percentage","Survey data","Malignant neoplasm of cervix uteri",60.8,TRUE
+2016,"Serbia","Percentage","Programme data","Malignant neoplasm of breast",11.5,FALSE
+2016,"Serbia","Percentage","Programme data","Malignant neoplasm of cervix uteri",10.6,FALSE
+2016,"Turkey","Percentage","Survey data","Malignant neoplasm of breast",28.1,FALSE
+2016,"Turkey","Percentage","Survey data","Malignant neoplasm of cervix uteri",26.3,FALSE
+2016,"Turkey","Percentage","Programme data","Malignant neoplasm of breast",33.17,FALSE
+2016,"Turkey","Percentage","Programme data","Malignant neoplasm of cervix uteri",47.79,FALSE
+2017,"Belgium","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2017,"Belgium","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2017,"Belgium","Percentage","Programme data","Malignant neoplasm of breast",61,FALSE
+2017,"Belgium","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.75,FALSE
+2017,"Bulgaria","Percentage","Survey data","Malignant neoplasm of breast",31.8,TRUE
+2017,"Bulgaria","Percentage","Survey data","Malignant neoplasm of cervix uteri",52.2,TRUE
+2017,"Bulgaria","Percentage","Programme data","Malignant neoplasm of breast",20.55,FALSE
+2017,"Bulgaria","Percentage","Programme data","Malignant neoplasm of cervix uteri",13.35,FALSE
+2017,"Czechia","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Czechia","Percentage","Survey data","Malignant neoplasm of cervix uteri",76.04,TRUE
+2017,"Czechia","Percentage","Programme data","Malignant neoplasm of breast",62,FALSE
+2017,"Czechia","Percentage","Programme data","Malignant neoplasm of cervix uteri",76.04,FALSE
+2017,"Denmark","Percentage","Survey data","Malignant neoplasm of breast",75,FALSE
+2017,"Denmark","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Denmark","Percentage","Programme data","Malignant neoplasm of breast",83.2,TRUE
+2017,"Denmark","Percentage","Programme data","Malignant neoplasm of cervix uteri",62,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of breast",73.5,TRUE
+2017,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of cervix uteri",79,TRUE
+2017,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of breast",49.4,FALSE
+2017,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.75,TRUE
+2017,"Estonia","Percentage","Survey data","Malignant neoplasm of breast",55.9,TRUE
+2017,"Estonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",57.7,TRUE
+2017,"Estonia","Percentage","Programme data","Malignant neoplasm of breast",55.9,FALSE
+2017,"Estonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",50.7,FALSE
+2017,"Ireland","Percentage","Survey data","Malignant neoplasm of breast",74.9,TRUE
+2017,"Ireland","Percentage","Survey data","Malignant neoplasm of cervix uteri",78.02,TRUE
+2017,"Ireland","Percentage","Programme data","Malignant neoplasm of breast",73.8,FALSE
+2017,"Ireland","Percentage","Programme data","Malignant neoplasm of cervix uteri",80.2,FALSE
+2017,"Greece","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Greece","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.52,TRUE
+2017,"Greece","Percentage","Programme data","Malignant neoplasm of breast",61,TRUE
+2017,"Greece","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.75,TRUE
+2017,"Spain","Percentage","Survey data","Malignant neoplasm of breast",81.48,FALSE
+2017,"Spain","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,FALSE
+2017,"Spain","Percentage","Programme data","Malignant neoplasm of breast",61,TRUE
+2017,"Spain","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.75,TRUE
+2017,"France","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"France","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2017,"France","Percentage","Programme data","Malignant neoplasm of breast",49.7,FALSE
+2017,"France","Percentage","Programme data","Malignant neoplasm of cervix uteri",58.7,FALSE
+2017,"Croatia","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Croatia","Percentage","Survey data","Malignant neoplasm of cervix uteri",77.1,TRUE
+2017,"Croatia","Percentage","Programme data","Malignant neoplasm of breast",60,FALSE
+2017,"Croatia","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.75,TRUE
+2017,"Italy","Percentage","Survey data","Malignant neoplasm of breast",73,FALSE
+2017,"Italy","Percentage","Survey data","Malignant neoplasm of cervix uteri",79,FALSE
+2017,"Italy","Percentage","Programme data","Malignant neoplasm of breast",59.3,FALSE
+2017,"Italy","Percentage","Programme data","Malignant neoplasm of cervix uteri",40.5,FALSE
+2017,"Cyprus","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Cyprus","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Cyprus","Percentage","Programme data","Malignant neoplasm of breast",34.79,FALSE
+2017,"Cyprus","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.75,TRUE
+2017,"Latvia","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Latvia","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Latvia","Percentage","Programme data","Malignant neoplasm of breast",44,FALSE
+2017,"Latvia","Percentage","Programme data","Malignant neoplasm of cervix uteri",39,FALSE
+2017,"Lithuania","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Lithuania","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Lithuania","Percentage","Programme data","Malignant neoplasm of breast",48.3,FALSE
+2017,"Lithuania","Percentage","Programme data","Malignant neoplasm of cervix uteri",50.9,FALSE
+2017,"Luxembourg","Percentage","Survey data","Malignant neoplasm of breast",81.02,TRUE
+2017,"Luxembourg","Percentage","Survey data","Malignant neoplasm of cervix uteri",79,TRUE
+2017,"Luxembourg","Percentage","Programme data","Malignant neoplasm of breast",57.1,FALSE
+2017,"Luxembourg","Percentage","Programme data","Malignant neoplasm of cervix uteri",76.55,FALSE
+2017,"Hungary","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Hungary","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Hungary","Percentage","Programme data","Malignant neoplasm of breast",41.09,FALSE
+2017,"Hungary","Percentage","Programme data","Malignant neoplasm of cervix uteri",34.2,FALSE
+2017,"Malta","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Malta","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Malta","Percentage","Programme data","Malignant neoplasm of breast",50.5,FALSE
+2017,"Malta","Percentage","Programme data","Malignant neoplasm of cervix uteri",24,FALSE
+2017,"Netherlands","Percentage","Survey data","Malignant neoplasm of breast",79.3,FALSE
+2017,"Netherlands","Percentage","Survey data","Malignant neoplasm of cervix uteri",61.8,FALSE
+2017,"Netherlands","Percentage","Programme data","Malignant neoplasm of breast",77.2,FALSE
+2017,"Netherlands","Percentage","Programme data","Malignant neoplasm of cervix uteri",57,FALSE
+2017,"Austria","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Austria","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Austria","Percentage","Programme data","Malignant neoplasm of breast",61,TRUE
+2017,"Austria","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.75,TRUE
+2017,"Poland","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Poland","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.7,TRUE
+2017,"Poland","Percentage","Programme data","Malignant neoplasm of breast",61,TRUE
+2017,"Poland","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.75,TRUE
+2017,"Portugal","Percentage","Survey data","Malignant neoplasm of breast",81.48,TRUE
+2017,"Portugal","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,TRUE
+2017,"Portugal","Percentage","Programme data","Malignant neoplasm of breast",61,TRUE
+2017,"Portugal","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.75,TRUE
+2017,"Romania","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Romania","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Romania","Percentage","Programme data","Malignant neoplasm of breast",0.2,TRUE
+2017,"Romania","Percentage","Programme data","Malignant neoplasm of cervix uteri",0.9,FALSE
+2017,"Slovenia","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Slovenia","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,TRUE
+2017,"Slovenia","Percentage","Programme data","Malignant neoplasm of breast",70.5,FALSE
+2017,"Slovenia","Percentage","Programme data","Malignant neoplasm of cervix uteri",72,FALSE
+2017,"Slovakia","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Slovakia","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Slovakia","Percentage","Programme data","Malignant neoplasm of breast",30.7,FALSE
+2017,"Slovakia","Percentage","Programme data","Malignant neoplasm of cervix uteri",46.17,FALSE
+2017,"Finland","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Finland","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Finland","Percentage","Programme data","Malignant neoplasm of breast",81.9,FALSE
+2017,"Finland","Percentage","Programme data","Malignant neoplasm of cervix uteri",70.6,FALSE
+2017,"Sweden","Percentage","Survey data","Malignant neoplasm of breast",81.48,TRUE
+2017,"Sweden","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Sweden","Percentage","Programme data","Malignant neoplasm of breast",61,TRUE
+2017,"Sweden","Percentage","Programme data","Malignant neoplasm of cervix uteri",73.5,FALSE
+2017,"Iceland","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Iceland","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Iceland","Percentage","Programme data","Malignant neoplasm of breast",57,FALSE
+2017,"Iceland","Percentage","Programme data","Malignant neoplasm of cervix uteri",66,FALSE
+2017,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of breast",8.1,FALSE
+2017,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of cervix uteri",27.3,FALSE
+2017,"Norway","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Norway","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Norway","Percentage","Programme data","Malignant neoplasm of breast",75.5,FALSE
+2017,"Norway","Percentage","Programme data","Malignant neoplasm of cervix uteri",70,FALSE
+2017,"Switzerland","Percentage","Survey data","Malignant neoplasm of breast",49,FALSE
+2017,"Switzerland","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.5,FALSE
+2017,"Switzerland","Percentage","Programme data","Malignant neoplasm of breast",61,TRUE
+2017,"Switzerland","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.75,TRUE
+2017,"United Kingdom","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"United Kingdom","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"United Kingdom","Percentage","Programme data","Malignant neoplasm of breast",75.06,FALSE
+2017,"United Kingdom","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.4,FALSE
+2017,"Montenegro","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Montenegro","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Montenegro","Percentage","Programme data","Malignant neoplasm of breast",27.4,TRUE
+2017,"Montenegro","Percentage","Programme data","Malignant neoplasm of cervix uteri",32.5,TRUE
+2017,"North Macedonia","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"North Macedonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"North Macedonia","Percentage","Programme data","Malignant neoplasm of breast",61,TRUE
+2017,"North Macedonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",14.6,TRUE
+2017,"Serbia","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2017,"Serbia","Percentage","Survey data","Malignant neoplasm of cervix uteri",69.96,TRUE
+2017,"Serbia","Percentage","Programme data","Malignant neoplasm of breast",10.3,FALSE
+2017,"Serbia","Percentage","Programme data","Malignant neoplasm of cervix uteri",10.6,FALSE
+2017,"Turkey","Percentage","Survey data","Malignant neoplasm of breast",28.1,TRUE
+2017,"Turkey","Percentage","Survey data","Malignant neoplasm of cervix uteri",26.3,TRUE
+2017,"Turkey","Percentage","Programme data","Malignant neoplasm of breast",33.25,FALSE
+2017,"Turkey","Percentage","Programme data","Malignant neoplasm of cervix uteri",47.79,FALSE
+2018,"Belgium","Percentage","Survey data","Malignant neoplasm of breast",67.3,FALSE
+2018,"Belgium","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,FALSE
+2018,"Belgium","Percentage","Programme data","Malignant neoplasm of breast",61.6,TRUE
+2018,"Belgium","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.31,TRUE
+2018,"Bulgaria","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Bulgaria","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Bulgaria","Percentage","Programme data","Malignant neoplasm of breast",20.55,TRUE
+2018,"Bulgaria","Percentage","Programme data","Malignant neoplasm of cervix uteri",13.35,TRUE
+2018,"Czechia","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Czechia","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.77,TRUE
+2018,"Czechia","Percentage","Programme data","Malignant neoplasm of breast",60.9,FALSE
+2018,"Czechia","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.77,FALSE
+2018,"Denmark","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2018,"Denmark","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Denmark","Percentage","Programme data","Malignant neoplasm of breast",83.2,FALSE
+2018,"Denmark","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.5,TRUE
+2018,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2018,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of cervix uteri",79.7,TRUE
+2018,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of breast",51,TRUE
+2018,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.77,TRUE
+2018,"Estonia","Percentage","Survey data","Malignant neoplasm of breast",52.8,TRUE
+2018,"Estonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",57.7,TRUE
+2018,"Estonia","Percentage","Programme data","Malignant neoplasm of breast",52.8,FALSE
+2018,"Estonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",45.3,FALSE
+2018,"Ireland","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2018,"Ireland","Percentage","Survey data","Malignant neoplasm of cervix uteri",77.8,TRUE
+2018,"Ireland","Percentage","Programme data","Malignant neoplasm of breast",74.3,FALSE
+2018,"Ireland","Percentage","Programme data","Malignant neoplasm of cervix uteri",77.8,FALSE
+2018,"Greece","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Greece","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.52,TRUE
+2018,"Greece","Percentage","Programme data","Malignant neoplasm of breast",60.9,TRUE
+2018,"Greece","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.77,TRUE
+2018,"Spain","Percentage","Survey data","Malignant neoplasm of breast",79.8,TRUE
+2018,"Spain","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.66,TRUE
+2018,"Spain","Percentage","Programme data","Malignant neoplasm of breast",60.9,TRUE
+2018,"Spain","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.77,TRUE
+2018,"France","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2018,"France","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2018,"France","Percentage","Programme data","Malignant neoplasm of breast",50.2,FALSE
+2018,"France","Percentage","Programme data","Malignant neoplasm of cervix uteri",59,TRUE
+2018,"Croatia","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Croatia","Percentage","Survey data","Malignant neoplasm of cervix uteri",77.1,TRUE
+2018,"Croatia","Percentage","Programme data","Malignant neoplasm of breast",64,FALSE
+2018,"Croatia","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.77,TRUE
+2018,"Italy","Percentage","Survey data","Malignant neoplasm of breast",74.3,FALSE
+2018,"Italy","Percentage","Survey data","Malignant neoplasm of cervix uteri",79.7,FALSE
+2018,"Italy","Percentage","Programme data","Malignant neoplasm of breast",60.5,FALSE
+2018,"Italy","Percentage","Programme data","Malignant neoplasm of cervix uteri",39.6,FALSE
+2018,"Cyprus","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Cyprus","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Cyprus","Percentage","Programme data","Malignant neoplasm of breast",33.21,FALSE
+2018,"Cyprus","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.77,TRUE
+2018,"Latvia","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Latvia","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Latvia","Percentage","Programme data","Malignant neoplasm of breast",42.1,FALSE
+2018,"Latvia","Percentage","Programme data","Malignant neoplasm of cervix uteri",43.8,FALSE
+2018,"Lithuania","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Lithuania","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Lithuania","Percentage","Programme data","Malignant neoplasm of breast",50,FALSE
+2018,"Lithuania","Percentage","Programme data","Malignant neoplasm of cervix uteri",51,FALSE
+2018,"Luxembourg","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2018,"Luxembourg","Percentage","Survey data","Malignant neoplasm of cervix uteri",79.7,TRUE
+2018,"Luxembourg","Percentage","Programme data","Malignant neoplasm of breast",54.5,FALSE
+2018,"Luxembourg","Percentage","Programme data","Malignant neoplasm of cervix uteri",74.27,FALSE
+2018,"Hungary","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Hungary","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Hungary","Percentage","Programme data","Malignant neoplasm of breast",40.02,FALSE
+2018,"Hungary","Percentage","Programme data","Malignant neoplasm of cervix uteri",32.18,FALSE
+2018,"Malta","Percentage","Survey data","Malignant neoplasm of breast",68,TRUE
+2018,"Malta","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Malta","Percentage","Programme data","Malignant neoplasm of breast",61,FALSE
+2018,"Malta","Percentage","Programme data","Malignant neoplasm of cervix uteri",25,FALSE
+2018,"Netherlands","Percentage","Survey data","Malignant neoplasm of breast",79.8,FALSE
+2018,"Netherlands","Percentage","Survey data","Malignant neoplasm of cervix uteri",59.3,FALSE
+2018,"Netherlands","Percentage","Programme data","Malignant neoplasm of breast",77,FALSE
+2018,"Netherlands","Percentage","Programme data","Malignant neoplasm of cervix uteri",57.6,FALSE
+2018,"Austria","Percentage","Survey data","Malignant neoplasm of breast",72.7,TRUE
+2018,"Austria","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Austria","Percentage","Programme data","Malignant neoplasm of breast",60.9,TRUE
+2018,"Austria","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.77,TRUE
+2018,"Poland","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Poland","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.7,TRUE
+2018,"Poland","Percentage","Programme data","Malignant neoplasm of breast",60.9,TRUE
+2018,"Poland","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.77,TRUE
+2018,"Portugal","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2018,"Portugal","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,TRUE
+2018,"Portugal","Percentage","Programme data","Malignant neoplasm of breast",60.9,TRUE
+2018,"Portugal","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.77,TRUE
+2018,"Romania","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Romania","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Romania","Percentage","Programme data","Malignant neoplasm of breast",0.2,TRUE
+2018,"Romania","Percentage","Programme data","Malignant neoplasm of cervix uteri",0.8,FALSE
+2018,"Slovenia","Percentage","Survey data","Malignant neoplasm of breast",72.1,TRUE
+2018,"Slovenia","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,TRUE
+2018,"Slovenia","Percentage","Programme data","Malignant neoplasm of breast",74.3,FALSE
+2018,"Slovenia","Percentage","Programme data","Malignant neoplasm of cervix uteri",72,FALSE
+2018,"Slovakia","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Slovakia","Percentage","Survey data","Malignant neoplasm of cervix uteri",69,TRUE
+2018,"Slovakia","Percentage","Programme data","Malignant neoplasm of breast",30.44,FALSE
+2018,"Slovakia","Percentage","Programme data","Malignant neoplasm of cervix uteri",45.62,FALSE
+2018,"Finland","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2018,"Finland","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Finland","Percentage","Programme data","Malignant neoplasm of breast",83.6,FALSE
+2018,"Finland","Percentage","Programme data","Malignant neoplasm of cervix uteri",71.4,FALSE
+2018,"Sweden","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2018,"Sweden","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Sweden","Percentage","Programme data","Malignant neoplasm of breast",60.9,TRUE
+2018,"Sweden","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.9,FALSE
+2018,"Iceland","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2018,"Iceland","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Iceland","Percentage","Programme data","Malignant neoplasm of breast",57,FALSE
+2018,"Iceland","Percentage","Programme data","Malignant neoplasm of cervix uteri",66,FALSE
+2018,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of breast",5.3,FALSE
+2018,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of cervix uteri",17.8,FALSE
+2018,"Norway","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2018,"Norway","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Norway","Percentage","Programme data","Malignant neoplasm of breast",74.5,FALSE
+2018,"Norway","Percentage","Programme data","Malignant neoplasm of cervix uteri",76.3,FALSE
+2018,"Switzerland","Percentage","Survey data","Malignant neoplasm of breast",49,TRUE
+2018,"Switzerland","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.6,TRUE
+2018,"Switzerland","Percentage","Programme data","Malignant neoplasm of breast",60.9,TRUE
+2018,"Switzerland","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.77,TRUE
+2018,"United Kingdom","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"United Kingdom","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"United Kingdom","Percentage","Programme data","Malignant neoplasm of breast",75.21,FALSE
+2018,"United Kingdom","Percentage","Programme data","Malignant neoplasm of cervix uteri",74.81,FALSE
+2018,"Montenegro","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2018,"Montenegro","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Montenegro","Percentage","Programme data","Malignant neoplasm of breast",27.4,FALSE
+2018,"Montenegro","Percentage","Programme data","Malignant neoplasm of cervix uteri",32.5,FALSE
+2018,"North Macedonia","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2018,"North Macedonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"North Macedonia","Percentage","Programme data","Malignant neoplasm of breast",60.9,TRUE
+2018,"North Macedonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",14.6,TRUE
+2018,"Serbia","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2018,"Serbia","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2018,"Serbia","Percentage","Programme data","Malignant neoplasm of breast",9,FALSE
+2018,"Serbia","Percentage","Programme data","Malignant neoplasm of cervix uteri",10.7,FALSE
+2018,"Turkey","Percentage","Survey data","Malignant neoplasm of breast",28.1,TRUE
+2018,"Turkey","Percentage","Survey data","Malignant neoplasm of cervix uteri",26.3,TRUE
+2018,"Turkey","Percentage","Programme data","Malignant neoplasm of breast",34.8,FALSE
+2018,"Turkey","Percentage","Programme data","Malignant neoplasm of cervix uteri",46.96,FALSE
+2019,"Belgium","Percentage","Survey data","Malignant neoplasm of breast",68.1,TRUE
+2019,"Belgium","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Belgium","Percentage","Programme data","Malignant neoplasm of breast",61.6,TRUE
+2019,"Belgium","Percentage","Programme data","Malignant neoplasm of cervix uteri",53.31,TRUE
+2019,"Bulgaria","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Bulgaria","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Bulgaria","Percentage","Programme data","Malignant neoplasm of breast",20.55,TRUE
+2019,"Bulgaria","Percentage","Programme data","Malignant neoplasm of cervix uteri",13.35,TRUE
+2019,"Czechia","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Czechia","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.77,TRUE
+2019,"Czechia","Percentage","Programme data","Malignant neoplasm of breast",61.4,TRUE
+2019,"Czechia","Percentage","Programme data","Malignant neoplasm of cervix uteri",76.04,TRUE
+2019,"Denmark","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2019,"Denmark","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Denmark","Percentage","Programme data","Malignant neoplasm of breast",83.2,TRUE
+2019,"Denmark","Percentage","Programme data","Malignant neoplasm of cervix uteri",63.5,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of breast",71.3,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Percentage","Survey data","Malignant neoplasm of cervix uteri",79.7,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of breast",51,TRUE
+2019,"Germany (until 1990 former territory of the FRG)","Percentage","Programme data","Malignant neoplasm of cervix uteri",67,TRUE
+2019,"Estonia","Percentage","Survey data","Malignant neoplasm of breast",52.8,TRUE
+2019,"Estonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",57.7,TRUE
+2019,"Estonia","Percentage","Programme data","Malignant neoplasm of breast",55.9,TRUE
+2019,"Estonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",45.9,TRUE
+2019,"Ireland","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2019,"Ireland","Percentage","Survey data","Malignant neoplasm of cervix uteri",77.8,TRUE
+2019,"Ireland","Percentage","Programme data","Malignant neoplasm of breast",74.3,TRUE
+2019,"Ireland","Percentage","Programme data","Malignant neoplasm of cervix uteri",79.7,TRUE
+2019,"Greece","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Greece","Percentage","Survey data","Malignant neoplasm of cervix uteri",75.52,TRUE
+2019,"Greece","Percentage","Programme data","Malignant neoplasm of breast",40.7,TRUE
+2019,"Greece","Percentage","Programme data","Malignant neoplasm of cervix uteri",67,TRUE
+2019,"Spain","Percentage","Survey data","Malignant neoplasm of breast",79.8,TRUE
+2019,"Spain","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.66,TRUE
+2019,"Spain","Percentage","Programme data","Malignant neoplasm of breast",40.7,TRUE
+2019,"Spain","Percentage","Programme data","Malignant neoplasm of cervix uteri",67,TRUE
+2019,"France","Percentage","Survey data","Malignant neoplasm of breast",75,TRUE
+2019,"France","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.59,TRUE
+2019,"France","Percentage","Programme data","Malignant neoplasm of breast",50.2,TRUE
+2019,"France","Percentage","Programme data","Malignant neoplasm of cervix uteri",59,TRUE
+2019,"Croatia","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Croatia","Percentage","Survey data","Malignant neoplasm of cervix uteri",77.1,TRUE
+2019,"Croatia","Percentage","Programme data","Malignant neoplasm of breast",60,TRUE
+2019,"Croatia","Percentage","Programme data","Malignant neoplasm of cervix uteri",67,TRUE
+2019,"Italy","Percentage","Survey data","Malignant neoplasm of breast",73,TRUE
+2019,"Italy","Percentage","Survey data","Malignant neoplasm of cervix uteri",79.7,TRUE
+2019,"Italy","Percentage","Programme data","Malignant neoplasm of breast",60,TRUE
+2019,"Italy","Percentage","Programme data","Malignant neoplasm of cervix uteri",40.5,TRUE
+2019,"Cyprus","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Cyprus","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Cyprus","Percentage","Programme data","Malignant neoplasm of breast",34.79,TRUE
+2019,"Cyprus","Percentage","Programme data","Malignant neoplasm of cervix uteri",67,TRUE
+2019,"Latvia","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Latvia","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Latvia","Percentage","Programme data","Malignant neoplasm of breast",39.1,FALSE
+2019,"Latvia","Percentage","Programme data","Malignant neoplasm of cervix uteri",39.7,FALSE
+2019,"Lithuania","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Lithuania","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Lithuania","Percentage","Programme data","Malignant neoplasm of breast",48.3,TRUE
+2019,"Lithuania","Percentage","Programme data","Malignant neoplasm of cervix uteri",50.9,TRUE
+2019,"Luxembourg","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Luxembourg","Percentage","Survey data","Malignant neoplasm of cervix uteri",79.7,TRUE
+2019,"Luxembourg","Percentage","Programme data","Malignant neoplasm of breast",40.7,FALSE
+2019,"Luxembourg","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.96,TRUE
+2019,"Hungary","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Hungary","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Hungary","Percentage","Programme data","Malignant neoplasm of breast",41.09,TRUE
+2019,"Hungary","Percentage","Programme data","Malignant neoplasm of cervix uteri",34.2,TRUE
+2019,"Malta","Percentage","Survey data","Malignant neoplasm of breast",68,TRUE
+2019,"Malta","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Malta","Percentage","Programme data","Malignant neoplasm of breast",51.5,TRUE
+2019,"Malta","Percentage","Programme data","Malignant neoplasm of cervix uteri",24,TRUE
+2019,"Netherlands","Percentage","Survey data","Malignant neoplasm of breast",79.3,TRUE
+2019,"Netherlands","Percentage","Survey data","Malignant neoplasm of cervix uteri",60.8,TRUE
+2019,"Netherlands","Percentage","Programme data","Malignant neoplasm of breast",77.2,TRUE
+2019,"Netherlands","Percentage","Programme data","Malignant neoplasm of cervix uteri",57.6,TRUE
+2019,"Austria","Percentage","Survey data","Malignant neoplasm of breast",72.7,TRUE
+2019,"Austria","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Austria","Percentage","Programme data","Malignant neoplasm of breast",40.7,TRUE
+2019,"Austria","Percentage","Programme data","Malignant neoplasm of cervix uteri",67,TRUE
+2019,"Poland","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Poland","Percentage","Survey data","Malignant neoplasm of cervix uteri",71.7,TRUE
+2019,"Poland","Percentage","Programme data","Malignant neoplasm of breast",40.7,TRUE
+2019,"Poland","Percentage","Programme data","Malignant neoplasm of cervix uteri",67,TRUE
+2019,"Portugal","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2019,"Portugal","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,TRUE
+2019,"Portugal","Percentage","Programme data","Malignant neoplasm of breast",40.7,TRUE
+2019,"Portugal","Percentage","Programme data","Malignant neoplasm of cervix uteri",67,TRUE
+2019,"Romania","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Romania","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Romania","Percentage","Programme data","Malignant neoplasm of breast",0.2,TRUE
+2019,"Romania","Percentage","Programme data","Malignant neoplasm of cervix uteri",0.9,TRUE
+2019,"Slovenia","Percentage","Survey data","Malignant neoplasm of breast",72.1,TRUE
+2019,"Slovenia","Percentage","Survey data","Malignant neoplasm of cervix uteri",70.7,TRUE
+2019,"Slovenia","Percentage","Programme data","Malignant neoplasm of breast",76.8,FALSE
+2019,"Slovenia","Percentage","Programme data","Malignant neoplasm of cervix uteri",72.4,FALSE
+2019,"Slovakia","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Slovakia","Percentage","Survey data","Malignant neoplasm of cervix uteri",69,TRUE
+2019,"Slovakia","Percentage","Programme data","Malignant neoplasm of breast",30.7,TRUE
+2019,"Slovakia","Percentage","Programme data","Malignant neoplasm of cervix uteri",46,TRUE
+2019,"Finland","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2019,"Finland","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Finland","Percentage","Programme data","Malignant neoplasm of breast",82.6,TRUE
+2019,"Finland","Percentage","Programme data","Malignant neoplasm of cervix uteri",70.6,TRUE
+2019,"Sweden","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2019,"Sweden","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Sweden","Percentage","Programme data","Malignant neoplasm of breast",40.7,TRUE
+2019,"Sweden","Percentage","Programme data","Malignant neoplasm of cervix uteri",73.5,TRUE
+2019,"Iceland","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Iceland","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Iceland","Percentage","Programme data","Malignant neoplasm of breast",61,FALSE
+2019,"Iceland","Percentage","Programme data","Malignant neoplasm of cervix uteri",67,FALSE
+2019,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"Liechtenstein","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of breast",8.1,TRUE
+2019,"Liechtenstein","Percentage","Programme data","Malignant neoplasm of cervix uteri",27.3,TRUE
+2019,"Norway","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2019,"Norway","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Norway","Percentage","Programme data","Malignant neoplasm of breast",74.8,TRUE
+2019,"Norway","Percentage","Programme data","Malignant neoplasm of cervix uteri",74.4,TRUE
+2019,"Switzerland","Percentage","Survey data","Malignant neoplasm of breast",49,TRUE
+2019,"Switzerland","Percentage","Survey data","Malignant neoplasm of cervix uteri",73.6,TRUE
+2019,"Switzerland","Percentage","Programme data","Malignant neoplasm of breast",40.7,TRUE
+2019,"Switzerland","Percentage","Programme data","Malignant neoplasm of cervix uteri",67,TRUE
+2019,"United Kingdom","Percentage","Survey data","Malignant neoplasm of breast",67.3,TRUE
+2019,"United Kingdom","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"United Kingdom","Percentage","Programme data","Malignant neoplasm of breast",75.21,TRUE
+2019,"United Kingdom","Percentage","Programme data","Malignant neoplasm of cervix uteri",75.4,TRUE
+2019,"Montenegro","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2019,"Montenegro","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"Montenegro","Percentage","Programme data","Malignant neoplasm of breast",39.1,TRUE
+2019,"Montenegro","Percentage","Programme data","Malignant neoplasm of cervix uteri",39.7,TRUE
+2019,"North Macedonia","Percentage","Survey data","Malignant neoplasm of breast",74.3,TRUE
+2019,"North Macedonia","Percentage","Survey data","Malignant neoplasm of cervix uteri",68.1,TRUE
+2019,"North Macedonia","Percentage","Programme data","Malignant neoplasm of breast",40.7,TRUE
+2019,"North Macedonia","Percentage","Programme data","Malignant neoplasm of cervix uteri",14.6,TRUE
+2019,"Serbia","Percentage","Survey data","Malignant neoplasm of breast",22.7,TRUE
+2019,"Serbia","Percentage","Survey data","Malignant neoplasm of cervix uteri",59.7,TRUE
+2019,"Serbia","Percentage","Programme data","Malignant neoplasm of breast",9.8,FALSE
+2019,"Serbia","Percentage","Programme data","Malignant neoplasm of cervix uteri",10.4,FALSE
+2019,"Turkey","Percentage","Survey data","Malignant neoplasm of breast",28.1,TRUE
+2019,"Turkey","Percentage","Survey data","Malignant neoplasm of cervix uteri",26.3,TRUE
+2019,"Turkey","Percentage","Programme data","Malignant neoplasm of breast",35.98,FALSE
+2019,"Turkey","Percentage","Programme data","Malignant neoplasm of cervix uteri",45.99,FALSE
