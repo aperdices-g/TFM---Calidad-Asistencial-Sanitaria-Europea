@@ -8,16 +8,14 @@
    1.6 En relación con el CUIDADOS DOMICILIARIOS.
    1.7 En relación con el ESTADO DE SALUD.
 
-2.ANÁLISIS EXPLORATORIO POR PAISES DE FORMA INDIVIDUAL.**
-
-   2.1 Creación de los archivos que contengan la información de todos los paises en relación con los distintos Bloques de datos.
-  
-       2.1.1 Se realizan las imputaciones necesarias en el caso de valores perdidos (Missing values)
-       2.1.2 Se normalizan los valores de las variables.
-  
-   2.2 Aplicación de modelos de Regresión que expliquen unas variables en función de otras.
-       2.2.1 Estudio de los modelos generados.Se comprueba el valor del coeficiente de determinación ajustado (R^2 ajustado o "Adjusted R^2). 
-       2.2.2 Se realizan las predicciones de los modelos generados con intervalos de confianza para valorar el error de las predicciones.
+2.ANÁLISIS DE REGRESIÓN LOGÍSTICA.**
+   2.1 Se filtra informacion (De todas los archivos disponibles). Se genera variable con la información necesaria en relación con Gasto, Recursos, Actividades Sanitarias, Cuidados Domiciliarios, Estado de Salud, Prevención y Mortalidad.
+   2.2 Modelo de regresión lineal que explique la mortalidad (Mortalidad Prevenible, Mortalidad Tratable) en función del número de Médicos de Atención Primaria, y de Recursos como disposición de Unidades de Resonancia Magnética y Scanners para diagnóstico, Detección de Cancer de Mama, Cervix Uterino y Vacunación.
+   2.3 Modelo de regresión logística que estime la probabilidad de una variable cualitativa (Se transforma Mortalidad_Tratable y Prevenible en variable cualitativa, con valores de 0 si el país no supera la media muestral para esa variable y 1 en caso contrario), en función de variables cuantitativas (Médicos de Atención Primaria, de Recursos como disposición de Unidades de Resonancia Magnética y Scanners para diagnóstico, y Detección de Cancer de Mama, Cervix Uterino y Vacunación)
+   2.4 Predicciones.
+3.CONTRASTE DE MUESTRAS
+   3.1 Pacientes de Diálisis y Trasplantados en 2005 y 2014.
+   3.2 Mortalidad Prevenible y Tratable en 2011 y 2017.
     
 
 
